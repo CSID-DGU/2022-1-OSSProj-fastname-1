@@ -1,0 +1,37 @@
+<!doctype html>
+<html>
+   <body>
+      <head>
+         <title>
+            login
+         </title>
+      </head>
+
+      <section>
+         <hr width="210" align="left" color="black" />
+         <h1>OSSP 계정 로그인</h1>
+         <hr width="210" align="left" color="black" />
+       </section>
+
+
+      {% if error %}
+         <p><strong>Error:</strong> {{ error }}
+      {% endif %}
+
+      <form action = "" method = "POST">
+         
+         <d1>
+            <dt>아이디:</dt>
+            <dd>
+               <input type="text" name = "username" value = "{{request.form.username}}"> 
+            </dd>
+            <dt>비밀번호:</dt>
+            <dd>
+               <input type="password" name="password">
+            </dd>>
+         </d1>
+         <p><input type = "submit" value = "Sign Up" />   <input type="submit" value="Login"></p>
+         <hr width="210" align="left" color="black" />
+      </form>
+   </body>
+</html>

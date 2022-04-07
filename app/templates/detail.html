@@ -1,21 +1,22 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
    <body>
+      <div style="text-align:center">
+      <h2>작성하신 답안을 제출하시겠습니까?</h2>
 
-      <form action = "/result" method = "POST">
-         <table border = 1>
-            {% for key, value in result.items() %}
+      
+      <table style = "margin-left: auto; margin-right: auto;" border = 1>
+         {% for key, value in result.items() %}
          
-               <tr>
-                  <th> {{ key }} </th>
-                  <td> <input type="text" name={{ key }} value={{ value }} readonly> </td>
-               </tr>
+            <tr>
+               <th> {{ key }} </th>
+               <td> {{ value }} </td>
+            </tr>
             
-            {% endfor %}
-         </table>
+         {% endfor %}
+      </table>
          
-         <p><input type="button" value="MODIFY" onClick="history.go(-1)"> <input type = "submit" value = "SUBMIT" /></p>
-      </form>
-
-   </body>
+      <p><input type="button" value="다시 입력" onClick="history.go(-1)"> <input type = "button" value = "제출" onClick="location.href = '/submit'" /></p>
+      </div>   
+  </body>
 </html>

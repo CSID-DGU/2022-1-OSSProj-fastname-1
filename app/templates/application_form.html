@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>수업방식</title>
+    <script type="text/javascript">
+      function check() {
+        if (f.uname.value == "") {
+          alert("이름을 입력해 주세요!!");
+          f.uname.focus();
+          return false;
+        }
+        if (f.umajor.value == "") {
+          alert("학과를 입력해 주세요!!");
+          f.umajor.focus();
+          return false;
+        }
+        if (f.memo.value == "") {
+          alert("희망이유를 입력해 주세요!!");
+          f.memo.focus();
+          return false;
+        }
+        return true;
+      }
+    </script>
+  </head>
+  <body>
+    <form name="f" action="/detail" method="POST" onsubmit="return check()">
+      <hr width="600" align="center" color="orange" />
+      <table width="500" border="0" align="center">
+        <tr>
+          <td align="center">
+            <h2>22학번 수업방식 설문조사</h2>
+          </td>
+        </tr>
+      </table>
+      <hr width="600" align="center" color="orange" />
+      <table width="500" border="0" align="center">
+        <tr>
+          <td width="100"><strong>이름</strong></td>
+          <td>
+            <input type="text" name="이름" value="" size="20" autofocus />
+          </td>
+        </tr>
+        <tr>
+          <td width="100"><strong>학과</strong></td>
+          <td>
+            <input type="text" name="전공" value="" size="20" />
+          </td>
+        </tr>
+        <tr>
+          <td width="100"><strong>학년</strong></td>
+          <td>
+            <input type="radio" name="학년" value="1학년" />1학년
+            <input type="radio" name="학년" value="2학년" />2학년
+            <input type="radio" name="학년" value="3학년" />3학년
+            <input type="radio" name="학년" value="4학년" />4학년
+          </td>
+        </tr>
+        <tr>
+          <td width="150"><strong>희망 수업 방식</strong></td>
+          <td>
+            <input type="radio" name="희망 수업 방식" value="대면" />대면
+            <input type="radio" name="희망 수업 방식" value="비대면" />비대면
+          </td>
+        </tr>
+        <tr>
+          <td width="150"><strong>백신 접종 여부</strong></td>
+          <td>
+            <input type="radio" name="백신 접종 여부" value="완료" />완료
+            <input type="radio" name="백신 접종 여부" value="미완료" />미완료
+          </td>
+        </tr>
+        <tr>
+          <td width="150"><strong>접종 백신 종류</strong></td>
+          <td>
+            <select name="접종 백신 종류">
+              <option value="화이자">화이자</option>
+              <option value="모더나">모더나</option>
+              <option value="아스트라제네카">AZ</option>
+              <option value="얀센">얀센</option>
+              <option value="vaccine">기타</option>
+            </select>
+          </td>
+        </tr>
+      </table>
+      <hr width="600" align="center" color="orange" />
+      <table width="500" border="0" align="center">
+        <tr>
+          <td align="center" colspan="2" width="400">
+            <strong>해당 수업방식 선호 이유</strong>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <textarea name="해당 수업방식 선호 이유" rows="20" cols="80"></textarea>
+            <input type="submit" value="제출" />
+            <input type="reset" value="다시쓰기" />
+          </td>
+        </tr>
+      </table>
+      <hr width="600" align="center" color="orange" />
+    </form>
+  </body>
+</html>
