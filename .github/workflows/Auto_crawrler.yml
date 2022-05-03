@@ -1,10 +1,6 @@
 name: Run Scrapper - Udate data
 
 on:
-  push:
-    branches: [ test ]
-  pull_request:
-    branches: [ test ]
   schedule:
     - cron: '*/20 * * * *'
 
