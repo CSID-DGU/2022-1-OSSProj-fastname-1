@@ -29,5 +29,5 @@ jobs:
     - name: Push
       uses: ad-m/github-push-action@master
       with:
-        branch: 'test'
+        branch: 'main'
         github_token: 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
