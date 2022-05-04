@@ -5,7 +5,6 @@ certifi==2019.11.28
 chardet==3.0.4
 Click==7.0
 colorama==0.4.3
-command-not-found==0.3
 configobj==5.0.6
 constantly==15.1.0
 cryptography==2.8
@@ -67,3 +66,4 @@ wadllib==1.3.3
 zipp==1.0.0
 zope.interface==4.7.1
 cloud-init==22.1
+command-not-found==0.3
