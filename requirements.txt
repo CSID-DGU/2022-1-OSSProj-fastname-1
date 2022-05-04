@@ -50,7 +50,6 @@ service-identity==18.1.0
 simplejson==3.16.0
 six==1.14.0
 ssh-import-id==5.10
-systemd-python==234
 Twisted==18.9.0
 ubuntu-advantage-tools==27.7
 ufw==0.36
@@ -67,3 +66,4 @@ language-selector==0.1
 python-apt==2.0.0+ubuntu0.20.4.7
 python-debian===0.1.36ubuntu1
 sos==4.3
+systemd-python==234
