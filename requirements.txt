@@ -23,7 +23,6 @@ jsonpatch==1.22
 jsonpointer==2.0
 jsonschema==3.2.0
 keyring==18.0.1
-language-selector==0.1
 launchpadlib==1.10.13
 lazr.restfulclient==0.14.2
 lazr.uri==1.0.3
@@ -67,3 +66,4 @@ zope.interface==4.7.1
 cloud-init==22.1
 command-not-found==0.3
 distro-info===0.23ubuntu1
+language-selector==0.1
