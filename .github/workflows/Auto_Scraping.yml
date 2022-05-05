@@ -32,7 +32,7 @@ jobs:
       run: 
         git config --global user.email kdgk9620@gmail.com
         git config --global user.name kimdonggeun111
-        git add data.json
+        git add dgu_list.json
         git commit -m "Auto - Update data with Scraping" # 커밋 메세지
         
     - name: Push
