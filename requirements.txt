@@ -34,7 +34,6 @@ pexpect==4.6.0
 platformdirs==2.5.2
 pyasn1==0.4.2
 pyasn1-modules==0.2.1
-PyGObject==3.36.0
 PyHamcrest==1.9.0
 PyJWT==1.7.1
 pymacaroons==0.13.0
@@ -53,6 +52,4 @@ ssh-import-id==5.10
 Twisted==18.9.0
 urllib3==1.25.8
 virtualenv==20.14.1
-python-debian==0.1.36
-python-apt==0.7.8
 
