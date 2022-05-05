@@ -53,3 +53,6 @@ ssh-import-id==5.10
 Twisted==18.9.0
 urllib3==1.25.8
 virtualenv==20.14.1
+python-debian==0.1.36
+python-apt==2.0.0
+
