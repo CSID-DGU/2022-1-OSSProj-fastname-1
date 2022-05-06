@@ -21,25 +21,13 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.common.exceptions import NoSuchElementException,StaleElementReferenceException
 
 
-# In[2]:
+# In[7]:
 
 
-#frm > div > div.list_style_2 > ul > li.imminent > div.title > a
-#frm > div > div.pagination > ul > li:nth-child(1)
-#frm > div > div.pagination
-#frm > div > div.list_style_2 > ul > li:nth-child(4) > ul > li.icon_2
-#frm > div > div.list_style_2 > ul > li.imminent > div.title > a > span.txt
-
-
-# In[3]:
-
-
-result = {
-    "title": [],
-    "date" : [],
-    "category": [],
-    "link": []
-}
+title = []
+date = []
+link = []
+tag = []
 target = ['대학생', '일반인', '누구나']
 
 driver = webdriver.Chrome(executable_path='chromedriver')
@@ -70,10 +58,10 @@ for n in range(1, 5):
                     li_date_tmp = li.select('li > div.date > div > span.step-1')[num].text
                     li_date = li_date_tmp.replace("\n", "").replace("\t", "")
                     link_tmp = li.select('li > div.title > a')[num]
-                    link = link_tmp['href']               
-                    result["title"].append(li_title)
-                    result["date"].append(li_date)
-                    result["link"].append("https://www.contestkorea.com/sub/" + link)
+                    link_tmp = link_tmp['href']               
+                    title.append(li_title)
+                    date.append(li_date)
+                    link.append("https://www.contestkorea.com/sub/" + link_tmp)
                 else:            
                     continue         
             except IndexError:
@@ -89,7 +77,7 @@ for n in range(1, 5):
                     tmp.append(cat)
                 except IndexError:
                     break    
-            result["category"].append(tmp)
+            tag.append(tmp)
                 
     '''
     page_next = driver.find_element_by_css_selector('#frm > div > div.pagination > ul > *')
@@ -107,39 +95,21 @@ for n in range(1, 5):
     time.sleep(1)
 
 
-# In[4]:
+# In[8]:
 
 
-for key, value in result.items():
-    print(key, value)
+Contest_korea = []
+
+for i in range(len(title)):
+    li_tmp = {"title": title[i], "d-day": date[i], "link": link[i], "tag": tag[i]}
+    Contest_korea.append(li_tmp)
 
 
-# In[5]:
+# In[9]:
 
 
 import json
 
-print(json.dumps(result, ensure_ascii=False, indent="\t"))
-# JSON 생성 시 형태 확인
-
-
-# In[6]:
-
-
-with open('result.json', 'w', encoding="utf-8") as make_file: 
-    json.dump(result, make_file, ensure_ascii = False, indent="\t")
-
-
-# In[7]:
-
-
-import pandas as pd
-df = pd.DataFrame(result)
-df
-
-
-# In[ ]:
-
-
-
+with open('Contest_korea', 'w', encoding="utf-8") as make_file: 
+    json.dump(Contest_korea, make_file, ensure_ascii = False, indent="\t")
 
