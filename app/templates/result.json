@@ -1,0 +1,270 @@
+{
+	"title": [
+		"제 15회 알테어 최적화 대회 (AOC 2022)",
+		"ZEP 덕질 공모전",
+		"2022년도 환경데이터 활용 아이디어 공모전",
+		"2022 전북 메이커톤 경진대회",
+		"제6회 서울혁신챌린지 (1·2차)",
+		"2022 SK증권 DT 아이디어 공모전 (인턴십 특전)",
+		"2022 날씨 빅데이터 콘테스트",
+		"2022 글로벌 인디 게임 제작 경진대회",
+		"한국발명진흥회 2022 캠퍼스 특허 유니버시아드 대회",
+		"2022 휴먼이해 인공지능 논문경진대회 [기간연장]",
+		"2022년 식의약 데이터 활용경진대회",
+		"제2회 플레이메이커 공모전",
+		"메타버스 플랫폼을 활용한 맵 제작 공모전",
+		"[채용연계] 네트워크 지능화를 위한 인공지능 해커톤 #ETRI #KT",
+		"2022 현대오토에버 배리어프리 앱개발 콘테스트",
+		"디지털 영상 제작",
+		"네트워크 응용분야 아이디어 공모 - K-디지털 챌린지 : NET 챌린지 캠프 시즌9 ",
+		"2022 관광데이터 활용 공모전",
+		"인구 데이터 기반 소득 예측 경진대회",
+		"2022년 국민참여예산 아이디어 공모전",
+		"제23회 대한민국 반도체설계대전",
+		"디지털정부서비스 아이디어 공모",
+		"제5회 안전 신기술 공모전",
+		"제1회 디지털문화유산 콘텐츠 경진대회",
+		"2022년 농림축산식품 공공빅데이터 활용 창업경진대회",
+		"제1회 RC-CAR 메이커 경진대회",
+		"Supernova 인터넷 컴퓨터 글로벌 해커톤",
+		"메타버스 기반의 3D SW개발자 양성과정",
+		"제4회 오픈 인프라 개발 경진대회 (OIDC 2022)",
+		"2022 도자 3D프린팅 공모전",
+		"2022년 스마트 해상물류 창업 오디션 예선 4기 모집",
+		"메타버스 360헥사월드 NFT 공모전 Ⅲ - 놀이공원프로젝트",
+		"뉴스 그룹 분류 경진대회",
+		"국비지원 빅데이터 분석 전문가 취업지원 무료교육",
+		"Computer Vision 이상치 탐지 알고리즘 경진대회",
+		"2022 Azure Virtual Hackathon",
+		"국제 엔지니어링 및 디자인 공모전 제임스 다이슨 어워드"
+	],
+	"date": [
+		"접수  ~05.31",
+		"접수  04.27~05.25",
+		"접수  04.18~05.15",
+		"접수  04.21~05.20",
+		"접수  03.28~06.30",
+		"접수  07.01~07.31",
+		"접수  04.25~05.30",
+		"접수  06.27~07.07",
+		"접수  04.19~06.09",
+		"접수  03.16~05.06",
+		"접수  04.20~06.19",
+		"접수  04.18~05.08",
+		"접수  05.01~06.01",
+		"접수  04.18~05.13",
+		"접수  04.18~05.20",
+		"접수  04.18~05.20",
+		"접수  04.20~05.11",
+		"접수  04.12~05.20",
+		"접수  04.18~04.29",
+		"접수  04.13~04.22",
+		"접수  03.08~08.06",
+		"접수  04.11~05.12",
+		"접수  04.11~05.13",
+		"접수  04.11~04.29",
+		"접수  03.21~06.30",
+		"접수  03.16~05.11",
+		"접수  04.01~05.10",
+		"접수  04.05~04.19",
+		"접수  04.04~05.09",
+		"접수  06.27~06.30",
+		"접수  04.01~04.28",
+		"접수  04.01~04.30",
+		"접수  04.04~04.15",
+		"접수  03.31~05.16",
+		"접수  04.01~05.13",
+		"접수  ~05.13",
+		"접수  03.21~07.07"
+	],
+	"category": [
+		[
+			"수학 • 과학",
+			"the 다양한 IT • 컴퓨터"
+		],
+		[
+			"코딩 • 프로그래밍"
+		],
+		[
+			"아이디어 • 제안",
+			"빅데이터"
+		],
+		[
+			"해커톤 • 메이커톤"
+		],
+		[
+			"해커톤 • 메이커톤",
+			"the 다양한 IT • 컴퓨터",
+			"인공지능 • 사물인터넷",
+			"산업 • 사회 • 창업"
+		],
+		[
+			"the 다양한 IT • 컴퓨터",
+			"아이디어 • 제안"
+		],
+		[
+			"수학 • 과학",
+			"빅데이터"
+		],
+		[
+			"코딩 • 프로그래밍",
+			"the 다양한 IT • 컴퓨터"
+		],
+		[
+			"인공지능 • 사물인터넷",
+			"the 다양한 IT • 컴퓨터",
+			"아이디어 • 제안"
+		],
+		[
+			"네이밍 • 슬로건 • 논문",
+			"코딩 • 프로그래밍",
+			"인공지능 • 사물인터넷"
+		],
+		[
+			"수학 • 과학",
+			"빅데이터",
+			"아이디어 • 제안"
+		],
+		[
+			"코딩 • 프로그래밍"
+		],
+		[
+			"코딩 • 프로그래밍"
+		],
+		[
+			"해커톤 • 메이커톤",
+			"인공지능 • 사물인터넷",
+			"the 다양한 IT • 컴퓨터"
+		],
+		[
+			"코딩 • 프로그래밍",
+			"인공지능 • 사물인터넷",
+			"the 다양한 IT • 컴퓨터"
+		],
+		[
+			"the 다양한 IT • 컴퓨터",
+			"UCC • 동영상"
+		],
+		[
+			"빅데이터",
+			"인공지능 • 사물인터넷",
+			"the 다양한 IT • 컴퓨터",
+			"아이디어 • 제안"
+		],
+		[
+			"코딩 • 프로그래밍",
+			"빅데이터"
+		],
+		[
+			"빅데이터"
+		],
+		[
+			"아이디어 • 제안",
+			"해킹 • 보안"
+		],
+		[
+			"수학 • 과학",
+			"the 다양한 IT • 컴퓨터",
+			"아이디어 • 제안"
+		],
+		[
+			"디자인",
+			"아이디어 • 제안",
+			"the 다양한 IT • 컴퓨터"
+		],
+		[
+			"산업 • 사회 • 창업",
+			"the 다양한 IT • 컴퓨터"
+		],
+		[
+			"아이디어 • 제안",
+			"the 다양한 IT • 컴퓨터"
+		],
+		[
+			"빅데이터"
+		],
+		[
+			"수학 • 과학",
+			"the 다양한 IT • 컴퓨터"
+		],
+		[
+			"해커톤 • 메이커톤"
+		],
+		[
+			"코딩 • 프로그래밍"
+		],
+		[
+			"the 다양한 IT • 컴퓨터",
+			"코딩 • 프로그래밍"
+		],
+		[
+			"공예 • 만들기",
+			"the 다양한 IT • 컴퓨터"
+		],
+		[
+			"산업 • 사회 • 창업",
+			"the 다양한 IT • 컴퓨터"
+		],
+		[
+			"디자인",
+			"the 다양한 미술",
+			"the 다양한 IT • 컴퓨터"
+		],
+		[
+			"빅데이터"
+		],
+		[
+			"빅데이터",
+			"the 다양한 IT • 컴퓨터"
+		],
+		[
+			"the 다양한 IT • 컴퓨터"
+		],
+		[
+			"해커톤 • 메이커톤"
+		],
+		[
+			"the 다양한 IT • 컴퓨터",
+			"디자인"
+		]
+	],
+	"link": [
+		"https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.int_sort&Txt_sortword=desc&Txt_host=&Txt_actcode=&page=1&Txt_bcode=030210001&str_no=202205020012",
+		"https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.int_sort&Txt_sortword=desc&Txt_host=&Txt_actcode=&page=1&Txt_bcode=030210001&str_no=202204290019",
+		"https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.int_sort&Txt_sortword=desc&Txt_host=&Txt_actcode=&page=1&Txt_bcode=030210001&str_no=202204280013",
+		"https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.int_sort&Txt_sortword=desc&Txt_host=&Txt_actcode=&page=1&Txt_bcode=030210001&str_no=202204260011",
+		"https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.int_sort&Txt_sortword=desc&Txt_host=&Txt_actcode=&page=1&Txt_bcode=030210001&str_no=202204250043",
+		"https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.int_sort&Txt_sortword=desc&Txt_host=&Txt_actcode=&page=1&Txt_bcode=030210001&str_no=202204250041",
+		"https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.int_sort&Txt_sortword=desc&Txt_host=&Txt_actcode=&page=1&Txt_bcode=030210001&str_no=202204210033",
+		"https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.int_sort&Txt_sortword=desc&Txt_host=&Txt_actcode=&page=1&Txt_bcode=030210001&str_no=202204210035",
+		"https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.int_sort&Txt_sortword=desc&Txt_host=&Txt_actcode=&page=2&Txt_bcode=030210001&str_no=202204210007",
+		"https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.int_sort&Txt_sortword=desc&Txt_host=&Txt_actcode=&page=2&Txt_bcode=030210001&str_no=202203160037",
+		"https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.int_sort&Txt_sortword=desc&Txt_host=&Txt_actcode=&page=2&Txt_bcode=030210001&str_no=202204210011",
+		"https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.int_sort&Txt_sortword=desc&Txt_host=&Txt_actcode=&page=2&Txt_bcode=030210001&str_no=202204210013",
+		"https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.int_sort&Txt_sortword=desc&Txt_host=&Txt_actcode=&page=2&Txt_bcode=030210001&str_no=202204210008",
+		"https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.int_sort&Txt_sortword=desc&Txt_host=&Txt_actcode=&page=2&Txt_bcode=030210001&str_no=202204180023",
+		"https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.int_sort&Txt_sortword=desc&Txt_host=&Txt_actcode=&page=2&Txt_bcode=030210001&str_no=202204180018",
+		"https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.int_sort&Txt_sortword=desc&Txt_host=&Txt_actcode=&page=2&Txt_bcode=030210001&str_no=202204180002",
+		"https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.int_sort&Txt_sortword=desc&Txt_host=&Txt_actcode=&page=2&Txt_bcode=030210001&str_no=202204140024",
+		"https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.int_sort&Txt_sortword=desc&Txt_host=&Txt_actcode=&page=2&Txt_bcode=030210001&str_no=202204130008",
+		"https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.int_sort&Txt_sortword=desc&Txt_host=&Txt_actcode=&page=2&Txt_bcode=030210001&str_no=202204150013",
+		"https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.int_sort&Txt_sortword=desc&Txt_host=&Txt_actcode=&page=3&Txt_bcode=030210001&str_no=202204140021",
+		"https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.int_sort&Txt_sortword=desc&Txt_host=&Txt_actcode=&page=3&Txt_bcode=030210001&str_no=202204130002",
+		"https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.int_sort&Txt_sortword=desc&Txt_host=&Txt_actcode=&page=3&Txt_bcode=030210001&str_no=202204120044",
+		"https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.int_sort&Txt_sortword=desc&Txt_host=&Txt_actcode=&page=3&Txt_bcode=030210001&str_no=202204120013",
+		"https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.int_sort&Txt_sortword=desc&Txt_host=&Txt_actcode=&page=3&Txt_bcode=030210001&str_no=202204080027",
+		"https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.int_sort&Txt_sortword=desc&Txt_host=&Txt_actcode=&page=3&Txt_bcode=030210001&str_no=202204060007",
+		"https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.int_sort&Txt_sortword=desc&Txt_host=&Txt_actcode=&page=3&Txt_bcode=030210001&str_no=202204070032",
+		"https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.int_sort&Txt_sortword=desc&Txt_host=&Txt_actcode=&page=3&Txt_bcode=030210001&str_no=202204070008",
+		"https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.int_sort&Txt_sortword=desc&Txt_host=&Txt_actcode=&page=4&Txt_bcode=030210001&str_no=202204050053",
+		"https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.int_sort&Txt_sortword=desc&Txt_host=&Txt_actcode=&page=4&Txt_bcode=030210001&str_no=202202250007",
+		"https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.int_sort&Txt_sortword=desc&Txt_host=&Txt_actcode=&page=4&Txt_bcode=030210001&str_no=202203310019",
+		"https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.int_sort&Txt_sortword=desc&Txt_host=&Txt_actcode=&page=4&Txt_bcode=030210001&str_no=202204010046",
+		"https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.int_sort&Txt_sortword=desc&Txt_host=&Txt_actcode=&page=4&Txt_bcode=030210001&str_no=202204010024",
+		"https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.int_sort&Txt_sortword=desc&Txt_host=&Txt_actcode=&page=4&Txt_bcode=030210001&str_no=202204010020",
+		"https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.int_sort&Txt_sortword=desc&Txt_host=&Txt_actcode=&page=4&Txt_bcode=030210001&str_no=202203300051",
+		"https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.int_sort&Txt_sortword=desc&Txt_host=&Txt_actcode=&page=4&Txt_bcode=030210001&str_no=202203310018",
+		"https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.int_sort&Txt_sortword=desc&Txt_host=&Txt_actcode=&page=4&Txt_bcode=030210001&str_no=202203280006",
+		"https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.int_sort&Txt_sortword=desc&Txt_host=&Txt_actcode=&page=4&Txt_bcode=030210001&str_no=202203280005"
+	]
+}

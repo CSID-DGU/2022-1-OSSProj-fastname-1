@@ -18,7 +18,7 @@ def detail():
       return render_template("detail.html",result = result)
 
 
- @app.route('/result', methods = ['POST', 'GET'])
+@app.route('/result', methods = ['POST', 'GET'])
 def result():
    if request.method == 'POST':
       result = dict()
