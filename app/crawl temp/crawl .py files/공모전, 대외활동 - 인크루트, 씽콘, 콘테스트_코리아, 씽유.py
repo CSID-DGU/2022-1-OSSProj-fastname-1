@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[2]:
+# In[1]:
 
 
 import pandas as pd
@@ -17,7 +17,7 @@ import requests
 context=ssl._create_unverified_context()
 
 
-# In[4]:
+# In[2]:
 
 
 # 공모전 인크루트
@@ -39,7 +39,7 @@ for i in range(1,12):
     inc_links.append(soup.select('#tbdyGmScrap > tr:nth-child('+str(i)+') > td.gmtitle > ul > a')[0].get('href'))
 
 
-# In[5]:
+# In[3]:
 
 
 inc_start_bef=[]
@@ -50,7 +50,7 @@ for inc_term in inc_terms:
     inc_end_bef.append('20'+inc_end_day.replace('.','. '))
 
 
-# In[ ]:
+# In[4]:
 
 
 # 공모전 콘테스트 코리아
@@ -101,7 +101,7 @@ for n in range(1, 6):
             ck_tag.append(tmp)
 
 
-# In[ ]:
+# In[5]:
 
 
 # 공모전 씽콘
@@ -178,35 +178,166 @@ for i in range(len(tc_links)):
     tc_inst.append(soup.select(' tbody > tr > td ')[0].text)
 
 
-# In[6]:
+# In[ ]:
 
 
-incuruit = []
+gongmo = []
+
 for i in range(len(inc_title)):
-    li_tmp = {"title": inc_title[i], "d-day": inc_end_bef[i], "link": inc_links[i], "tag": inc_host[i]}
-    incuruit.append(li_tmp)
+    li_tmp = {"title": inc_title[i], "d-day": inc_end_bef[i], "link": inc_links[i], "tag": inc_host[i], "분류": "공모전"}
+    gongmo.append(li_tmp)
 
-Contest_korea = []
 for i in range(len(ck_title)):
-    li_tmp = {"title": ck_title[i], "d-day": ck_date[i], "link": ck_link[i], "tag": ck_tag[i]}
-    Contest_korea.append(li_tmp)
-
-think_con = []
+    li_tmp = {"title": ck_title[i], "d-day": ck_date[i], "link": ck_link[i], "tag": ck_tag[i], "분류": "공모전"}
+    gongmo.append(li_tmp)
 
 for i in range(len(tc_links)):
-    li_tmp = {"title": tc_titles[i], "d-day": end_date[i], "link": tc_links[i], "tag": participate[i]}
-    think_con.append(li_tmp)
+    li_tmp = {"title": tc_titles[i], "d-day": end_date[i], "link": tc_links[i], "tag": participate[i], "분류": "공모전"}
+    gongmo.append(li_tmp)
 
 
-# In[7]:
+# In[ ]:
 
 
-with open('incruit.json', 'w', encoding="utf-8") as make_file: 
-    json.dump(incuruit, make_file, ensure_ascii = False, indent="\t")
+d_title = []
+title = []
+d_link = []
+link = []
+d_date = []
+date = []
 
-with open('think_con.json', 'w', encoding="utf-8") as make_file: 
-    json.dump(think_con, make_file, ensure_ascii = False, indent="\t")
 
-with open('Contest_korea.json', 'w', encoding="utf-8") as make_file: 
-    json.dump(Contest_korea, make_file, ensure_ascii = False, indent="\t")
+# In[ ]:
+
+
+# 마감임박
+for i in range (1, 3):
+    cookies = {
+        '_ga': 'GA1.3.435304916.1651484551',
+        'ASPSESSIONIDSQDQCSCD': 'ADPANDLCOBGKHDGDNLALNONC',
+        '_gid': 'GA1.3.1060530810.1652413738',
+        '_gac_UA-163306206-1': '1.1652413738.Cj0KCQjw4PKTBhD8ARIsAHChzRJK1_Tf7OMLmorQhnztqqRBAgrge2dkQDsxtH0O7wbI3pKZgkkRg0QaAlDQEALw_wcB',
+        'wcs_bt': 'fff9f7a878b278:1652413738',
+    }
+
+    headers = {
+        'authority': 'thinkyou.co.kr',
+        'accept': 'text/html, */*; q=0.01',
+        'accept-language': 'ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7',
+        'content-type': 'application/x-www-form-urlencoded; charset=UTF-8',
+        # Requests sorts cookies= alphabetically
+        # 'cookie': '_ga=GA1.3.435304916.1651484551; ASPSESSIONIDSQDQCSCD=ADPANDLCOBGKHDGDNLALNONC; _gid=GA1.3.1060530810.1652413738; _gac_UA-163306206-1=1.1652413738.Cj0KCQjw4PKTBhD8ARIsAHChzRJK1_Tf7OMLmorQhnztqqRBAgrge2dkQDsxtH0O7wbI3pKZgkkRg0QaAlDQEALw_wcB; wcs_bt=fff9f7a878b278:1652413738',
+        'origin': 'https://thinkyou.co.kr',
+        'referer': 'https://thinkyou.co.kr/contest/',
+        'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'sec-fetch-dest': 'empty',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-site': 'same-origin',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36',
+        'x-requested-with': 'XMLHttpRequest',
+    }
+
+    data = {
+        'pageSize': '35',
+        'page': str(i),
+        'serstatus': '0',
+        'serfield': '5,6',
+        'sertarget': '0',
+        'serprizeMoney': '',
+        'serdivision': '',
+        'seritem': '',
+        'searchstr': '',
+    }
+    response = requests.post('https://thinkyou.co.kr/contest/ajax_contestList.asp', cookies=cookies, headers=headers, data=data)
+    html = response.text
+    soup = BeautifulSoup(html, 'html.parser')
+    length = soup.select('.title > a')
+    for n in range(0, len(length)):
+        name, host= soup.select('.title > a')[n].text.replace('\n', '').split('주최 :')
+        start_date, end_date = soup.select('.etc')[2*n].text.split('~')
+        links = length[n]['href']
+        end_date = end_date.lstrip()
+        d_date.append(end_date)
+        d_title.append(name)
+        d_link.append('https://thinkyou.co.kr/' + links)
+    
+
+
+# In[ ]:
+
+
+for i in range(len(d_title)):
+    li_tmp = {"title": d_title[i], "d-day": d_date[i], "link": d_link[i], "분류": "대외활동"}
+    gongmo.append(li_tmp)
+
+
+# In[ ]:
+
+
+# 접수중
+for i in range (1, 3):
+    cookies = {
+        '_ga': 'GA1.3.435304916.1651484551',
+        'ASPSESSIONIDSQDQCSCD': 'ADPANDLCOBGKHDGDNLALNONC',
+        '_gid': 'GA1.3.1060530810.1652413738',
+        '_gac_UA-163306206-1': '1.1652413738.Cj0KCQjw4PKTBhD8ARIsAHChzRJK1_Tf7OMLmorQhnztqqRBAgrge2dkQDsxtH0O7wbI3pKZgkkRg0QaAlDQEALw_wcB',
+        'wcs_bt': 'fff9f7a878b278:1652413738',
+    }
+
+    headers = {
+        'authority': 'thinkyou.co.kr',
+        'accept': 'text/html, */*; q=0.01',
+        'accept-language': 'ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7',
+        'content-type': 'application/x-www-form-urlencoded; charset=UTF-8',
+        # Requests sorts cookies= alphabetically
+        # 'cookie': '_ga=GA1.3.435304916.1651484551; ASPSESSIONIDSQDQCSCD=ADPANDLCOBGKHDGDNLALNONC; _gid=GA1.3.1060530810.1652413738; _gac_UA-163306206-1=1.1652413738.Cj0KCQjw4PKTBhD8ARIsAHChzRJK1_Tf7OMLmorQhnztqqRBAgrge2dkQDsxtH0O7wbI3pKZgkkRg0QaAlDQEALw_wcB; wcs_bt=fff9f7a878b278:1652413738',
+        'origin': 'https://thinkyou.co.kr',
+        'referer': 'https://thinkyou.co.kr/contest/',
+        'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'sec-fetch-dest': 'empty',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-site': 'same-origin',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36',
+        'x-requested-with': 'XMLHttpRequest',
+    }
+
+    data = {
+        'pageSize': '35',
+        'page': str(i),
+        'serstatus': '1',
+        'serfield': '5,6',
+        'sertarget': '0',
+        'serprizeMoney': '',
+        'serdivision': '',
+        'seritem': '',
+        'searchstr': '',
+    }
+
+    response = requests.post('https://thinkyou.co.kr/contest/ajax_contestList.asp', cookies=cookies, headers=headers, data=data)
+    html = response.text
+    soup = BeautifulSoup(html, 'html.parser')
+    length = soup.select('.title > a')
+    for n in range(0, len(length)):
+        name, host= soup.select('.title > a')[n].text.replace('\n', '').split('주최 :')
+        start_date, end_date = soup.select('.etc')[2*n].text.split('~')
+        links = length[n]['href']
+        end_date = end_date.lstrip()
+        date.append(end_date)
+        title.append(name)
+        link.append('https://thinkyou.co.kr/' + links)
+
+for i in range(len(title)):
+    li_tmp = {"title": title[i], "d-day": date[i], "link": link[i], "분류": "대외활동"}
+    gongmo.append(li_tmp)
+
+
+# In[81]:
+
+
+with open('공모전.json', 'w', encoding='UTF-8') as file:
+     file.write(json.dumps(gongmo, ensure_ascii=False, indent="\t"))
 

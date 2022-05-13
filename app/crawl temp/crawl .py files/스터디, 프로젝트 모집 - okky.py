@@ -14,12 +14,11 @@ import urllib.request
 
 from dateutil.parser import parse
 from urllib.request import urlopen
+import ssl
 
 
 # In[7]:
 
-
-import ssl
 
 context = ssl._create_unverified_context()
 titles = []
