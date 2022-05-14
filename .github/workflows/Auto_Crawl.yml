@@ -52,10 +52,10 @@ jobs:
 
       run: |
 
-        python "공모전, 대외활동 - 인크루트, 씽콘, 콘테스트_코리아, 씽유.py"
         python "스터디, 프로젝트 모집 - okky.py"
         python "장학금, 지원금 - 드림스폰.py"
         python "취업 - 잡코리아.py"
+        python "공모전, 대외활동 - 인크루트, 씽콘, 콘테스트_코리아, 씽유.py"
 
       working-directory: ${{ env.working-directory }}
 
