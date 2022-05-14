@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+# In[7]:
 
 
 import pandas as pd
@@ -17,7 +17,7 @@ import requests
 context=ssl._create_unverified_context()
 
 
-# In[2]:
+# In[8]:
 
 
 # 공모전 인크루트
@@ -32,14 +32,17 @@ inc_real_links=[]
 base_url='https://gongmo.incruit.com/list/gongmolist.asp?ct=1&category=11'
 webpage = urlopen(base_url,context=context)
 soup = BeautifulSoup(webpage, 'html.parser')
-for i in range(1,12):
-    inc_title.append(soup.select('#tbdyGmScrap > tr:nth-child('+str(i)+') > td.gmtitle > ul > a')[0].get_text())
-    inc_host.append(soup.select('#tbdyGmScrap > tr:nth-child('+str(i)+') > td.company')[0].get_text().lstrip('\r\n\t\t\t\t\t\t\t').strip('\r\n\t\t\t\t\t\t\t'))
-    inc_terms.append(soup.select('#tbdyGmScrap > tr:nth-child('+str(i)+') > td.due')[0].get_text())
-    inc_links.append(soup.select('#tbdyGmScrap > tr:nth-child('+str(i)+') > td.gmtitle > ul > a')[0].get('href'))
+for i in range(1,13):
+    try:
+        inc_title.append(soup.select('#tbdyGmScrap > tr:nth-child('+str(i)+') > td.gmtitle > ul > a')[0].get_text())
+        inc_host.append(soup.select('#tbdyGmScrap > tr:nth-child('+str(i)+') > td.company')[0].get_text().lstrip('\r\n\t\t\t\t\t\t\t').strip('\r\n\t\t\t\t\t\t\t'))
+        inc_terms.append(soup.select('#tbdyGmScrap > tr:nth-child('+str(i)+') > td.due')[0].get_text())
+        inc_links.append(soup.select('#tbdyGmScrap > tr:nth-child('+str(i)+') > td.gmtitle > ul > a')[0].get('href'))
+    except:
+        break
 
 
-# In[3]:
+# In[9]:
 
 
 inc_start_bef=[]
@@ -50,7 +53,7 @@ for inc_term in inc_terms:
     inc_end_bef.append('20'+inc_end_day.replace('.','. '))
 
 
-# In[4]:
+# In[10]:
 
 
 # 공모전 콘테스트 코리아
@@ -101,7 +104,7 @@ for n in range(1, 6):
             ck_tag.append(tmp)
 
 
-# In[5]:
+# In[11]:
 
 
 # 공모전 씽콘
@@ -178,7 +181,7 @@ for i in range(len(tc_links)):
     tc_inst.append(soup.select(' tbody > tr > td ')[0].text)
 
 
-# In[ ]:
+# In[12]:
 
 
 gongmo = []
@@ -196,7 +199,7 @@ for i in range(len(tc_links)):
     gongmo.append(li_tmp)
 
 
-# In[ ]:
+# In[13]:
 
 
 d_title = []
@@ -207,7 +210,7 @@ d_date = []
 date = []
 
 
-# In[ ]:
+# In[14]:
 
 
 # 마감임박
@@ -265,7 +268,7 @@ for i in range (1, 3):
     
 
 
-# In[ ]:
+# In[15]:
 
 
 for i in range(len(d_title)):
@@ -273,7 +276,7 @@ for i in range(len(d_title)):
     gongmo.append(li_tmp)
 
 
-# In[ ]:
+# In[16]:
 
 
 # 접수중
@@ -335,7 +338,7 @@ for i in range(len(title)):
     gongmo.append(li_tmp)
 
 
-# In[81]:
+# In[17]:
 
 
 with open('공모전.json', 'w', encoding='UTF-8') as file:
