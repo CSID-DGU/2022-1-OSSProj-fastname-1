@@ -42,3 +42,4 @@ Twisted==18.9.0
 urllib3==1.25.8
 virtualenv==20.14.1
 beautifulsoup4
+pandas
