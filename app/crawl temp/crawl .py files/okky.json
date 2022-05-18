@@ -1,13 +1,28 @@
 [
 	{
+		"title": "[취준생 포트폴리오] 디자이너, 프론트엔드, 백엔드 멤버 모집합니다",
+		"d-day": "2022-05-17",
+		"link": "https://okky.kr/article/1229273"
+	},
+	{
+		"title": "홍대 인근 모각코 스터디 구합니다.",
+		"d-day": "2022-05-17",
+		"link": "https://okky.kr/article/1229149"
+	},
+	{
+		"title": "쇼핑몰 프로젝트 함께 해요!",
+		"d-day": "2022-05-17",
+		"link": "https://okky.kr/article/1229021"
+	},
+	{
 		"title": "[경제 스터디] 온라인 기업분석/경제뉴스/독서토론 스터디 맴버 모집",
 		"d-day": "2022-05-17",
 		"link": "https://okky.kr/article/1228422"
 	},
 	{
-		"title": "[사이드 프로젝트] 백엔드 1분, ios 1분 모십니다.",
+		"title": "(대구) 놀면 뭐하니? AWS 웹 서비스 개발 스터디",
 		"d-day": "2022-05-17",
-		"link": "https://okky.kr/article/1228414"
+		"link": "https://okky.kr/article/1228375"
 	},
 	{
 		"title": "매일 저녁 21시~23시 디스코드 화면 공유",
@@ -23,11 +38,6 @@
 		"title": "[iOS/swift] 온라인 스터디 인원 모집합니다.",
 		"d-day": "2022-05-16",
 		"link": "https://okky.kr/article/1228177"
-	},
-	{
-		"title": "[군자역] 오프라인 모각코 스터디 모집합니다(1명)",
-		"d-day": "2022-05-16",
-		"link": "https://okky.kr/article/1228174"
 	},
 	{
 		"title": "C언어 입문자입니다.",
@@ -225,11 +235,6 @@
 		"link": "https://okky.kr/article/1221049"
 	},
 	{
-		"title": "[분당/판교/광교] SW / 시스템 엔지니어 경력자 여러분, 해외 이직 함께 준비해요!",
-		"d-day": "2022-05-06",
-		"link": "https://okky.kr/article/1220842"
-	},
-	{
 		"title": "주말 토이프로젝트 프론트 팀원을 모집합니다~",
 		"d-day": "2022-05-06",
 		"link": "https://okky.kr/article/1220245"
@@ -408,15 +413,5 @@
 		"title": "서울 코딩 스터디 하실 분~",
 		"d-day": "2022-04-29",
 		"link": "https://okky.kr/article/1215986"
-	},
-	{
-		"title": "개발 팀 소개 페이지를 완성 시켜주실 디자이너 분 구해요!",
-		"d-day": "2022-04-29",
-		"link": "https://okky.kr/article/1215931"
-	},
-	{
-		"title": "춘천 모각코 (다시올립니다)",
-		"d-day": "2022-04-29",
-		"link": "https://okky.kr/article/1215924"
 	}
 ]
