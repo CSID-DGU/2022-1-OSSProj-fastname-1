@@ -12,6 +12,11 @@ import requests
 from bs4 import BeautifulSoup
 import re
 import ssl
+
+
+# In[2]:
+
+
 from dateutil.parser import parse
 from urllib.request import urlopen
 context=ssl._create_unverified_context()
@@ -60,7 +65,7 @@ import json
 job = []
 
 for i in range(len(titles)):
-    li_tmp = {"title": titles[i], "d-day": end_list[i], "link": links[i], "기업": insts[i]}
+    li_tmp = {"title": titles[i], "dday": end_list[i], "link": links[i], "기업": insts[i]}
     job.append(li_tmp)
 
 

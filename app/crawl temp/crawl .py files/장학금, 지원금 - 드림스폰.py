@@ -16,7 +16,6 @@ import ssl
 # In[2]:
 
 
-
 from dateutil.parser import parse
 from urllib.request import urlopen
 context=ssl._create_unverified_context()
@@ -89,7 +88,7 @@ for t in range(len(link_test)):
 dream_spon = []
 
 for i in range(len(titles_bef)):
-    li_tmp = {"title": titles_bef[i], "d-day": dday_bef[i], "link": link_bef[i], "tag": tag[i]}
+    li_tmp = {"title": titles_bef[i], "dday": dday_bef[i], "link": link_bef[i], "tag": tag[i]}
     dream_spon.append(li_tmp)
 
 
