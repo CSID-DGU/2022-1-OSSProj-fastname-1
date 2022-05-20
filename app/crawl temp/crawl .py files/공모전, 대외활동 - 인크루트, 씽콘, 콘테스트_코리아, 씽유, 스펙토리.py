@@ -1,23 +1,24 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[7]:
+# In[1]:
 
 
 import pandas as pd
+from pandas import json_normalize
 import numpy as np
 from bs4 import BeautifulSoup
 import re
 import urllib.request
+from urllib.request import urlopen
 import ssl
 from dateutil.parser import parse
-from urllib.request import urlopen
 import json
 import requests
 context=ssl._create_unverified_context()
 
 
-# In[8]:
+# In[2]:
 
 
 # 공모전 인크루트
@@ -42,7 +43,7 @@ for i in range(1,13):
         break
 
 
-# In[9]:
+# In[3]:
 
 
 inc_start_bef=[]
@@ -53,7 +54,7 @@ for inc_term in inc_terms:
     inc_end_bef.append('20'+inc_end_day.replace('.','. '))
 
 
-# In[10]:
+# In[4]:
 
 
 # 공모전 콘테스트 코리아
@@ -104,7 +105,7 @@ for n in range(1, 6):
             ck_tag.append(tmp)
 
 
-# In[11]:
+# In[5]:
 
 
 # 공모전 씽콘
@@ -181,25 +182,25 @@ for i in range(len(tc_links)):
     tc_inst.append(soup.select(' tbody > tr > td ')[0].text)
 
 
-# In[12]:
+# In[6]:
 
 
 gongmo = []
 
 for i in range(len(inc_title)):
-    li_tmp = {"title": inc_title[i], "d-day": inc_end_bef[i], "link": inc_links[i], "tag": inc_host[i], "분류": "공모전"}
+    li_tmp = {"title": inc_title[i], "dday": inc_end_bef[i], "link": inc_links[i], "tag": inc_host[i], "분류": "공모전"}
     gongmo.append(li_tmp)
 
 for i in range(len(ck_title)):
-    li_tmp = {"title": ck_title[i], "d-day": ck_date[i], "link": ck_link[i], "tag": ck_tag[i], "분류": "공모전"}
+    li_tmp = {"title": ck_title[i], "dday": ck_date[i], "link": ck_link[i], "tag": ck_tag[i], "분류": "공모전"}
     gongmo.append(li_tmp)
 
 for i in range(len(tc_links)):
-    li_tmp = {"title": tc_titles[i], "d-day": end_date[i], "link": tc_links[i], "tag": participate[i], "분류": "공모전"}
+    li_tmp = {"title": tc_titles[i], "dday": end_date[i], "link": tc_links[i], "tag": participate[i], "분류": "공모전"}
     gongmo.append(li_tmp)
 
 
-# In[13]:
+# In[7]:
 
 
 d_title = []
@@ -210,7 +211,7 @@ d_date = []
 date = []
 
 
-# In[14]:
+# In[8]:
 
 
 # 마감임박
@@ -268,15 +269,15 @@ for i in range (1, 3):
     
 
 
-# In[15]:
+# In[9]:
 
 
 for i in range(len(d_title)):
-    li_tmp = {"title": d_title[i], "d-day": d_date[i], "link": d_link[i], "분류": "대외활동"}
+    li_tmp = {"title": d_title[i], "dday": d_date[i], "link": d_link[i], "분류": "대외활동"}
     gongmo.append(li_tmp)
 
 
-# In[16]:
+# In[10]:
 
 
 # 접수중
@@ -334,11 +335,73 @@ for i in range (1, 3):
         link.append('https://thinkyou.co.kr/' + links)
 
 for i in range(len(title)):
-    li_tmp = {"title": title[i], "d-day": date[i], "link": link[i], "분류": "대외활동"}
+    li_tmp = {"title": title[i], "dday": date[i], "link": link[i], "분류": "대외활동"}
     gongmo.append(li_tmp)
 
 
-# In[17]:
+# In[12]:
+
+
+# 대외활동 스펙토리
+sp_dates = []
+sp_titles = []
+sp_links = []
+
+for i in range(1, 10):
+    cookies = {
+        '_gid': 'GA1.2.2040960810.1652348896',
+        'JSESSIONID': 'D908A4298CE46A3AFBB269C8B62299C5',
+        '_gat_gtag_UA_151252983_1': '1',
+        '_ga': 'GA1.2.1649544576.1651112511',
+        '_ga_E0BZXCDS6N': 'GS1.1.1652515880.7.1.1652517017.0',
+        '_ga_K9LXWP7RN9': 'GS1.1.1652515880.7.1.1652517017.0',
+    }
+
+    headers = {
+        'Accept': '*/*',
+        'Accept-Language': 'ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7',
+        'Connection': 'keep-alive',
+        # Requests sorts cookies= alphabetically
+        # 'Cookie': '_gid=GA1.2.2040960810.1652348896; JSESSIONID=D908A4298CE46A3AFBB269C8B62299C5; _gat_gtag_UA_151252983_1=1; _ga=GA1.2.1649544576.1651112511; _ga_E0BZXCDS6N=GS1.1.1652515880.7.1.1652517017.0; _ga_K9LXWP7RN9=GS1.1.1652515880.7.1.1652517017.0',
+        'Referer': 'http://www.spectory.net/activities?page=1&cat=%EB%8C%80%ED%95%99%EC%83%9D&prefix=info-target&searchDate=latest',
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36',
+        'X-Requested-With': 'XMLHttpRequest',
+    }
+
+    params = {
+        '__n': '1652517017745',
+        'siteType': '대외활동',
+        'categoryPrefix': 'info-target',
+        'categoryName': '대학생',
+        'searchDate': 'latest',
+        'page': '1',
+        'rows': '10',
+    }
+
+    response = requests.get('http://www.spectory.net/api/portal/contest', params=params, cookies=cookies, headers=headers, verify=False)
+
+    html = response.text
+    dict = json.loads(html)
+    df = json_normalize(dict['data'])
+    df = df.drop(['premium', 'created', 'modified', 'startDate', 'siteType', 'bannerImage', 'level', 'bannerEndDate', 'scrapCount', 'infoAttachementPoster'], axis=1)
+    df = df[['name', 'endDate', 'contestId', 'sponsorName', 'category']]
+
+    for i in range(0, 10):
+        title = df.iloc[i][0]
+        date = df.iloc[i][1]
+        date = date.replace('00:00', '')
+        link = df.iloc[i][2]
+        link = 'http://www.spectory.net/activities/detail?pid='+str(link)+'&cat=%EB%8C%80%ED%95%99%EC%83%9D&prefix=info-target&searchDate=latest'
+        sp_titles.append(title)
+        sp_dates.append(date)
+        sp_links.append(link)
+
+for i in range(len(sp_titles)):
+    li_tmp = {"title": sp_titles[i], "dday": sp_dates[i], "link": sp_links[i], "분류": "대외활동"}
+    gongmo.append(li_tmp)
+
+
+# In[13]:
 
 
 with open('공모전.json', 'w', encoding='UTF-8') as file:
