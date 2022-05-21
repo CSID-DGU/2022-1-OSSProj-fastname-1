@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[6]:
+# In[1]:
 
 
 import pandas as pd
@@ -17,7 +17,7 @@ from urllib.request import urlopen
 import ssl
 
 
-# In[7]:
+# In[2]:
 
 
 context = ssl._create_unverified_context()
@@ -44,7 +44,7 @@ for page_num in range(1, 3):
         links.append('https://www.inflearn.com/'+link)
 
 
-# In[8]:
+# In[3]:
 
 
 for i in titles:
@@ -55,7 +55,7 @@ for i in titles:
         del dates[num]
 
 
-# In[9]:
+# In[4]:
 
 
 context = ssl._create_unverified_context()
@@ -100,7 +100,7 @@ while(page_num<5):
     page_num+=1
 
 
-# In[10]:
+# In[5]:
 
 
 for tmp in okky_links:
@@ -117,7 +117,7 @@ for tmp in okky_links:
     else: continue
 
 
-# In[11]:
+# In[6]:
 
 
 projects = []
@@ -127,15 +127,15 @@ for i in range(len(titles)):
     projects.append(li_tmp)
 
 
-# In[12]:
+# In[7]:
 
 
 for i in range(len(okky_titles)):
-    li_tmp = {"title": okky_titles[i], "dday": okky_dates[i], "link": okky_links[i]}
+    li_tmp = {"title": okky_titles[i], "uploaded": okky_dates[i], "link": okky_links[i]}
     projects.append(li_tmp)
 
 
-# In[13]:
+# In[8]:
 
 
 import json

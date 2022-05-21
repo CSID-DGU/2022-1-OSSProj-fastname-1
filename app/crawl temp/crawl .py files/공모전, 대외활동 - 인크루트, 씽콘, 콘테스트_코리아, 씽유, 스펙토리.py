@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+# In[34]:
 
 
 import pandas as pd
@@ -18,7 +18,7 @@ import requests
 context=ssl._create_unverified_context()
 
 
-# In[2]:
+# In[35]:
 
 
 # 공모전 인크루트
@@ -35,15 +35,19 @@ webpage = urlopen(base_url,context=context)
 soup = BeautifulSoup(webpage, 'html.parser')
 for i in range(1,13):
     try:
-        inc_title.append(soup.select('#tbdyGmScrap > tr:nth-child('+str(i)+') > td.gmtitle > ul > a')[0].get_text())
         inc_host.append(soup.select('#tbdyGmScrap > tr:nth-child('+str(i)+') > td.company')[0].get_text().lstrip('\r\n\t\t\t\t\t\t\t').strip('\r\n\t\t\t\t\t\t\t'))
         inc_terms.append(soup.select('#tbdyGmScrap > tr:nth-child('+str(i)+') > td.due')[0].get_text())
-        inc_links.append(soup.select('#tbdyGmScrap > tr:nth-child('+str(i)+') > td.gmtitle > ul > a')[0].get('href'))
+        inc_link_tmp = soup.select('#tbdyGmScrap > tr:nth-child('+str(i)+') > td.gmtitle > ul > a')[0].get('href')
+        inc_links.append(inc_link_tmp)
+        inc_link_tmp = urlopen(inc_link_tmp,context=context)
+        tmp_soup = BeautifulSoup(inc_link_tmp, 'html.parser')
+        inc_title.append(tmp_soup.select('h3.job_new_top_title')[0].get_text().rstrip().lstrip())
+        
     except:
         break
 
 
-# In[3]:
+# In[36]:
 
 
 inc_start_bef=[]
@@ -54,7 +58,7 @@ for inc_term in inc_terms:
     inc_end_bef.append('20'+inc_end_day.replace('.','. '))
 
 
-# In[4]:
+# In[37]:
 
 
 # 공모전 콘테스트 코리아
@@ -105,7 +109,7 @@ for n in range(1, 6):
             ck_tag.append(tmp)
 
 
-# In[5]:
+# In[38]:
 
 
 # 공모전 씽콘
@@ -182,7 +186,7 @@ for i in range(len(tc_links)):
     tc_inst.append(soup.select(' tbody > tr > td ')[0].text)
 
 
-# In[6]:
+# In[39]:
 
 
 gongmo = []
@@ -200,7 +204,7 @@ for i in range(len(tc_links)):
     gongmo.append(li_tmp)
 
 
-# In[7]:
+# In[40]:
 
 
 d_title = []
@@ -211,10 +215,10 @@ d_date = []
 date = []
 
 
-# In[8]:
+# In[41]:
 
 
-# 마감임박
+# 씽유: 마감임박
 for i in range (1, 3):
     cookies = {
         '_ga': 'GA1.3.435304916.1651484551',
@@ -269,7 +273,7 @@ for i in range (1, 3):
     
 
 
-# In[9]:
+# In[42]:
 
 
 for i in range(len(d_title)):
@@ -277,10 +281,10 @@ for i in range(len(d_title)):
     gongmo.append(li_tmp)
 
 
-# In[10]:
+# In[43]:
 
 
-# 접수중
+# 씽유: 접수중
 for i in range (1, 3):
     cookies = {
         '_ga': 'GA1.3.435304916.1651484551',
@@ -339,7 +343,7 @@ for i in range(len(title)):
     gongmo.append(li_tmp)
 
 
-# In[12]:
+# In[44]:
 
 
 # 대외활동 스펙토리
@@ -401,9 +405,42 @@ for i in range(len(sp_titles)):
     gongmo.append(li_tmp)
 
 
-# In[13]:
+# In[66]:
+
+
+df = pd.DataFrame(gongmo)
+df = df.drop(['tag'], axis=1)
+df = df.drop_duplicates(['title'], keep='first')
+# 294 -> 212 중복제거
+
+
+# In[69]:
+
+
+titles = []
+dday = []
+links = []
+sort= []
+gongmo_final = []
+
+for i in range(len(df)):
+        gongmo_title = df.iloc[i][0]
+        gongmo_dday = df.iloc[i][1]
+        gongmo_link = df.iloc[i][2]
+        gongmo_sort = df.iloc[i][3]
+        titles.append(gongmo_title)
+        dday.append(gongmo_dday)
+        links.append(gongmo_link)
+        sort.append(gongmo_sort)
+
+for i in range(len(titles)):
+    li_tmp = {"title": titles[i], "dday": dday[i], "link": links[i], "분류": sort[i]}
+    gongmo_final.append(li_tmp)
+
+
+# In[70]:
 
 
 with open('공모전.json', 'w', encoding='UTF-8') as file:
-     file.write(json.dumps(gongmo, ensure_ascii=False, indent="\t"))
+     file.write(json.dumps(gongmo_final, ensure_ascii=False, indent="\t"))
 
