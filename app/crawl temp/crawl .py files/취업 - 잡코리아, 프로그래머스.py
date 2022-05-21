@@ -132,11 +132,11 @@ for i in range(1, 27):
         pr_links.append(link)
 
 
-# In[ ]:
+# In[6]:
 
 
 for i in range(len(pr_titles)):
-    li_tmp = {"title": pr_titles[i], "d-day": '해당없음', "link": pr_links[i], "기업": pr_company[i]}
+    li_tmp = {"title": pr_titles[i], "dday": '해당없음', "link": pr_links[i], "기업": pr_company[i]}
     job.append(li_tmp)
 
 with open('취업.json', 'w', encoding="utf-8") as make_file: 
