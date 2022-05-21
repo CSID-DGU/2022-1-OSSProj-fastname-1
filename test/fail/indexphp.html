@@ -1,0 +1,47 @@
+<?php
+    $file_contents = file_get_contents('test.json');
+    $data = json_decode($file_contents, true);
+?>
+ 
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>PHP JSON parser sample</title>
+    </head>
+   
+    <body>
+    <table border="1" bordercolor="blue">
+ 
+    <tr bgcolor="yellow">
+    <th> 제목 </th>
+    <th> 날짜 </th>
+    <th> 링크 </th>
+    </tr>
+ 
+    <?php foreach ($data as $row) { ?>
+        <tr align="center">
+ 
+        <td> <?php print $row['title']; ?> </td>
+        
+        <td> <?php print $row['dday']; ?> </td>
+        
+        <td> <?php print $row['link']; ?> </td>
+ 
+        </tr>
+        
+    <?php } ?>
+ 
+    </table>
+ 
+ 
+ 
+    <?php
+    foreach ($data as $row) {
+        printf("<li>%s %s %s</li>\n", $row['title'], $row['dday'], $row['link']);
+    }
+    ?>    
+
+    </body>
+ 
+</html>

@@ -1,0 +1,75 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+    <meta charset="UTF-8"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <meta http-equiv="X-UA-Compatible" content="ie=edge"> 
+    <title>JSON!!</title> 
+    <style> 
+    table { 
+        border-collapse: collapse; 
+    } 
+    td { 
+        border:1px solid black; 
+    } 
+    </style> 
+</head> 
+
+<script> 
+    
+    function url(x){
+        location.href = "'"+x+"'";
+    }
+
+    let xhttp = new XMLHttpRequest(); 
+    xhttp.open("GET", "스터디.json", true); 
+    xhttp.onreadystatechange = function() { 
+        if(this.readyState == 4 && this.status == 200) { 
+            let storage = JSON.parse(this.response); 
+            for(i in storage) { 
+                    let tr = document.createElement('tr'); 
+                        let td = document.createElement('td'); 
+                        td.innerHTML = storage[i].title;
+                        td.setAttribute("title", storage[i].link);
+                        // td[i].setAttribute('onclick', 'url(storage[i].link);');
+                        Link = storage[i].link;
+                        td.addEventListener("click", function() {location.href = Link;}); // 같은 것만 출력됨
+                        //td.addEventListener("mouseover", function() {iframe src = "xxx", width = "xx", height ="xx";});
+                        //td.onclick = alert('test');//url(Link); 왜 실행되는 지 모르겟음
+                        //td[i].onmouseover = url(Link);
+                        tr.appendChild(td); 
+                        let td2 = document.createElement('td');
+                        td2.innerHTML = storage[i].dday; 
+                        tr.appendChild(td2);
+                document.querySelector("tbody").appendChild(tr); 
+            }
+        } 
+    }; 
+    xhttp.send(); 
+
+
+    
+</script>
+
+
+<body> 
+    <table style="table-layout: auto; width: 100%; table-layout: fixed;"> 
+        <thead> 
+            <tr> 
+                <th width = "80%">제목</th> 
+                <th width = "20%"> 날짜 </th>
+                
+            </tr> 
+        </thead> 
+        <tfoot> 
+            <tr> 
+                <td width = "80%">제목</td> 
+                <td width = "20%">날짜</td>    
+            </tr> 
+        </tfoot> 
+        <tbody> 
+                
+        </tbody> 
+    </table> 
+</body> 
+</html>
