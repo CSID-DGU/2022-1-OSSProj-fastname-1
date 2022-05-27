@@ -17,7 +17,7 @@
 
 <script> 
     let xhttp = new XMLHttpRequest(); 
-    xhttp.open("GET", "스터디.json", true); 
+    xhttp.open("GET", "../../crawl temp/json 결과/장학금.json", true); 
     xhttp.onreadystatechange = function() { 
         if(this.readyState == 4 && this.status == 200) { 
             let storage = JSON.parse(this.response); 
@@ -28,7 +28,7 @@
                     tr.appendChild(td); 
                     let td2 = document.createElement('td');
                     td2.innerHTML = storage[i].dday; 
-                    tr.appendChild(td2); 
+                    tr.appendChild(td2);
                 document.querySelector("tbody").appendChild(tr); 
             } 
         } 
@@ -42,13 +42,13 @@
         <thead> 
             <tr> 
                 <th width = "80%">제목</th> 
-                <th width = "20%">날짜</th> 
+                <th width = "20%">날짜</th>  
             </tr> 
         </thead> 
         <tfoot> 
             <tr> 
                 <td width = "80%">제목</td> 
-                <td width = "20%">날짜</td>  
+                <td width = "20%">날짜</td> 
             </tr> 
         </tfoot> 
         <tbody> 
