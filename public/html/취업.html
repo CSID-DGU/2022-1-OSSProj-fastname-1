@@ -25,6 +25,7 @@
                 let tr = document.createElement('tr'); 
                     let td = document.createElement('td'); 
                     td.innerHTML = storage[i].title; 
+                    td.setAttribute("title", storage[i].기업); // 마우스 오버 시 기업 출력
                     tr.appendChild(td); 
                     let td2 = document.createElement('td');
                     td2.innerHTML = storage[i].dday; 

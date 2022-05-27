@@ -25,8 +25,8 @@
             for(i in storage) { 
                     let tr = document.createElement('tr'); 
                         let td = document.createElement('td'); 
-                        td.innerHTML = storage[i].title;
-                        Link = storage[i].link;
+                        td.innerHTML = storage[i].title; 
+                        td.setAttribute("title", storage[i].분류); // 마우스 오버 시 분류 출력
                         tr.appendChild(td); 
                         let td2 = document.createElement('td');
                         td2.innerHTML = storage[i].dday; 
