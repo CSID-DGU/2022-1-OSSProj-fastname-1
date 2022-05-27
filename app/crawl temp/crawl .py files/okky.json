@@ -1,5 +1,30 @@
 [
 	{
+		"title": "주말/공휴일 아침 8시-11시(9시-12시) 온라인 모각코(집 밖 까페 등에서 출퇴첵 인증)",
+		"d-day": "2022-05-27",
+		"link": "https://okky.kr/article/1237187"
+	},
+	{
+		"title": "vue 개발공부 같이 하실분 모십니다.",
+		"d-day": "2022-05-27",
+		"link": "https://okky.kr/article/1237140"
+	},
+	{
+		"title": "iOS 온라인 스터디 모집합니다! (각자 공부)",
+		"d-day": "2022-05-26",
+		"link": "https://okky.kr/article/1237084"
+	},
+	{
+		"title": "[온라인]파이썬 기초 스터디 모집합니다!",
+		"d-day": "2022-05-26",
+		"link": "https://okky.kr/article/1236464"
+	},
+	{
+		"title": "사이드 프로젝트 디자이너분 구합니다.",
+		"d-day": "2022-05-26",
+		"link": "https://okky.kr/article/1236454"
+	},
+	{
 		"title": "[iOS/swift] iOS 개발자 스터디 모집합니다",
 		"d-day": "2022-05-26",
 		"link": "https://okky.kr/article/1236141"
@@ -25,7 +50,7 @@
 		"link": "https://okky.kr/article/1235928"
 	},
 	{
-		"title": "웹 사이드 프로젝트 같이 진행하실분 구합니다!",
+		"title": "웹 사이드 프로젝트 퍼블리셔한분 구합니다!",
 		"d-day": "2022-05-25",
 		"link": "https://okky.kr/article/1235856"
 	},
@@ -75,11 +100,6 @@
 		"link": "https://okky.kr/article/1234490"
 	},
 	{
-		"title": "프론트앤드 개발 관련 스터디 모집합니다.",
-		"d-day": "2022-05-24",
-		"link": "https://okky.kr/article/1234189"
-	},
-	{
 		"title": "☆새벽 공부 한달 챌린지 스터디원 모집☆ 시작날 기준 70%출석제,( 5/23~ 6/17)_도중 참여가능",
 		"d-day": "2022-05-24",
 		"link": "https://okky.kr/article/1233990"
@@ -93,11 +113,6 @@
 		"title": "[잠실] 오프라인/온라인 알고리즘, CS스터디 인원 충원합니다!",
 		"d-day": "2022-05-23",
 		"link": "https://okky.kr/article/1233323"
-	},
-	{
-		"title": "[일산/웨돔] 무료 과외 Java , 이력서 면접 컨설팅",
-		"d-day": "2022-05-23",
-		"link": "https://okky.kr/article/1232841"
 	},
 	{
 		"title": "서울 천호 모각코 모집합니다.",
@@ -210,9 +225,9 @@
 		"link": "https://okky.kr/article/1229021"
 	},
 	{
-		"title": "(대구) 놀면 뭐하니? AWS 웹 서비스 개발 스터디",
+		"title": "☆새벽 공부 한달 챌린지 스터디원 모집☆ 시작날 기준 70%출석제,( 5/23~ 6/17)_10명 선착순(세자리남음)",
 		"d-day": "2022-05-17",
-		"link": "https://okky.kr/article/1228375"
+		"link": "https://okky.kr/article/1228416"
 	},
 	{
 		"title": "[iOS/swift] 온라인 스터디 인원 모집합니다.",
@@ -365,6 +380,11 @@
 		"link": "https://okky.kr/article/1221221"
 	},
 	{
+		"title": "[추가모집] 쿠버네티스 인 액션 책 스터디 하실분들을 구합니다.",
+		"d-day": "2022-05-07",
+		"link": "https://okky.kr/article/1221204"
+	},
+	{
 		"title": "일산 node / typescript 백엔드 스터디 하실 분 있으실까요 ?",
 		"d-day": "2022-05-07",
 		"link": "https://okky.kr/article/1221202"
@@ -383,20 +403,5 @@
 		"title": "주말 아침 8시-11시 모각코[공부장소 인증]",
 		"d-day": "2022-05-07",
 		"link": "https://okky.kr/article/1221125"
-	},
-	{
-		"title": "플러터 데일리 개발 or 스터디 모각코",
-		"d-day": "2022-05-06",
-		"link": "https://okky.kr/article/1221060"
-	},
-	{
-		"title": "[온라인] 데이터베이스 인터널스 책 스터디 추가 모집",
-		"d-day": "2022-05-06",
-		"link": "https://okky.kr/article/1221049"
-	},
-	{
-		"title": "주말 토이프로젝트 프론트 팀원을 모집합니다~",
-		"d-day": "2022-05-06",
-		"link": "https://okky.kr/article/1220245"
 	}
 ]
