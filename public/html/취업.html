@@ -26,6 +26,8 @@
                     let td = document.createElement('td'); 
                     td.innerHTML = storage[i].title; 
                     td.setAttribute("title", storage[i].기업); // 마우스 오버 시 기업 출력
+                    Link = storage[i].link; 
+                    td.addEventListener("click", function() {location.href = Link;}); // 제목 클릭 시 링크로 이동
                     tr.appendChild(td); 
                     let td2 = document.createElement('td');
                     td2.innerHTML = storage[i].dday; 
