@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[5]:
+# In[1]:
 
 
 import pandas as pd
@@ -12,14 +12,12 @@ from bs4 import BeautifulSoup
 import re
 import urllib.request
 
-import datetime
-from datetime import date, timedelta
 from dateutil.parser import parse
 from urllib.request import urlopen
 import ssl
 
 
-# In[6]:
+# In[2]:
 
 
 context = ssl._create_unverified_context()
@@ -37,27 +35,16 @@ for page_num in range(1, 3):
     soup = BeautifulSoup(res,'html.parser')
     for i in range(0, 20):
         title = soup.select('.question__title > h3')[i].text.replace('\n', '').strip()
-        dday = soup.select('.question__info-footer')[i].text.replace('\n', '')
-        dday = dday.split('·', 1)[-1]
-        dday = dday.lstrip().rstrip()
-        if '시간' in dday or '분' in dday:
-            dday = date.today()
-        else:
-            day_tmp = dday.split('일')[0]
-            day_tmp = int(day_tmp)
-            today = date.today()
-            day_tmp = datetime.timedelta(days=day_tmp)
-            dday = today - day_tmp
-        dday = str(dday)
-        year, month, day = dday.split('-')
-        dday = year+'. '+month+'. '+day
+        date = soup.select('.question__info-footer')[i].text.replace('\n', '')
+        uploader, date = date.split('·', 1)
+        date = date.lstrip()
         link = soup.select('.question-list-container > ul > li > a')[i]['href']
         titles.append(title)
-        dates.append(dday)
+        dates.append(date)
         links.append('https://www.inflearn.com/'+link)
 
 
-# In[7]:
+# In[3]:
 
 
 for i in titles:
@@ -68,7 +55,7 @@ for i in titles:
         del dates[num]
 
 
-# In[8]:
+# In[4]:
 
 
 context = ssl._create_unverified_context()
@@ -93,10 +80,8 @@ while(page_num<5):
         else:
             okky_titles.append(title)
             okky_links.append('https://okky.kr'+link)
-            dday = dd.split(" ")[0]
-            year, month, day = dday.split('-')
-            dday = year+'. '+month+'. '+day
-            okky_dates.append(dday)
+            day, write_time = dd.split(" ")
+            okky_dates.append(day)
 
             # 태그를 추출해 추가하기에는 페이지에서 보여지는 태그가 애매하다.
             # 따로 키워드를 선정하거나 할 필요가 있어보임
@@ -110,11 +95,12 @@ while(page_num<5):
                     continue
                 li_tag.append(tmp)
             '''
-                
+       
+           
     page_num+=1
 
 
-# In[9]:
+# In[5]:
 
 
 for tmp in okky_links:
@@ -131,7 +117,7 @@ for tmp in okky_links:
     else: continue
 
 
-# In[10]:
+# In[6]:
 
 
 projects = []
@@ -141,7 +127,7 @@ for i in range(len(titles)):
     projects.append(li_tmp)
 
 
-# In[11]:
+# In[7]:
 
 
 for i in range(len(okky_titles)):
@@ -149,11 +135,11 @@ for i in range(len(okky_titles)):
     projects.append(li_tmp)
 
 
-# In[12]:
+# In[8]:
 
 
 import json
 
-with open('스터디.json', 'w', encoding="utf-8") as make_file: 
+with open('projects.json', 'w', encoding="utf-8") as make_file: 
     json.dump(projects, make_file, ensure_ascii = False, indent="\t")
 

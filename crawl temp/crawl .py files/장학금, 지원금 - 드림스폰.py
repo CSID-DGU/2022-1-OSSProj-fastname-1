@@ -11,14 +11,17 @@ import requests
 from bs4 import BeautifulSoup
 import urllib.request
 import ssl
-import datetime
-from datetime import date, timedelta
+
+
+# In[2]:
+
+
 from dateutil.parser import parse
 from urllib.request import urlopen
 context=ssl._create_unverified_context()
 
 
-# In[2]:
+# In[3]:
 
 
 dday_bef = []
@@ -32,14 +35,7 @@ while(page_num <=5):
     days = soup.select(" .td_day > .count")
     target = soup.select(".hashtag")
     for i in range(len(days)):
-        dday = days[i].text
-        dday = int(dday.split('-')[-1])
-        today = date.today()
-        day_tmp = datetime.timedelta(days=dday)
-        dday = str(today - day_tmp)
-        year, month, day = dday.split('-')
-        dday = year+'. '+month+'. '+day
-        dday_bef.append((dday))
+        dday_bef.append((days[i].text))
         tag_tmp = ((target[i].get_text()).replace("#", "").replace("\n", " "))
         tag_tmp = tag_tmp.strip()
         tag_tmp = tag_tmp.split(" ")
@@ -47,7 +43,7 @@ while(page_num <=5):
     page_num += 1  
 
 
-# In[3]:
+# In[4]:
 
 
 link_test = []
@@ -64,7 +60,7 @@ while(page_num <=5):
     page_num += 1    
 
 
-# In[4]:
+# In[5]:
 
 
 #링크 추출
@@ -75,7 +71,7 @@ for t in range(len(link_test)):
     link_bef.append(link_ver1)
 
 
-# In[5]:
+# In[6]:
 
 
 # 행사 이름
@@ -85,7 +81,7 @@ for t in range(len(link_test)):
     titles_bef.append(title_name)
 
 
-# In[6]:
+# In[7]:
 
 
 # {"id":2,"first_name":"Brion","last_name":"Bonelle","email":"bbonelle1@mashable.com"}
@@ -99,8 +95,15 @@ for i in range(len(titles_bef)):
 # In[8]:
 
 
+dream = pd.DataFrame(dream_spon)
+dream
+
+
+# In[9]:
+
+
 import json
 
-with open('장학금.json', 'w', encoding="utf-8") as make_file: 
+with open('dream_spon.json', 'w', encoding="utf-8") as make_file: 
     json.dump(dream_spon, make_file, ensure_ascii = False, indent="\t")
 
