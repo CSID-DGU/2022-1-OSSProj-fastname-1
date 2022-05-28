@@ -21,6 +21,12 @@
     xhttp.onreadystatechange = function() { 
         if(this.readyState == 4 && this.status == 200) { 
             let storage = JSON.parse(this.response); 
+            var temp =[];         
+            for(i in storage){
+                if (storage[i].tag == "대학생") {
+                    temp.append(storage[i]);
+                }
+            } // temp
             for(i in storage) { 
                 let tr = document.createElement('tr'); 
                     let td = document.createElement('td'); 
