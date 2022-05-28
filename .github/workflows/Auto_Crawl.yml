@@ -22,7 +22,7 @@ jobs:
 
     env:
 
-      working-directory: ./app/crawl temp/crawl .py files
+      working-directory: ./crawl temp/crawl .py files
 
     steps:
 

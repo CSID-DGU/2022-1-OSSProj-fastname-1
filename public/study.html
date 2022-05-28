@@ -1,0 +1,66 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+    <meta charset="UTF-8"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <meta http-equiv="X-UA-Compatible" content="ie=edge"> 
+    <title>JSON!!</title> 
+    <style> 
+    table { 
+        border-collapse: collapse; 
+    } 
+    td { 
+        border:1px solid black; 
+    } 
+    </style> 
+</head> 
+
+<script> 
+    let xhttp = new XMLHttpRequest(); 
+    xhttp.open("GET", "json/스터디.json", true); 
+    xhttp.onreadystatechange = function() { 
+        if(this.readyState == 4 && this.status == 200) { 
+            let storage = JSON.parse(this.response); 
+            for(i in storage) { 
+                let tr = document.createElement('tr'); 
+                    let td = document.createElement('td'); 
+                    td.innerHTML = storage[i].title; 
+                    tr.appendChild(td); 
+                    let td2 = document.createElement('td');
+                    td2.innerHTML = storage[i].dday; 
+                    tr.appendChild(td2);
+                    let td3 = document.createElement('td');
+                    td3.innerHTML = storage[i].link; 
+                    tr.appendChild(td3); 
+                document.querySelector("tbody").appendChild(tr); 
+            } 
+        } 
+    }; 
+    xhttp.send(); 
+</script>
+
+
+<body> 
+    <table> 
+        <thead> 
+            <tr> 
+                <th>제목</th> 
+                <th>날짜</th> 
+                <th>링크</th> 
+            </tr> 
+        </thead> 
+        <tfoot> 
+            <tr> 
+                <td>제목</td> 
+                <td>날짜</td> 
+                <td>링크</td> 
+            </tr> 
+        </tfoot> 
+        <tbody> 
+
+        </tbody> 
+    </table> 
+</body> 
+</html>
+
+<script> self.resizeTo(document.body.scrollWidth, document.body.scrollHeight+10); </script>
