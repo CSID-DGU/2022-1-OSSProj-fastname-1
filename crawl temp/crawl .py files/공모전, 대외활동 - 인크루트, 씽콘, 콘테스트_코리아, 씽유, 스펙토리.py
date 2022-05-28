@@ -47,7 +47,7 @@ for i in range(1,13):
         break
 
 
-# In[7]:
+# In[3]:
 
 
 inc_start_bef=[]
@@ -58,7 +58,7 @@ for inc_term in inc_terms:
     inc_end_bef.append('20'+inc_end_day.replace('.','. '))
 
 
-# In[5]:
+# In[4]:
 
 
 # 공모전 콘테스트 코리아
@@ -111,7 +111,7 @@ for n in range(1, 6):
             ck_tag.append(tmp)
 
 
-# In[9]:
+# In[5]:
 
 
 # 공모전 씽콘
@@ -190,7 +190,7 @@ for i in range(len(tc_links)):
     tc_inst.append(soup.select(' tbody > tr > td ')[0].text)
 
 
-# In[8]:
+# In[6]:
 
 
 gongmo = []
@@ -208,7 +208,7 @@ for i in range(len(tc_links)):
     gongmo.append(li_tmp)
 
 
-# In[11]:
+# In[7]:
 
 
 d_title = []
@@ -275,7 +275,7 @@ for i in range (1, 3):
     
 
 
-# In[42]:
+# In[8]:
 
 
 for i in range(len(d_title)):
@@ -283,7 +283,7 @@ for i in range(len(d_title)):
     gongmo.append(li_tmp)
 
 
-# In[14]:
+# In[9]:
 
 
 # 씽유: 접수중
@@ -347,7 +347,7 @@ for i in range(len(title)):
     gongmo.append(li_tmp)
 
 
-# In[16]:
+# In[10]:
 
 
 # 대외활동 스펙토리
@@ -412,7 +412,7 @@ for i in range(len(sp_titles)):
     gongmo.append(li_tmp)
 
 
-# In[66]:
+# In[11]:
 
 
 df = pd.DataFrame(gongmo)
@@ -421,7 +421,7 @@ df = df.drop_duplicates(['title'], keep='first')
 # 294 -> 212 중복제거
 
 
-# In[69]:
+# In[12]:
 
 
 titles = []
@@ -445,7 +445,7 @@ for i in range(len(titles)):
     gongmo_final.append(li_tmp)
 
 
-# In[70]:
+# In[13]:
 
 
 with open('공모전.json', 'w', encoding='UTF-8') as file:

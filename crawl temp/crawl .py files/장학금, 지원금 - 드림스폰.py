@@ -96,13 +96,6 @@ for i in range(len(titles_bef)):
     dream_spon.append(li_tmp)
 
 
-# In[7]:
-
-
-dream = pd.DataFrame(dream_spon)
-dream
-
-
 # In[8]:
 
 

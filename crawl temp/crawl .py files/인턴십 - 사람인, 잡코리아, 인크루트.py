@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+# In[2]:
 
 
 import pandas as pd
@@ -18,7 +18,7 @@ import requests
 context=ssl._create_unverified_context()
 
 
-# In[ ]:
+# In[3]:
 
 
 # title, company, link, tag, dday
@@ -123,7 +123,7 @@ for i in range(1, 10):
             break
 
 
-# In[156]:
+# In[4]:
 
 
 intern = []
@@ -133,7 +133,7 @@ for i in range(len(titles)):
     intern.append(li_tmp)
 
 
-# In[123]:
+# In[5]:
 
 
 # 인크루트
@@ -157,11 +157,13 @@ for i in range (1, page_num+1):
     soup = BeautifulSoup(res,'html.parser')
     
     for j in range(0, 60):
+        
         try:
             title = soup.select('.cl_top > a')[j+ 1].text
             link = soup.select('.cl_top > a')[j+ 1]['href']  
             company = soup.select('.cl_top > a')[j].text
-            tag = soup.select('.cl_btm')[j*3 + 1].text
+            tag = soup.select('.cl_btm')[j*3 + 1].text.replace('\n', '')
+            tag = tag.split(', ')
             dday = soup.select('.cl_btm')[j*3 + 2].text
             if '채용시' in dday or '마감' in dday or '상시' in dday:
                 dday = dday.split('(')[0]
@@ -182,7 +184,7 @@ for i in range(len(titles)):
     intern.append(li_tmp)
 
 
-# In[177]:
+# In[6]:
 
 
 # 잡코리아
@@ -280,8 +282,9 @@ for i in range(1, 10):
             title = box.select('a')[0].text
             company = soup.select('td.tplCo > a')[j].text
             link = 'https://www.jobkorea.co.kr/'+box.select('a')[0]['href']
-            dday = soup.select('td.odd > span.date.dotum')[j].text
             tag = box.select('.dsc')[0].text
+            tag = tag.split(', ')
+            dday = soup.select('td.odd > span.date.dotum')[j].text
             if '상시채용' in dday or '오늘마감' in dday or '내일마감' in dday:
                 dday = dday
             else:
@@ -301,7 +304,42 @@ for i in range(len(titles)):
     intern.append(li_tmp)  
 
 
-# In[125]:
+# In[ ]:
+
+
+df = pd.DataFrame(intern)
+df = df.drop_duplicates(['title'], keep='first')
+df = df.reset_index(drop=True)
+
+
+# In[17]:
+
+
+titles = []
+ddays = []
+links = []
+companies= []
+tags = []
+intern = []
+
+for i in range(len(df)):
+        title = df.iloc[i][0]
+        dday = df.iloc[i][1]
+        link = df.iloc[i][2]
+        company = df.iloc[i][3]
+        tag= df.iloc[i][4]
+        titles.append(title)
+        ddays.append(dday)
+        links.append(link)
+        companies.append(company)
+        tags.append(tag)
+
+for i in range(len(titles)):
+    li_tmp = {"title": titles[i], "dday": ddays[i], "link": links[i], "company": companies[i], "tag": tags[i]}
+    intern.append(li_tmp)
+
+
+# In[18]:
 
 
 with open('인턴십.json', 'w', encoding='UTF-8') as file:
