@@ -43,12 +43,15 @@ webpage = urlopen(base_url,context=context)
 soup = BeautifulSoup(webpage, 'html.parser')
 for i in range(1,13):
     try:
+<<<<<<< HEAD:crawl temp/crawl .py files/공모전, 대외활동 - 인크루트, 씽콘, 콘테스트_코리아, 씽유, 스펙토리.py
 <<<<<<< HEAD:app/crawl temp/crawl .py files/공모전, 대외활동 - 인크루트, 씽콘, 콘테스트_코리아, 씽유.py
         inc_title.append(soup.select('#tbdyGmScrap > tr:nth-child('+str(i)+') > td.gmtitle > ul > a')[0].get_text())
         inc_host.append(soup.select('#tbdyGmScrap > tr:nth-child('+str(i)+') > td.company')[0].get_text().lstrip('\r\n\t\t\t\t\t\t\t').strip('\r\n\t\t\t\t\t\t\t'))
         inc_terms.append(soup.select('#tbdyGmScrap > tr:nth-child('+str(i)+') > td.due')[0].get_text())
         inc_links.append(soup.select('#tbdyGmScrap > tr:nth-child('+str(i)+') > td.gmtitle > ul > a')[0].get('href'))
 =======
+=======
+>>>>>>> upstream/test:crawl temp/crawl .py files/공모전, 대외활동 - 인크루트, 씽콘, 콘테스트_코리아, 씽유, 스펙토리.py
         inc_host.append(soup.select('#tbdyGmScrap > tr:nth-child('+str(i)+') > td.company')[0].get_text().lstrip('\r\n\t\t\t\t\t\t\t').strip('\r\n\t\t\t\t\t\t\t'))
         inc_terms.append(soup.select('#tbdyGmScrap > tr:nth-child('+str(i)+') > td.due')[0].get_text())
         inc_link_tmp = soup.select('#tbdyGmScrap > tr:nth-child('+str(i)+') > td.gmtitle > ul > a')[0].get('href')
@@ -57,16 +60,23 @@ for i in range(1,13):
         tmp_soup = BeautifulSoup(inc_link_tmp, 'html.parser')
         inc_title.append(tmp_soup.select('h3.job_new_top_title')[0].get_text().rstrip().lstrip())
         
+<<<<<<< HEAD:crawl temp/crawl .py files/공모전, 대외활동 - 인크루트, 씽콘, 콘테스트_코리아, 씽유, 스펙토리.py
 >>>>>>> 437e7449bf80d877a14593fed9f8d21266e43856:crawl temp/crawl .py files/공모전, 대외활동 - 인크루트, 씽콘, 콘테스트_코리아, 씽유, 스펙토리.py
+=======
+>>>>>>> upstream/test:crawl temp/crawl .py files/공모전, 대외활동 - 인크루트, 씽콘, 콘테스트_코리아, 씽유, 스펙토리.py
     except:
         break
 
 
+<<<<<<< HEAD:crawl temp/crawl .py files/공모전, 대외활동 - 인크루트, 씽콘, 콘테스트_코리아, 씽유, 스펙토리.py
 <<<<<<< HEAD:app/crawl temp/crawl .py files/공모전, 대외활동 - 인크루트, 씽콘, 콘테스트_코리아, 씽유.py
 # In[9]:
 =======
 # In[36]:
 >>>>>>> 437e7449bf80d877a14593fed9f8d21266e43856:crawl temp/crawl .py files/공모전, 대외활동 - 인크루트, 씽콘, 콘테스트_코리아, 씽유, 스펙토리.py
+=======
+# In[3]:
+>>>>>>> upstream/test:crawl temp/crawl .py files/공모전, 대외활동 - 인크루트, 씽콘, 콘테스트_코리아, 씽유, 스펙토리.py
 
 
 inc_start_bef=[]
@@ -108,7 +118,9 @@ for n in range(1, 6):
                 if any(word in li_target for word in ck_target):
                     li_title = li.select('li > div.title > a > span.txt')[num].get_text()
                     li_date_tmp = li.select('li > div.date > div > span.step-1')[num].text
-                    li_date = li_date_tmp.replace("\n", "").replace("\t", "")
+                    li_date = li_date_tmp.replace("\n", "").replace("\t", "").split('~')[-1]
+                    li_date1, lidate2 = li_date.split('.')
+                    li_date = '2022. '+li_date1+'. '+lidate2
                     link_tmp = li.select('li > div.title > a')[num]
                     link_tmp = link_tmp['href']               
                     ck_title.append(li_title)
@@ -207,17 +219,23 @@ for i in range(len(tc_links)):
     strdate = start.findall(text)[0].split('<td>')[1]
     end = re.compile('접수기간' + '.{32}')
     enddate = end.findall(text)[0].split('~')[1].replace(' ', '')
+    enddate1, enddate2, enddate3 = enddate.split('-')
+    enddate = enddate1+'. '+enddate2+'. '+enddate3
     participate.append(participant)
     str_date.append(strdate)
     end_date.append(enddate)
     tc_inst.append(soup.select(' tbody > tr > td ')[0].text)
 
 
+<<<<<<< HEAD:crawl temp/crawl .py files/공모전, 대외활동 - 인크루트, 씽콘, 콘테스트_코리아, 씽유, 스펙토리.py
 <<<<<<< HEAD:app/crawl temp/crawl .py files/공모전, 대외활동 - 인크루트, 씽콘, 콘테스트_코리아, 씽유.py
 # In[12]:
 =======
 # In[39]:
 >>>>>>> 437e7449bf80d877a14593fed9f8d21266e43856:crawl temp/crawl .py files/공모전, 대외활동 - 인크루트, 씽콘, 콘테스트_코리아, 씽유, 스펙토리.py
+=======
+# In[6]:
+>>>>>>> upstream/test:crawl temp/crawl .py files/공모전, 대외활동 - 인크루트, 씽콘, 콘테스트_코리아, 씽유, 스펙토리.py
 
 
 gongmo = []
@@ -235,11 +253,15 @@ for i in range(len(tc_links)):
     gongmo.append(li_tmp)
 
 
+<<<<<<< HEAD:crawl temp/crawl .py files/공모전, 대외활동 - 인크루트, 씽콘, 콘테스트_코리아, 씽유, 스펙토리.py
 <<<<<<< HEAD:app/crawl temp/crawl .py files/공모전, 대외활동 - 인크루트, 씽콘, 콘테스트_코리아, 씽유.py
 # In[13]:
 =======
 # In[40]:
 >>>>>>> 437e7449bf80d877a14593fed9f8d21266e43856:crawl temp/crawl .py files/공모전, 대외활동 - 인크루트, 씽콘, 콘테스트_코리아, 씽유, 스펙토리.py
+=======
+# In[7]:
+>>>>>>> upstream/test:crawl temp/crawl .py files/공모전, 대외활동 - 인크루트, 씽콘, 콘테스트_코리아, 씽유, 스펙토리.py
 
 
 d_title = []
@@ -249,6 +271,7 @@ link = []
 d_date = []
 date = []
 
+<<<<<<< HEAD:crawl temp/crawl .py files/공모전, 대외활동 - 인크루트, 씽콘, 콘테스트_코리아, 씽유, 스펙토리.py
 
 <<<<<<< HEAD:app/crawl temp/crawl .py files/공모전, 대외활동 - 인크루트, 씽콘, 콘테스트_코리아, 씽유.py
 # In[14]:
@@ -257,6 +280,8 @@ date = []
 >>>>>>> 437e7449bf80d877a14593fed9f8d21266e43856:crawl temp/crawl .py files/공모전, 대외활동 - 인크루트, 씽콘, 콘테스트_코리아, 씽유, 스펙토리.py
 
 
+=======
+>>>>>>> upstream/test:crawl temp/crawl .py files/공모전, 대외활동 - 인크루트, 씽콘, 콘테스트_코리아, 씽유, 스펙토리.py
 # 씽유: 마감임박
 for i in range (1, 3):
     cookies = {
@@ -303,7 +328,9 @@ for i in range (1, 3):
     length = soup.select('.title > a')
     for n in range(0, len(length)):
         name, host= soup.select('.title > a')[n].text.replace('\n', '').split('주최 :')
-        start_date, end_date = soup.select('.etc')[2*n].text.split('~')
+        end_date = soup.select('.etc')[2*n].text.split('~')[-1]
+        year, month, day = end_date.split('-')
+        end_date = '2022. '+month+'. '+day
         links = length[n]['href']
         end_date = end_date.lstrip()
         d_date.append(end_date)
@@ -312,11 +339,15 @@ for i in range (1, 3):
     
 
 
+<<<<<<< HEAD:crawl temp/crawl .py files/공모전, 대외활동 - 인크루트, 씽콘, 콘테스트_코리아, 씽유, 스펙토리.py
 <<<<<<< HEAD:app/crawl temp/crawl .py files/공모전, 대외활동 - 인크루트, 씽콘, 콘테스트_코리아, 씽유.py
 # In[15]:
 =======
 # In[42]:
 >>>>>>> 437e7449bf80d877a14593fed9f8d21266e43856:crawl temp/crawl .py files/공모전, 대외활동 - 인크루트, 씽콘, 콘테스트_코리아, 씽유, 스펙토리.py
+=======
+# In[8]:
+>>>>>>> upstream/test:crawl temp/crawl .py files/공모전, 대외활동 - 인크루트, 씽콘, 콘테스트_코리아, 씽유, 스펙토리.py
 
 
 for i in range(len(d_title)):
@@ -324,11 +355,15 @@ for i in range(len(d_title)):
     gongmo.append(li_tmp)
 
 
+<<<<<<< HEAD:crawl temp/crawl .py files/공모전, 대외활동 - 인크루트, 씽콘, 콘테스트_코리아, 씽유, 스펙토리.py
 <<<<<<< HEAD:app/crawl temp/crawl .py files/공모전, 대외활동 - 인크루트, 씽콘, 콘테스트_코리아, 씽유.py
 # In[16]:
 =======
 # In[43]:
 >>>>>>> 437e7449bf80d877a14593fed9f8d21266e43856:crawl temp/crawl .py files/공모전, 대외활동 - 인크루트, 씽콘, 콘테스트_코리아, 씽유, 스펙토리.py
+=======
+# In[9]:
+>>>>>>> upstream/test:crawl temp/crawl .py files/공모전, 대외활동 - 인크루트, 씽콘, 콘테스트_코리아, 씽유, 스펙토리.py
 
 
 # 씽유: 접수중
@@ -378,7 +413,9 @@ for i in range (1, 3):
     length = soup.select('.title > a')
     for n in range(0, len(length)):
         name, host= soup.select('.title > a')[n].text.replace('\n', '').split('주최 :')
-        start_date, end_date = soup.select('.etc')[2*n].text.split('~')
+        end_date = soup.select('.etc')[2*n].text.split('~')[-1]
+        year, month, day = end_date.split('-')
+        end_date = '2022. '+month+'. '+day
         links = length[n]['href']
         end_date = end_date.lstrip()
         date.append(end_date)
@@ -387,6 +424,7 @@ for i in range (1, 3):
 
 for i in range(len(title)):
     li_tmp = {"title": title[i], "dday": date[i], "link": link[i], "분류": "대외활동"}
+<<<<<<< HEAD:crawl temp/crawl .py files/공모전, 대외활동 - 인크루트, 씽콘, 콘테스트_코리아, 씽유, 스펙토리.py
     gongmo.append(li_tmp)
 
 
@@ -456,6 +494,77 @@ for i in range(len(sp_titles)):
 
 
 # In[66]:
+=======
+    gongmo.append(li_tmp)
+
+
+# In[10]:
+
+
+# 대외활동 스펙토리
+sp_dates = []
+sp_titles = []
+sp_links = []
+
+for i in range(1, 10):
+    cookies = {
+        '_gid': 'GA1.2.2040960810.1652348896',
+        'JSESSIONID': 'D908A4298CE46A3AFBB269C8B62299C5',
+        '_gat_gtag_UA_151252983_1': '1',
+        '_ga': 'GA1.2.1649544576.1651112511',
+        '_ga_E0BZXCDS6N': 'GS1.1.1652515880.7.1.1652517017.0',
+        '_ga_K9LXWP7RN9': 'GS1.1.1652515880.7.1.1652517017.0',
+    }
+
+    headers = {
+        'Accept': '*/*',
+        'Accept-Language': 'ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7',
+        'Connection': 'keep-alive',
+        # Requests sorts cookies= alphabetically
+        # 'Cookie': '_gid=GA1.2.2040960810.1652348896; JSESSIONID=D908A4298CE46A3AFBB269C8B62299C5; _gat_gtag_UA_151252983_1=1; _ga=GA1.2.1649544576.1651112511; _ga_E0BZXCDS6N=GS1.1.1652515880.7.1.1652517017.0; _ga_K9LXWP7RN9=GS1.1.1652515880.7.1.1652517017.0',
+        'Referer': 'http://www.spectory.net/activities?page=1&cat=%EB%8C%80%ED%95%99%EC%83%9D&prefix=info-target&searchDate=latest',
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36',
+        'X-Requested-With': 'XMLHttpRequest',
+    }
+
+    params = {
+        '__n': '1652517017745',
+        'siteType': '대외활동',
+        'categoryPrefix': 'info-target',
+        'categoryName': '대학생',
+        'searchDate': 'latest',
+        'page': '1',
+        'rows': '10',
+    }
+
+    response = requests.get('http://www.spectory.net/api/portal/contest', params=params, cookies=cookies, headers=headers, verify=False)
+
+    html = response.text
+    dict = json.loads(html)
+    df = json_normalize(dict['data'])
+    df = df.drop(['premium', 'created', 'modified', 'startDate', 'siteType', 'bannerImage', 'level', 'bannerEndDate', 'scrapCount', 'infoAttachementPoster'], axis=1)
+    df = df[['name', 'endDate', 'contestId', 'sponsorName', 'category']]
+
+    for i in range(0, 10):
+        title = df.iloc[i][0]
+        date = df.iloc[i][1]
+        date = date.replace('00:00', '')
+        date = str(date)
+        year, month, day = date.split('-')
+        date = year+'. '+month+'. '+day
+        link = df.iloc[i][2]
+        link = 'http://www.spectory.net/activities/detail?pid='+str(link)+'&cat=%EB%8C%80%ED%95%99%EC%83%9D&prefix=info-target&searchDate=latest'
+        sp_titles.append(title)
+        sp_dates.append(date)
+        sp_links.append(link)
+
+for i in range(len(sp_titles)):
+    li_tmp = {"title": sp_titles[i], "dday": sp_dates[i], "link": sp_links[i], "분류": "대외활동"}
+    gongmo.append(li_tmp)
+
+
+# In[11]:
+>>>>>>> upstream/test:crawl temp/crawl .py files/공모전, 대외활동 - 인크루트, 씽콘, 콘테스트_코리아, 씽유, 스펙토리.py
 
 
 df = pd.DataFrame(gongmo)
@@ -464,7 +573,11 @@ df = df.drop_duplicates(['title'], keep='first')
 # 294 -> 212 중복제거
 
 
+<<<<<<< HEAD:crawl temp/crawl .py files/공모전, 대외활동 - 인크루트, 씽콘, 콘테스트_코리아, 씽유, 스펙토리.py
 # In[69]:
+=======
+# In[12]:
+>>>>>>> upstream/test:crawl temp/crawl .py files/공모전, 대외활동 - 인크루트, 씽콘, 콘테스트_코리아, 씽유, 스펙토리.py
 
 
 titles = []
@@ -488,8 +601,12 @@ for i in range(len(titles)):
     gongmo_final.append(li_tmp)
 
 
+<<<<<<< HEAD:crawl temp/crawl .py files/공모전, 대외활동 - 인크루트, 씽콘, 콘테스트_코리아, 씽유, 스펙토리.py
 # In[70]:
 >>>>>>> 437e7449bf80d877a14593fed9f8d21266e43856:crawl temp/crawl .py files/공모전, 대외활동 - 인크루트, 씽콘, 콘테스트_코리아, 씽유, 스펙토리.py
+=======
+# In[13]:
+>>>>>>> upstream/test:crawl temp/crawl .py files/공모전, 대외활동 - 인크루트, 씽콘, 콘테스트_코리아, 씽유, 스펙토리.py
 
 
 with open('공모전.json', 'w', encoding='UTF-8') as file:
