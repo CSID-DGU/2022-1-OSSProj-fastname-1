@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[34]:
+# In[1]:
 
 
 import pandas as pd
@@ -18,7 +18,7 @@ import requests
 context=ssl._create_unverified_context()
 
 
-# In[35]:
+# In[2]:
 
 
 # 공모전 인크루트
@@ -47,7 +47,7 @@ for i in range(1,13):
         break
 
 
-# In[36]:
+# In[3]:
 
 
 inc_start_bef=[]
@@ -58,7 +58,7 @@ for inc_term in inc_terms:
     inc_end_bef.append('20'+inc_end_day.replace('.','. '))
 
 
-# In[37]:
+# In[4]:
 
 
 # 공모전 콘테스트 코리아
@@ -85,7 +85,9 @@ for n in range(1, 6):
                 if any(word in li_target for word in ck_target):
                     li_title = li.select('li > div.title > a > span.txt')[num].get_text()
                     li_date_tmp = li.select('li > div.date > div > span.step-1')[num].text
-                    li_date = li_date_tmp.replace("\n", "").replace("\t", "")
+                    li_date = li_date_tmp.replace("\n", "").replace("\t", "").split('~')[-1]
+                    li_date1, lidate2 = li_date.split('.')
+                    li_date = '2022. '+li_date1+'. '+lidate2
                     link_tmp = li.select('li > div.title > a')[num]
                     link_tmp = link_tmp['href']               
                     ck_title.append(li_title)
@@ -109,7 +111,7 @@ for n in range(1, 6):
             ck_tag.append(tmp)
 
 
-# In[38]:
+# In[5]:
 
 
 # 공모전 씽콘
@@ -180,13 +182,15 @@ for i in range(len(tc_links)):
     strdate = start.findall(text)[0].split('<td>')[1]
     end = re.compile('접수기간' + '.{32}')
     enddate = end.findall(text)[0].split('~')[1].replace(' ', '')
+    enddate1, enddate2, enddate3 = enddate.split('-')
+    enddate = enddate1+'. '+enddate2+'. '+enddate3
     participate.append(participant)
     str_date.append(strdate)
     end_date.append(enddate)
     tc_inst.append(soup.select(' tbody > tr > td ')[0].text)
 
 
-# In[39]:
+# In[6]:
 
 
 gongmo = []
@@ -204,7 +208,7 @@ for i in range(len(tc_links)):
     gongmo.append(li_tmp)
 
 
-# In[40]:
+# In[7]:
 
 
 d_title = []
@@ -213,10 +217,6 @@ d_link = []
 link = []
 d_date = []
 date = []
-
-
-# In[41]:
-
 
 # 씽유: 마감임박
 for i in range (1, 3):
@@ -264,7 +264,9 @@ for i in range (1, 3):
     length = soup.select('.title > a')
     for n in range(0, len(length)):
         name, host= soup.select('.title > a')[n].text.replace('\n', '').split('주최 :')
-        start_date, end_date = soup.select('.etc')[2*n].text.split('~')
+        end_date = soup.select('.etc')[2*n].text.split('~')[-1]
+        year, month, day = end_date.split('-')
+        end_date = '2022. '+month+'. '+day
         links = length[n]['href']
         end_date = end_date.lstrip()
         d_date.append(end_date)
@@ -273,7 +275,7 @@ for i in range (1, 3):
     
 
 
-# In[42]:
+# In[8]:
 
 
 for i in range(len(d_title)):
@@ -281,7 +283,7 @@ for i in range(len(d_title)):
     gongmo.append(li_tmp)
 
 
-# In[43]:
+# In[9]:
 
 
 # 씽유: 접수중
@@ -331,7 +333,9 @@ for i in range (1, 3):
     length = soup.select('.title > a')
     for n in range(0, len(length)):
         name, host= soup.select('.title > a')[n].text.replace('\n', '').split('주최 :')
-        start_date, end_date = soup.select('.etc')[2*n].text.split('~')
+        end_date = soup.select('.etc')[2*n].text.split('~')[-1]
+        year, month, day = end_date.split('-')
+        end_date = '2022. '+month+'. '+day
         links = length[n]['href']
         end_date = end_date.lstrip()
         date.append(end_date)
@@ -343,7 +347,7 @@ for i in range(len(title)):
     gongmo.append(li_tmp)
 
 
-# In[44]:
+# In[10]:
 
 
 # 대외활동 스펙토리
@@ -394,6 +398,9 @@ for i in range(1, 10):
         title = df.iloc[i][0]
         date = df.iloc[i][1]
         date = date.replace('00:00', '')
+        date = str(date)
+        year, month, day = date.split('-')
+        date = year+'. '+month+'. '+day
         link = df.iloc[i][2]
         link = 'http://www.spectory.net/activities/detail?pid='+str(link)+'&cat=%EB%8C%80%ED%95%99%EC%83%9D&prefix=info-target&searchDate=latest'
         sp_titles.append(title)
@@ -405,7 +412,7 @@ for i in range(len(sp_titles)):
     gongmo.append(li_tmp)
 
 
-# In[66]:
+# In[11]:
 
 
 df = pd.DataFrame(gongmo)
@@ -414,7 +421,7 @@ df = df.drop_duplicates(['title'], keep='first')
 # 294 -> 212 중복제거
 
 
-# In[69]:
+# In[12]:
 
 
 titles = []
@@ -438,9 +445,9 @@ for i in range(len(titles)):
     gongmo_final.append(li_tmp)
 
 
-# In[70]:
+# In[13]:
 
 
-with open('공모전.json', 'w', encoding='UTF-8') as file:
+with open('../json 결과/공모전.json', 'w', encoding='UTF-8') as file:
      file.write(json.dumps(gongmo_final, ensure_ascii=False, indent="\t"))
 
