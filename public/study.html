@@ -17,7 +17,7 @@
 
 <script> 
     let xhttp = new XMLHttpRequest(); 
-    xhttp.open("GET", "json/스터디.json", true); 
+    xhttp.open("GET", "json 결과/스터디.json", true); 
     xhttp.onreadystatechange = function() { 
         if(this.readyState == 4 && this.status == 200) { 
             let storage = JSON.parse(this.response); 
@@ -25,13 +25,13 @@
                 let tr = document.createElement('tr'); 
                     let td = document.createElement('td'); 
                     td.innerHTML = storage[i].title; 
+                    td.setAttribute("title", storage[i].link); // 마우스 오버 시 링크(추후 태그 필요하면 수정) 출력
+                    Link = storage[i].link; 
+                    td.addEventListener("click", function() {location.href = Link;}); // 제목 클릭 시 링크로 이동
                     tr.appendChild(td); 
                     let td2 = document.createElement('td');
                     td2.innerHTML = storage[i].dday; 
-                    tr.appendChild(td2);
-                    let td3 = document.createElement('td');
-                    td3.innerHTML = storage[i].link; 
-                    tr.appendChild(td3); 
+                    tr.appendChild(td2); 
                 document.querySelector("tbody").appendChild(tr); 
             } 
         } 
@@ -41,19 +41,17 @@
 
 
 <body> 
-    <table> 
+    <table style="table-layout: auto; width: 100%; table-layout: fixed;"> 
         <thead> 
             <tr> 
-                <th>제목</th> 
-                <th>날짜</th> 
-                <th>링크</th> 
+                <th width = "80%">제목</th> 
+                <th width = "20%">날짜</th> 
             </tr> 
         </thead> 
         <tfoot> 
             <tr> 
-                <td>제목</td> 
-                <td>날짜</td> 
-                <td>링크</td> 
+                <td width = "80%">제목</td> 
+                <td width = "20%">날짜</td>  
             </tr> 
         </tfoot> 
         <tbody> 
@@ -62,5 +60,3 @@
     </table> 
 </body> 
 </html>
-
-<script> self.resizeTo(document.body.scrollWidth, document.body.scrollHeight+10); </script>

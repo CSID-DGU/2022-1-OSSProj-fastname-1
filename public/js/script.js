@@ -108,11 +108,7 @@
 	******/
 	$('#top').click(function(){
 		$('html, body').animate({scrollTop: '0px'}, 300);
-<<<<<<< HEAD
     });
 
 	// get checkbox value
 	var check =$("input[type='checkbox']:checked").val();
-=======
-    });
->>>>>>> upstream/test
