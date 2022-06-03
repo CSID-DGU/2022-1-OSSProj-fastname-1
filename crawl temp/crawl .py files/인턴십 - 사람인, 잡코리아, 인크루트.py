@@ -342,6 +342,6 @@ for i in range(len(titles)):
 # In[18]:
 
 
-with open('인턴십.json', 'w', encoding='UTF-8') as file:
+with open('../json 결과/인턴십.json', 'w', encoding='UTF-8') as file:
      file.write(json.dumps(intern, ensure_ascii=False, indent="\t"))
 

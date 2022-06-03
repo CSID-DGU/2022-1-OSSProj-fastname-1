@@ -11,16 +11,8 @@ import requests
 from bs4 import BeautifulSoup
 import urllib.request
 import ssl
-<<<<<<< HEAD:crawl temp/crawl .py files/장학금, 지원금 - 드림스폰.py
-
-
-# In[2]:
-
-
-=======
 import datetime
 from datetime import date, timedelta
->>>>>>> upstream/test:crawl temp/crawl .py files/장학금, 지원금 - 드림스폰.py
 from dateutil.parser import parse
 from urllib.request import urlopen
 context=ssl._create_unverified_context()
@@ -109,6 +101,6 @@ for i in range(len(titles_bef)):
 
 import json
 
-with open('장학금.json', 'w', encoding="utf-8") as make_file: 
+with open('../json 결과/장학금.json', 'w', encoding="utf-8") as make_file: 
     json.dump(dream_spon, make_file, ensure_ascii = False, indent="\t")
 
