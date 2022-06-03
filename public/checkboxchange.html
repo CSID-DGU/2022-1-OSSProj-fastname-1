@@ -1,0 +1,26 @@
+<input type="checkbox" id="box1" name="checkboxFamily"> ... 
+<input type="checkbox" id="box2" name="checkboxFamily"> ... 
+<input type="checkbox" id="box3" name="checkboxFamily"> ... 
+<input type="checkbox" id="box4" name="checkboxFamily"> ... 
+
+<input type="radio" id="radio1" name="radioFamily" value="S"> ... 
+<input type="radio" id="radio2" name="radioFamily" value="H"> ... 
+<input type="radio" id="radio3" name="radioFamily" value="K"> ... 
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script>
+    $("input:checkbox[name='checkboxFamily']").change(function() {
+    console.log("checkbox changed .. value : " + $(this).val());
+    //TODO
+});
+
+$("input:radio[name=radioFamily]").click(function() {
+    $("input:checkbox[id='box1']").prop("checked", true);
+});
+
+$("input:radio[name=radioFamily]").click(function() {
+    $("input:checkbox[id='box1']").prop("checked", true);
+    $("input:checkbox[id='box1']").change();
+});
+
+</script>

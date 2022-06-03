@@ -1,7 +1,6 @@
 <link href='/css/style.css' rel='stylesheet' type='text/css'>
 
 <!--side.scss -->
-
 <!--side.scss -->
 
 
@@ -52,55 +51,97 @@
             </label>
          </div> -->
 
+
+    <!-- 검색필터 선택 -->
+    <!-- <label for = "age10">
+      <input type="checkbox" id="age10" name="job_category_label" value="1" onchange="makeFilter(this);"/>
+      서버/백엔드 (value=1)
+    </label>
+    <label for = "age20">
+      <input type="checkbox" id="age20" name="job_category_label" value="2" onchange="makeFilter(this);"/>
+      프론트엔드 (value=2)</label>
+    <label for = "age30">
+      <input type="checkbox" id="age30" name="job_category_label" value="3" onchange="makeFilter(this);"/>
+      웹 풀스택 (value=3)</label>
+    <input type="checkbox" id="age40" name="job_category_label" value="4" onchange="makeFilter(this);"/>
+    <label for = "age40">인공지능(AI) (value=4)</label>
+    <input type="checkbox" id="age50" name="job_category_label" value="5" onchange="makeFilter(this);"/>
+    <label for = "age50">사물인터넷(IoT) (value=5)</label>
+    <input type="checkbox" id="age60" name="job_category_label" value="6" onchange="makeFilter(this);"/>
+    <label for = "age60">데이터 엔지니어 (value=6)</label> -->
+
+
+
+
          <div class="dropdown-menu dropdown-filter _1TqFIvlqEwjbBa93zFCKhf show" x-placement="top-start" 
          style="position:absolute; will-change: transform; top: 50px; left: 100px; transform: translate3d(0px, 42px, 0px);"
-         >키워드 분류<ul class="_3Fb6jzPc2ceEcuAQu6GO7B"><li class="dropdown-item"><label class="job_category_label"><input type="checkbox" value="1">
-            서버/백엔드
-          </label></li><li class="dropdown-item"><label class="job_category_label"><input type="checkbox" value="4">
-            프론트엔드
-          </label></li><li class="dropdown-item"><label class="job_category_label"><input type="checkbox" value="25">
-            웹 풀스택
-          </label></li><li class="dropdown-item"><label class="job_category_label"><input type="checkbox" value="2">
-            안드로이드 앱
-          </label></li><li class="dropdown-item"><label class="job_category_label"><input type="checkbox" value="3">
-            아이폰 앱
-          </label></li><li class="dropdown-item"><label class="job_category_label"><input type="checkbox" value="5">
-            머신러닝
-          </label></li><li class="dropdown-item"><label class="job_category_label"><input type="checkbox" value="11">
-            인공지능(AI)
-          </label></li><li class="dropdown-item"><label class="job_category_label"><input type="checkbox" value="12">
-            데이터 엔지니어
-          </label></li><li class="dropdown-item"><label class="job_category_label"><input type="checkbox" value="92">
-            DBA
-          </label></li><li class="dropdown-item"><label class="job_category_label"><input type="checkbox" value="7">
-            모바일 게임
-          </label></li><li class="dropdown-item"><label class="job_category_label"><input type="checkbox" value="16">
-            게임 클라이언트
-          </label></li><li class="dropdown-item"><label class="job_category_label"><input type="checkbox" value="20">
-            게임 서버
-          </label></li><li class="dropdown-item"><label class="job_category_label"><input type="checkbox" value="9">
-            시스템/네트워크
-          </label></li><li class="dropdown-item"><label class="job_category_label"><input type="checkbox" value="18">
-            시스템 소프트웨어
-          </label></li><li class="dropdown-item"><label class="job_category_label"><input type="checkbox" value="59">
-            데브옵스
-          </label></li><li class="dropdown-item"><label class="job_category_label"><input type="checkbox" value="22">
-            인터넷 보안
-          </label></li><li class="dropdown-item"><label class="job_category_label"><input type="checkbox" value="26">
-            임베디드 소프트웨어
-          </label></li><li class="dropdown-item"><label class="job_category_label"><input type="checkbox" value="27">
-            로보틱스 미들웨어
-          </label></li><li class="dropdown-item"><label class="job_category_label"><input type="checkbox" value="10">
-            QA
-          </label></li><li class="dropdown-item"><label class="job_category_label"><input type="checkbox" value="13">
-            사물인터넷(IoT)
-          </label></li><li class="dropdown-item"><label class="job_category_label"><input type="checkbox" value="17">
-            응용 프로그램
-          </label></li><li class="dropdown-item"><label class="job_category_label"><input type="checkbox" value="6">
-            블록체인
-          </label></li></ul>
-          <button>확인</button>
+         >키워드 분류
+         <ul class="_3Fb6jzPc2ceEcuAQu6GO7B">
+
+          <li class="dropdown-item">
+            <label class="job_category_label"><input type="checkbox" id="element1" name="checkbox_element" value="서버/백엔드" onchange="makeFilter(this);"/>
+              서버/백엔드
+            </label>
+          </li>
+
+          <li class="dropdown-item">
+            <label class="job_category_label"><input type="checkbox" id="element2" name="checkbox_element" value="프론트엔드" onchange="makeFilter(this);"/>
+              프론트엔드
+            </label>
+          </li>
+          
+          <li class="dropdown-item">
+            <label class="job_category_label"><input type="checkbox" id="element3" name="checkbox_element" value="웹 풀스택" onchange="makeFilter(this);"/>
+              웹 풀스택
+            </label>
+          </li>
+          <div>
+            입력값 : <input type="text" id="showFilter"/> <!--필터링 되고있다는 걸 보여주는 확인용, 기능과 무관함 -->
+          </div>
+            <!-- <button onclick="location.href='serverbackend.html'">확인</button> -->
+            <input type="button" onclick="open2()" value="확인" />
+
+         </ul>
+
         </div>
+
+        <!-- 페이지 이동 js -->>
+        <script>
+          function open2(){
+              window.open('index.html', '_self'); 
+              //자기자신 창이 변환된다
+          }
+        </script>
+
+        <!-- 분류기능 JS -->
+        <script>
+          var ageArr = new Array(); //필터 내용을 저장하는 배열
+          var showFilterValue = document.getElementById("showFilter");//필터입력값 보여주기 위한 text
+      
+          //필터 내용을 저장하는 function
+          function makeFilter(target){
+      
+              var ageVal = target.value; //check value
+              var confirmCheck = target.checked; //check여부 확인
+              console.log("필터 선택값 : "+ageVal);
+              console.log("선택여부 : "+confirmCheck);
+      
+              // check true
+              if(confirmCheck == true){
+      
+                  console.log("check");
+                  ageArr.push(ageVal); // check value filter 배열에 입력
+      
+              // check false
+              }else{
+      
+                  ageArr.splice(ageArr.indexOf(ageVal), 1); // check value filter 배열내용 삭제            
+              }
+      
+              showFilterValue.value = ageArr; // textBox에 필터 배열 추가
+              console.log("필터입력값 출력 : "+ageArr);
+          }
+        </script>
           
 
 
@@ -121,7 +162,8 @@
    </div>
 
 <!-- partial -->
-<script src='//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script><script  src="js/script.js"></script>
+<script src='//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+<script  src="js/script.js"></script>
 
 </body>
 </html>
