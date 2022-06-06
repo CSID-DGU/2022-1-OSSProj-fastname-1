@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[2]:
+# In[47]:
 
 
 import pandas as pd
@@ -15,10 +15,11 @@ import ssl
 from dateutil.parser import parse
 import json
 import requests
+from datetime import datetime
 context=ssl._create_unverified_context()
 
 
-# In[3]:
+# In[48]:
 
 
 # title, company, link, tag, dday
@@ -123,7 +124,7 @@ for i in range(1, 10):
             break
 
 
-# In[4]:
+# In[49]:
 
 
 intern = []
@@ -133,7 +134,7 @@ for i in range(len(titles)):
     intern.append(li_tmp)
 
 
-# In[5]:
+# In[50]:
 
 
 # 인크루트
@@ -149,6 +150,8 @@ req = urllib.request.urlopen(url)
 res = req.read()
 soup = BeautifulSoup(res,'html.parser')
 page_num = len(soup.select('#JobList_Area > div:nth-child(2) > p > a'))
+today_month = datetime.today().month
+today_day = datetime.today().day
 
 for i in range (1, page_num+1):
     url = 'https://job.incruit.com/jobdb_list/searchjob.asp?occ1=150&jobty=4&page='+str(i)
@@ -157,11 +160,12 @@ for i in range (1, page_num+1):
     soup = BeautifulSoup(res,'html.parser')
     
     for j in range(0, 60):
-        
+        #JobList_Area > div:nth-child(2) > div.cBbslist_contenst > ul:nth-child(1) > li > div.cell_mid > div.cl_top > a
+        #JobList_Area > div:nth-child(2) > div.cBbslist_contenst > ul:nth-child(1) > li > div.cell_first > div.cl_top > a
         try:
-            title = soup.select('.cl_top > a')[j+ 1].text
-            link = soup.select('.cl_top > a')[j+ 1]['href']  
-            company = soup.select('.cl_top > a')[j].text
+            title = soup.select('.cl_top > a')[j*2+ 1].text
+            link = soup.select('.cl_top > a')[j*2+ 1]['href']  
+            company = soup.select('.cl_top > a')[j*2].text
             tag = soup.select('.cl_btm')[j*3 + 1].text.replace('\n', '')
             tag = tag.split(', ')
             dday = soup.select('.cl_btm')[j*3 + 2].text
@@ -170,7 +174,13 @@ for i in range (1, page_num+1):
             else:
                 dday = dday.replace('~', '').split(' ')[0]
                 month, day = dday.split('.')
-                dday = '2022. '+ month+'. '+day
+                month = int(month)
+                day = int(day)
+                if month < today_month:
+                    dday = '2023. '+ str(month) +'. '+str(day)
+                else:
+                    dday = '2022. '+ str(month)+'. '+str(day)
+
         except:
             break
         titles.append(title)
@@ -184,7 +194,7 @@ for i in range(len(titles)):
     intern.append(li_tmp)
 
 
-# In[6]:
+# In[51]:
 
 
 # 잡코리아
@@ -304,15 +314,16 @@ for i in range(len(titles)):
     intern.append(li_tmp)  
 
 
-# In[ ]:
+# In[52]:
 
 
 df = pd.DataFrame(intern)
 df = df.drop_duplicates(['title'], keep='first')
+df = df.sort_values(by=['dday'])
 df = df.reset_index(drop=True)
 
 
-# In[17]:
+# In[53]:
 
 
 titles = []
@@ -321,27 +332,46 @@ links = []
 companies= []
 tags = []
 intern = []
+new_tags = []
 
 for i in range(len(df)):
-        title = df.iloc[i][0]
-        dday = df.iloc[i][1]
-        link = df.iloc[i][2]
-        company = df.iloc[i][3]
-        tag= df.iloc[i][4]
-        titles.append(title)
-        ddays.append(dday)
-        links.append(link)
-        companies.append(company)
-        tags.append(tag)
+    ttag = []
+    title = df.iloc[i][0]
+    dday = df.iloc[i][1]
+    link = df.iloc[i][2]
+    company = df.iloc[i][3]
+    tag= df.iloc[i][4]
+    for k in tag:
+        if 'iOS' in k or '앱' in k or '게임' in k or '소프트웨어' in k or '응용' in k or '어플리케이션' in k or '아이폰' in k or '안드로이드' in k:        
+            ttag.append('응용')
+        if 'AI' in k or 'IoT' in k or '러닝' in k or '인공지능' in k:         
+            ttag.append('인공지능')
+        if '웹' in k or '엔드' in k or 'HTML' in k or 'web' in k:       
+            ttag.append('웹')
+        if '데이터' in k or 'DB' in k or 'Data' in k:      
+            ttag.append('데이터')
+        if '서버' in k or '블록체인' in k or '보안' in k:
+            ttag.append('서버')
+        if 'Unix' in k or 'Linux' in k or '임베디드' in k or '시스템' in k:
+            ttag.append('시스템')
+    if len(ttag) == 0:
+        ttag.append('기타')
+    result = set(ttag)
+    ttag = list(result)
+    titles.append(title)
+    ddays.append(dday)
+    links.append(link)
+    companies.append(company)
+    tags.append(tag)
+    new_tags.append(ttag)
 
 for i in range(len(titles)):
-    li_tmp = {"title": titles[i], "dday": ddays[i], "link": links[i], "company": companies[i], "tag": tags[i]}
+    li_tmp = {"title": titles[i], "dday": ddays[i], "link": links[i], "company": companies[i], "tag": tags[i], "bigtag":new_tags[i]}
     intern.append(li_tmp)
 
 
-# In[18]:
+# In[54]:
 
 
 with open('../json 결과/인턴십.json', 'w', encoding='UTF-8') as file:
      file.write(json.dumps(intern, ensure_ascii=False, indent="\t"))
-

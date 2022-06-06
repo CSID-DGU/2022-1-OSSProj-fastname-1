@@ -15,6 +15,7 @@ import ssl
 from dateutil.parser import parse
 import json
 import requests
+import re
 context=ssl._create_unverified_context()
 
 
@@ -68,8 +69,8 @@ ck_link = []
 ck_tag = []
 ck_target = ['대학생', '일반인', '누구나']
 
-for n in range(1, 6):
-    url = ('https://www.contestkorea.com/sub/list.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_bcode=030210001&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.int_sort&Txt_sortword=desc&Txt_host=&Txt_tipyn=&Txt_actcode=&page='+str(n))
+for n in range(1, 5):
+    url = ('https://www.contestkorea.com/sub/list.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_bcode=030510001&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.str_aedate&Txt_sortword=asc&Txt_host=&Txt_tipyn=&Txt_actcode=&page='+str(n))
     headers = {'User-Agent': 'Mozilla/5.0'} 
     res = requests.get(url, headers=headers)
     soup = BeautifulSoup(res.content.decode('utf-8', 'replace'), 'html.parser')
@@ -83,7 +84,7 @@ for n in range(1, 6):
             try:
                 li_target = li.select('li > ul > li.icon_2')[num].get_text().replace('\t', '').replace('\n', '')
                 if any(word in li_target for word in ck_target):
-                    li_title = li.select('li > div.title > a > span.txt')[num].get_text()
+                    li_title = li.select('li > div.title > a > span.txt')[num].get_text().rstrip()
                     li_date_tmp = li.select('li > div.date > div > span.step-1')[num].text
                     li_date = li_date_tmp.replace("\n", "").replace("\t", "").split('~')[-1]
                     li_date1, lidate2 = li_date.split('.')
@@ -222,10 +223,11 @@ date = []
 for i in range (1, 3):
     cookies = {
         '_ga': 'GA1.3.435304916.1651484551',
-        'ASPSESSIONIDSQDQCSCD': 'ADPANDLCOBGKHDGDNLALNONC',
-        '_gid': 'GA1.3.1060530810.1652413738',
-        '_gac_UA-163306206-1': '1.1652413738.Cj0KCQjw4PKTBhD8ARIsAHChzRJK1_Tf7OMLmorQhnztqqRBAgrge2dkQDsxtH0O7wbI3pKZgkkRg0QaAlDQEALw_wcB',
-        'wcs_bt': 'fff9f7a878b278:1652413738',
+        '_gac_UA-163306206-1': '1.1652750558.CjwKCAjw7IeUBhBbEiwADhiEMfoaMmZOboD-FjfT1wrOZlothjxgWinwkoFG5jZJc7-v_aAISEcJOhoCyjEQAvD_BwE',
+        'ASPSESSIONIDQQQQCQCB': 'EKDOKNCBNGHLCJLPNNEFINED',
+        '_gid': 'GA1.3.13891504.1654328899',
+        'cConview': '24464=24464',
+        'wcs_bt': 'fff9f7a878b278:1654329071',
     }
 
     headers = {
@@ -234,30 +236,31 @@ for i in range (1, 3):
         'accept-language': 'ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7',
         'content-type': 'application/x-www-form-urlencoded; charset=UTF-8',
         # Requests sorts cookies= alphabetically
-        # 'cookie': '_ga=GA1.3.435304916.1651484551; ASPSESSIONIDSQDQCSCD=ADPANDLCOBGKHDGDNLALNONC; _gid=GA1.3.1060530810.1652413738; _gac_UA-163306206-1=1.1652413738.Cj0KCQjw4PKTBhD8ARIsAHChzRJK1_Tf7OMLmorQhnztqqRBAgrge2dkQDsxtH0O7wbI3pKZgkkRg0QaAlDQEALw_wcB; wcs_bt=fff9f7a878b278:1652413738',
+        # 'cookie': '_ga=GA1.3.435304916.1651484551; _gac_UA-163306206-1=1.1652750558.CjwKCAjw7IeUBhBbEiwADhiEMfoaMmZOboD-FjfT1wrOZlothjxgWinwkoFG5jZJc7-v_aAISEcJOhoCyjEQAvD_BwE; ASPSESSIONIDQQQQCQCB=EKDOKNCBNGHLCJLPNNEFINED; _gid=GA1.3.13891504.1654328899; cConview=24464=24464; wcs_bt=fff9f7a878b278:1654329071',
         'origin': 'https://thinkyou.co.kr',
         'referer': 'https://thinkyou.co.kr/contest/',
-        'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"',
+        'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="102", "Google Chrome";v="102"',
         'sec-ch-ua-mobile': '?0',
         'sec-ch-ua-platform': '"Windows"',
         'sec-fetch-dest': 'empty',
         'sec-fetch-mode': 'cors',
         'sec-fetch-site': 'same-origin',
-        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36',
         'x-requested-with': 'XMLHttpRequest',
     }
 
     data = {
         'pageSize': '35',
-        'page': str(i),
+        'page': '1',
         'serstatus': '0',
-        'serfield': '5,6',
+        'serfield': '5',
         'sertarget': '0',
         'serprizeMoney': '',
         'serdivision': '',
         'seritem': '',
         'searchstr': '',
     }
+
     response = requests.post('https://thinkyou.co.kr/contest/ajax_contestList.asp', cookies=cookies, headers=headers, data=data)
     html = response.text
     soup = BeautifulSoup(html, 'html.parser')
@@ -290,10 +293,11 @@ for i in range(len(d_title)):
 for i in range (1, 3):
     cookies = {
         '_ga': 'GA1.3.435304916.1651484551',
-        'ASPSESSIONIDSQDQCSCD': 'ADPANDLCOBGKHDGDNLALNONC',
-        '_gid': 'GA1.3.1060530810.1652413738',
-        '_gac_UA-163306206-1': '1.1652413738.Cj0KCQjw4PKTBhD8ARIsAHChzRJK1_Tf7OMLmorQhnztqqRBAgrge2dkQDsxtH0O7wbI3pKZgkkRg0QaAlDQEALw_wcB',
-        'wcs_bt': 'fff9f7a878b278:1652413738',
+        '_gac_UA-163306206-1': '1.1652750558.CjwKCAjw7IeUBhBbEiwADhiEMfoaMmZOboD-FjfT1wrOZlothjxgWinwkoFG5jZJc7-v_aAISEcJOhoCyjEQAvD_BwE',
+        'ASPSESSIONIDQQQQCQCB': 'EKDOKNCBNGHLCJLPNNEFINED',
+        '_gid': 'GA1.3.13891504.1654328899',
+        'cConview': '24464=24464',
+        'wcs_bt': 'fff9f7a878b278:1654329071',
     }
 
     headers = {
@@ -302,24 +306,24 @@ for i in range (1, 3):
         'accept-language': 'ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7',
         'content-type': 'application/x-www-form-urlencoded; charset=UTF-8',
         # Requests sorts cookies= alphabetically
-        # 'cookie': '_ga=GA1.3.435304916.1651484551; ASPSESSIONIDSQDQCSCD=ADPANDLCOBGKHDGDNLALNONC; _gid=GA1.3.1060530810.1652413738; _gac_UA-163306206-1=1.1652413738.Cj0KCQjw4PKTBhD8ARIsAHChzRJK1_Tf7OMLmorQhnztqqRBAgrge2dkQDsxtH0O7wbI3pKZgkkRg0QaAlDQEALw_wcB; wcs_bt=fff9f7a878b278:1652413738',
+        # 'cookie': '_ga=GA1.3.435304916.1651484551; _gac_UA-163306206-1=1.1652750558.CjwKCAjw7IeUBhBbEiwADhiEMfoaMmZOboD-FjfT1wrOZlothjxgWinwkoFG5jZJc7-v_aAISEcJOhoCyjEQAvD_BwE; ASPSESSIONIDQQQQCQCB=EKDOKNCBNGHLCJLPNNEFINED; _gid=GA1.3.13891504.1654328899; cConview=24464=24464; wcs_bt=fff9f7a878b278:1654329071',
         'origin': 'https://thinkyou.co.kr',
         'referer': 'https://thinkyou.co.kr/contest/',
-        'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"',
+        'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="102", "Google Chrome";v="102"',
         'sec-ch-ua-mobile': '?0',
         'sec-ch-ua-platform': '"Windows"',
         'sec-fetch-dest': 'empty',
         'sec-fetch-mode': 'cors',
         'sec-fetch-site': 'same-origin',
-        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36',
         'x-requested-with': 'XMLHttpRequest',
     }
 
     data = {
         'pageSize': '35',
-        'page': str(i),
+        'page': '1',
         'serstatus': '1',
-        'serfield': '5,6',
+        'serfield': '5',
         'sertarget': '0',
         'serprizeMoney': '',
         'serdivision': '',
@@ -418,7 +422,16 @@ for i in range(len(sp_titles)):
 df = pd.DataFrame(gongmo)
 df = df.drop(['tag'], axis=1)
 df = df.drop_duplicates(['title'], keep='first')
-# 294 -> 212 중복제거
+df = df.sort_values(by=['분류', 'dday'])
+df = df.reset_index(drop = True)
+
+pattern = r'\[[^)]*\]'
+for i in range(len(df)):
+    tmp = df.iloc[i][0]
+    tmp = re.sub(pattern=pattern, repl = '', string=tmp).strip()
+    df.iloc[i][0] = tmp
+
+df = df.drop_duplicates(['title'], keep='first')
 
 
 # In[12]:
@@ -429,7 +442,7 @@ dday = []
 links = []
 sort= []
 gongmo_final = []
-
+pattern = '[]()'
 for i in range(len(df)):
         gongmo_title = df.iloc[i][0]
         gongmo_dday = df.iloc[i][1]
@@ -440,14 +453,46 @@ for i in range(len(df)):
         links.append(gongmo_link)
         sort.append(gongmo_sort)
 
-for i in range(len(titles)):
-    li_tmp = {"title": titles[i], "dday": dday[i], "link": links[i], "분류": sort[i]}
-    gongmo_final.append(li_tmp)
-
 
 # In[13]:
 
 
+tags = []
+
+for i in range(len(titles)):
+    tag = []
+    tmp = titles[i]
+    if 'iOS' in tmp or '앱' in tmp or '게임' in tmp or '소프트웨어' in tmp or '응용' in tmp:        
+        tag.append('응용')
+        
+    elif 'AI' in tmp or 'IoT' in tmp or '러닝' in tmp or '인공지능' in tmp:         
+        tag.append('인공지능')
+        
+    elif '웹' in tmp or '엔드' in tmp or 'HTML' in tmp or 'web' in tmp:       
+        tag.append('웹')
+        
+    elif '데이터' in tmp or 'DB' in tmp or 'Data' in tmp:      
+        tag.append('데이터')
+        
+    elif '서버' in tmp or '블록체인' in tmp or '보안' in tmp:
+        tag.append('서버')
+        
+    elif 'Unix' in tmp or 'Linux' in tmp or '임베디드' in tmp or '시스템' in tmp:
+        tag.append('시스템')
+        
+    else:
+        tag.append('기타')
+        
+    tags.append(tag)
+
+
+# In[14]:
+
+
+for i in range(len(titles)):
+    li_tmp = {"title": titles[i], "dday": dday[i], "link": links[i], "분류": sort[i], "bigtag": tags[i]}
+    gongmo_final.append(li_tmp)
+    
 with open('../json 결과/공모전.json', 'w', encoding='UTF-8') as file:
      file.write(json.dumps(gongmo_final, ensure_ascii=False, indent="\t"))
 
