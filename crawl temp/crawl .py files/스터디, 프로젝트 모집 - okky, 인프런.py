@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[5]:
+# In[16]:
 
 
 import pandas as pd
@@ -19,7 +19,7 @@ from urllib.request import urlopen
 import ssl
 
 
-# In[6]:
+# In[17]:
 
 
 context = ssl._create_unverified_context()
@@ -54,10 +54,10 @@ for page_num in range(1, 3):
         link = soup.select('.question-list-container > ul > li > a')[i]['href']
         titles.append(title)
         dates.append(dday)
-        links.append('https://www.inflearn.com/'+link)
+        links.append('https://www.inflearn.com'+link)
 
 
-# In[7]:
+# In[18]:
 
 
 for i in titles:
@@ -68,7 +68,7 @@ for i in titles:
         del dates[num]
 
 
-# In[8]:
+# In[19]:
 
 
 context = ssl._create_unverified_context()
@@ -114,7 +114,7 @@ while(page_num<5):
     page_num+=1
 
 
-# In[9]:
+# In[20]:
 
 
 for tmp in okky_links:
@@ -131,25 +131,47 @@ for tmp in okky_links:
     else: continue
 
 
-# In[10]:
+# In[21]:
 
 
 projects = []
 
+titles = titles + okky_titles
+dates = dates + okky_dates
+links = links + okky_links
+
+tags = []
+
 for i in range(len(titles)):
-    li_tmp = {"title": titles[i], "dday": dates[i], "link": links[i]}
-    projects.append(li_tmp)
+    tag = []
+    tmp = titles[i]
+    if 'iOS' in tmp or '앱' in tmp or '게임' in tmp or '소프트웨어' in tmp or '응용' in tmp:        
+        tag.append('응용')
+    elif 'AI' in tmp or 'IoT' in tmp or '러닝' in tmp or '인공지능' in tmp:         
+        tag.append('인공지능')
+    elif '웹' in tmp or '엔드' in tmp or 'HTML' in tmp or 'web' in tmp:       
+        tag.append('웹')
+    elif '데이터' in tmp or 'DB' in tmp or 'Data' in tmp:      
+        tag.append('데이터')
+    elif '서버' in tmp or '블록체인' in tmp or '보안' in tmp:
+        tag.append('서버')
+    elif 'Unix' in tmp or 'Linux' in tmp or '임베디드' in tmp or '시스템' in tmp:
+        tag.append('시스템')
+    else:
+        tag.append('기타')
+          
+    tags.append(tag)
 
 
-# In[11]:
+# In[22]:
 
 
 for i in range(len(okky_titles)):
-    li_tmp = {"title": okky_titles[i], "uploaded": okky_dates[i], "link": okky_links[i]}
+    li_tmp = {"title": titles[i], "uploaded": dates[i], "link": links[i], "bigtag":tags[i]}
     projects.append(li_tmp)
 
 
-# In[12]:
+# In[23]:
 
 
 import json

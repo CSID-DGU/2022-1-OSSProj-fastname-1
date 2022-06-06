@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[97]:
+# In[34]:
 
 
 import pandas as pd
@@ -20,7 +20,7 @@ from urllib.request import urlopen
 context=ssl._create_unverified_context()
 
 
-# In[98]:
+# In[35]:
 
 
 links = []
@@ -39,7 +39,7 @@ soup = BeautifulSoup(res.content.decode('utf-8', 'replace'), 'html.parser')
 element_num = len(soup.select(' .tit > .link > span'))
 cnt = int(soup.select(' #TabIngCount')[0].text.replace('(', '').replace(')', '').replace(',', ''))
 if cnt % element_num == 0:
-    page_num = cnt / element_num
+    page_num = int(cnt / element_num)
 else :
     page_num = int(cnt / element_num) + 1
     page_num = int(page_num)
@@ -67,7 +67,7 @@ for k in range(1,page_num+1):
         end_list.append(dday)
 
 
-# In[99]:
+# In[36]:
 
 
 job = []
@@ -77,7 +77,7 @@ for i in range(len(titles)):
     job.append(li_tmp)
 
 
-# In[100]:
+# In[37]:
 
 
 # 취업 프로그래머스
@@ -128,7 +128,7 @@ dict = json.loads(html)
 tag_df = json_normalize(dict) # id 코드
 
 
-# In[101]:
+# In[38]:
 
 
 pr_titles = []
@@ -220,7 +220,7 @@ for i in range(1, 27):
         pr_tags.append(tmp)
 
 
-# In[102]:
+# In[39]:
 
 
 for i in pr_links:
@@ -284,7 +284,7 @@ for i in pr_links:
         pr_dday.append(dday)
 
 
-# In[103]:
+# In[40]:
 
 
 for li in pr_links:
@@ -353,13 +353,59 @@ for li in pr_links:
     
 
 
-# In[104]:
+# In[41]:
 
 
 for i in range(len(pr_titles)):
     li_tmp = {"title": pr_titles[i], "dday": pr_dday[i], "link": pr_links[i], "기업": pr_company[i], '태그': pr_tags[i]}
     job.append(li_tmp)
 
+titles = []
+ddays = []
+links = []
+companies = []
+tags = []
+new_tags = []
+
+df = pd.DataFrame(job)
+df = df.sort_values(by=['dday'])
+
+for i in range(len(df)):
+        ttag = []
+        title = df.iloc[i][0]
+        dday = df.iloc[i][1]
+        link = df.iloc[i][2]
+        company = df.iloc[i][3]
+        tag = df.iloc[i][4]
+        for k in tag:
+            if 'iOS' in k or '앱' in k or '게임' in k or '소프트웨어' in k or '응용' in k or '어플리케이션' in k or '아이폰' in tmp or '안드로이드' in tmp:        
+                ttag.append('응용')
+            if 'AI' in k or 'IoT' in k or '러닝' in k or '인공지능' in k:         
+                ttag.append('인공지능')
+            if '웹' in k or '엔드' in k or 'HTML' in k or 'web' in k:       
+                ttag.append('웹')
+            if '데이터' in k or 'DB' in k or 'Data' in k:      
+                ttag.append('데이터')
+            if '서버' in k or '블록체인' in k or '보안' in k:
+                ttag.append('서버')
+            if 'Unix' in k or 'Linux' in k or '임베디드' in k or '시스템' in k:
+                ttag.append('시스템')
+        if len(ttag) == 0:
+            ttag.append('기타')
+        result = set(ttag)
+        ttag = list(result)
+        titles.append(title)
+        ddays.append(dday)
+        links.append(link)
+        companies.append(company)
+        tags.append(tag)
+        new_tags.append(ttag)
+
+job = []
+
+for i in range(len(titles)):
+    li_tmp = {"title": titles[i], "dday": ddays[i], "link": links[i], "기업": companies[i], '태그': tags[i], "bigtag":new_tags[i]}
+    job.append(li_tmp)
+
 with open('../json 결과/취업.json', 'w', encoding="utf-8") as make_file: 
     json.dump(job, make_file, ensure_ascii = False, indent="\t")
-
