@@ -16,35 +16,71 @@
 </head> 
 
 <script> 
-    temp = parent.check;// 프레임 외부 값(버튼 선택 시 선택되는 태그)을 받음 // parent. 으로 외부 변수를 받아 올 수 있음 어째선지 제대로 입력을 받지 못하는 경우가 있음 통신속도 문제일지도
+
+    check = parent.check;// 프레임 외부 값(버튼 선택 시 선택되는 태그)을 받음 // parent. 으로 외부 변수를 받아 올 수 있음 어째선지 제대로 입력을 받지 못하는 경우가 있음 통신속도 문제일지도
     let xhttp = new XMLHttpRequest(); 
     xhttp.open("GET", "../../crawl temp/json 결과/공모전.json", true); 
     xhttp.onreadystatechange = function() { 
         if(this.readyState == 4 && this.status == 200) { 
             let storage = JSON.parse(this.response); 
-            for(i in storage) { 
+            if(check == ""){ // 부모 프레임에서 넘어온 값이 초기값이라면 모든 정보를 출력
+                for(i in storage) { 
                     let tr = document.createElement('tr'); 
-                        if(storage[i].분류 == temp){ // 태그에 충족되는 값만 출력함
-                            let td = document.createElement('td'); 
-                            td.innerHTML = storage[i].title; 
-                            td.setAttribute("title", storage[i].분류); // 마우스 오버 시 분류 출력
-                            Link = storage[i].link; 
-                            td.addEventListener("click", function() {location.href = Link;}); // 제목 클릭 시 링크로 이동
-                            tr.appendChild(td); 
-                            let td2 = document.createElement('td');
-                            td2.innerHTML = storage[i].dday; 
-                            tr.appendChild(td2);
-                        }
+                        let td = document.createElement('td'); 
+                        td.innerHTML = storage[i].title; 
+                        td.setAttribute("title", storage[i].분류); // 마우스 오버 시 분류 출력
+                        (function(m){  // 제목 클릭 시 링크로 이동(클로저 사용)
+                            td.addEventListener("click", function() {location.href = storage[m].link;});
+                        })(i); 
+                        tr.appendChild(td); 
+                        let td2 = document.createElement('td');
+                        td2.innerHTML = storage[i].dday; 
+                    tr.appendChild(td2);
+                        
+                    document.querySelector("tbody").appendChild(tr); 
+                }
+            } 
+            else { // 부모프레임에서 넘어온 값이 초기값이 아니라면 해당 값에 따라 정보를 분류함
+                checkList = check.split(","); // 넘겨 받은 값을 스플릿으로 나눠서 체크리스트에 배열로 저장
+                for(i in storage) { 
+                    check_in = false;
+                    let tr = document.createElement('tr'); 
+    
+                    /*if(storage[i].분류 == check)*/ // 기존 내용
+                    for(j=0;j<(checkList-1);j++){ // 마지막은 공백이라 길이에서 1을 뺌
+                        if(storage[i].incldues(checkList[j])){// 태그에 충족되면 출력
+                        let td = document.createElement('td'); 
+                        td.innerHTML = storage[i].title; 
+                        td.setAttribute("title", storage[i].분류); // 마우스 오버 시 분류 출력
+                        (function(m){
+                            td.addEventListener("click", function() {location.href = storage[m].link;});
+                        })(i); // 제목 클릭 시 링크로 이동(클로저 사용)
+                        tr.appendChild(td); 
+                        let td2 = document.createElement('td');
+                        td2.innerHTML = storage[i].dday; 
+                        tr.appendChild(td2);
+                        } 
+                    }
                 document.querySelector("tbody").appendChild(tr); 
-            }
-        } 
+                }
+            } 
+        }
     }; 
     xhttp.send(); 
-
-
+    
+    // 방법 1, 인자로 배열을 받는 방법을 고민 해봐야 함
+    function select_in(storage, check){ // 출력할지 말지 결정하는 함수
+      var check_in = false; // 기본적으로는 출력하지 않음
+      for(j in check){ // check의 수만큼 반복
+        if(storage.includes(check[j])){  // check[i]가 포함되면 
+          check_in = true; // check_in에 true를 삽입
+        } // 결과적으로 check의 값 중 하나라도 포함되면 true를 반환
+      }
+      return check_in; // 값을 반환함
+    }
+    
     
 </script>
-
 
 <body> 
     <table style="table-layout: auto; width: 100%; table-layout: fixed;"> 
@@ -66,5 +102,5 @@
         </tbody> 
     </table> 
 </body> 
-</html>
 
+</html>
