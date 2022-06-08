@@ -1,0 +1,94 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+    <meta charset="UTF-8"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <meta http-equiv="X-UA-Compatible" content="ie=edge"> 
+    <title>JSON!!</title> 
+    <style> 
+    table { 
+        border-collapse: collapse; 
+    } 
+    td { 
+        border:1px solid black; 
+    } 
+    </style> 
+</head> 
+
+<script> 
+    check = "";
+    if (parent.check != ""){
+        check = parent.check;// 프레임 외부 값(버튼 선택 시 선택되는 태그)을 받음 // parent. 으로 외부 변수를 받아 올 수 있음
+    }
+    let xhttp = new XMLHttpRequest(); 
+    xhttp.open("GET", "../../crawl temp/json 결과/공모전.json", true); 
+    xhttp.onreadystatechange = function() { 
+        if(this.readyState == 4 && this.status == 200) { 
+            let storage = JSON.parse(this.response);
+            if (check == ""){
+                for(i in storage) {
+                    let tr = document.createElement('tr'); 
+                        let td = document.createElement('td'); 
+                        td.innerHTML = storage[i].title; 
+                        td.setAttribute("title", storage[i].분류); // 마우스 오버 시 분류 출력
+                        Link = storage[i].link; 
+                        (function(m){  // 제목 클릭 시 링크로 이동(클로저 사용)
+                            td.addEventListener("click", function() {location.href = storage[m].link;});
+                        })(i); 
+                        tr.appendChild(td); 
+                        let td2 = document.createElement('td');
+                        td2.innerHTML = storage[i].dday; 
+                        tr.appendChild(td2);
+                    document.querySelector("tbody").appendChild(tr); 
+                }
+                
+            }
+            else{
+                for(i in storage) { 
+                    let tr = document.createElement('tr'); 
+                        if(storage[i].분류 == check){ // 태그에 충족되는 값만 출력함
+                            let td = document.createElement('td'); 
+                            td.innerHTML = storage[i].title; 
+                            td.setAttribute("title", storage[i].분류); // 마우스 오버 시 분류 출력
+                            Link = storage[i].link; 
+                            (function(m){  // 제목 클릭 시 링크로 이동(클로저 사용)
+                                td.addEventListener("click", function() {location.href = storage[m].link;});
+                            })(i);
+                            tr.appendChild(td); 
+                            let td2 = document.createElement('td');
+                            td2.innerHTML = storage[i].dday; 
+                            tr.appendChild(td2);
+                        }
+                    document.querySelector("tbody").appendChild(tr);         
+                }
+            } 
+        }
+    };
+    xhttp.send(); 
+
+
+    
+</script>
+
+
+<body> 
+    <table style="table-layout: auto; width: 100%; table-layout: fixed;"> 
+        <thead> 
+            <tr> 
+                <th width = "80%">제목</th> 
+                <th width = "20%"> 마감일자 </th>
+                
+            </tr> 
+        </thead> 
+        <tfoot> 
+            <tr> 
+                <td width = "80%">제목</td> 
+                <td width = "20%">마감일자</td>    
+            </tr> 
+        </tfoot> 
+        <tbody> 
+                
+        </tbody> 
+    </table> 
+</body> 
+</html>
