@@ -19,18 +19,19 @@
     check = "";
     if (parent.check != ""){
         check = parent.check;// 프레임 외부 값(버튼 선택 시 선택되는 태그)을 받음 // parent. 으로 외부 변수를 받아 올 수 있음
+        checkList = check.split(","); // 체크를 구분자,를 기준으로 분해해서 checkList에 삽입
+        lenCheckList = checkList.length; // 리스트의 길이를 저장
     }
     let xhttp = new XMLHttpRequest(); 
     xhttp.open("GET", "json 결과/장학금.json", true); 
     xhttp.onreadystatechange = function() { 
         if(this.readyState == 4 && this.status == 200) { 
             let storage = JSON.parse(this.response);
-            if (check == ""){
                 for(i in storage) {
                     let tr = document.createElement('tr'); 
                         let td = document.createElement('td'); 
                         td.innerHTML = storage[i].title; 
-                        td.setAttribute("title", storage[i].분류); // 마우스 오버 시 분류 출력
+                        td.setAttribute("title", storage[i].tag); // 마우스 오버 시 분류 출력
                         Link = storage[i].link; 
                         (function(m){  // 제목 클릭 시 링크로 이동(클로저 사용)
                             td.addEventListener("click", function() {location.href = storage[m].link;});
@@ -40,28 +41,7 @@
                         td2.innerHTML = storage[i].dday; 
                         tr.appendChild(td2);
                     document.querySelector("tbody").appendChild(tr); 
-                }
-                
-            }
-            else{
-                for(i in storage) { 
-                    let tr = document.createElement('tr'); 
-                        if(storage[i].분류 == check){ // 태그에 충족되는 값만 출력함
-                            let td = document.createElement('td'); 
-                            td.innerHTML = storage[i].title; 
-                            td.setAttribute("title", storage[i].분류); // 마우스 오버 시 분류 출력
-                            Link = storage[i].link; 
-                            (function(m){  // 제목 클릭 시 링크로 이동(클로저 사용)
-                                td.addEventListener("click", function() {location.href = storage[m].link;});
-                            })(i);
-                            tr.appendChild(td); 
-                            let td2 = document.createElement('td');
-                            td2.innerHTML = storage[i].dday; 
-                            tr.appendChild(td2);
-                        }
-                    document.querySelector("tbody").appendChild(tr);         
-                }
-            } 
+                } 
         }
     };
     xhttp.send(); 

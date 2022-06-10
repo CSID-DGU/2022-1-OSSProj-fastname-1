@@ -27,25 +27,24 @@
     
     <div id="content-wrap">   
     	<h1>융알이</h1>
-        <h2><a href="https://www.dongguk.edu/schedule/detail?schedule_info_seq=22" target="_blank">
-          <span>동국대학교 정보 알림이</span></a></h2>
+        <h2>
+          <span>동국대학교 정보 알림이</span></h2>
           
-        
           <div class="hide">
             <div class="dropdown-menu dropdown-filter _1TqFIvlqEwjbBa93zFCKhf show" x-placement="top-start" 
             style="position:fixed; will-change: transform; top: 200px; left: 100px; transform: translate3d(0px, 42px, 0px);"
-            ><div style="text-align:center;">직무 분류</div><ul class="_3Fb6jzPc2ceEcuAQu6GO7B">
-              <li class="dropdown-item"><label class="job_category_label"><input type="checkbox" name = "tag" value="공모전"> 
+            >직무 분류<ul class="_3Fb6jzPc2ceEcuAQu6GO7B">
+              <li class="dropdown-item"><label class="job_category_label"><input type="checkbox" name = "tag" value="응용"> 
                응용 소프트웨어 개발자
-             </label></li><li class="dropdown-item"><label class="job_category_label"><input type="checkbox" name = "tag" value="대외활동">
+             </label></li><li class="dropdown-item"><label class="job_category_label"><input type="checkbox" name = "tag" value="웹">
                웹개발자
-             </label></li><li class="dropdown-item"><label class="job_category_label"><input type="checkbox" name = "tag" value="25">
+             </label></li><li class="dropdown-item"><label class="job_category_label"><input type="checkbox" name = "tag" value="데이터">
                데이터 전문가
-             </label></li><li class="dropdown-item"><label class="job_category_label"><input type="checkbox" name = "tag" value="2">
+             </label></li><li class="dropdown-item"><label class="job_category_label"><input type="checkbox" name = "tag" value="서버">
                네트워크 서버 보안
-             </label></li><li class="dropdown-item"><label class="job_category_label"><input type="checkbox" name = "tag" value="3">
+             </label></li><li class="dropdown-item"><label class="job_category_label"><input type="checkbox" name = "tag" value="시스템">
                시스템  소프트웨어 개발자
-             </label></li><li class="dropdown-item"><label class="job_category_label"><input type="checkbox" name = "tag" value="5">
+             </label></li><li class="dropdown-item"><label class="job_category_label"><input type="checkbox" name = "tag" value="인공지능">
                인공지능 (AI)
              </label></li></ul>
              <button onclick="gettag()">확인</button>
@@ -55,24 +54,24 @@
 
       <div class="row row-nav" data-height="750" id="row1" > 인턴
         <br>
-        <iframe id = "iframe1" src="http://localhost:8080/intern.html" width="100%", height="750px">  </iframe>
+        <iframe src="http://localhost:8080/intern.html" id = "if1" width="100%", height="750px">  </iframe>
       <div class="row-btn"><div class="circle"></div> </div></div>
         
     	<div class="row row-nav" data-height="750" id="row2" > 대외활동 
         <br>
-        <iframe id = "iframe2" src="http://localhost:8080/activity.html" width="100%", height="750px">  </iframe>
+        <iframe src="http://localhost:8080/activity.html" id = "if2" width="100%", height="750px">  </iframe>
       <div class="row-btn"><div class="circle"></div> </div></div>
       <div class="row row-nav" data-height="750" id="row3">취업공고 
         <br>
-        <iframe src="http://localhost:8080/employment.html" width="100%", height="750px">  </iframe>
+        <iframe src="http://localhost:8080/employment.html" id = "if3" width="100%", height="750px">  </iframe>
       <div class="row-btn"><div class="circle"></div></div></div>
       <div class="row row-nav" data-height="750" id="row4">장학금 
         <br>
-        <iframe src="http://localhost:8080/scholarship.html" width="100%", height="750px">  </iframe>
+        <iframe src="http://localhost:8080/scholarship.html" id = "if4" width="100%", height="750px">  </iframe>
       <div class="row-btn"><div class="circle"></div></div></div>
       <div class="row row-nav" data-height="750" id="row5">스터디 
         <br>
-        <iframe src="http://localhost:8080/study.html" width="100%", height="750px">  </iframe>
+        <iframe src="http://localhost:8080/study.html" id = "if5" width="100%", height="750px">  </iframe>
       <div class="row-btn"><div class="circle"></div></div></div>
       <div class="row row-nav" data-height="20"
       <div id="top">Top</div>
@@ -93,10 +92,17 @@
     var storage = document.getElementsByName("tag"); // 태그 값이라는 이름을 가진 구성요소에 접근해서 태그가 붙어있는 문서의 내용만 storage에 저장
     for (i =0;i < storage.length;i++){ // storage수만큼 루프
       if(storage[i].checked == true){ // 만약 체크되어 있으면
-        check = storage[i].value; // 아이프레임에 전달할 변수의 값(check)
+        check += storage[i].value; // 아이프레임에 전달할 변수의 값(check)을 체크박스의 값으로 문자열에 추가
+        check += "," // 구분자 추가
+        //check = storage[i].value; // 아이프레임에 전달할 변수의 값(check)
       }
     }
-    location.reload(); // 웹페이지 갱신
+  document.getElementById("if1").src += '';
+  document.getElementById("if2").src += '';
+  document.getElementById("if3").src += '';
+  document.getElementById("if4").src += '';
+  document.getElementById("if5").src += '';
+    //location.reload(); // 웹페이지 갱신
     /*let passData = check;
     let iframe = document.getElementById('iframe2').contentWindow;
     iframe.postMessage(passData, 'http://127.0.0.1:5502/public/temp/activity.html');*/
@@ -115,6 +121,6 @@
 
 <!-- partial -->
   <script src='//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script><script  src="../js/script.js"></script>
-
+  
 </body>
 </html>
