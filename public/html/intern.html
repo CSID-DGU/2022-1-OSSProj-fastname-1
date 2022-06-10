@@ -21,7 +21,7 @@
         check = parent.check;// 프레임 외부 값(버튼 선택 시 선택되는 태그)을 받음 // parent. 으로 외부 변수를 받아 올 수 있음
     }
     let xhttp = new XMLHttpRequest(); 
-    xhttp.open("GET", "json 결과/공모전.json", true); 
+    xhttp.open("GET", "../../crawl temp/json 결과/인턴십.json", true); 
     xhttp.onreadystatechange = function() { 
         if(this.readyState == 4 && this.status == 200) { 
             let storage = JSON.parse(this.response);

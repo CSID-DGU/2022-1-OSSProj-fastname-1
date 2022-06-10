@@ -111,7 +111,3 @@
 
     });
 
-	// get checkbox value
-	var check =$("input[type='checkbox']:checked").val();
-
-    });
