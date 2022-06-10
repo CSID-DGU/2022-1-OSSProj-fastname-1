@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+# In[23]:
 
 
 import pandas as pd
@@ -18,7 +18,7 @@ from urllib.request import urlopen
 context=ssl._create_unverified_context()
 
 
-# In[2]:
+# In[ ]:
 
 
 dday_bef = []
@@ -36,9 +36,12 @@ while(page_num <=5):
         dday = int(dday.split('-')[-1])
         today = date.today()
         day_tmp = datetime.timedelta(days=dday)
-        dday = str(today - day_tmp)
-        year, month, day = dday.split('-')
-        dday = year+'. '+month+'. '+day
+        dday = str(today + day_tmp)
+        if dday == '2022-12-31':
+            dday = '예산 소진 시'
+        else:
+            year, month, day = dday.split('-')
+            dday = year+'. '+month+'. '+day
         dday_bef.append((dday))
         tag_tmp = ((target[i].get_text()).replace("#", "").replace("\n", " "))
         tag_tmp = tag_tmp.strip()
@@ -47,7 +50,7 @@ while(page_num <=5):
     page_num += 1  
 
 
-# In[3]:
+# In[25]:
 
 
 link_test = []
@@ -64,7 +67,7 @@ while(page_num <=5):
     page_num += 1    
 
 
-# In[4]:
+# In[26]:
 
 
 #링크 추출
@@ -75,7 +78,7 @@ for t in range(len(link_test)):
     link_bef.append(link_ver1)
 
 
-# In[5]:
+# In[27]:
 
 
 # 행사 이름
@@ -85,7 +88,7 @@ for t in range(len(link_test)):
     titles_bef.append(title_name)
 
 
-# In[6]:
+# In[28]:
 
 
 # {"id":2,"first_name":"Brion","last_name":"Bonelle","email":"bbonelle1@mashable.com"}
@@ -96,7 +99,7 @@ for i in range(len(titles_bef)):
     dream_spon.append(li_tmp)
 
 
-# In[8]:
+# In[29]:
 
 
 import json
