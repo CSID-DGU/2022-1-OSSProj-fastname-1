@@ -40,15 +40,15 @@ $ sudo apt-get update
 $ pip install pandas 
 ```
 # 팀원 정보(연락처, 역할)
-## 고상현 
+## [고상현] (https://github.com/hyun7520) 
 연락처: sanghyun123452@gmail.com  
 역할: 크롤링 코드 작성, 데이터 정리 및 분류
 
-## 권석현
+## [권석현] (https://github.com/sukhyun205)
 연락처: sukhyun205@gmail.com  
 역할: 서버 구축, 메뉴, 체크박스 구현, ui 개선- 화면 크기 조절에 따른 동적 변화
 
-## 김동근
+## [김동근] (https://github.com/kimdonggeun111)
 연락처: kdgk9620@gmail.com  
 역할: 크롤링 자동화, 캘린더, 분류기능, UI개선- 마우스 오버 및 클릭 이벤트 추가
 
