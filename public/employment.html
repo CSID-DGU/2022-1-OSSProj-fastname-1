@@ -35,7 +35,7 @@
                         td.setAttribute("title", storage[i].bigtag); // 마우스 오버 시 분류 출력
                         Link = storage[i].link; 
                         (function(m){  // 제목 클릭 시 링크로 이동(클로저 사용)
-                            td.addEventListener("click", function() {location.href = storage[m].link;});
+                            td.addEventListener("click", function() {window.open(storage[m].link)});
                         })(i); 
                         tr.appendChild(td); 
                         let td2 = document.createElement('td');
@@ -55,7 +55,7 @@
                             td.setAttribute("title", storage[i].bigtag); // 마우스 오버 시 분류 출력
                             Link = storage[i].link; 
                             (function(m){  // 제목 클릭 시 링크로 이동(클로저 사용)
-                                td.addEventListener("click", function() {location.href = storage[m].link;});
+                                td.addEventListener("click", function() {window.open(storage[m].link)});
                             })(i);
                             tr.appendChild(td); 
                             let td2 = document.createElement('td');

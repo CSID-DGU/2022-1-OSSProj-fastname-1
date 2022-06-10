@@ -6,7 +6,7 @@ on:
 
   schedule:
 
-    - cron: '* */24 * * *'
+    - cron: '* */12 * * *'
 
  
 
@@ -22,7 +22,7 @@ jobs:
 
     env:
 
-      working-directory: ./app/crawl temp/crawl .py files
+      working-directory: ./crawl temp/crawl .py files
 
     steps:
 
@@ -47,10 +47,12 @@ jobs:
     - name: Run Crawler
 
       run: |
-        python "스터디, 프로젝트 모집 - okky.py"
+        python "공모전, 대외활동 - 인크루트, 씽콘, 콘테스트_코리아, 씽유, 스펙토리.py"
+        python "스터디, 프로젝트 모집 - okky, 인프런.py"
+        python "인턴십 - 사람인, 잡코리아, 인크루트.py"
         python "장학금, 지원금 - 드림스폰.py"
-        python "취업 - 잡코리아.py"
-        python "공모전, 대외활동 - 인크루트, 씽콘, 콘테스트_코리아, 씽유.py"
+        python "취업 - 잡코리아, 프로그래머스.py"
+        
       working-directory: ${{ env.working-directory }}
 
         
