@@ -17,12 +17,14 @@
 
 <script> 
 
-    check = parent.check;// 프레임 외부 값(버튼 선택 시 선택되는 태그)을 받음 // parent. 으로 외부 변수를 받아 올 수 있음 어째선지 제대로 입력을 받지 못하는 경우가 있음 통신속도 문제일지도
+    check = parent.check;// 프레임 외부 값(버튼 선택 시 선택되는 태그)을 받음 // parent. 으로 외부 변수를 받아 올 수 있음
+    checkList = check.split(","); // 체크를 구분자,를 기준으로 분해해서 checkList에 삽입
+    lenCheckList = checkList.length;
     let xhttp = new XMLHttpRequest(); 
     xhttp.open("GET", "../../crawl temp/json 결과/공모전.json", true); 
     xhttp.onreadystatechange = function() { 
-        if(this.readyState == 4 && this.status == 200) { 
-            let storage = JSON.parse(this.response); 
+        if(this.readyState == 4 && this.status == 200) { //통신이 가능할때만 작동
+            let storage = JSON.parse(this.response); // 제이슨 파일을 스토리지에 저장
             if(check == ""){ // 부모 프레임에서 넘어온 값이 초기값이라면 모든 정보를 출력
                 for(i in storage) { 
                     let tr = document.createElement('tr'); 
@@ -41,17 +43,14 @@
                 }
             } 
             else { // 부모프레임에서 넘어온 값이 초기값이 아니라면 해당 값에 따라 정보를 분류함
-                checkList = check.split(","); // 넘겨 받은 값을 스플릿으로 나눠서 체크리스트에 배열로 저장
+                 // 넘겨 받은 값을 스플릿으로 나눠서 체크리스트에 배열로 저장
                 for(i in storage) { 
-                    check_in = false;
                     let tr = document.createElement('tr'); 
-    
-                    /*if(storage[i].분류 == check)*/ // 기존 내용
-                    for(j=0;j<(checkList-1);j++){ // 마지막은 공백이라 길이에서 1을 뺌
-                        if(storage[i].incldues(checkList[j])){// 태그에 충족되면 출력
+                    for(j=0;j<(lenCheckList-1);j++){ // 마지막은 공백이라 길이에서 1을 뺌
+                        if(storage[i].bigtag == checkList[j]){// 태그에 충족되면 출력
                         let td = document.createElement('td'); 
                         td.innerHTML = storage[i].title; 
-                        td.setAttribute("title", storage[i].분류); // 마우스 오버 시 분류 출력
+                        td.setAttribute("title", storage[i].bigtag); // 마우스 오버 시 분류 출력
                         (function(m){
                             td.addEventListener("click", function() {location.href = storage[m].link;});
                         })(i); // 제목 클릭 시 링크로 이동(클로저 사용)
