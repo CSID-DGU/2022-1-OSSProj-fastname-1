@@ -13,8 +13,32 @@
 ### 웹서버: nodejs
 
 # 설치 방법
- - 어떤 프로그램 설치해야 하는 지,
+ * 작업환경
+   * 파이썬 3.9.2
+   * Node.js 서버
+   * EC2
 
+* 파이썬 설치
+```c
+$ sudo apt-get update
+$ sudo apte install python3
+$ sudo apt install python3-pip
+```
+* 파이썬 버전 확인
+```c
+$ python --version
+$ pip -- version
+```
+* Beautifulsoup4 설치
+```c
+$ sudo apt-get update
+$ pip install beautifulsoup4 
+```
+* pandas 설치
+```c
+$ sudo apt-get update
+$ pip install pandas 
+```
 # 팀원 정보(연락처, 역할)
 ## 고상현 
 연락처: sanghyun123452@gmail.com  
