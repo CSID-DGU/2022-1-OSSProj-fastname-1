@@ -14,90 +14,113 @@
        <div id="scroller-anchor"></div> 
        <div id="nav">
             <ul class="clearfix">
-                <li class="nav-btn active" data-row-id="row1">대외활동</li>
-                <li class="nav-btn" data-row-id="row2">취업공고</li>
-                <li class="nav-btn" data-row-id="row3">장학금</li>
-                <li class="nav-btn" data-row-id="row4">스터디</li>
-                <li class="nav-btn" data-row-id="row5"><a style="color:rgb(255, 255, 255) ;" href="https://dice.dongguk.edu/board/list.do?id=S181&cat=C4&keyword=">융합교육원</a></li>
-                <li class="nav-btn" data-row-id="row5"><a style="color:white ;" href="https://www.dongguk.edu/schedule/detail?schedule_info_seq=22">학사일정</a></li>
+                <li class="nav-btn" data-row-id="row1">인턴</li>
+                <li class="nav-btn" data-row-id="row2">대외활동</li>
+                <li class="nav-btn" data-row-id="row3">취업공고</li>
+                <li class="nav-btn" data-row-id="row4">장학금</li>
+                <li class="nav-btn" data-row-id="row5">스터디</li>
+                <li class="nav-btn" data-row-id="row6"><a style="color:rgb(255, 255, 255) ;" href="https://dice.dongguk.edu/board/list.do?id=S181&cat=C4&keyword=">융합교육원</a></li>
+                <li class="nav-btn" data-row-id="row6"><a style="color:white ;" href="https://www.dongguk.edu/schedule/detail?schedule_info_seq=22">학사일정</a></li>
             </ul>
         </div>
     </div>
     
-    <div id="content-wrap">    
+    <div id="content-wrap">   
     	<h1>융알이</h1>
-        <h2><a href="main url plz" target="_blank">
-          <span>동국대학교 정보 알림이</span></a></h2>
+        <h2>
+          <span>동국대학교 정보 알림이</span></h2>
           
-         <div class="hide">
-          <div class="dropdown-menu dropdown-filter _1TqFIvlqEwjbBa93zFCKhf show" x-placement="top-start" 
-          style="position:fixed; will-change: transform; top: 100px; left: 100px; transform: translate3d(0px, 42px, 0px);"
-          >직무별 키워드 검색<ul class="_3Fb6jzPc2ceEcuAQu6GO7B hide"><li class="dropdown-item"><label class="job_category_label"><input type="checkbox" value="1">
-            응용 소프트웨어 개발자
-           </label></li><li class="dropdown-item"><label class="job_category_label"><input type="checkbox" value="4">
-            웹 개발자
-           </label></li><li class="dropdown-item"><label class="job_category_label"><input type="checkbox" value="25">
-            데이터 전문가
-           </label></li><li class="dropdown-item"><label class="job_category_label"><input type="checkbox" value="2">
-            네트워크 · 서버 · 보안
-           </label></li><li class="dropdown-item"><label class="job_category_label"><input type="checkbox" value="3">
-            시스템 소프트웨어 개발자
-           </label></li><li class="dropdown-item"><label class="job_category_label"><input type="checkbox" value="5">
-            인공지능(AI)
-           </label></li></ul>
-           <button class="hide">확인</button>
-         </div>
-         </div>
+          <div class="hide">
+            <div class="dropdown-menu dropdown-filter _1TqFIvlqEwjbBa93zFCKhf show" x-placement="top-start" 
+            style="position:fixed; will-change: transform; top: 200px; left: 100px; transform: translate3d(0px, 42px, 0px);"
+            >직무 분류<ul class="_3Fb6jzPc2ceEcuAQu6GO7B">
+              <li class="dropdown-item"><label class="job_category_label"><input type="checkbox" name = "tag" value="응용"> 
+               응용 소프트웨어 개발자
+             </label></li><li class="dropdown-item"><label class="job_category_label"><input type="checkbox" name = "tag" value="웹">
+               웹개발자
+             </label></li><li class="dropdown-item"><label class="job_category_label"><input type="checkbox" name = "tag" value="데이터">
+               데이터 전문가
+             </label></li><li class="dropdown-item"><label class="job_category_label"><input type="checkbox" name = "tag" value="서버">
+               네트워크 서버 보안
+             </label></li><li class="dropdown-item"><label class="job_category_label"><input type="checkbox" name = "tag" value="시스템">
+               시스템  소프트웨어 개발자
+             </label></li><li class="dropdown-item"><label class="job_category_label"><input type="checkbox" name = "tag" value="인공지능">
+               인공지능 (AI)
+             </label></li></ul>
+             <button onclick="gettag()">확인</button>
+           </div>
+          </div>
 
 
-        
-    	<div class="row row-nav" data-height="750" id="row1" > 대외활동 
+      <div class="row row-nav" data-height="750" id="row1" > 인턴
         <br>
-        <iframe src="http://localhost:8080/activity.html" width="100%", height="750px">  </iframe>
+        <iframe src="http://localhost:8080/intern.html" id = "if1" width="100%", height="750px">  </iframe>
       <div class="row-btn"><div class="circle"></div> </div></div>
-      <div class="row row-nav" data-height="750" id="row2">취업공고 
+        
+    	<div class="row row-nav" data-height="750" id="row2" > 대외활동 
         <br>
-        <iframe src="http://localhost:8080/employment.html" width="100%", height="750px">  </iframe>
-      <div class="row-btn"><div class="circle"></div></div></div>
-      <div class="row row-nav" data-height="750" id="row3">장학금 
+        <iframe src="http://localhost:8080/activity.html" id = "if2" width="100%", height="750px">  </iframe>
+      <div class="row-btn"><div class="circle"></div> </div></div>
+      <div class="row row-nav" data-height="750" id="row3">취업공고 
         <br>
-        <iframe src="http://localhost:8080/scholarship.html" width="100%", height="750px">  </iframe>
+        <iframe src="http://localhost:8080/employment.html" id = "if3" width="100%", height="750px">  </iframe>
       <div class="row-btn"><div class="circle"></div></div></div>
-      <div class="row row-nav" data-height="750" id="row4">스터디 
+      <div class="row row-nav" data-height="750" id="row4">장학금 
         <br>
-        <iframe src="http://localhost:8080/study.html" width="100%", height="750px">  </iframe>
+        <iframe src="http://localhost:8080/scholarship.html" id = "if4" width="100%", height="750px">  </iframe>
       <div class="row-btn"><div class="circle"></div></div></div>
-      <div class="row row-nav" data-height="50"></div>
+      <div class="row row-nav" data-height="750" id="row5">스터디 
+        <br>
+        <iframe src="http://localhost:8080/study.html" id = "if5" width="100%", height="750px">  </iframe>
+      <div class="row-btn"><div class="circle"></div></div></div>
+      <div class="row row-nav" data-height="20"
       <div id="top">Top</div>
+      <div style="text-align:center"; >본 사이트의 정보는 12시간 단위로 갱신됩니다.</div>
     </div>
 
-  <body onScroll="scroll()">
+  <body onScroll="scroll()"> 
   <SCRIPT LANGUAGE="JavaScript">
   function scroll(){
       var a=document.body.scrollTop+150
       menu.style.top=a;
   }
+  var check = ""; // 체크 초기 값
+  
+  // 체크박스
+  function gettag(){ 
+   check = ""; // 체크 초기화
+    var storage = document.getElementsByName("tag"); // 태그 값이라는 이름을 가진 구성요소에 접근해서 태그가 붙어있는 문서의 내용만 storage에 저장
+    for (i =0;i < storage.length;i++){ // storage수만큼 루프
+      if(storage[i].checked == true){ // 만약 체크되어 있으면
+        check += storage[i].value; // 아이프레임에 전달할 변수의 값(check)을 체크박스의 값으로 문자열에 추가
+        check += "," // 구분자 추가
+        //check = storage[i].value; // 아이프레임에 전달할 변수의 값(check)
+      }
+    }
+  document.getElementById("if1").src += '';
+  document.getElementById("if2").src += '';
+  document.getElementById("if3").src += '';
+  document.getElementById("if4").src += '';
+  document.getElementById("if5").src += '';
+    //location.reload(); // 웹페이지 갱신
+    /*let passData = check;
+    let iframe = document.getElementById('iframe2').contentWindow;
+    iframe.postMessage(passData, 'http://127.0.0.1:5502/public/temp/activity.html');*/
+  }
+
+
   </SCRIPT>
-  <!-- <div id="menu" style="position:absolute;left:250px;top:150px;z-index:100;">
-  <iframe name='_count' width=680 height=500></iframe> -->
 
-
+  <!-- 구글 캘린더 -->
   <div class="iframebox hide">
     <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23F6BF26&ctz=Asia%2FSeoul&src=MzlndGFjcWFubHI5c3Y0ZXFlb2Jiamtna2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=a28uc291dGhfa29yZWEjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%239E69AF&color=%230B8043" 
     frameborder="0" allowfullscreen></iframe>
   </div>
-
-    <!-- <div>   
-      <iframe
-      src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23F6BF26&ctz=Asia%2FSeoul&src=MzlndGFjcWFubHI5c3Y0ZXFlb2Jiamtna2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=a28uc291dGhfa29yZWEjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%239E69AF&color=%230B8043" 
-      style="position:fixed; top: 207px; right: 5px; width: 350px; height: 350px; border:solid 1px #777" scrolling="yes">
-      </iframe>
-    </div>  -->
     
     
 
 <!-- partial -->
-  <script src='//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script><script  src="js/script.js"></script>
-
+  <script src='//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script><script  src="../js/script.js"></script>
+  
 </body>
 </html>

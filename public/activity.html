@@ -16,27 +16,58 @@
 </head> 
 
 <script> 
-
+    check = "";
+    if (parent.check != ""){
+        check = parent.check;// 프레임 외부 값(버튼 선택 시 선택되는 태그)을 받음 // parent. 으로 외부 변수를 받아 올 수 있음
+        checkList = check.split(","); // 체크를 구분자,를 기준으로 분해해서 checkList에 삽입
+        lenCheckList = checkList.length; // 리스트의 길이를 저장
+    }
     let xhttp = new XMLHttpRequest(); 
     xhttp.open("GET", "json 결과/공모전.json", true); 
     xhttp.onreadystatechange = function() { 
         if(this.readyState == 4 && this.status == 200) { 
-            let storage = JSON.parse(this.response); 
-            for(i in storage) { 
+            let storage = JSON.parse(this.response);
+            if (check == ""){
+                for(i in storage) {
                     let tr = document.createElement('tr'); 
                         let td = document.createElement('td'); 
                         td.innerHTML = storage[i].title; 
-                        td.setAttribute("title", storage[i].분류); // 마우스 오버 시 분류 출력
+                        td.setAttribute("title", storage[i].bigtag); // 마우스 오버 시 분류 출력
                         Link = storage[i].link; 
-                        td.addEventListener("click", function() {location.href = Link;}); // 제목 클릭 시 링크로 이동
+                        (function(m){  // 제목 클릭 시 링크로 이동(클로저 사용)
+                            td.addEventListener("click", function() {location.href = storage[m].link;});
+                        })(i); 
                         tr.appendChild(td); 
                         let td2 = document.createElement('td');
                         td2.innerHTML = storage[i].dday; 
                         tr.appendChild(td2);
-                document.querySelector("tbody").appendChild(tr); 
+                    document.querySelector("tbody").appendChild(tr); 
+                }
+                
             }
-        } 
-    }; 
+            else{
+                for(i in storage) { 
+                    let tr = document.createElement('tr'); 
+                    for(j=0;j<(lenCheckList-1);j++){ // 마지막은 공백이라 길이에서 1을 뺌
+                        if(storage[i].bigtag == checkList[j]){// 태그에 충족되면 출력
+                            let td = document.createElement('td'); 
+                            td.innerHTML = storage[i].title; 
+                            td.setAttribute("title", storage[i].bigtag); // 마우스 오버 시 분류 출력
+                            Link = storage[i].link; 
+                            (function(m){  // 제목 클릭 시 링크로 이동(클로저 사용)
+                                td.addEventListener("click", function() {location.href = storage[m].link;});
+                            })(i);
+                            tr.appendChild(td); 
+                            let td2 = document.createElement('td');
+                            td2.innerHTML = storage[i].dday; 
+                            tr.appendChild(td2);
+                        }
+                    document.querySelector("tbody").appendChild(tr);     
+                    }    
+                }
+            } 
+        }
+    };
     xhttp.send(); 
 
 
@@ -49,14 +80,14 @@
         <thead> 
             <tr> 
                 <th width = "80%">제목</th> 
-                <th width = "20%"> 날짜 </th>
+                <th width = "20%"> 마감일자 </th>
                 
             </tr> 
         </thead> 
         <tfoot> 
             <tr> 
                 <td width = "80%">제목</td> 
-                <td width = "20%">날짜</td>    
+                <td width = "20%">마감일자</td>    
             </tr> 
         </tfoot> 
         <tbody> 
@@ -65,5 +96,3 @@
     </table> 
 </body> 
 </html>
-
-

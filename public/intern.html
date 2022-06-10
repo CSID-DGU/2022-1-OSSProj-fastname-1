@@ -23,7 +23,7 @@
         lenCheckList = checkList.length; // 리스트의 길이를 저장
     }
     let xhttp = new XMLHttpRequest(); 
-    xhttp.open("GET", "json 결과/스터디.json", true); 
+    xhttp.open("GET", "json 결과/인턴십.json", true); 
     xhttp.onreadystatechange = function() { 
         if(this.readyState == 4 && this.status == 200) { 
             let storage = JSON.parse(this.response);
@@ -35,11 +35,11 @@
                         td.setAttribute("title", storage[i].bigtag); // 마우스 오버 시 분류 출력
                         Link = storage[i].link; 
                         (function(m){  // 제목 클릭 시 링크로 이동(클로저 사용)
-                            td.addEventListener("click", function() {window.open(storage[m].link)});
+                            td.addEventListener("click", function() {location.href = storage[m].link;});
                         })(i); 
                         tr.appendChild(td); 
                         let td2 = document.createElement('td');
-                        td2.innerHTML = storage[i].uploaded; 
+                        td2.innerHTML = storage[i].dday; 
                         tr.appendChild(td2);
                     document.querySelector("tbody").appendChild(tr); 
                 }
@@ -55,15 +55,15 @@
                             td.setAttribute("title", storage[i].bigtag); // 마우스 오버 시 분류 출력
                             Link = storage[i].link; 
                             (function(m){  // 제목 클릭 시 링크로 이동(클로저 사용)
-                                td.addEventListener("click", function() {window.open(storage[m].link)});
+                                td.addEventListener("click", function() {location.href = storage[m].link;});
                             })(i);
                             tr.appendChild(td); 
                             let td2 = document.createElement('td');
-                            td2.innerHTML = storage[i].uploaded; 
+                            td2.innerHTML = storage[i].dday; 
                             tr.appendChild(td2);
                         }
-                    document.querySelector("tbody").appendChild(tr);  
-                    }       
+                    document.querySelector("tbody").appendChild(tr);   
+                    }      
                 }
             } 
         }

@@ -1,16 +1,12 @@
 
 /*창 숨기기 css*/
-@media screen and (max-width: 1000px) { 
+@media screen and (max-width: 1550px) { 
 	.hide{
 	  display: none;
 	}
   } 
 
-@media screen and (max-width: 1000px) { 
-	.hide2{
-	  display: none;
-	}
-  } 
+
 /*창 숨기기 css*/
 
 /*구글캘린더 style*/
