@@ -177,7 +177,7 @@
 	},
 	{
 		"title": "[온라인] 혼자 읽기 힘들었던 개발 도서를 모여서 같이 읽을 개발자 구해요!!",
-		"uploaded": "2022. 05. 31",
+		"uploaded": "2022. 05. 30",
 		"link": "https://www.inflearn.com/studies/551329",
 		"bigtag": [
 			"기타"
@@ -257,7 +257,7 @@
 	},
 	{
 		"title": "웹프로젝트 개발 함께 하실 프론트 개발자분 모집합니다!",
-		"uploaded": "2022. 05. 21",
+		"uploaded": "2022. 05. 20",
 		"link": "https://www.inflearn.com/studies/542392",
 		"bigtag": [
 			"웹"
@@ -273,7 +273,7 @@
 	},
 	{
 		"title": "개발자 스터디그룹 모집합니다.",
-		"uploaded": "2022. 05. 20",
+		"uploaded": "2022. 05. 19",
 		"link": "https://www.inflearn.com/studies/541628",
 		"bigtag": [
 			"기타"
@@ -315,6 +315,14 @@
 		"title": "블로그 관리 스터디 모집합니다!",
 		"uploaded": "2022. 05. 18",
 		"link": "https://www.inflearn.com/studies/539944",
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
+		"title": "자바 기초 스터디",
+		"uploaded": "2022. 06. 11",
+		"link": "https://okky.kr/article/1247709",
 		"bigtag": [
 			"기타"
 		]
@@ -448,6 +456,14 @@
 		]
 	},
 	{
+		"title": "왕초보 온라인 스터디원 모집합니다!(js)",
+		"uploaded": "2022. 06. 08",
+		"link": "https://okky.kr/article/1245401",
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
 		"title": "을지로에서 스터디하실분 모집합니다 어서오세요!",
 		"uploaded": "2022. 06. 08",
 		"link": "https://okky.kr/article/1245388",
@@ -573,22 +589,6 @@
 		"link": "https://okky.kr/article/1243183",
 		"bigtag": [
 			"웹"
-		]
-	},
-	{
-		"title": "일산쪽에서 코딩 공부하시는분들 단톡방/모각코 같이하실까요?",
-		"uploaded": "2022. 06. 05",
-		"link": "https://okky.kr/article/1243136",
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "스프링 배치 스터디 추가모집",
-		"uploaded": "2022. 06. 05",
-		"link": "https://okky.kr/article/1243056",
-		"bigtag": [
-			"기타"
 		]
 	}
 ]
