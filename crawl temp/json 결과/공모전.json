@@ -1,50 +1,5 @@
 [
 	{
-		"title": "(지원사업) 2022 스타트업 패스파인더 참가기업 모집",
-		"dday": "2022. 06. 10",
-		"link": "https://www.thinkcontest.com//Contest/ContestDetail.html?id=47359",
-		"분류": "공모전",
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "제5회 기상기술 아이디어 공모전",
-		"dday": "2022. 06. 10",
-		"link": "https://www.thinkcontest.com//Contest/ContestDetail.html?id=45485",
-		"분류": "공모전",
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "(경진대회) 데이콘 코드 유사성 판단 AI 경진대회",
-		"dday": "2022. 06. 10",
-		"link": "https://www.thinkcontest.com//Contest/ContestDetail.html?id=45648",
-		"분류": "공모전",
-		"bigtag": [
-			"인공지능"
-		]
-	},
-	{
-		"title": "(지원사업) 홈그라운드 콘텐츠 랩 시즌 4 지원 동아리 모집",
-		"dday": "2022. 06. 10",
-		"link": "https://www.thinkcontest.com//Contest/ContestDetail.html?id=44379",
-		"분류": "공모전",
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "(교육/강연) 2022 한국세라믹기술원 첨단신소재 인력양성과정 2차연수생 모집",
-		"dday": "2022. 06. 10",
-		"link": "https://www.thinkcontest.com//Contest/ContestDetail.html?id=44008",
-		"분류": "공모전",
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
 		"title": "데이터청년캠퍼스 모집",
 		"dday": "2022. 06. 13",
 		"link": "https://gongmo.incruit.com/info/gongmolistinfo.asp?contestno=202205310007",
@@ -684,33 +639,6 @@
 		]
 	},
 	{
-		"title": "2022 NCSOFT X SPLASH CREW 모집",
-		"dday": "2022. 06. 10",
-		"link": "https://thinkyou.co.kr//contest/25198/?page=1&pagesize=35&serstatus=0&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
-		"분류": "대외활동",
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "POSCO 창립기념 제35회 쇳물백일장",
-		"dday": "2022. 06. 10",
-		"link": "https://thinkyou.co.kr//contest/24639/?page=1&pagesize=35&serstatus=0&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
-		"분류": "대외활동",
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "2022 한국세라믹기술원 기술사업화TCT인력양성과정 연수생 모집",
-		"dday": "2022. 06. 10",
-		"link": "https://thinkyou.co.kr//contest/23031/?page=1&pagesize=35&serstatus=0&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
-		"분류": "대외활동",
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
 		"title": "2022 국제 수소전기에너지 전시회 대학생 기자단 모집",
 		"dday": "2022. 06. 12",
 		"link": "https://thinkyou.co.kr//contest/25249/?page=1&pagesize=35&serstatus=0&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
@@ -786,15 +714,6 @@
 		"title": "위저드 베이커리 리뷰대회",
 		"dday": "2022. 06. 20",
 		"link": "https://thinkyou.co.kr//contest/25548/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
-		"분류": "대외활동",
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "대한장애인체육회 제12기 소셜기자단 모집",
-		"dday": "2022. 06. 21 ",
-		"link": "http://www.spectory.net/activities/detail?pid=28736&cat=%EB%8C%80%ED%95%99%EC%83%9D&prefix=info-target&searchDate=latest",
 		"분류": "대외활동",
 		"bigtag": [
 			"기타"
@@ -975,6 +894,15 @@
 		"title": "석유화학 올림피아드",
 		"dday": "2022. 07. 06",
 		"link": "https://thinkyou.co.kr//contest/25495/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
+		"분류": "대외활동",
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
+		"title": "삼성 금융전문가 과정 18-2기",
+		"dday": "2022. 07. 08 ",
+		"link": "http://www.spectory.net/activities/detail?pid=28693&cat=%EB%8C%80%ED%95%99%EC%83%9D&prefix=info-target&searchDate=latest",
 		"분류": "대외활동",
 		"bigtag": [
 			"기타"
