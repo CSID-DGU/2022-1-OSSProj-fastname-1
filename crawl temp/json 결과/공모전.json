@@ -704,7 +704,7 @@
 	{
 		"title": "2022 4·16재단 생명안전 학술연구 지원사업",
 		"dday": "2022. 06. 19",
-		"link": "https://thinkyou.co.kr//contest/24599/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
+		"link": "https://thinkyou.co.kr//contest/24599/?page=1&pagesize=35&serstatus=0&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
 		"분류": "대외활동",
 		"bigtag": [
 			"기타"
@@ -714,15 +714,6 @@
 		"title": "위저드 베이커리 리뷰대회",
 		"dday": "2022. 06. 20",
 		"link": "https://thinkyou.co.kr//contest/25548/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
-		"분류": "대외활동",
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "갤럭시 대학생 마케팅 크루 모집",
-		"dday": "2022. 06. 22 ",
-		"link": "http://www.spectory.net/activities/detail?pid=28698&cat=%EB%8C%80%ED%95%99%EC%83%9D&prefix=info-target&searchDate=latest",
 		"분류": "대외활동",
 		"bigtag": [
 			"기타"
@@ -999,6 +990,15 @@
 		]
 	},
 	{
+		"title": "한국보험계리사회 제2기 IAK 서포터즈 모집",
+		"dday": "2022. 08. 02 ",
+		"link": "http://www.spectory.net/activities/detail?pid=28675&cat=%EB%8C%80%ED%95%99%EC%83%9D&prefix=info-target&searchDate=latest",
+		"분류": "대외활동",
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
 		"title": "2022 대한민국 모듈러 건축 설계 공모전",
 		"dday": "2022. 08. 05",
 		"link": "https://thinkyou.co.kr//contest/25186/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
@@ -1083,6 +1083,15 @@
 		"title": "2022 넥슨-GSOK 논문 공모전",
 		"dday": "2022. 09. 18",
 		"link": "https://thinkyou.co.kr//contest/25568/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
+		"분류": "대외활동",
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
+		"title": "제18회 나라사랑 체험소감문 공모전",
+		"dday": "2022. 10. 31",
+		"link": "https://thinkyou.co.kr//contest/23955/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
 		"분류": "대외활동",
 		"bigtag": [
 			"기타"
