@@ -86,19 +86,6 @@ $ npm install express --save
 $ node app.js
 ```
 
-# 팀원 정보(연락처, 역할)
-## [고상현] (https://github.com/hyun7520) 
-연락처: sanghyun123452@gmail.com  
-역할: 크롤링 코드 작성, 데이터 정리 및 분류
-
-## [권석현] (https://github.com/sukhyun205)
-연락처: sukhyun205@gmail.com  
-역할: 웹서버 구축 및 작업내용 적용(로컬, 배포환경), 체크박스 구현, UI 개선- 화면 크기 조절에 따른 동적 변화
-
-## [김동근] (https://github.com/kimdonggeun111)
-연락처: kdgk9620@gmail.com  
-역할: 크롤링 자동화, 캘린더, 분류기능, UI개선- 마우스 오버 및 클릭 이벤트 추가
-
 ## 코드 예제
 - 크롤링 예시 (사람인 인턴십 정보)
 ```c
@@ -273,4 +260,23 @@ for(i in storage) {
 ## 실제 적용 사례
 [웹페이지 시연 영상](https://drive.google.com/file/d/1eB0O31y0sKb1N7OpAEPFrC5HR1VcgTAm/view?usp=sharing)
 
+# 팀원 정보(연락처, 역할)
+## [고상현](https://github.com/hyun7520) 
+연락처: sanghyun123452@gmail.com  
+역할: 크롤링 코드 작성, 데이터 정리 및 분류
 
+## [권석현](https://github.com/sukhyun205)
+연락처: sukhyun205@gmail.com  
+역할: 웹서버 구축 및 작업내용 적용(로컬, 배포환경), 체크박스 구현, UI 개선- 화면 크기 조절에 따른 동적 변화
+
+## [김동근](https://github.com/kimdonggeun111)
+연락처: kdgk9620@gmail.com  
+역할: 크롤링 자동화, 캘린더, 분류기능, UI개선- 마우스 오버 및 클릭 이벤트 추가
+
+## 사용한 오픈소스
+- [템플릿 오픈소스](https://codepen.io/AndreCortellini/pen/xxqbmg)
+- [깃허브 푸시 자동화 오픈소스](https://github.com/marketplace/actions/add-commit)
+- [CURL 변환 오픈소스](https://github.com/curlconverter/curlconverter)
+
+## 라이선스
+- MIT
