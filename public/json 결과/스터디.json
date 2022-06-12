@@ -1,18 +1,90 @@
 [
 	{
-		"title": "안녕하세요. 사이드 프로젝트 팀을 구합니다",
-		"uploaded": "2022. 06. 06",
-		"link": "https://www.inflearn.com/studies/557172",
+		"title": "스프링 부트 입문부터 고급까지 모집합니다.",
+		"uploaded": "2022. 06. 12",
+		"link": "https://www.inflearn.com/studies/561967",
 		"bigtag": [
 			"기타"
 		]
 	},
 	{
-		"title": "프론트엔드 제대로된 프로젝트 하나로 취뽀하실분~",
-		"uploaded": "2022. 06. 06",
-		"link": "https://www.inflearn.com/studies/557143",
+		"title": "사이드 프로젝트 프론트엔드 팀원 충원합니다! (react)",
+		"uploaded": "2022. 06. 12",
+		"link": "https://www.inflearn.com/studies/561933",
 		"bigtag": [
 			"웹"
+		]
+	},
+	{
+		"title": "온라인] 게더타운 개발공부 커뮤니티 모집합니다",
+		"uploaded": "2022. 06. 12",
+		"link": "https://www.inflearn.com/studies/561855",
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
+		"title": "반려동물 헌혈 관리 서비스 zoopi : 안드로이드 1명 모집",
+		"uploaded": "2022. 06. 11",
+		"link": "https://www.inflearn.com/studies/561611",
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
+		"title": "프론트엔드 취업 스터디",
+		"uploaded": "2022. 06. 10",
+		"link": "https://www.inflearn.com/studies/561102",
+		"bigtag": [
+			"웹"
+		]
+	},
+	{
+		"title": "왕초보 온라인 스터디원 모집합니다!(js)",
+		"uploaded": "2022. 06. 09",
+		"link": "https://www.inflearn.com/studies/560141",
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
+		"title": "프론트엔드 면접스터디(모의면접)",
+		"uploaded": "2022. 06. 09",
+		"link": "https://www.inflearn.com/studies/559873",
+		"bigtag": [
+			"웹"
+		]
+	},
+	{
+		"title": "매일 URL 읽기 챌린지 함께 하실 분!",
+		"uploaded": "2022. 06. 09",
+		"link": "https://www.inflearn.com/studies/559823",
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
+		"title": "파이썬 머신러닝 완벽 가이드 강의 스터디",
+		"uploaded": "2022. 06. 08",
+		"link": "https://www.inflearn.com/studies/559377",
+		"bigtag": [
+			"인공지능"
+		]
+	},
+	{
+		"title": "서울시뉴딜일자리_블록체인_IT인턴 3개월 진행 [월260] 모집",
+		"uploaded": "2022. 06. 08",
+		"link": "https://www.inflearn.com/studies/558826",
+		"bigtag": [
+			"서버"
+		]
+	},
+	{
+		"title": "서비스 런칭 프로젝트에 UI/UX 디자이너분 모십니다 !",
+		"uploaded": "2022. 06. 07",
+		"link": "https://www.inflearn.com/studies/558063",
+		"bigtag": [
+			"기타"
 		]
 	},
 	{
@@ -56,15 +128,7 @@
 		]
 	},
 	{
-		"title": "모의해킹 스터디 같이 열심히 해보실분 모집합니다!",
-		"uploaded": "2022. 06. 04",
-		"link": "https://www.inflearn.com/studies/554840",
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "[사이드] 같이 프로젝트를 만들어나갈 프론트/백엔드 개발자를 모집합니다!",
+		"title": "[사이드] 같이 프로젝트를 만들어나갈 프론트 엔드 개발자를 모집합니다!",
 		"uploaded": "2022. 06. 03",
 		"link": "https://www.inflearn.com/studies/554093",
 		"bigtag": [
@@ -128,22 +192,6 @@
 		]
 	},
 	{
-		"title": "iOS 개인프로젝트 5주 진행 아침모임 스터디 모집합니다.",
-		"uploaded": "2022. 05. 28",
-		"link": "https://www.inflearn.com/studies/548299",
-		"bigtag": [
-			"응용"
-		]
-	},
-	{
-		"title": "자바스크립트 마스터리 강의 스터디원 구합니다 ~6/1",
-		"uploaded": "2022. 05. 27",
-		"link": "https://www.inflearn.com/studies/547759",
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
 		"title": "[프로젝트 팀원 모집] 포폴용 어플 같이 개발할 앱개발자/UI디자이너 모십니다",
 		"uploaded": "2022. 05. 27",
 		"link": "https://www.inflearn.com/studies/547686",
@@ -193,7 +241,7 @@
 	},
 	{
 		"title": "까치산역 카페 각코딩 ( 매주 토요일 9 ~ 12 )",
-		"uploaded": "2022. 05. 21",
+		"uploaded": "2022. 05. 22",
 		"link": "https://www.inflearn.com/studies/542581",
 		"bigtag": [
 			"기타"
@@ -272,323 +320,275 @@
 		]
 	},
 	{
-		"title": "매일 저녁 21시~23시 디스코드 화면 공유",
-		"uploaded": "2022. 05. 18",
-		"link": "https://www.inflearn.com/studies/539517",
+		"title": "파이썬 스터디 모집, 꾸준히 할 분 찾습니다.",
+		"uploaded": "2022. 06. 12",
+		"link": "https://okky.kr/article/1247741",
 		"bigtag": [
 			"기타"
 		]
 	},
 	{
-		"title": "프론트앤드 JS 알고리즘 스터디 (잠실, 강남)(주중 저녁)",
-		"uploaded": "2022. 05. 18",
-		"link": "https://www.inflearn.com/studies/539476",
+		"title": "영어 알려드려요(인터뷰및 책 또는 논문 읽기, 기타 원하는 영어) - 경력 많은 개발자, 파이썬 또는 인공지능 알려주세요.",
+		"uploaded": "2022. 06. 12",
+		"link": "https://okky.kr/article/1247740",
 		"bigtag": [
-			"기타"
+			"인공지능"
 		]
 	},
 	{
-		"title": "데이터 분석을 위한 SQL 스터디",
-		"uploaded": "2022. 05. 18",
-		"link": "https://www.inflearn.com/studies/539023",
-		"bigtag": [
-			"데이터"
-		]
-	},
-	{
-		"title": "채용/대외활동 공고 웹 사이트 프로젝트 경험해 보실 디자이너 분을 구합니다.",
-		"uploaded": "2022. 05. 18",
-		"link": "https://www.inflearn.com/studies/538821",
+		"title": "프론트엔드 입문 기초 스터디",
+		"uploaded": "2022. 06. 11",
+		"link": "https://okky.kr/article/1247723",
 		"bigtag": [
 			"웹"
 		]
 	},
 	{
-		"title": "☆새벽 공부 한달 챌린지 스터디원 모집☆ 시작날 기준 70%출석제,( 5/23~ 6/17)_10명 선착순",
-		"uploaded": "2022. 05. 17",
-		"link": "https://www.inflearn.com/studies/538590",
+		"title": "자바 기초 스터디",
+		"uploaded": "2022. 06. 11",
+		"link": "https://okky.kr/article/1247709",
 		"bigtag": [
 			"기타"
 		]
 	},
 	{
-		"title": "개발자 북 클럽 멤버를 모집합니다.",
-		"uploaded": "2022. 05. 17",
-		"link": "https://www.inflearn.com/studies/537650",
+		"title": "리팩터링 2판 스터디 멤버 모집합니다.",
+		"uploaded": "2022. 06. 11",
+		"link": "https://okky.kr/article/1247585",
 		"bigtag": [
 			"기타"
 		]
 	},
 	{
-		"title": "사이드프로젝트 디자이너 구합니다(웹페이지)",
-		"uploaded": "2022. 06. 05",
-		"link": "https://okky.kr/article/1243183",
+		"title": "온라인] 게더타운 코딩 개발자 커뮤니티 인원 모집합니다",
+		"uploaded": "2022. 06. 11",
+		"link": "https://okky.kr/article/1247513",
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
+		"title": "iOS 프로젝트 기획 1인 구합니다.",
+		"uploaded": "2022. 06. 10",
+		"link": "https://okky.kr/article/1247387",
+		"bigtag": [
+			"응용"
+		]
+	},
+	{
+		"title": "웹 취준(백엔드) 포폴만드는 스터디 참가 희망합니다",
+		"uploaded": "2022. 06. 10",
+		"link": "https://okky.kr/article/1247386",
 		"bigtag": [
 			"웹"
 		]
 	},
 	{
-		"title": "일산쪽에서 코딩 공부하시는분들 단톡방/모각코 같이하실까요?",
-		"uploaded": "2022. 06. 05",
-		"link": "https://okky.kr/article/1243136",
+		"title": "[수원 영통] 자바/스프링 기초부터 스터디 - 추가모집",
+		"uploaded": "2022. 06. 10",
+		"link": "https://okky.kr/article/1247307",
 		"bigtag": [
 			"기타"
 		]
 	},
 	{
-		"title": "스프링 배치 스터디 추가모집",
-		"uploaded": "2022. 06. 05",
-		"link": "https://okky.kr/article/1243056",
+		"title": "노코드 버블 스터디원 모집합니다.",
+		"uploaded": "2022. 06. 10",
+		"link": "https://okky.kr/article/1247128",
 		"bigtag": [
 			"기타"
 		]
 	},
 	{
-		"title": "[대전]IT기업 취준을 위한 코딩 테스트 스터디",
-		"uploaded": "2022. 06. 04",
-		"link": "https://okky.kr/article/1243028",
+		"title": "동묘앞역 카페에서 알고리즘 CS 스터디 구합니다.",
+		"uploaded": "2022. 06. 10",
+		"link": "https://okky.kr/article/1247127",
 		"bigtag": [
 			"기타"
 		]
 	},
 	{
-		"title": "[수원] 코딩테스트 스터디(추가모집)",
-		"uploaded": "2022. 06. 04",
-		"link": "https://okky.kr/article/1242915",
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "부천지역 모각코",
-		"uploaded": "2022. 06. 04",
-		"link": "https://okky.kr/article/1242911",
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "코딩테스트 부담없이 온라인 스터디 하실분 계신가요?",
-		"uploaded": "2022. 06. 04",
-		"link": "https://okky.kr/article/1242899",
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "연휴 3일 동안 같이 공부하실분 ~(모각코)",
-		"uploaded": "2022. 06. 04",
-		"link": "https://okky.kr/article/1242861",
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "WebRTC 스터디 하실 분 (추가모집)",
-		"uploaded": "2022. 06. 03",
-		"link": "https://okky.kr/article/1242771",
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "취준생 공모전 같이 나가실 분을 구합니다! (2~3명)",
-		"uploaded": "2022. 06. 03",
-		"link": "https://okky.kr/article/1242741",
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "파이썬 코테 대비 스터디원 모집합니다 (~6/16)",
-		"uploaded": "2022. 06. 03",
-		"link": "https://okky.kr/article/1242530",
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "웹 디자이너 분 구해요!",
-		"uploaded": "2022. 06. 02",
-		"link": "https://okky.kr/article/1241810",
-		"bigtag": [
-			"웹"
-		]
-	},
-	{
-		"title": "Swift Based Study ⭐SBS⭐에서 같이 스터디 할 사람을 모집합니다!",
-		"uploaded": "2022. 06. 02",
-		"link": "https://okky.kr/article/1241575",
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "[분당/정자역] 일요일 오후, 모여서 각자 코딩/스터디 해요",
-		"uploaded": "2022. 06. 02",
-		"link": "https://okky.kr/article/1241448",
+		"title": "파이썬 코테 스터디 (신도림 or 구디 인근)",
+		"uploaded": "2022. 06. 10",
+		"link": "https://okky.kr/article/1246738",
 		"bigtag": [
 			"기타"
 		]
 	},
 	{
 		"title": "[경제 스터디] 온라인 기업분석/경제뉴스/독서토론 스터디 맴버 모집",
-		"uploaded": "2022. 06. 02",
-		"link": "https://okky.kr/article/1241244",
+		"uploaded": "2022. 06. 10",
+		"link": "https://okky.kr/article/1246687",
 		"bigtag": [
 			"기타"
 		]
 	},
 	{
-		"title": "세일즈포스 개발자를 찾습니다!",
-		"uploaded": "2022. 06. 02",
-		"link": "https://okky.kr/article/1241229",
+		"title": "스프링 개발자 스터디 DUST 에서 스터디원을 구합니다!",
+		"uploaded": "2022. 06. 09",
+		"link": "https://okky.kr/article/1246401",
 		"bigtag": [
 			"기타"
 		]
 	},
 	{
-		"title": "지속적으로 토이프로젝트를 진행하실 프론트엔드분 모집합니다.",
-		"uploaded": "2022. 06. 01",
-		"link": "https://okky.kr/article/1240854",
+		"title": "경기도 용인 그룹 프로젝트 하실분 찾습니다",
+		"uploaded": "2022. 06. 09",
+		"link": "https://okky.kr/article/1246361",
 		"bigtag": [
-			"웹"
+			"기타"
 		]
 	},
 	{
-		"title": "[서울/강남] 안드로이드 SNS+ECommerce 앱 스터디세미나(현업19년차개발자가 제작시범, 매주 진행)",
-		"uploaded": "2022. 06. 01",
-		"link": "https://okky.kr/article/1240729",
+		"title": "[서울] 군자역 모각코 오프라인 스터디 충원합니다.",
+		"uploaded": "2022. 06. 09",
+		"link": "https://okky.kr/article/1246348",
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
+		"title": "Keycloak 키클락 함께 공부하실분",
+		"uploaded": "2022. 06. 09",
+		"link": "https://okky.kr/article/1246317",
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
+		"title": "부산에서 게임 클라이언트 프로그래머 또는 게임업계(비개발)로 취업준비 같이 하실 분 계신가요??",
+		"uploaded": "2022. 06. 09",
+		"link": "https://okky.kr/article/1246090",
 		"bigtag": [
 			"응용"
 		]
 	},
 	{
-		"title": "DDD 스터디원 구하시는 분 계신가요?",
-		"uploaded": "2022. 06. 01",
-		"link": "https://okky.kr/article/1240727",
+		"title": "[열품타] 공부시간 인증 스터디 모집해요",
+		"uploaded": "2022. 06. 09",
+		"link": "https://okky.kr/article/1245972",
 		"bigtag": [
 			"기타"
 		]
 	},
 	{
-		"title": "[온라인] 온라인 도서관 / 코드개발자 스터디 모집합니다",
-		"uploaded": "2022. 06. 01",
-		"link": "https://okky.kr/article/1240678",
+		"title": "왕초보 온라인 스터디원 모집합니다!(js)",
+		"uploaded": "2022. 06. 08",
+		"link": "https://okky.kr/article/1245401",
 		"bigtag": [
 			"기타"
 		]
 	},
 	{
-		"title": "[취업 포트폴리오] 프론트엔드 개발자를 모집합니다.",
-		"uploaded": "2022. 06. 01",
-		"link": "https://okky.kr/article/1240650",
+		"title": "을지로에서 스터디하실분 모집합니다 어서오세요!",
+		"uploaded": "2022. 06. 08",
+		"link": "https://okky.kr/article/1245388",
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
+		"title": "aws같은서버배포나 도커관련하여 개인과외해주실멘토찾습니다",
+		"uploaded": "2022. 06. 08",
+		"link": "https://okky.kr/article/1245229",
+		"bigtag": [
+			"서버"
+		]
+	},
+	{
+		"title": "포폴위주로 만드는 프론트엔드 스터디원 구합니다",
+		"uploaded": "2022. 06. 08",
+		"link": "https://okky.kr/article/1245194",
 		"bigtag": [
 			"웹"
 		]
 	},
 	{
-		"title": "[flutter] 각자 개발하며 공유하는 플러터 스터디 9기",
-		"uploaded": "2022. 05. 31",
-		"link": "https://okky.kr/article/1240389",
+		"title": "취업준비 프로젝트에 참여하고 싶습니다.",
+		"uploaded": "2022. 06. 08",
+		"link": "https://okky.kr/article/1245175",
 		"bigtag": [
 			"기타"
 		]
 	},
 	{
-		"title": "게임 주제 사이드프로젝트 인원 모집",
-		"uploaded": "2022. 05. 31",
-		"link": "https://okky.kr/article/1240161",
-		"bigtag": [
-			"응용"
-		]
-	},
-	{
-		"title": "시흥 배곧 모각코",
-		"uploaded": "2022. 05. 31",
-		"link": "https://okky.kr/article/1239961",
+		"title": "창원 코딩 스터디 구해요",
+		"uploaded": "2022. 06. 07",
+		"link": "https://okky.kr/article/1244436",
 		"bigtag": [
 			"기타"
 		]
 	},
 	{
-		"title": "☆새벽 공부 한달 챌린지 스터디원 모집☆ 시작날 기준 70%출석제,( 5/23~ 6/17)_도중 참여가능",
-		"uploaded": "2022. 05. 31",
-		"link": "https://okky.kr/article/1239557",
+		"title": "[충원] 온라인 알고리즘 스터디에 함께 하실 분을 모집합니다!",
+		"uploaded": "2022. 06. 07",
+		"link": "https://okky.kr/article/1244152",
 		"bigtag": [
 			"기타"
 		]
 	},
 	{
-		"title": "[취준용 웹개발 프로젝트] 기획자 한분 모집합니다!",
-		"uploaded": "2022. 05. 31",
-		"link": "https://okky.kr/article/1239536",
-		"bigtag": [
-			"웹"
-		]
-	},
-	{
-		"title": "[추가모집] 쿠버네티스 인 액션 책 스터디 하실분들을 구합니다.",
-		"uploaded": "2022. 05. 30",
-		"link": "https://okky.kr/article/1239509",
+		"title": "부산에서 코딩테스트 스터디 모임 있을까요??",
+		"uploaded": "2022. 06. 07",
+		"link": "https://okky.kr/article/1243880",
 		"bigtag": [
 			"기타"
 		]
 	},
 	{
-		"title": "저희 스터디 모임에서 스터디원을 모집합니다.",
-		"uploaded": "2022. 05. 30",
-		"link": "https://okky.kr/article/1239474",
+		"title": "파이썬 코딩테스트 스터디 모집합니다.",
+		"uploaded": "2022. 06. 07",
+		"link": "https://okky.kr/article/1243836",
 		"bigtag": [
 			"기타"
 		]
 	},
 	{
-		"title": "[온라인] 기계학습을 위한 선형대수 및 최적화 스터디",
-		"uploaded": "2022. 05. 30",
-		"link": "https://okky.kr/article/1239415",
+		"title": "서비스런칭 프로젝트에 디자이너분 모집합니다.",
+		"uploaded": "2022. 06. 06",
+		"link": "https://okky.kr/article/1243453",
 		"bigtag": [
 			"기타"
 		]
 	},
 	{
-		"title": "땀과 눈물의 결실, 피드백 부탁드립니다!! (꾸벅)",
-		"uploaded": "2022. 05. 30",
-		"link": "https://okky.kr/article/1239166",
+		"title": "1:1 풀스택 관련 멘토링 진행 합니다.",
+		"uploaded": "2022. 06. 06",
+		"link": "https://okky.kr/article/1243419",
 		"bigtag": [
 			"기타"
 		]
 	},
 	{
-		"title": "낙성대역 근처 직장인/개발자 준비생분들 주말 오전 9시 스터디 모집합니다.",
-		"uploaded": "2022. 05. 30",
-		"link": "https://okky.kr/article/1239160",
+		"title": "취준 대비 프로젝트하실분 구합니다.",
+		"uploaded": "2022. 06. 06",
+		"link": "https://okky.kr/article/1243333",
 		"bigtag": [
 			"기타"
 		]
 	},
 	{
-		"title": "기획자 및 디자이너 구합니다 (ios 앱 출시)",
-		"uploaded": "2022. 05. 30",
-		"link": "https://okky.kr/article/1239111",
-		"bigtag": [
-			"응용"
-		]
-	},
-	{
-		"title": "[강남] 강남 알고리즘/쿠버네티스 스터디 모집합니다.",
-		"uploaded": "2022. 05. 30",
-		"link": "https://okky.kr/article/1238705",
+		"title": "사이드 프로젝트 팀원을 모집합니다",
+		"uploaded": "2022. 06. 06",
+		"link": "https://okky.kr/article/1243311",
 		"bigtag": [
 			"기타"
 		]
 	},
 	{
-		"title": "경력 백엔드 개발자 모의면접 스터디",
-		"uploaded": "2022. 05. 29",
-		"link": "https://okky.kr/article/1238396",
+		"title": "대구 팀플 모각코 스터디",
+		"uploaded": "2022. 06. 06",
+		"link": "https://okky.kr/article/1243309",
 		"bigtag": [
-			"웹"
+			"기타"
+		]
+	},
+	{
+		"title": "알고리즘 스터디(JAVASCRIPT) 2명 모집합니다.",
+		"uploaded": "2022. 06. 06",
+		"link": "https://okky.kr/article/1243301",
+		"bigtag": [
+			"기타"
 		]
 	}
 ]

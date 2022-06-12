@@ -366,6 +366,12 @@ links = []
 companies = []
 tags = []
 new_tags = []
+check_app = ['iOS', '앱', '게임', '소프트웨어', '응용', '어플리케이션', '아이폰', '안드로이드']
+check_AI = ['AI', 'IoT', '러닝', '인공지능']
+check_web = ['웹', '엔드', 'HTML', 'web']
+check_data = ['데이터', 'DB','Data']
+check_server = ['서버', '블록체인', '보안']
+check_system = ['Unix', 'Linux', '임베디드','시스템']
 
 df = pd.DataFrame(job)
 df = df.sort_values(by=['dday'])
@@ -378,17 +384,17 @@ for i in range(len(df)):
         company = df.iloc[i][3]
         tag = df.iloc[i][4]
         for k in tag:
-            if 'iOS' in k or '앱' in k or '게임' in k or '소프트웨어' in k or '응용' in k or '어플리케이션' in k or '아이폰' in tmp or '안드로이드' in tmp:        
+            if any(word in k for word in check_app):        
                 ttag.append('응용')
-            if 'AI' in k or 'IoT' in k or '러닝' in k or '인공지능' in k:         
+            if any(word in k for word in check_AI):         
                 ttag.append('인공지능')
-            if '웹' in k or '엔드' in k or 'HTML' in k or 'web' in k:       
+            if any(word in k for word in check_web):       
                 ttag.append('웹')
-            if '데이터' in k or 'DB' in k or 'Data' in k:      
+            if any(word in k for word in check_data):      
                 ttag.append('데이터')
-            if '서버' in k or '블록체인' in k or '보안' in k:
+            if any(word in k for word in check_server):
                 ttag.append('서버')
-            if 'Unix' in k or 'Linux' in k or '임베디드' in k or '시스템' in k:
+            if any(word in k for word in check_system):
                 ttag.append('시스템')
         if len(ttag) == 0:
             ttag.append('기타')
