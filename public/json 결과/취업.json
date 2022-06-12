@@ -1,75 +1,15 @@
 [
 	{
-		"title": "iOS App Developer",
-		"dday": "2022. 06. 10",
-		"link": "https://programmers.co.kr/job_positions/12084",
-		"기업": "지마켓글로벌",
-		"태그": [
-			"아이폰 앱",
-			"RxSwift",
-			"iOS",
-			"Swift"
-		],
-		"bigtag": [
-			"응용"
-		]
-	},
-	{
-		"title": "2022년 하계 채용연계형 인턴",
+		"title": "백엔드 개발자",
 		"dday": "2022. 06. 12",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38504575?Oem_Code=C1&PageGbn=ST",
-		"기업": "코오롱베니트㈜",
+		"link": "https://programmers.co.kr/job_positions/12035",
+		"기업": "스텝페이",
 		"태그": [
-			"기획·전략·경영",
-			"응용프로그래머",
-			"빅데이터·AI(인공지능)"
+			"서버/백엔드"
 		],
 		"bigtag": [
-			"데이터",
-			"응용",
-			"인공지능"
-		]
-	},
-	{
-		"title": "[빅밸류] 데이터 분석가",
-		"dday": "2022. 06. 12",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38577711?Oem_Code=C1&PageGbn=ST",
-		"기업": "㈜빅밸류",
-		"태그": [
-			"빅데이터·AI(인공지능)",
-			"DBA·데이터베이스"
-		],
-		"bigtag": [
-			"데이터",
-			"인공지능"
-		]
-	},
-	{
-		"title": "(한진그룹) 한진정보통신 시스템엔지니어 모집",
-		"dday": "2022. 06. 12",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38109941?Oem_Code=C1&PageGbn=ST",
-		"기업": "한진정보통신㈜",
-		"태그": [
-			"ERP·시스템분석·설계",
-			"응용프로그래머",
-			"네트워크·서버·보안"
-		],
-		"bigtag": [
-			"서버",
-			"시스템",
-			"응용"
-		]
-	},
-	{
-		"title": "QA엔지니어",
-		"dday": "2022. 06. 12",
-		"link": "https://programmers.co.kr/job_positions/10253",
-		"기업": "모두의연구소",
-		"태그": [
-			"QA"
-		],
-		"bigtag": [
-			"기타"
+			"웹",
+			"서버"
 		]
 	},
 	{
@@ -88,19 +28,15 @@
 		]
 	},
 	{
-		"title": "SW 개발인력 채용 (신입 및 경력)",
+		"title": "QA엔지니어",
 		"dday": "2022. 06. 12",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/37928639?Oem_Code=C1&PageGbn=ST",
-		"기업": "㈜머큐리",
+		"link": "https://programmers.co.kr/job_positions/10253",
+		"기업": "모두의연구소",
 		"태그": [
-			"웹프로그래머",
-			"응용프로그래머",
-			"시스템프로그래머 외"
+			"QA"
 		],
 		"bigtag": [
-			"웹",
-			"시스템",
-			"응용"
+			"기타"
 		]
 	},
 	{
@@ -116,48 +52,22 @@
 		]
 	},
 	{
-		"title": "백엔드 개발자",
-		"dday": "2022. 06. 12",
-		"link": "https://programmers.co.kr/job_positions/12035",
-		"기업": "스텝페이",
-		"태그": [
-			"서버/백엔드"
-		],
-		"bigtag": [
-			"웹",
-			"서버"
-		]
-	},
-	{
-		"title": "Tmax그룹 2022 공개채용",
-		"dday": "2022. 06. 12",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38513675?Oem_Code=C1&PageGbn=ST",
-		"기업": "티맥스그룹",
-		"태그": [
-			"기획·전략·경영",
-			"사무·총무·법무",
-			"인사·노무·교육 외"
-		],
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "[데이터인사이트부문]  A/B 테스팅 서비스 안드로이드 SDK 개발자",
+		"title": "웹 프론트엔드 개발 (React)",
 		"dday": "2022. 06. 13",
-		"link": "https://programmers.co.kr/job_positions/12073",
-		"기업": "카카오엔터프라이즈",
+		"link": "https://programmers.co.kr/job_positions/10988",
+		"기업": "노트하우",
 		"태그": [
 			"서버/백엔드",
-			"안드로이드 앱",
-			"Java",
-			"React Native",
-			"Spring",
-			"Kotlin"
+			"프론트엔드",
+			"시스템/네트워크",
+			"JavaScript",
+			"HTML",
+			"CSS",
+			"GitHub"
 		],
 		"bigtag": [
+			"시스템",
 			"웹",
-			"응용",
 			"서버"
 		]
 	},
@@ -180,29 +90,9 @@
 			"Kibana"
 		],
 		"bigtag": [
-			"웹",
 			"데이터",
 			"시스템",
-			"서버"
-		]
-	},
-	{
-		"title": "웹 프론트엔드 개발 (React)",
-		"dday": "2022. 06. 13",
-		"link": "https://programmers.co.kr/job_positions/10988",
-		"기업": "노트하우",
-		"태그": [
-			"서버/백엔드",
-			"프론트엔드",
-			"시스템/네트워크",
-			"JavaScript",
-			"HTML",
-			"CSS",
-			"GitHub"
-		],
-		"bigtag": [
 			"웹",
-			"시스템",
 			"서버"
 		]
 	},
@@ -222,32 +112,36 @@
 		]
 	},
 	{
-		"title": "(주)한진 경력직(IT 기획 /Data 분석) 채용",
+		"title": "[데이터인사이트부문]  A/B 테스팅 서비스 안드로이드 SDK 개발자",
 		"dday": "2022. 06. 13",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38369841?Oem_Code=C1&PageGbn=ST",
-		"기업": "㈜한진",
+		"link": "https://programmers.co.kr/job_positions/12073",
+		"기업": "카카오엔터프라이즈",
 		"태그": [
-			"웹프로그래머",
-			"네트워크·서버·보안",
-			"기획·전략·경영"
+			"서버/백엔드",
+			"안드로이드 앱",
+			"Java",
+			"React Native",
+			"Spring",
+			"Kotlin"
 		],
 		"bigtag": [
+			"응용",
 			"웹",
 			"서버"
 		]
 	},
 	{
-		"title": "[잡코리아] 브랜드 프로모션 기획 및 운영 담당자 채용",
+		"title": "(주)오상헬스케어 신입 및 경력직 모집",
 		"dday": "2022. 06. 14",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38512728?Oem_Code=C1&PageGbn=ST",
-		"기업": "잡코리아(유)",
+		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38498519?Oem_Code=C1&PageGbn=ST",
+		"기업": "㈜오상헬스케어",
 		"태그": [
+			"기획·전략·경영",
 			"마케팅·광고·분석",
-			"웹기획·PM",
-			"광고제작·카피·CF"
+			"시스템프로그래머 외"
 		],
 		"bigtag": [
-			"웹"
+			"시스템"
 		]
 	},
 	{
@@ -265,49 +159,6 @@
 		]
 	},
 	{
-		"title": "[워라밸실천기업] NE능률 유아 디지털 콘텐츠 개발 및 디자인 경력자 채용",
-		"dday": "2022. 06. 15",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38606852?Oem_Code=C1&PageGbn=ST",
-		"기업": "㈜NE능률",
-		"태그": [
-			"교재기획·교수설계",
-			"컨텐츠·사이트운영",
-			"출판·편집디자인"
-		],
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "(주)도화엔지니어링 IT개발 신입·경력직 채용",
-		"dday": "2022. 06. 15",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38359507?Oem_Code=C1&PageGbn=ST",
-		"기업": "㈜도화엔지니어링",
-		"태그": [
-			"웹프로그래머",
-			"응용프로그래머"
-		],
-		"bigtag": [
-			"웹",
-			"응용"
-		]
-	},
-	{
-		"title": "[직영] 22년 신학기 각 부문 STAFF 모집",
-		"dday": "2022. 06. 15",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38562698?Oem_Code=C1&PageGbn=ST",
-		"기업": "㈜DYB최선어학원",
-		"태그": [
-			"웹프로그래머",
-			"응용프로그래머",
-			"동영상제작·편집 외"
-		],
-		"bigtag": [
-			"웹",
-			"응용"
-		]
-	},
-	{
 		"title": "[야나두] 에듀 서비스 기획자 경력직 채용",
 		"dday": "2022. 06. 15",
 		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38611206?Oem_Code=C1&PageGbn=ST",
@@ -319,6 +170,36 @@
 		],
 		"bigtag": [
 			"웹"
+		]
+	},
+	{
+		"title": "콘티넨탈 오토모티브 코리아 22년 2분기 수시채용(신입/경력직)",
+		"dday": "2022. 06. 15",
+		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38010668?Oem_Code=C1&PageGbn=ST",
+		"기업": "콘티넨탈 코리아",
+		"태그": [
+			"웹기획·PM",
+			"ERP·시스템분석·설계",
+			"소프트웨어·하드웨어 외"
+		],
+		"bigtag": [
+			"응용",
+			"웹",
+			"시스템"
+		]
+	},
+	{
+		"title": "[워라밸실천기업] NE능률 유아 디지털 콘텐츠 개발 및 디자인 경력자 채용",
+		"dday": "2022. 06. 15",
+		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38606852?Oem_Code=C1&PageGbn=ST",
+		"기업": "㈜NE능률",
+		"태그": [
+			"교재기획·교수설계",
+			"컨텐츠·사이트운영",
+			"출판·편집디자인"
+		],
+		"bigtag": [
+			"기타"
 		]
 	},
 	{
@@ -351,6 +232,22 @@
 		]
 	},
 	{
+		"title": "클라우드서비스사업부 경력사원 채용",
+		"dday": "2022. 06. 17",
+		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38572684?Oem_Code=C1&PageGbn=ST",
+		"기업": "삼성에스디에스",
+		"태그": [
+			"응용프로그래머",
+			"빅데이터·AI(인공지능)",
+			"연구소·R&D 외"
+		],
+		"bigtag": [
+			"데이터",
+			"인공지능",
+			"응용"
+		]
+	},
+	{
 		"title": "[SPC그룹] Secta9ine 스마트스토어팀 경력직 수시 채용",
 		"dday": "2022. 06. 17",
 		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38669717?Oem_Code=C1&PageGbn=ST",
@@ -366,44 +263,17 @@
 		]
 	},
 	{
-		"title": "[펜타브리드] UI/UX 디자이너(웹디자이너) 경력 채용",
-		"dday": "2022. 06. 17",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38577446?Oem_Code=C1&PageGbn=ST",
-		"기업": "㈜펜타브리드",
+		"title": "우미그룹 2022년 상반기 대졸 신입사원 채용공고",
+		"dday": "2022. 06. 18",
+		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38530917?Oem_Code=C1&PageGbn=ST",
+		"기업": "우미건설",
 		"태그": [
-			"웹디자인"
+			"기획·전략·경영",
+			"웹기획·PM",
+			"전기·소방·통신·안전 외"
 		],
 		"bigtag": [
 			"웹"
-		]
-	},
-	{
-		"title": "[현대로템]철도사업부문 신입/경력사원 모집",
-		"dday": "2022. 06. 18",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38641882?Oem_Code=C1&PageGbn=ST",
-		"기업": "현대로템㈜",
-		"태그": [
-			"기획·전략·경영",
-			"응용프로그래머",
-			"네트워크·서버·보안 외"
-		],
-		"bigtag": [
-			"서버",
-			"응용"
-		]
-	},
-	{
-		"title": "22년 각 부문 경력사원 채용",
-		"dday": "2022. 06. 18",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38525022?Oem_Code=C1&PageGbn=ST",
-		"기업": "㈜우익반도체",
-		"태그": [
-			"경리·회계·결산",
-			"재무·세무·IR",
-			"사무보조·문서작성 외"
-		],
-		"bigtag": [
-			"기타"
 		]
 	},
 	{
@@ -421,20 +291,95 @@
 		]
 	},
 	{
-		"title": "[커머스] 프론트엔드 개발자",
-		"dday": "2022. 06. 19",
-		"link": "https://programmers.co.kr/job_positions/9357",
-		"기업": "오늘식탁",
+		"title": "[현대로템]철도사업부문 신입/경력사원 모집",
+		"dday": "2022. 06. 18",
+		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38641882?Oem_Code=C1&PageGbn=ST",
+		"기업": "현대로템㈜",
 		"태그": [
-			"프론트엔드",
-			"웹 풀스택",
-			"GitHub",
-			"Bootstrap",
-			"jQuery",
-			"JavaScript"
+			"기획·전략·경영",
+			"응용프로그래머",
+			"네트워크·서버·보안 외"
 		],
 		"bigtag": [
-			"웹"
+			"응용",
+			"서버"
+		]
+	},
+	{
+		"title": "Software Engineer",
+		"dday": "2022. 06. 19",
+		"link": "https://programmers.co.kr/job_positions/10444",
+		"기업": "코드박스",
+		"태그": [
+			"서버/백엔드",
+			"프론트엔드",
+			"웹 풀스택",
+			"Google BigQuery",
+			"RabbitMQ",
+			"Redis",
+			"Kubernetes",
+			"Docker",
+			"PostgreSQL",
+			"Google Cloud Platform",
+			"Celery",
+			"GraphQL",
+			"TypeScript",
+			"ReactJS",
+			"Python",
+			"Django",
+			"CSS"
+		],
+		"bigtag": [
+			"웹",
+			"서버"
+		]
+	},
+	{
+		"title": "C++개발자",
+		"dday": "2022. 06. 19",
+		"link": "https://programmers.co.kr/job_positions/8677",
+		"기업": "소만사",
+		"태그": [
+			"시스템/네트워크",
+			"인터넷 보안",
+			"응용 프로그램",
+			"C#",
+			"C",
+			"Boost",
+			"Java",
+			"C++"
+		],
+		"bigtag": [
+			"서버",
+			"응용",
+			"시스템"
+		]
+	},
+	{
+		"title": "VLLO 앱 QA",
+		"dday": "2022. 06. 19",
+		"link": "https://programmers.co.kr/job_positions/12079",
+		"기업": "비모소프트",
+		"태그": [
+			"QA"
+		],
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
+		"title": "VLLO 앱 Android 개발자 ",
+		"dday": "2022. 06. 19",
+		"link": "https://programmers.co.kr/job_positions/12077",
+		"기업": "비모소프트",
+		"태그": [
+			"안드로이드 앱",
+			"Kotlin",
+			"Java",
+			"Android"
+		],
+		"bigtag": [
+			"응용"
 		]
 	},
 	{
@@ -480,22 +425,6 @@
 		]
 	},
 	{
-		"title": "미들웨어/시스템 엔지니어 각 경력 담당 구성원 영입",
-		"dday": "2022. 06. 19",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38684429?Oem_Code=C1&PageGbn=ST",
-		"기업": "에스케이엠앤서비스㈜",
-		"태그": [
-			"웹프로그래머",
-			"응용프로그래머",
-			"시스템프로그래머 외"
-		],
-		"bigtag": [
-			"웹",
-			"시스템",
-			"응용"
-		]
-	},
-	{
 		"title": "[풀필먼트] 백엔드 개발자 (시니어/팀장급)",
 		"dday": "2022. 06. 19",
 		"link": "https://programmers.co.kr/job_positions/10586",
@@ -509,159 +438,6 @@
 		"bigtag": [
 			"웹",
 			"서버"
-		]
-	},
-	{
-		"title": "콘티넨탈 오토모티브 코리아 2022년 하반기 인턴십 프로그램 콘티스타(ContiStar) 모집공고",
-		"dday": "2022. 06. 19",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38676480?Oem_Code=C1&PageGbn=ST",
-		"기업": "콘티넨탈 코리아",
-		"태그": [
-			"웹기획·PM",
-			"ERP·시스템분석·설계",
-			"소프트웨어·하드웨어 외"
-		],
-		"bigtag": [
-			"웹",
-			"시스템",
-			"응용"
-		]
-	},
-	{
-		"title": "C++개발자",
-		"dday": "2022. 06. 19",
-		"link": "https://programmers.co.kr/job_positions/8677",
-		"기업": "소만사",
-		"태그": [
-			"시스템/네트워크",
-			"인터넷 보안",
-			"응용 프로그램",
-			"C#",
-			"C",
-			"Boost",
-			"Java",
-			"C++"
-		],
-		"bigtag": [
-			"서버",
-			"시스템",
-			"응용"
-		]
-	},
-	{
-		"title": "VLLO 앱 QA",
-		"dday": "2022. 06. 19",
-		"link": "https://programmers.co.kr/job_positions/12079",
-		"기업": "비모소프트",
-		"태그": [
-			"QA"
-		],
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "VLLO 앱 Android 개발자 ",
-		"dday": "2022. 06. 19",
-		"link": "https://programmers.co.kr/job_positions/12077",
-		"기업": "비모소프트",
-		"태그": [
-			"안드로이드 앱",
-			"Kotlin",
-			"Java",
-			"Android"
-		],
-		"bigtag": [
-			"응용"
-		]
-	},
-	{
-		"title": "VLLO 앱 iOS 개발자 ",
-		"dday": "2022. 06. 19",
-		"link": "https://programmers.co.kr/job_positions/12075",
-		"기업": "비모소프트",
-		"태그": [
-			"아이폰 앱",
-			"iOS",
-			"Swift",
-			"Objective-C"
-		],
-		"bigtag": [
-			"응용"
-		]
-	},
-	{
-		"title": "각 부문 신입/경력 채용",
-		"dday": "2022. 06. 19",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38609856?Oem_Code=C1&PageGbn=ST",
-		"기업": "㈜에이비씨마트코리아",
-		"태그": [
-			"마케팅·광고·분석",
-			"웹프로그래머",
-			"응용프로그래머 외"
-		],
-		"bigtag": [
-			"웹",
-			"응용"
-		]
-	},
-	{
-		"title": "Software Engineer",
-		"dday": "2022. 06. 19",
-		"link": "https://programmers.co.kr/job_positions/10444",
-		"기업": "코드박스",
-		"태그": [
-			"서버/백엔드",
-			"프론트엔드",
-			"웹 풀스택",
-			"Google BigQuery",
-			"RabbitMQ",
-			"Redis",
-			"Kubernetes",
-			"Docker",
-			"PostgreSQL",
-			"Google Cloud Platform",
-			"Celery",
-			"GraphQL",
-			"TypeScript",
-			"ReactJS",
-			"Python",
-			"Django",
-			"CSS"
-		],
-		"bigtag": [
-			"웹",
-			"서버"
-		]
-	},
-	{
-		"title": "각 부문별 신입 및 경력사원 채용",
-		"dday": "2022. 06. 19",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38633958?Oem_Code=C1&PageGbn=ST",
-		"기업": "㈜팬코",
-		"태그": [
-			"사무보조·문서작성",
-			"비서·안내",
-			"네트워크·서버·보안 외"
-		],
-		"bigtag": [
-			"서버"
-		]
-	},
-	{
-		"title": "스마트팜 서비스 FE개발자",
-		"dday": "2022. 06. 19",
-		"link": "https://programmers.co.kr/job_positions/12018",
-		"기업": "아이오크롭스",
-		"태그": [
-			"프론트엔드",
-			"웹 풀스택",
-			"Sass(SCSS)",
-			"Next.js",
-			"ReactJS"
-		],
-		"bigtag": [
-			"웹"
 		]
 	},
 	{
@@ -679,8 +455,8 @@
 			"CI/CD"
 		],
 		"bigtag": [
-			"웹",
 			"시스템",
+			"웹",
 			"서버"
 		]
 	},
@@ -703,96 +479,37 @@
 			"Docker"
 		],
 		"bigtag": [
-			"웹",
 			"데이터",
-			"서버"
-		]
-	},
-	{
-		"title": "Server Developer",
-		"dday": "2022. 06. 20",
-		"link": "https://programmers.co.kr/job_positions/11235",
-		"기업": "핀투비",
-		"태그": [
-			"서버/백엔드",
-			"SQL",
-			"Spring Boot",
-			"JPA(Java Persistent API)"
-		],
-		"bigtag": [
 			"웹",
 			"서버"
 		]
 	},
 	{
-		"title": "[협업툴 플로우] Android 개발자",
-		"dday": "2022. 06. 20",
-		"link": "https://programmers.co.kr/job_positions/10540",
-		"기업": "마드라스체크",
+		"title": "VLLO 앱 iOS 개발자 ",
+		"dday": "2022. 06. 19",
+		"link": "https://programmers.co.kr/job_positions/12075",
+		"기업": "비모소프트",
 		"태그": [
-			"안드로이드 앱",
-			"Kotlin",
-			"Git",
-			"Android"
+			"아이폰 앱",
+			"iOS",
+			"Swift",
+			"Objective-C"
 		],
 		"bigtag": [
 			"응용"
 		]
 	},
 	{
-		"title": "(복사본)[아카라코리아] 서버/백엔드 개발자",
-		"dday": "2022. 06. 20",
-		"link": "https://programmers.co.kr/job_positions/12191",
-		"기업": "아카라코리아",
-		"태그": [
-			"서버/백엔드",
-			"시스템 소프트웨어",
-			"사물인터넷(IoT)",
-			"IoT",
-			"REST API",
-			"Python"
-		],
-		"bigtag": [
-			"시스템",
-			"인공지능",
-			"웹",
-			"서버",
-			"응용"
-		]
-	},
-	{
-		"title": "[협업툴 플로우] 시니어 개발자",
-		"dday": "2022. 06. 20",
-		"link": "https://programmers.co.kr/job_positions/11565",
-		"기업": "마드라스체크",
-		"태그": [
-			"서버/백엔드",
-			"Spring",
-			"Linux",
-			"REST API",
-			"MySQL",
-			"PostgreSQL",
-			"jQuery",
-			"JavaScript",
-			"Java"
-		],
-		"bigtag": [
-			"웹",
-			"시스템",
-			"서버"
-		]
-	},
-	{
-		"title": "Front-end Developer",
-		"dday": "2022. 06. 20",
-		"link": "https://programmers.co.kr/job_positions/11242",
-		"기업": "핀투비",
+		"title": "[커머스] 프론트엔드 개발자",
+		"dday": "2022. 06. 19",
+		"link": "https://programmers.co.kr/job_positions/9357",
+		"기업": "오늘식탁",
 		"태그": [
 			"프론트엔드",
-			"TypeScript",
-			"CSS",
-			"HTML",
-			"ReactJS",
+			"웹 풀스택",
+			"GitHub",
+			"Bootstrap",
+			"jQuery",
 			"JavaScript"
 		],
 		"bigtag": [
@@ -800,39 +517,80 @@
 		]
 	},
 	{
-		"title": "[플로우] 시스템 신규 개발",
-		"dday": "2022. 06. 20",
-		"link": "https://programmers.co.kr/job_positions/8372",
-		"기업": "마드라스체크",
+		"title": "스마트팜 서비스 FE개발자",
+		"dday": "2022. 06. 19",
+		"link": "https://programmers.co.kr/job_positions/12018",
+		"기업": "아이오크롭스",
 		"태그": [
-			"서버/백엔드",
+			"프론트엔드",
 			"웹 풀스택",
-			"Linux",
-			"AWS RDS",
-			"AWS EC2",
-			"Node.js",
-			"PostgreSQL",
-			"MySQL",
-			"jQuery",
-			"JavaScript",
-			"Java"
+			"Sass(SCSS)",
+			"Next.js",
+			"ReactJS"
 		],
 		"bigtag": [
+			"웹"
+		]
+	},
+	{
+		"title": "미들웨어/시스템 엔지니어 각 경력 담당 구성원 영입",
+		"dday": "2022. 06. 19",
+		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38684429?Oem_Code=C1&PageGbn=ST",
+		"기업": "에스케이엠앤서비스㈜",
+		"태그": [
+			"웹프로그래머",
+			"응용프로그래머",
+			"시스템프로그래머 외"
+		],
+		"bigtag": [
+			"응용",
 			"웹",
-			"시스템",
+			"시스템"
+		]
+	},
+	{
+		"title": "각 부문별 신입 및 경력사원 채용",
+		"dday": "2022. 06. 19",
+		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38633958?Oem_Code=C1&PageGbn=ST",
+		"기업": "㈜팬코",
+		"태그": [
+			"사무보조·문서작성",
+			"비서·안내",
+			"네트워크·서버·보안 외"
+		],
+		"bigtag": [
 			"서버"
 		]
 	},
 	{
-		"title": "[경력] Network Engineer(리더)",
-		"dday": "2022. 06. 20",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38577940?Oem_Code=C1&PageGbn=ST",
-		"기업": "㈜CJ올리브네트웍스",
+		"title": "각 부문 신입/경력 채용",
+		"dday": "2022. 06. 19",
+		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38609856?Oem_Code=C1&PageGbn=ST",
+		"기업": "㈜에이비씨마트코리아",
 		"태그": [
-			"네트워크·서버·보안"
+			"마케팅·광고·분석",
+			"웹프로그래머",
+			"응용프로그래머 외"
 		],
 		"bigtag": [
-			"서버"
+			"응용",
+			"웹"
+		]
+	},
+	{
+		"title": "콘티넨탈 오토모티브 코리아 2022년 하반기 인턴십 프로그램 콘티스타(ContiStar) 모집공고",
+		"dday": "2022. 06. 19",
+		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38676480?Oem_Code=C1&PageGbn=ST",
+		"기업": "콘티넨탈 코리아",
+		"태그": [
+			"웹기획·PM",
+			"ERP·시스템분석·설계",
+			"소프트웨어·하드웨어 외"
+		],
+		"bigtag": [
+			"응용",
+			"웹",
+			"시스템"
 		]
 	},
 	{
@@ -866,20 +624,130 @@
 		]
 	},
 	{
-		"title": "ASML Korea 2022년 전역장교 / 부사관 신입사원 공개채용",
-		"dday": "2022. 06. 21",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38678703?Oem_Code=C1&PageGbn=ST",
-		"기업": "에이에스엠엘코리아㈜",
+		"title": "[협업툴 플로우] 시니어 개발자",
+		"dday": "2022. 06. 20",
+		"link": "https://programmers.co.kr/job_positions/11565",
+		"기업": "마드라스체크",
 		"태그": [
-			"응용프로그래머",
-			"네트워크·서버·보안",
-			"빅데이터·AI(인공지능) 외"
+			"서버/백엔드",
+			"Spring",
+			"Linux",
+			"REST API",
+			"MySQL",
+			"PostgreSQL",
+			"jQuery",
+			"JavaScript",
+			"Java"
+		],
+		"bigtag": [
+			"시스템",
+			"웹",
+			"서버"
+		]
+	},
+	{
+		"title": "Server Developer",
+		"dday": "2022. 06. 20",
+		"link": "https://programmers.co.kr/job_positions/11235",
+		"기업": "핀투비",
+		"태그": [
+			"서버/백엔드",
+			"SQL",
+			"Spring Boot",
+			"JPA(Java Persistent API)"
+		],
+		"bigtag": [
+			"웹",
+			"서버"
+		]
+	},
+	{
+		"title": "Front-end Developer",
+		"dday": "2022. 06. 20",
+		"link": "https://programmers.co.kr/job_positions/11242",
+		"기업": "핀투비",
+		"태그": [
+			"프론트엔드",
+			"TypeScript",
+			"CSS",
+			"HTML",
+			"ReactJS",
+			"JavaScript"
+		],
+		"bigtag": [
+			"웹"
+		]
+	},
+	{
+		"title": "[협업툴 플로우] Android 개발자",
+		"dday": "2022. 06. 20",
+		"link": "https://programmers.co.kr/job_positions/10540",
+		"기업": "마드라스체크",
+		"태그": [
+			"안드로이드 앱",
+			"Kotlin",
+			"Git",
+			"Android"
+		],
+		"bigtag": [
+			"응용"
+		]
+	},
+	{
+		"title": "(복사본)[아카라코리아] 서버/백엔드 개발자",
+		"dday": "2022. 06. 20",
+		"link": "https://programmers.co.kr/job_positions/12191",
+		"기업": "아카라코리아",
+		"태그": [
+			"서버/백엔드",
+			"시스템 소프트웨어",
+			"사물인터넷(IoT)",
+			"IoT",
+			"REST API",
+			"Python"
 		],
 		"bigtag": [
 			"서버",
-			"데이터",
+			"인공지능",
+			"웹",
 			"응용",
-			"인공지능"
+			"시스템"
+		]
+	},
+	{
+		"title": "[플로우] 시스템 신규 개발",
+		"dday": "2022. 06. 20",
+		"link": "https://programmers.co.kr/job_positions/8372",
+		"기업": "마드라스체크",
+		"태그": [
+			"서버/백엔드",
+			"웹 풀스택",
+			"Linux",
+			"AWS RDS",
+			"AWS EC2",
+			"Node.js",
+			"PostgreSQL",
+			"MySQL",
+			"jQuery",
+			"JavaScript",
+			"Java"
+		],
+		"bigtag": [
+			"시스템",
+			"웹",
+			"서버"
+		]
+	},
+	{
+		"title": "[펜타브리드] 웹기획 경력직 모집",
+		"dday": "2022. 06. 20",
+		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38577416?Oem_Code=C1&PageGbn=ST",
+		"기업": "㈜펜타브리드",
+		"태그": [
+			"웹기획·PM"
+		],
+		"bigtag": [
+			"웹"
 		]
 	},
 	{
@@ -894,8 +762,25 @@
 			"Elasticsearch"
 		],
 		"bigtag": [
-			"웹",
 			"시스템",
+			"웹",
+			"서버"
+		]
+	},
+	{
+		"title": "ASML Korea 2022년 전역장교 / 부사관 신입사원 공개채용",
+		"dday": "2022. 06. 21",
+		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38678703?Oem_Code=C1&PageGbn=ST",
+		"기업": "에이에스엠엘코리아㈜",
+		"태그": [
+			"응용프로그래머",
+			"네트워크·서버·보안",
+			"빅데이터·AI(인공지능) 외"
+		],
+		"bigtag": [
+			"데이터",
+			"인공지능",
+			"응용",
 			"서버"
 		]
 	},
@@ -913,8 +798,8 @@
 			"SQL"
 		],
 		"bigtag": [
-			"웹",
 			"데이터",
+			"웹",
 			"서버"
 		]
 	},
@@ -937,22 +822,6 @@
 		]
 	},
 	{
-		"title": "오스템임플란트 [R&D] 부문 채용",
-		"dday": "2022. 06. 22",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38608317?Oem_Code=C1&PageGbn=ST",
-		"기업": "오스템임플란트㈜",
-		"태그": [
-			"웹프로그래머",
-			"응용프로그래머",
-			"시스템프로그래머 외"
-		],
-		"bigtag": [
-			"웹",
-			"시스템",
-			"응용"
-		]
-	},
-	{
 		"title": "유로지스넷 각 부문 신입/경력사원 채용",
 		"dday": "2022. 06. 22",
 		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38637926?Oem_Code=C1&PageGbn=ST",
@@ -963,8 +832,24 @@
 			"유통·물류·재고 외"
 		],
 		"bigtag": [
+			"응용",
+			"웹"
+		]
+	},
+	{
+		"title": "오스템임플란트 [R&D] 부문 채용",
+		"dday": "2022. 06. 22",
+		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38608317?Oem_Code=C1&PageGbn=ST",
+		"기업": "오스템임플란트㈜",
+		"태그": [
+			"웹프로그래머",
+			"응용프로그래머",
+			"시스템프로그래머 외"
+		],
+		"bigtag": [
+			"응용",
 			"웹",
-			"응용"
+			"시스템"
 		]
 	},
 	{
@@ -978,8 +863,8 @@
 			"제품·서비스영업 외"
 		],
 		"bigtag": [
-			"웹",
-			"응용"
+			"응용",
+			"웹"
 		]
 	},
 	{
@@ -993,9 +878,9 @@
 			"DBA·데이터베이스"
 		],
 		"bigtag": [
-			"웹",
 			"데이터",
-			"응용"
+			"응용",
+			"웹"
 		]
 	},
 	{
@@ -1009,8 +894,27 @@
 			"자동차·조선·기계 외"
 		],
 		"bigtag": [
-			"서버",
-			"응용"
+			"응용",
+			"서버"
+		]
+	},
+	{
+		"title": "웹 프론트 서비스 개발자",
+		"dday": "2022. 06. 24",
+		"link": "https://programmers.co.kr/job_positions/11854",
+		"기업": "리코",
+		"태그": [
+			"프론트엔드",
+			"TypeScript",
+			"Cypress",
+			"Webpack",
+			"HTML",
+			"CSS",
+			"JavaScript",
+			"Vue.js"
+		],
+		"bigtag": [
+			"웹"
 		]
 	},
 	{
@@ -1036,22 +940,18 @@
 		]
 	},
 	{
-		"title": "웹 프론트 서비스 개발자",
-		"dday": "2022. 06. 24",
-		"link": "https://programmers.co.kr/job_positions/11854",
-		"기업": "리코",
+		"title": "[Backend] C++ 개발자",
+		"dday": "2022. 06. 25",
+		"link": "https://programmers.co.kr/job_positions/11604",
+		"기업": "엔버랩스",
 		"태그": [
-			"프론트엔드",
-			"TypeScript",
-			"Cypress",
-			"Webpack",
-			"HTML",
-			"CSS",
-			"JavaScript",
-			"Vue.js"
+			"서버/백엔드",
+			"MySQL",
+			"C++"
 		],
 		"bigtag": [
-			"웹"
+			"웹",
+			"서버"
 		]
 	},
 	{
@@ -1071,32 +971,17 @@
 		]
 	},
 	{
-		"title": "[Backend] C++ 개발자",
-		"dday": "2022. 06. 25",
-		"link": "https://programmers.co.kr/job_positions/11604",
-		"기업": "엔버랩스",
-		"태그": [
-			"서버/백엔드",
-			"MySQL",
-			"C++"
-		],
-		"bigtag": [
-			"웹",
-			"서버"
-		]
-	},
-	{
-		"title": "[쇼핑엔티] 홈쇼핑 IT운영 담당자 채용",
+		"title": "[직방] 서비스 기획 분야별 채용 (경력)",
 		"dday": "2022. 06. 26",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38436610?Oem_Code=C1&PageGbn=ST",
-		"기업": "㈜티알엔",
+		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38278463?Oem_Code=C1&PageGbn=ST",
+		"기업": "㈜직방",
 		"태그": [
-			"시스템프로그래머",
-			"응용프로그래머"
+			"웹기획·PM",
+			"컨텐츠·사이트운영",
+			"HTML·퍼블리싱·UI개발"
 		],
 		"bigtag": [
-			"시스템",
-			"응용"
+			"웹"
 		]
 	},
 	{
@@ -1171,10 +1056,28 @@
 			"Java"
 		],
 		"bigtag": [
-			"웹",
-			"시스템",
 			"응용",
+			"시스템",
+			"웹",
 			"서버"
+		]
+	},
+	{
+		"title": "인공지능 딥러닝 엔지니어(연구원)",
+		"dday": "2022. 06. 30",
+		"link": "https://programmers.co.kr/job_positions/6166",
+		"기업": "두잉랩",
+		"태그": [
+			"머신러닝",
+			"인공지능(AI)",
+			"데이터 엔지니어",
+			"PyTorch",
+			"Keras",
+			"Tensorflow"
+		],
+		"bigtag": [
+			"데이터",
+			"인공지능"
 		]
 	},
 	{
@@ -1206,6 +1109,36 @@
 		]
 	},
 	{
+		"title": "iOS 개발자",
+		"dday": "2022. 06. 30",
+		"link": "https://programmers.co.kr/job_positions/9727",
+		"기업": "두잉랩",
+		"태그": [
+			"아이폰 앱",
+			"CocoaPods",
+			"Git",
+			"Swift",
+			"iOS"
+		],
+		"bigtag": [
+			"응용"
+		]
+	},
+	{
+		"title": "안드로이드 개발자(Android Developer)",
+		"dday": "2022. 06. 30",
+		"link": "https://programmers.co.kr/job_positions/10116",
+		"기업": "두잉랩",
+		"태그": [
+			"안드로이드 앱",
+			"Java",
+			"Kotlin"
+		],
+		"bigtag": [
+			"응용"
+		]
+	},
+	{
 		"title": "프론트엔드 엔지니어",
 		"dday": "2022. 06. 30",
 		"link": "https://programmers.co.kr/job_positions/8798",
@@ -1221,59 +1154,232 @@
 		]
 	},
 	{
-		"title": "[클라우드개발] 클라우드 웹 서비스 BFF 개발자 영입",
+		"title": "시니어 프론트엔드 엔지니어",
 		"dday": "2022. 06. 30",
-		"link": "https://programmers.co.kr/job_positions/11956",
-		"기업": "카카오엔터프라이즈",
+		"link": "https://programmers.co.kr/job_positions/8145",
+		"기업": "와이즐리컴퍼니",
 		"태그": [
-			"프론트엔드"
+			"프론트엔드",
+			"ReactJS",
+			"HTML",
+			"CSS"
 		],
 		"bigtag": [
 			"웹"
 		]
 	},
 	{
-		"title": "Android Developer (Java)",
+		"title": "클라우드 서비스 운영 관리자",
 		"dday": "2022. 06. 30",
-		"link": "https://programmers.co.kr/job_positions/8211",
-		"기업": "인터엠디컴퍼니",
+		"link": "https://programmers.co.kr/job_positions/10824",
+		"기업": "위메이드",
 		"태그": [
-			"안드로이드 앱",
-			"Android",
-			"Java",
-			"Firebase",
-			"Amazon Web Services(AWS)"
+			"시스템/네트워크",
+			"시스템 소프트웨어",
+			"인터넷 보안",
+			"Azure",
+			"Linux"
 		],
 		"bigtag": [
-			"응용"
+			"서버",
+			"응용",
+			"시스템"
 		]
 	},
 	{
-		"title": "클라우드 엔지니어 (CLOUD Engineer)",
+		"title": "백엔드 서버개발자(Back-end Developer)",
 		"dday": "2022. 06. 30",
-		"link": "https://programmers.co.kr/job_positions/9900",
-		"기업": "해커스교육그룹",
+		"link": "https://programmers.co.kr/job_positions/6164",
+		"기업": "두잉랩",
 		"태그": [
 			"서버/백엔드",
-			"프론트엔드",
-			"시스템 소프트웨어",
-			"Cloud Foundry",
-			"Linux",
-			"Linux kernel",
-			"NoSQL",
-			"Redis",
-			"ReactJS",
+			"인공지능(AI)",
 			"Python",
 			"PHP",
 			"Java",
+			"Spring",
+			"Kotlin"
+		],
+		"bigtag": [
+			"인공지능",
+			"웹",
+			"서버"
+		]
+	},
+	{
+		"title": "웹 퍼블리셔",
+		"dday": "2022. 06. 30",
+		"link": "https://programmers.co.kr/job_positions/11800",
+		"기업": "오픈서베이",
+		"태그": [
+			"프론트엔드",
+			"웹 풀스택",
+			"ReactJS"
+		],
+		"bigtag": [
+			"웹"
+		]
+	},
+	{
+		"title": "웹 개발자(Front-end Developer)",
+		"dday": "2022. 06. 30",
+		"link": "https://programmers.co.kr/job_positions/9728",
+		"기업": "두잉랩",
+		"태그": [
+			"프론트엔드",
+			"웹 풀스택",
+			"CSS",
+			"HTML5",
+			"TypeScript",
+			"JavaScript",
+			"ReactJS"
+		],
+		"bigtag": [
+			"웹"
+		]
+	},
+	{
+		"title": "스마트 컨트랙트 개발자",
+		"dday": "2022. 06. 30",
+		"link": "https://programmers.co.kr/job_positions/8199",
+		"기업": "위메이드",
+		"태그": [
+			"블록체인",
+			"Solidity"
+		],
+		"bigtag": [
+			"서버"
+		]
+	},
+	{
+		"title": "시스템 엔지니어(SE)",
+		"dday": "2022. 06. 30",
+		"link": "https://programmers.co.kr/job_positions/12177",
+		"기업": "위메이드",
+		"태그": [
+			"시스템/네트워크",
+			"데브옵스",
+			"시스템 소프트웨어",
+			"Python",
+			"Kubernetes",
+			"Linux",
+			"AWS CloudWatch",
+			"AWS CloudFront"
+		],
+		"bigtag": [
+			"응용",
+			"시스템"
+		]
+	},
+	{
+		"title": "백엔드 엔지니어 (Backend Engineer / Java, Spring)",
+		"dday": "2022. 06. 30",
+		"link": "https://programmers.co.kr/job_positions/10079",
+		"기업": "뮤즈라이브",
+		"태그": [
+			"서버/백엔드",
+			"Redis",
+			"Git",
+			"Docker",
 			"MySQL",
-			"AWS Systems Manager"
+			"Amazon Web Services(AWS)",
+			"Java",
+			"Spring Boot"
 		],
 		"bigtag": [
 			"웹",
-			"시스템",
-			"응용",
 			"서버"
+		]
+	},
+	{
+		"title": "백엔드 개발자 - 자사솔루션 개발,설계 및 개발,API 개발 및 연동작업,데이터베이스 설계 및 구축",
+		"dday": "2022. 06. 30",
+		"link": "https://programmers.co.kr/job_positions/12068",
+		"기업": "골든플래닛",
+		"태그": [
+			"서버/백엔드",
+			"Spring",
+			"Python",
+			"Java"
+		],
+		"bigtag": [
+			"웹",
+			"서버"
+		]
+	},
+	{
+		"title": "백엔드 개발자 :  SI 프로젝트 수행,백엔드 설계/개발,API 개발 및 연동작업 ,데이터베이스 설계 및 구축",
+		"dday": "2022. 06. 30",
+		"link": "https://programmers.co.kr/job_positions/12069",
+		"기업": "골든플래닛",
+		"태그": [
+			"서버/백엔드",
+			"데이터 엔지니어",
+			"DBA",
+			"Spring",
+			"Node.js",
+			"Java"
+		],
+		"bigtag": [
+			"데이터",
+			"웹",
+			"서버"
+		]
+	},
+	{
+		"title": "프론트엔드 개발자 - 웹 퍼블리싱,웹 대시보드 차트개발, 랜딩 페이지 HTML, Javascript,CSS",
+		"dday": "2022. 06. 30",
+		"link": "https://programmers.co.kr/job_positions/12070",
+		"기업": "골든플래닛",
+		"태그": [
+			"프론트엔드",
+			"머신러닝",
+			"DBA",
+			"JavaScript",
+			"jQuery",
+			"CSS",
+			"HTML"
+		],
+		"bigtag": [
+			"데이터",
+			"인공지능",
+			"웹"
+		]
+	},
+	{
+		"title": "[위메이드 전기아이피] 백엔드 개발",
+		"dday": "2022. 06. 30",
+		"link": "https://programmers.co.kr/job_positions/9893",
+		"기업": "위메이드",
+		"태그": [
+			"서버/백엔드",
+			"PHP",
+			"Node.js",
+			"Java"
+		],
+		"bigtag": [
+			"웹",
+			"서버"
+		]
+	},
+	{
+		"title": "[개발자] 구글 애널리틱스(Google Analytics)/구글 마케팅 플랫폼 테크 개발 및 컨설턴트",
+		"dday": "2022. 06. 30",
+		"link": "https://programmers.co.kr/job_positions/12071",
+		"기업": "골든플래닛",
+		"태그": [
+			"안드로이드 앱",
+			"아이폰 앱",
+			"데이터 엔지니어",
+			"Kotlin",
+			"Java",
+			"Swift",
+			"Objective-C",
+			"JavaScript"
+		],
+		"bigtag": [
+			"데이터",
+			"응용"
 		]
 	},
 	{
@@ -1294,21 +1400,40 @@
 			"REST API"
 		],
 		"bigtag": [
-			"웹",
 			"데이터",
+			"웹",
 			"서버"
 		]
 	},
 	{
-		"title": "[코스닥 상장기업] 소프트웨어 QA/QC",
+		"title": "QA 담당",
 		"dday": "2022. 06. 30",
-		"link": "https://programmers.co.kr/job_positions/12136",
-		"기업": "브이씨",
+		"link": "https://programmers.co.kr/job_positions/8155",
+		"기업": "위메이드",
 		"태그": [
 			"QA"
 		],
 		"bigtag": [
 			"기타"
+		]
+	},
+	{
+		"title": "커머스 플랫폼 개발자 (백엔드, Node.js)",
+		"dday": "2022. 06. 30",
+		"link": "https://programmers.co.kr/job_positions/11599",
+		"기업": "퍼즐벤처스",
+		"태그": [
+			"서버/백엔드",
+			"JavaScript",
+			"AWS EC2",
+			"AWS RDS",
+			"Git",
+			"MySQL",
+			"Node.js"
+		],
+		"bigtag": [
+			"웹",
+			"서버"
 		]
 	},
 	{
@@ -1339,67 +1464,49 @@
 		]
 	},
 	{
-		"title": "QA 담당",
+		"title": "앱 개발자 (iOS)",
 		"dday": "2022. 06. 30",
-		"link": "https://programmers.co.kr/job_positions/8155",
-		"기업": "위메이드",
+		"link": "https://programmers.co.kr/job_positions/5722",
+		"기업": "해커스교육그룹",
 		"태그": [
-			"QA"
-		],
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "시니어 프론트엔드 엔지니어",
-		"dday": "2022. 06. 30",
-		"link": "https://programmers.co.kr/job_positions/8145",
-		"기업": "와이즐리컴퍼니",
-		"태그": [
-			"프론트엔드",
+			"아이폰 앱",
+			"시스템/네트워크",
+			"사물인터넷(IoT)",
+			"OpenStack",
 			"ReactJS",
-			"HTML",
-			"CSS"
+			"React Native",
+			"iOS"
 		],
 		"bigtag": [
-			"웹"
+			"인공지능",
+			"응용",
+			"시스템"
 		]
 	},
 	{
-		"title": "프론트엔드 개발자 ",
+		"title": "클라우드 엔지니어 (CLOUD Engineer)",
 		"dday": "2022. 06. 30",
-		"link": "https://programmers.co.kr/job_positions/11124",
-		"기업": "에이치디정션",
-		"태그": [
-			"프론트엔드",
-			"ReactJS",
-			"Redux.js",
-			"Redux-Saga",
-			"TypeScript",
-			"Sass(SCSS)",
-			"Jest"
-		],
-		"bigtag": [
-			"웹"
-		]
-	},
-	{
-		"title": "Django 풀 스택 개발자 (일반 개발자 / 산업기능요원 전직 / 보충역 편입)",
-		"dday": "2022. 06. 30",
-		"link": "https://programmers.co.kr/job_positions/12014",
-		"기업": "오픈갤러리",
+		"link": "https://programmers.co.kr/job_positions/9900",
+		"기업": "해커스교육그룹",
 		"태그": [
 			"서버/백엔드",
 			"프론트엔드",
-			"웹 풀스택",
-			"Django",
-			"HTML",
-			"CSS",
-			"JavaScript",
+			"시스템 소프트웨어",
+			"Cloud Foundry",
+			"Linux",
+			"Linux kernel",
+			"NoSQL",
+			"Redis",
+			"ReactJS",
 			"Python",
-			"Git"
+			"PHP",
+			"Java",
+			"MySQL",
+			"AWS Systems Manager"
 		],
 		"bigtag": [
+			"응용",
+			"시스템",
 			"웹",
 			"서버"
 		]
@@ -1429,15 +1536,73 @@
 		]
 	},
 	{
-		"title": "QA 담당자",
+		"title": "[클라우드개발] 클라우드 웹 서비스 BFF 개발자 영입",
 		"dday": "2022. 06. 30",
-		"link": "https://programmers.co.kr/job_positions/10996",
-		"기업": "휴레이포지티브",
+		"link": "https://programmers.co.kr/job_positions/11956",
+		"기업": "카카오엔터프라이즈",
 		"태그": [
-			"QA"
+			"프론트엔드"
 		],
 		"bigtag": [
-			"기타"
+			"웹"
+		]
+	},
+	{
+		"title": "Web & Server Developer (Java)",
+		"dday": "2022. 06. 30",
+		"link": "https://programmers.co.kr/job_positions/8209",
+		"기업": "인터엠디컴퍼니",
+		"태그": [
+			"서버/백엔드",
+			"프론트엔드",
+			"웹 풀스택",
+			"Java",
+			"JSP",
+			"Spring",
+			"MyBatis",
+			"MySQL",
+			"JavaScript",
+			"jQuery",
+			"Elasticsearch",
+			"Amazon Web Services(AWS)"
+		],
+		"bigtag": [
+			"웹",
+			"서버"
+		]
+	},
+	{
+		"title": "[경력] 프론트엔드 엔지니어",
+		"dday": "2022. 06. 30",
+		"link": "https://programmers.co.kr/job_positions/12133",
+		"기업": "큐엠아이티",
+		"태그": [
+			"프론트엔드",
+			"Kubernetes",
+			"MobX",
+			"GraphQL",
+			"Next.js",
+			"React Native",
+			"TypeScript"
+		],
+		"bigtag": [
+			"웹"
+		]
+	},
+	{
+		"title": "2022년 IT 신입사원 채용",
+		"dday": "2022. 06. 30",
+		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38678097?Oem_Code=C1&PageGbn=ST",
+		"기업": "비아이매트릭스",
+		"태그": [
+			"웹프로그래머",
+			"응용프로그래머",
+			"DBA·데이터베이스"
+		],
+		"bigtag": [
+			"데이터",
+			"응용",
+			"웹"
 		]
 	},
 	{
@@ -1471,24 +1636,6 @@
 		]
 	},
 	{
-		"title": "웹 개발자(Front-end Developer)",
-		"dday": "2022. 06. 30",
-		"link": "https://programmers.co.kr/job_positions/9728",
-		"기업": "두잉랩",
-		"태그": [
-			"프론트엔드",
-			"웹 풀스택",
-			"CSS",
-			"HTML5",
-			"TypeScript",
-			"JavaScript",
-			"ReactJS"
-		],
-		"bigtag": [
-			"웹"
-		]
-	},
-	{
 		"title": "데브 옵스 엔지니어",
 		"dday": "2022. 06. 30",
 		"link": "https://programmers.co.kr/job_positions/10818",
@@ -1507,366 +1654,78 @@
 			"Docker"
 		],
 		"bigtag": [
-			"웹",
 			"시스템",
+			"웹",
 			"서버"
 		]
 	},
 	{
-		"title": "Web & Server Developer (Java)",
+		"title": "Android Developer (Java)",
 		"dday": "2022. 06. 30",
-		"link": "https://programmers.co.kr/job_positions/8209",
+		"link": "https://programmers.co.kr/job_positions/8211",
 		"기업": "인터엠디컴퍼니",
 		"태그": [
-			"서버/백엔드",
-			"프론트엔드",
-			"웹 풀스택",
+			"안드로이드 앱",
+			"Android",
 			"Java",
-			"JSP",
-			"Spring",
-			"MyBatis",
-			"MySQL",
-			"JavaScript",
-			"jQuery",
-			"Elasticsearch",
+			"Firebase",
 			"Amazon Web Services(AWS)"
 		],
 		"bigtag": [
-			"웹",
-			"서버"
-		]
-	},
-	{
-		"title": "[야나두(야핏)] 서비스 기획 / 플랫폼 기획 대규모 채용",
-		"dday": "2022. 06. 30",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38611226?Oem_Code=C1&PageGbn=ST",
-		"기업": "㈜야나두",
-		"태그": [
-			"기획·전략·경영",
-			"마케팅·광고·분석",
-			"응용프로그래머 외"
-		],
-		"bigtag": [
 			"응용"
 		]
 	},
 	{
-		"title": "iOS 개발자",
+		"title": "QA 담당자",
 		"dday": "2022. 06. 30",
-		"link": "https://programmers.co.kr/job_positions/9727",
-		"기업": "두잉랩",
+		"link": "https://programmers.co.kr/job_positions/10996",
+		"기업": "휴레이포지티브",
 		"태그": [
-			"아이폰 앱",
-			"CocoaPods",
-			"Git",
-			"Swift",
-			"iOS"
+			"QA"
 		],
 		"bigtag": [
-			"응용"
+			"기타"
 		]
 	},
 	{
-		"title": "인공지능 딥러닝 엔지니어(연구원)",
+		"title": "DBA담당자",
 		"dday": "2022. 06. 30",
-		"link": "https://programmers.co.kr/job_positions/6166",
-		"기업": "두잉랩",
+		"link": "https://programmers.co.kr/job_positions/9901",
+		"기업": "해커스교육그룹",
 		"태그": [
-			"머신러닝",
-			"인공지능(AI)",
+			"서버/백엔드",
 			"데이터 엔지니어",
-			"PyTorch",
-			"Keras",
-			"Tensorflow"
-		],
-		"bigtag": [
-			"데이터",
-			"인공지능"
-		]
-	},
-	{
-		"title": "백엔드 서버개발자(Back-end Developer)",
-		"dday": "2022. 06. 30",
-		"link": "https://programmers.co.kr/job_positions/6164",
-		"기업": "두잉랩",
-		"태그": [
-			"서버/백엔드",
-			"인공지능(AI)",
-			"Python",
-			"PHP",
-			"Java",
-			"Spring",
-			"Kotlin"
-		],
-		"bigtag": [
-			"웹",
-			"인공지능",
-			"서버"
-		]
-	},
-	{
-		"title": "클라우드 서비스 운영 관리자",
-		"dday": "2022. 06. 30",
-		"link": "https://programmers.co.kr/job_positions/10824",
-		"기업": "위메이드",
-		"태그": [
 			"시스템/네트워크",
-			"시스템 소프트웨어",
-			"인터넷 보안",
-			"Azure",
-			"Linux"
-		],
-		"bigtag": [
-			"서버",
-			"시스템",
-			"응용"
-		]
-	},
-	{
-		"title": "웹 퍼블리셔",
-		"dday": "2022. 06. 30",
-		"link": "https://programmers.co.kr/job_positions/11800",
-		"기업": "오픈서베이",
-		"태그": [
-			"프론트엔드",
-			"웹 풀스택",
-			"ReactJS"
-		],
-		"bigtag": [
-			"웹"
-		]
-	},
-	{
-		"title": "커머스 플랫폼 개발자 (백엔드, Node.js)",
-		"dday": "2022. 06. 30",
-		"link": "https://programmers.co.kr/job_positions/11599",
-		"기업": "퍼즐벤처스",
-		"태그": [
-			"서버/백엔드",
-			"JavaScript",
-			"AWS EC2",
-			"AWS RDS",
-			"Git",
-			"MySQL",
-			"Node.js"
-		],
-		"bigtag": [
-			"웹",
-			"서버"
-		]
-	},
-	{
-		"title": "안드로이드 개발자(Android Developer)",
-		"dday": "2022. 06. 30",
-		"link": "https://programmers.co.kr/job_positions/10116",
-		"기업": "두잉랩",
-		"태그": [
-			"안드로이드 앱",
-			"Java",
-			"Kotlin"
-		],
-		"bigtag": [
-			"응용"
-		]
-	},
-	{
-		"title": "코어 인프라 프론트엔드 개발자",
-		"dday": "2022. 06. 30",
-		"link": "https://programmers.co.kr/job_positions/11393",
-		"기업": "콘텐츠퍼스트(태피툰)",
-		"태그": [
-			"프론트엔드",
-			"안드로이드 앱",
-			"아이폰 앱",
-			"Angular",
-			"JIRA",
-			"Storybook",
-			"Apache Sentry",
-			"Firebase",
-			"iOS",
-			"Android",
-			"Swift",
-			"Kotlin",
-			"Redux-Saga",
-			"TypeScript",
-			"Next.js",
-			"React Native",
-			"Vue.js"
-		],
-		"bigtag": [
-			"웹",
-			"응용"
-		]
-	},
-	{
-		"title": "[경력] 프론트엔드 엔지니어",
-		"dday": "2022. 06. 30",
-		"link": "https://programmers.co.kr/job_positions/12133",
-		"기업": "큐엠아이티",
-		"태그": [
-			"프론트엔드",
-			"Kubernetes",
-			"MobX",
-			"GraphQL",
-			"Next.js",
-			"React Native",
-			"TypeScript"
-		],
-		"bigtag": [
-			"웹"
-		]
-	},
-	{
-		"title": "백엔드 개발자",
-		"dday": "2022. 06. 30",
-		"link": "https://programmers.co.kr/job_positions/11781",
-		"기업": "콘텐츠퍼스트(태피툰)",
-		"태그": [
-			"서버/백엔드",
-			"안드로이드 앱",
-			"아이폰 앱",
-			"Kotlin",
-			"Spring",
-			"Gradle",
-			"JPA(Java Persistent API)",
-			"Hibernate",
-			"Terraform",
-			"Docker",
-			"AWS ECS",
-			"AWS Lambda",
-			"AWS RDS",
-			"AWS ElastiCache",
-			"MySQL",
-			"Firebase",
-			"JIRA"
-		],
-		"bigtag": [
-			"웹",
-			"응용",
-			"서버"
-		]
-	},
-	{
-		"title": "블록체인 플랫폼 정보보호 및 취약점 점검 담당자",
-		"dday": "2022. 06. 30",
-		"link": "https://programmers.co.kr/job_positions/11068",
-		"기업": "위메이드",
-		"태그": [
-			"인터넷 보안",
-			"블록체인",
-			"Unity",
-			"Solidity",
-			"AWS CloudFront",
-			"AWS CloudWatch"
-		],
-		"bigtag": [
-			"서버"
-		]
-	},
-	{
-		"title": "백엔드 엔지니어 (Backend Engineer / Java, Spring)",
-		"dday": "2022. 06. 30",
-		"link": "https://programmers.co.kr/job_positions/10079",
-		"기업": "뮤즈라이브",
-		"태그": [
-			"서버/백엔드",
 			"Redis",
-			"Git",
-			"Docker",
 			"MySQL",
-			"Amazon Web Services(AWS)",
-			"Java",
-			"Spring Boot"
+			"Data visualization",
+			"Data Binding",
+			"Data Analysys",
+			"DBA(Database administration)"
 		],
 		"bigtag": [
+			"데이터",
+			"시스템",
 			"웹",
 			"서버"
 		]
 	},
 	{
-		"title": "2022년 IT 신입사원 채용",
+		"title": "ML Engineer/Researcher",
 		"dday": "2022. 06. 30",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38678097?Oem_Code=C1&PageGbn=ST",
-		"기업": "비아이매트릭스",
-		"태그": [
-			"웹프로그래머",
-			"응용프로그래머",
-			"DBA·데이터베이스"
-		],
-		"bigtag": [
-			"웹",
-			"데이터",
-			"응용"
-		]
-	},
-	{
-		"title": "Data Backend(Infra) / MLOps engineer",
-		"dday": "2022. 06. 30",
-		"link": "https://programmers.co.kr/job_positions/11390",
+		"link": "https://programmers.co.kr/job_positions/11388",
 		"기업": "에너자이",
 		"태그": [
-			"서버/백엔드",
 			"머신러닝",
-			"데브옵스",
-			"Django",
-			"ReactJS",
-			"Microsoft Azure",
-			"Slack API",
-			"Apache Airflow",
-			"Docker",
-			"AWS EC2",
-			"Kubernetes",
-			"Jenkins"
+			"인공지능(AI)",
+			"응용 프로그램",
+			"Deep Learning",
+			"Tensorflow",
+			"PyTorch",
+			"Python"
 		],
 		"bigtag": [
-			"웹",
 			"인공지능",
-			"서버"
-		]
-	},
-	{
-		"title": "[한화그룹계열]에스아이티 SW개발(Java, C#) 경력 모집공고",
-		"dday": "2022. 06. 30",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38679941?Oem_Code=C1&PageGbn=ST",
-		"기업": "㈜에스아이티",
-		"태그": [
-			"응용프로그래머",
-			"소프트웨어·하드웨어"
-		],
-		"bigtag": [
-			"응용"
-		]
-	},
-	{
-		"title": "[휴림로봇 및 관계사]2022년 각 부문별 채용",
-		"dday": "2022. 06. 30",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38679912?Oem_Code=C1&PageGbn=ST",
-		"기업": "휴림로봇㈜",
-		"태그": [
-			"재무·세무·IR",
-			"웹프로그래머",
-			"응용프로그래머 외"
-		],
-		"bigtag": [
-			"웹",
-			"응용"
-		]
-	},
-	{
-		"title": "게임 클라이언트 개발자",
-		"dday": "2022. 06. 30",
-		"link": "https://programmers.co.kr/job_positions/7996",
-		"기업": "나인코퍼레이션",
-		"태그": [
-			"모바일 게임",
-			"게임 클라이언트",
-			".NET",
-			"CircleCI",
-			"GitHub",
-			"C#",
-			"Unity"
-		],
-		"bigtag": [
 			"응용"
 		]
 	},
@@ -1895,103 +1754,34 @@
 		]
 	},
 	{
-		"title": "시니어 백엔드 개발자(Python)",
+		"title": "[직영] 22년 신학기 각 부문 STAFF 모집",
 		"dday": "2022. 06. 30",
-		"link": "https://programmers.co.kr/job_positions/12131",
-		"기업": "패스트파이브",
+		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38562698?Oem_Code=C1&PageGbn=ST",
+		"기업": "㈜DYB최선어학원",
 		"태그": [
-			"서버/백엔드",
-			"Django",
-			"Python"
+			"웹프로그래머",
+			"응용프로그래머",
+			"동영상제작·편집 외"
 		],
 		"bigtag": [
-			"웹",
-			"서버"
+			"응용",
+			"웹"
 		]
 	},
 	{
-		"title": "[잡코리아] CRM마케터 & 마케팅 데이터 분석가 채용",
+		"title": "2022년 롯데정보통신 모빌리티 개발/인프라 직무 경력채용",
 		"dday": "2022. 06. 30",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38501963?Oem_Code=C1&PageGbn=ST",
-		"기업": "잡코리아(유)",
+		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38568283?Oem_Code=C1&PageGbn=ST",
+		"기업": "롯데정보통신㈜",
 		"태그": [
-			"마케팅·광고·분석",
-			"빅데이터·AI(인공지능)"
+			"웹프로그래머",
+			"응용프로그래머",
+			"DBA·데이터베이스 외"
 		],
 		"bigtag": [
 			"데이터",
-			"인공지능"
-		]
-	},
-	{
-		"title": "주니어 백엔드 개발자(Python)",
-		"dday": "2022. 06. 30",
-		"link": "https://programmers.co.kr/job_positions/12132",
-		"기업": "패스트파이브",
-		"태그": [
-			"서버/백엔드",
-			"Python",
-			"Django"
-		],
-		"bigtag": [
-			"웹",
-			"서버"
-		]
-	},
-	{
-		"title": "iOS 개발자",
-		"dday": "2022. 06. 30",
-		"link": "https://programmers.co.kr/job_positions/12127",
-		"기업": "모젯",
-		"태그": [
-			"프론트엔드",
-			"아이폰 앱"
-		],
-		"bigtag": [
-			"웹",
-			"응용"
-		]
-	},
-	{
-		"title": "프론트엔드 개발자",
-		"dday": "2022. 06. 30",
-		"link": "https://programmers.co.kr/job_positions/11391",
-		"기업": "콘텐츠퍼스트(태피툰)",
-		"태그": [
-			"프론트엔드",
-			"안드로이드 앱",
-			"아이폰 앱",
-			"Angular",
-			"JIRA",
-			"Storybook",
-			"Apache Sentry",
-			"Firebase",
-			"iOS",
-			"Android",
-			"Swift",
-			"Kotlin",
-			"Redux-Saga",
-			"TypeScript",
-			"Next.js",
-			"React Native",
-			"Vue.js"
-		],
-		"bigtag": [
-			"웹",
-			"응용"
-		]
-	},
-	{
-		"title": "스마트 컨트랙트 개발자",
-		"dday": "2022. 06. 30",
-		"link": "https://programmers.co.kr/job_positions/8199",
-		"기업": "위메이드",
-		"태그": [
-			"블록체인",
-			"Solidity"
-		],
-		"bigtag": [
-			"서버"
+			"응용",
+			"웹"
 		]
 	},
 	{
@@ -2008,375 +1798,64 @@
 			"C"
 		],
 		"bigtag": [
-			"시스템",
 			"인공지능",
-			"응용"
+			"응용",
+			"시스템"
 		]
 	},
 	{
-		"title": "ML Engineer/Researcher",
+		"title": "Data Backend(Infra) / MLOps engineer",
 		"dday": "2022. 06. 30",
-		"link": "https://programmers.co.kr/job_positions/11388",
+		"link": "https://programmers.co.kr/job_positions/11390",
 		"기업": "에너자이",
 		"태그": [
+			"서버/백엔드",
 			"머신러닝",
-			"인공지능(AI)",
-			"응용 프로그램",
-			"Deep Learning",
-			"Tensorflow",
-			"PyTorch",
-			"Python"
+			"데브옵스",
+			"Django",
+			"ReactJS",
+			"Microsoft Azure",
+			"Slack API",
+			"Apache Airflow",
+			"Docker",
+			"AWS EC2",
+			"Kubernetes",
+			"Jenkins"
 		],
 		"bigtag": [
 			"인공지능",
-			"응용"
-		]
-	},
-	{
-		"title": "시스템 엔지니어(SE)",
-		"dday": "2022. 06. 30",
-		"link": "https://programmers.co.kr/job_positions/12177",
-		"기업": "위메이드",
-		"태그": [
-			"시스템/네트워크",
-			"데브옵스",
-			"시스템 소프트웨어",
-			"Python",
-			"Kubernetes",
-			"Linux",
-			"AWS CloudWatch",
-			"AWS CloudFront"
-		],
-		"bigtag": [
-			"시스템",
-			"응용"
-		]
-	},
-	{
-		"title": "백엔드 개발자 - 자사솔루션 개발,설계 및 개발,API 개발 및 연동작업,데이터베이스 설계 및 구축",
-		"dday": "2022. 06. 30",
-		"link": "https://programmers.co.kr/job_positions/12068",
-		"기업": "골든플래닛",
-		"태그": [
-			"서버/백엔드",
-			"Spring",
-			"Python",
-			"Java"
-		],
-		"bigtag": [
 			"웹",
 			"서버"
 		]
 	},
 	{
-		"title": "백엔드 개발자 :  SI 프로젝트 수행,백엔드 설계/개발,API 개발 및 연동작업 ,데이터베이스 설계 및 구축",
+		"title": "시니어 백엔드 개발자(Python)",
 		"dday": "2022. 06. 30",
-		"link": "https://programmers.co.kr/job_positions/12069",
-		"기업": "골든플래닛",
+		"link": "https://programmers.co.kr/job_positions/12131",
+		"기업": "패스트파이브",
 		"태그": [
 			"서버/백엔드",
-			"데이터 엔지니어",
-			"DBA",
-			"Spring",
-			"Node.js",
-			"Java"
-		],
-		"bigtag": [
-			"웹",
-			"데이터",
-			"서버"
-		]
-	},
-	{
-		"title": "[골프 IT] Backend 엔지니어 ",
-		"dday": "2022. 06. 30",
-		"link": "https://programmers.co.kr/job_positions/12042",
-		"기업": "브이씨",
-		"태그": [
-			"서버/백엔드",
-			"Node.js",
-			"Java",
-			"MySQL"
-		],
-		"bigtag": [
-			"웹",
-			"서버"
-		]
-	},
-	{
-		"title": "머신러닝 개발자",
-		"dday": "2022. 06. 30",
-		"link": "https://programmers.co.kr/job_positions/3616",
-		"기업": "휴레이포지티브",
-		"태그": [
-			"머신러닝",
-			"Java",
+			"Django",
 			"Python"
 		],
 		"bigtag": [
-			"인공지능"
-		]
-	},
-	{
-		"title": "[위메이드 전기아이피] 백엔드 개발",
-		"dday": "2022. 06. 30",
-		"link": "https://programmers.co.kr/job_positions/9893",
-		"기업": "위메이드",
-		"태그": [
-			"서버/백엔드",
-			"PHP",
-			"Node.js",
-			"Java"
-		],
-		"bigtag": [
 			"웹",
 			"서버"
 		]
 	},
 	{
-		"title": "앱 개발자 (iOS)",
+		"title": "iOS 개발자",
 		"dday": "2022. 06. 30",
-		"link": "https://programmers.co.kr/job_positions/5722",
-		"기업": "해커스교육그룹",
-		"태그": [
-			"아이폰 앱",
-			"시스템/네트워크",
-			"사물인터넷(IoT)",
-			"OpenStack",
-			"ReactJS",
-			"React Native",
-			"iOS"
-		],
-		"bigtag": [
-			"시스템",
-			"응용",
-			"인공지능"
-		]
-	},
-	{
-		"title": "[골프IT] App 개발자 (Android, iOS)",
-		"dday": "2022. 06. 30",
-		"link": "https://programmers.co.kr/job_positions/12041",
-		"기업": "브이씨",
-		"태그": [
-			"안드로이드 앱",
-			"아이폰 앱",
-			"Swift",
-			"Objective-C",
-			"Java",
-			"Kotlin"
-		],
-		"bigtag": [
-			"응용"
-		]
-	},
-	{
-		"title": "데이터드리븐 비즈니스 디벨롭 프로젝트 리더(PL)",
-		"dday": "2022. 06. 30",
-		"link": "https://programmers.co.kr/job_positions/12022",
-		"기업": "엑스포럼",
-		"태그": [
-			"서버/백엔드",
-			"프론트엔드",
-			"웹 풀스택",
-			"Mantis Bug Tracker",
-			"Git",
-			"Jenkins",
-			"CI/CD",
-			"Vue.js",
-			"ReactJS",
-			"MariaDB",
-			"PostgreSQL",
-			"ExpressJS",
-			"Node.js",
-			"Flask",
-			"Django",
-			"Python",
-			"Spring Boot",
-			"Java"
-		],
-		"bigtag": [
-			"웹",
-			"데이터",
-			"서버"
-		]
-	},
-	{
-		"title": "[개발자] 구글 애널리틱스(Google Analytics)/구글 마케팅 플랫폼 테크 개발 및 컨설턴트",
-		"dday": "2022. 06. 30",
-		"link": "https://programmers.co.kr/job_positions/12071",
-		"기업": "골든플래닛",
-		"태그": [
-			"안드로이드 앱",
-			"아이폰 앱",
-			"데이터 엔지니어",
-			"Kotlin",
-			"Java",
-			"Swift",
-			"Objective-C",
-			"JavaScript"
-		],
-		"bigtag": [
-			"데이터",
-			"응용"
-		]
-	},
-	{
-		"title": "프론트엔드 개발자 - 웹 퍼블리싱,웹 대시보드 차트개발, 랜딩 페이지 HTML, Javascript,CSS",
-		"dday": "2022. 06. 30",
-		"link": "https://programmers.co.kr/job_positions/12070",
-		"기업": "골든플래닛",
-		"태그": [
-			"프론트엔드",
-			"머신러닝",
-			"DBA",
-			"JavaScript",
-			"jQuery",
-			"CSS",
-			"HTML"
-		],
-		"bigtag": [
-			"웹",
-			"데이터",
-			"인공지능"
-		]
-	},
-	{
-		"title": "안드로이드 개발자",
-		"dday": "2022. 06. 30",
-		"link": "https://programmers.co.kr/job_positions/3460",
+		"link": "https://programmers.co.kr/job_positions/3459",
 		"기업": "휴레이포지티브",
 		"태그": [
-			"안드로이드 앱",
-			"BLE(Bluetooth Low Energy)",
-			"Jetpack",
-			"Data Binding",
+			"아이폰 앱",
 			"MVVM(Model-View-ViewModel)",
-			"REST API",
-			"Kotlin",
-			"Java",
+			"Reactor",
 			"Firebase",
-			"Android"
-		],
-		"bigtag": [
-			"데이터",
-			"응용"
-		]
-	},
-	{
-		"title": "DBA담당자",
-		"dday": "2022. 06. 30",
-		"link": "https://programmers.co.kr/job_positions/9901",
-		"기업": "해커스교육그룹",
-		"태그": [
-			"서버/백엔드",
-			"데이터 엔지니어",
-			"시스템/네트워크",
-			"Redis",
-			"MySQL",
-			"Data visualization",
-			"Data Binding",
-			"Data Analysys",
-			"DBA(Database administration)"
-		],
-		"bigtag": [
-			"웹",
-			"데이터",
-			"시스템",
-			"서버"
-		]
-	},
-	{
-		"title": "BGF네트웍스 신입 / 경력사원 수시 채용",
-		"dday": "2022. 06. 30",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38557957?Oem_Code=C1&PageGbn=ST",
-		"기업": "㈜비지에프네트웍스",
-		"태그": [
-			"경리·회계·결산",
-			"네트워크·서버·보안"
-		],
-		"bigtag": [
-			"서버"
-		]
-	},
-	{
-		"title": "[SPC그룹] Secta9ine DBA 경력직 수시 채용",
-		"dday": "2022. 06. 30",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38545731?Oem_Code=C1&PageGbn=ST",
-		"기업": "㈜섹타나인",
-		"태그": [
-			"웹프로그래머",
-			"응용프로그래머",
-			"DBA·데이터베이스"
-		],
-		"bigtag": [
-			"웹",
-			"데이터",
-			"응용"
-		]
-	},
-	{
-		"title": "2022년 KT 석/박사 연구인턴 채용",
-		"dday": "2022. 06. 30",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38538404?Oem_Code=C1&PageGbn=ST",
-		"기업": "㈜케이티",
-		"태그": [
-			"웹프로그래머",
-			"응용프로그래머",
-			"시스템프로그래머 외"
-		],
-		"bigtag": [
-			"웹",
-			"시스템",
-			"응용"
-		]
-	},
-	{
-		"title": "블록체인 플랫폼 클라우드 보안(DevSecOps) 담당자",
-		"dday": "2022. 06. 30",
-		"link": "https://programmers.co.kr/job_positions/9129",
-		"기업": "위메이드",
-		"태그": [
-			"인터넷 보안",
-			"블록체인",
-			"Terraform",
-			"Kubernetes",
-			"Go",
-			"Python",
-			"AWS IAM"
-		],
-		"bigtag": [
-			"서버"
-		]
-	},
-	{
-		"title": "(주)한솥 IT 전공 정규직 신입사원 채용",
-		"dday": "2022. 06. 30",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38536378?Oem_Code=C1&PageGbn=ST",
-		"기업": "㈜한솥",
-		"태그": [
-			"네트워크·서버·보안",
-			"응용프로그래머",
-			"웹기획·PM"
-		],
-		"bigtag": [
-			"서버",
-			"웹",
-			"응용"
-		]
-	},
-	{
-		"title": "Flutter 개발자",
-		"dday": "2022. 06. 30",
-		"link": "https://programmers.co.kr/job_positions/3973",
-		"기업": "휴레이포지티브",
-		"태그": [
-			"안드로이드 앱",
-			"아이폰 앱",
-			"Git",
-			"Dart",
 			"REST API",
-			"flutter"
+			"iOS",
+			"Swift"
 		],
 		"bigtag": [
 			"응용"
@@ -2408,66 +1887,441 @@
 		]
 	},
 	{
-		"title": "iOS 개발자",
+		"title": "Flutter 개발자",
 		"dday": "2022. 06. 30",
-		"link": "https://programmers.co.kr/job_positions/3459",
+		"link": "https://programmers.co.kr/job_positions/3973",
 		"기업": "휴레이포지티브",
 		"태그": [
+			"안드로이드 앱",
 			"아이폰 앱",
-			"MVVM(Model-View-ViewModel)",
-			"Reactor",
-			"Firebase",
+			"Git",
+			"Dart",
 			"REST API",
-			"iOS",
-			"Swift"
+			"flutter"
 		],
 		"bigtag": [
 			"응용"
 		]
 	},
 	{
-		"title": "Javascript 개발자",
-		"dday": "2022. 07. 01",
-		"link": "https://programmers.co.kr/job_positions/12109",
-		"기업": "유니드컴즈",
+		"title": "블록체인 플랫폼 클라우드 보안(DevSecOps) 담당자",
+		"dday": "2022. 06. 30",
+		"link": "https://programmers.co.kr/job_positions/9129",
+		"기업": "위메이드",
+		"태그": [
+			"인터넷 보안",
+			"블록체인",
+			"Terraform",
+			"Kubernetes",
+			"Go",
+			"Python",
+			"AWS IAM"
+		],
+		"bigtag": [
+			"서버"
+		]
+	},
+	{
+		"title": "[골프 IT] Backend 엔지니어 ",
+		"dday": "2022. 06. 30",
+		"link": "https://programmers.co.kr/job_positions/12042",
+		"기업": "브이씨",
+		"태그": [
+			"서버/백엔드",
+			"Node.js",
+			"Java",
+			"MySQL"
+		],
+		"bigtag": [
+			"웹",
+			"서버"
+		]
+	},
+	{
+		"title": "BGF네트웍스 신입 / 경력사원 수시 채용",
+		"dday": "2022. 06. 30",
+		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38557957?Oem_Code=C1&PageGbn=ST",
+		"기업": "㈜비지에프네트웍스",
+		"태그": [
+			"경리·회계·결산",
+			"네트워크·서버·보안"
+		],
+		"bigtag": [
+			"서버"
+		]
+	},
+	{
+		"title": "[한화그룹계열]에스아이티 SW개발(Java, C#) 경력 모집공고",
+		"dday": "2022. 06. 30",
+		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38679941?Oem_Code=C1&PageGbn=ST",
+		"기업": "㈜에스아이티",
+		"태그": [
+			"응용프로그래머",
+			"소프트웨어·하드웨어"
+		],
+		"bigtag": [
+			"응용"
+		]
+	},
+	{
+		"title": "[휴림로봇 및 관계사]2022년 각 부문별 채용",
+		"dday": "2022. 06. 30",
+		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38679912?Oem_Code=C1&PageGbn=ST",
+		"기업": "휴림로봇㈜",
+		"태그": [
+			"재무·세무·IR",
+			"웹프로그래머",
+			"응용프로그래머 외"
+		],
+		"bigtag": [
+			"응용",
+			"웹"
+		]
+	},
+	{
+		"title": "Front-end Developer (React.js / 2년 이상)",
+		"dday": "2022. 06. 30",
+		"link": "https://programmers.co.kr/job_positions/4236",
+		"기업": "하이어엑스",
 		"태그": [
 			"프론트엔드",
-			"JIRA",
-			"BitBucket",
-			"jQuery",
-			"JavaScript"
+			"웹 풀스택",
+			"TypeScript",
+			"Git",
+			"React Native",
+			"JavaScript",
+			"REST API"
 		],
 		"bigtag": [
 			"웹"
 		]
 	},
 	{
-		"title": "네트워크/인프라 관리자",
-		"dday": "2022. 07. 01",
-		"link": "https://programmers.co.kr/job_positions/8897",
-		"기업": "팀프레시",
+		"title": "주니어 백엔드 개발자(Python)",
+		"dday": "2022. 06. 30",
+		"link": "https://programmers.co.kr/job_positions/12132",
+		"기업": "패스트파이브",
 		"태그": [
-			"시스템/네트워크",
-			"인터넷 보안"
+			"서버/백엔드",
+			"Python",
+			"Django"
 		],
 		"bigtag": [
-			"서버",
-			"시스템"
+			"웹",
+			"서버"
 		]
 	},
 	{
-		"title": "안드로이드 앱 개발자",
-		"dday": "2022. 07. 01",
-		"link": "https://programmers.co.kr/job_positions/8896",
-		"기업": "팀프레시",
+		"title": "Back-end Server Developer (Senior / 5년 이상)",
+		"dday": "2022. 06. 30",
+		"link": "https://programmers.co.kr/job_positions/11898",
+		"기업": "하이어엑스",
+		"태그": [
+			"서버/백엔드",
+			"데이터 엔지니어",
+			"시스템/네트워크",
+			"Java",
+			"Spring",
+			"Linux",
+			"AWS EC2",
+			"NoSQL"
+		],
+		"bigtag": [
+			"데이터",
+			"시스템",
+			"웹",
+			"서버"
+		]
+	},
+	{
+		"title": "코어 인프라 프론트엔드 개발자",
+		"dday": "2022. 06. 30",
+		"link": "https://programmers.co.kr/job_positions/11393",
+		"기업": "콘텐츠퍼스트(태피툰)",
+		"태그": [
+			"프론트엔드",
+			"안드로이드 앱",
+			"아이폰 앱",
+			"Angular",
+			"JIRA",
+			"Storybook",
+			"Apache Sentry",
+			"Firebase",
+			"iOS",
+			"Android",
+			"Swift",
+			"Kotlin",
+			"Redux-Saga",
+			"TypeScript",
+			"Next.js",
+			"React Native",
+			"Vue.js"
+		],
+		"bigtag": [
+			"응용",
+			"웹"
+		]
+	},
+	{
+		"title": "데이터드리븐 비즈니스 디벨롭 프로젝트 리더(PL)",
+		"dday": "2022. 06. 30",
+		"link": "https://programmers.co.kr/job_positions/12022",
+		"기업": "엑스포럼",
+		"태그": [
+			"서버/백엔드",
+			"프론트엔드",
+			"웹 풀스택",
+			"Mantis Bug Tracker",
+			"Git",
+			"Jenkins",
+			"CI/CD",
+			"Vue.js",
+			"ReactJS",
+			"MariaDB",
+			"PostgreSQL",
+			"ExpressJS",
+			"Node.js",
+			"Flask",
+			"Django",
+			"Python",
+			"Spring Boot",
+			"Java"
+		],
+		"bigtag": [
+			"데이터",
+			"웹",
+			"서버"
+		]
+	},
+	{
+		"title": "프론트엔드 개발자",
+		"dday": "2022. 06. 30",
+		"link": "https://programmers.co.kr/job_positions/11391",
+		"기업": "콘텐츠퍼스트(태피툰)",
+		"태그": [
+			"프론트엔드",
+			"안드로이드 앱",
+			"아이폰 앱",
+			"Angular",
+			"JIRA",
+			"Storybook",
+			"Apache Sentry",
+			"Firebase",
+			"iOS",
+			"Android",
+			"Swift",
+			"Kotlin",
+			"Redux-Saga",
+			"TypeScript",
+			"Next.js",
+			"React Native",
+			"Vue.js"
+		],
+		"bigtag": [
+			"응용",
+			"웹"
+		]
+	},
+	{
+		"title": "백엔드 개발자",
+		"dday": "2022. 06. 30",
+		"link": "https://programmers.co.kr/job_positions/11781",
+		"기업": "콘텐츠퍼스트(태피툰)",
+		"태그": [
+			"서버/백엔드",
+			"안드로이드 앱",
+			"아이폰 앱",
+			"Kotlin",
+			"Spring",
+			"Gradle",
+			"JPA(Java Persistent API)",
+			"Hibernate",
+			"Terraform",
+			"Docker",
+			"AWS ECS",
+			"AWS Lambda",
+			"AWS RDS",
+			"AWS ElastiCache",
+			"MySQL",
+			"Firebase",
+			"JIRA"
+		],
+		"bigtag": [
+			"응용",
+			"웹",
+			"서버"
+		]
+	},
+	{
+		"title": "[SPC그룹] Secta9ine DBA 경력직 수시 채용",
+		"dday": "2022. 06. 30",
+		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38545731?Oem_Code=C1&PageGbn=ST",
+		"기업": "㈜섹타나인",
+		"태그": [
+			"웹프로그래머",
+			"응용프로그래머",
+			"DBA·데이터베이스"
+		],
+		"bigtag": [
+			"데이터",
+			"응용",
+			"웹"
+		]
+	},
+	{
+		"title": "블록체인 플랫폼 정보보호 및 취약점 점검 담당자",
+		"dday": "2022. 06. 30",
+		"link": "https://programmers.co.kr/job_positions/11068",
+		"기업": "위메이드",
+		"태그": [
+			"인터넷 보안",
+			"블록체인",
+			"Unity",
+			"Solidity",
+			"AWS CloudFront",
+			"AWS CloudWatch"
+		],
+		"bigtag": [
+			"서버"
+		]
+	},
+	{
+		"title": "[코스닥 상장기업] 소프트웨어 QA/QC",
+		"dday": "2022. 06. 30",
+		"link": "https://programmers.co.kr/job_positions/12136",
+		"기업": "브이씨",
+		"태그": [
+			"QA"
+		],
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
+		"title": "[골프IT] App 개발자 (Android, iOS)",
+		"dday": "2022. 06. 30",
+		"link": "https://programmers.co.kr/job_positions/12041",
+		"기업": "브이씨",
 		"태그": [
 			"안드로이드 앱",
-			"Retrofit",
-			"MVVM(Model-View-ViewModel)",
-			"Android"
+			"아이폰 앱",
+			"Swift",
+			"Objective-C",
+			"Java",
+			"Kotlin"
 		],
 		"bigtag": [
 			"응용"
+		]
+	},
+	{
+		"title": "게임 클라이언트 개발자",
+		"dday": "2022. 06. 30",
+		"link": "https://programmers.co.kr/job_positions/7996",
+		"기업": "나인코퍼레이션",
+		"태그": [
+			"모바일 게임",
+			"게임 클라이언트",
+			".NET",
+			"CircleCI",
+			"GitHub",
+			"C#",
+			"Unity"
+		],
+		"bigtag": [
+			"응용"
+		]
+	},
+	{
+		"title": "iOS 개발자",
+		"dday": "2022. 06. 30",
+		"link": "https://programmers.co.kr/job_positions/12127",
+		"기업": "모젯",
+		"태그": [
+			"프론트엔드",
+			"아이폰 앱"
+		],
+		"bigtag": [
+			"응용",
+			"웹"
+		]
+	},
+	{
+		"title": "안드로이드 개발자",
+		"dday": "2022. 06. 30",
+		"link": "https://programmers.co.kr/job_positions/3460",
+		"기업": "휴레이포지티브",
+		"태그": [
+			"안드로이드 앱",
+			"BLE(Bluetooth Low Energy)",
+			"Jetpack",
+			"Data Binding",
+			"MVVM(Model-View-ViewModel)",
+			"REST API",
+			"Kotlin",
+			"Java",
+			"Firebase",
+			"Android"
+		],
+		"bigtag": [
+			"데이터",
+			"응용"
+		]
+	},
+	{
+		"title": "머신러닝 개발자",
+		"dday": "2022. 06. 30",
+		"link": "https://programmers.co.kr/job_positions/3616",
+		"기업": "휴레이포지티브",
+		"태그": [
+			"머신러닝",
+			"Java",
+			"Python"
+		],
+		"bigtag": [
+			"인공지능"
+		]
+	},
+	{
+		"title": "AJ전시몰 신입/경력사원 수시채용",
+		"dday": "2022. 06. 30",
+		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38352356?Oem_Code=C1&PageGbn=ST",
+		"기업": "에이제이전시몰㈜",
+		"태그": [
+			"웹디자인",
+			"상품기획·MD"
+		],
+		"bigtag": [
+			"웹"
+		]
+	},
+	{
+		"title": "[야나두(야핏)] 서비스 기획 / 플랫폼 기획 대규모 채용",
+		"dday": "2022. 06. 30",
+		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38611226?Oem_Code=C1&PageGbn=ST",
+		"기업": "㈜야나두",
+		"태그": [
+			"기획·전략·경영",
+			"마케팅·광고·분석",
+			"응용프로그래머 외"
+		],
+		"bigtag": [
+			"응용"
+		]
+	},
+	{
+		"title": "프론트엔드 개발자",
+		"dday": "2022. 07. 01",
+		"link": "https://programmers.co.kr/job_positions/12096",
+		"기업": "팀프레시",
+		"태그": [
+			"프론트엔드",
+			"JavaScript",
+			"TypeScript",
+			"Node.js"
+		],
+		"bigtag": [
+			"웹"
 		]
 	},
 	{
@@ -2491,21 +2345,6 @@
 		]
 	},
 	{
-		"title": "프론트엔드 개발자",
-		"dday": "2022. 07. 01",
-		"link": "https://programmers.co.kr/job_positions/12096",
-		"기업": "팀프레시",
-		"태그": [
-			"프론트엔드",
-			"JavaScript",
-			"TypeScript",
-			"Node.js"
-		],
-		"bigtag": [
-			"웹"
-		]
-	},
-	{
 		"title": "QA 담당자",
 		"dday": "2022. 07. 01",
 		"link": "https://programmers.co.kr/job_positions/12110",
@@ -2514,6 +2353,51 @@
 			"QA",
 			"CSS",
 			"HTML"
+		],
+		"bigtag": [
+			"웹"
+		]
+	},
+	{
+		"title": "안드로이드 앱 개발자",
+		"dday": "2022. 07. 01",
+		"link": "https://programmers.co.kr/job_positions/8896",
+		"기업": "팀프레시",
+		"태그": [
+			"안드로이드 앱",
+			"Retrofit",
+			"MVVM(Model-View-ViewModel)",
+			"Android"
+		],
+		"bigtag": [
+			"응용"
+		]
+	},
+	{
+		"title": "네트워크/인프라 관리자",
+		"dday": "2022. 07. 01",
+		"link": "https://programmers.co.kr/job_positions/8897",
+		"기업": "팀프레시",
+		"태그": [
+			"시스템/네트워크",
+			"인터넷 보안"
+		],
+		"bigtag": [
+			"서버",
+			"시스템"
+		]
+	},
+	{
+		"title": "Javascript 개발자",
+		"dday": "2022. 07. 01",
+		"link": "https://programmers.co.kr/job_positions/12109",
+		"기업": "유니드컴즈",
+		"태그": [
+			"프론트엔드",
+			"JIRA",
+			"BitBucket",
+			"jQuery",
+			"JavaScript"
 		],
 		"bigtag": [
 			"웹"
@@ -2535,27 +2419,46 @@
 		]
 	},
 	{
-		"title": "모빌리티 AR(증강현실) 개발자",
+		"title": "Unity를 이용한 증강현실 개발자",
 		"dday": "2022. 07. 03",
-		"link": "https://programmers.co.kr/job_positions/9967",
+		"link": "https://programmers.co.kr/job_positions/8755",
 		"기업": "애니랙티브",
 		"태그": [
 			"서버/백엔드",
-			"인공지능(AI)",
+			"프론트엔드",
 			"시스템 소프트웨어",
 			"Java",
-			"C",
 			"Unity",
-			"OpenGL",
+			"JavaScript",
+			"C#",
+			"C"
+		],
+		"bigtag": [
+			"응용",
+			"시스템",
+			"웹",
+			"서버"
+		]
+	},
+	{
+		"title": "Unity를 이용한 증강현실 개발자",
+		"dday": "2022. 07. 03",
+		"link": "https://programmers.co.kr/job_positions/11421",
+		"기업": "애니랙티브",
+		"태그": [
+			"서버/백엔드",
+			"프론트엔드",
+			"시스템 소프트웨어",
+			"Unity",
+			"Java",
 			"JavaScript",
 			"C#"
 		],
 		"bigtag": [
+			"응용",
 			"시스템",
-			"인공지능",
 			"웹",
-			"서버",
-			"응용"
+			"서버"
 		]
 	},
 	{
@@ -2571,8 +2474,8 @@
 			"AutoCAD"
 		],
 		"bigtag": [
-			"시스템",
-			"응용"
+			"응용",
+			"시스템"
 		]
 	},
 	{
@@ -2592,52 +2495,9 @@
 			"C#"
 		],
 		"bigtag": [
-			"웹",
-			"시스템",
 			"인공지능",
-			"서버"
-		]
-	},
-	{
-		"title": "Unity를 이용한 증강현실 개발자",
-		"dday": "2022. 07. 03",
-		"link": "https://programmers.co.kr/job_positions/8755",
-		"기업": "애니랙티브",
-		"태그": [
-			"서버/백엔드",
-			"프론트엔드",
-			"시스템 소프트웨어",
-			"Java",
-			"Unity",
-			"JavaScript",
-			"C#",
-			"C"
-		],
-		"bigtag": [
-			"웹",
 			"시스템",
-			"응용",
-			"서버"
-		]
-	},
-	{
-		"title": "Unity를 이용한 증강현실 개발자",
-		"dday": "2022. 07. 03",
-		"link": "https://programmers.co.kr/job_positions/11421",
-		"기업": "애니랙티브",
-		"태그": [
-			"서버/백엔드",
-			"프론트엔드",
-			"시스템 소프트웨어",
-			"Unity",
-			"Java",
-			"JavaScript",
-			"C#"
-		],
-		"bigtag": [
 			"웹",
-			"시스템",
-			"응용",
 			"서버"
 		]
 	},
@@ -2657,94 +2517,67 @@
 			"C"
 		],
 		"bigtag": [
-			"시스템",
-			"응용"
+			"응용",
+			"시스템"
 		]
 	},
 	{
-		"title": "데이터 애널리스트 (AI 개발자)",
-		"dday": "2022. 07. 04",
-		"link": "https://programmers.co.kr/job_positions/12100",
-		"기업": "웰리시스",
-		"태그": [
-			"인공지능(AI)",
-			"데이터 엔지니어",
-			"DSP(Digital Signal Processing)",
-			"MXNET",
-			"Tensorflow",
-			"Pandas",
-			"Numpy",
-			"SQL",
-			"R",
-			"Python"
-		],
-		"bigtag": [
-			"데이터",
-			"인공지능"
-		]
-	},
-	{
-		"title": "프론트엔드 개발자 (Front End Developer)",
-		"dday": "2022. 07. 04",
-		"link": "https://programmers.co.kr/job_positions/12097",
-		"기업": "웰리시스",
-		"태그": [
-			"프론트엔드",
-			"REST API",
-			"Vue.js",
-			"JavaScript",
-			"CSS",
-			"HTML"
-		],
-		"bigtag": [
-			"웹"
-		]
-	},
-	{
-		"title": "백엔드 개발자 (Back End Developer)",
-		"dday": "2022. 07. 04",
-		"link": "https://programmers.co.kr/job_positions/12095",
-		"기업": "웰리시스",
+		"title": "모빌리티 AR(증강현실) 개발자",
+		"dday": "2022. 07. 03",
+		"link": "https://programmers.co.kr/job_positions/9967",
+		"기업": "애니랙티브",
 		"태그": [
 			"서버/백엔드",
-			"Hibernate",
-			"JPA(Java Persistent API)",
-			"MyBatis",
-			"REST API",
-			"Flask",
-			"Spring",
+			"인공지능(AI)",
+			"시스템 소프트웨어",
+			"Java",
+			"C",
+			"Unity",
+			"OpenGL",
+			"JavaScript",
+			"C#"
+		],
+		"bigtag": [
+			"서버",
+			"인공지능",
+			"웹",
+			"응용",
+			"시스템"
+		]
+	},
+	{
+		"title": "풀스택 개발자 (Full Stack Developer)",
+		"dday": "2022. 07. 04",
+		"link": "https://programmers.co.kr/job_positions/12094",
+		"기업": "웰리시스",
+		"태그": [
+			"웹 풀스택",
+			"Spring Boot",
 			"Node.js",
 			"Python",
 			"Java",
 			"C++"
 		],
 		"bigtag": [
-			"웹",
-			"서버"
-		]
-	},
-	{
-		"title": "모바일 앱 개발자 (Mobile App Developer)",
-		"dday": "2022. 07. 04",
-		"link": "https://programmers.co.kr/job_positions/12098",
-		"기업": "웰리시스",
-		"태그": [
-			"안드로이드 앱",
-			"아이폰 앱",
-			"React Native",
-			"Kotlin",
-			"Swift",
-			"Android",
-			"iOS"
-		],
-		"bigtag": [
-			"응용"
+			"웹"
 		]
 	},
 	{
 		"title": "테스트 엔지니어 (Test Engineer)",
 		"dday": "2022. 07. 04",
 		"link": "https://programmers.co.kr/job_positions/12103",
+		"기업": "웰리시스",
+		"태그": [
+			"추가필요"
+		],
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
+		"title": "서포트 엔지니어 (Support Engineer)",
+		"dday": "2022. 07. 04",
+		"link": "https://programmers.co.kr/job_positions/12102",
 		"기업": "웰리시스",
 		"태그": [
 			"추가필요"
@@ -2772,35 +2605,6 @@
 		]
 	},
 	{
-		"title": "서포트 엔지니어 (Support Engineer)",
-		"dday": "2022. 07. 04",
-		"link": "https://programmers.co.kr/job_positions/12102",
-		"기업": "웰리시스",
-		"태그": [
-			"추가필요"
-		],
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "풀스택 개발자 (Full Stack Developer)",
-		"dday": "2022. 07. 04",
-		"link": "https://programmers.co.kr/job_positions/12094",
-		"기업": "웰리시스",
-		"태그": [
-			"웹 풀스택",
-			"Spring Boot",
-			"Node.js",
-			"Python",
-			"Java",
-			"C++"
-		],
-		"bigtag": [
-			"웹"
-		]
-	},
-	{
 		"title": "임베디드 소프트웨어 개발자 (Embedded SW Developer)",
 		"dday": "2022. 07. 04",
 		"link": "https://programmers.co.kr/job_positions/12099",
@@ -2810,8 +2614,88 @@
 			"BLE(Bluetooth Low Energy)"
 		],
 		"bigtag": [
-			"시스템",
+			"응용",
+			"시스템"
+		]
+	},
+	{
+		"title": "모바일 앱 개발자 (Mobile App Developer)",
+		"dday": "2022. 07. 04",
+		"link": "https://programmers.co.kr/job_positions/12098",
+		"기업": "웰리시스",
+		"태그": [
+			"안드로이드 앱",
+			"아이폰 앱",
+			"React Native",
+			"Kotlin",
+			"Swift",
+			"Android",
+			"iOS"
+		],
+		"bigtag": [
 			"응용"
+		]
+	},
+	{
+		"title": "백엔드 개발자 (Back End Developer)",
+		"dday": "2022. 07. 04",
+		"link": "https://programmers.co.kr/job_positions/12095",
+		"기업": "웰리시스",
+		"태그": [
+			"서버/백엔드",
+			"Hibernate",
+			"JPA(Java Persistent API)",
+			"MyBatis",
+			"REST API",
+			"Flask",
+			"Spring",
+			"Node.js",
+			"Python",
+			"Java",
+			"C++"
+		],
+		"bigtag": [
+			"웹",
+			"서버"
+		]
+	},
+	{
+		"title": "프론트엔드 개발자 (Front End Developer)",
+		"dday": "2022. 07. 04",
+		"link": "https://programmers.co.kr/job_positions/12097",
+		"기업": "웰리시스",
+		"태그": [
+			"프론트엔드",
+			"REST API",
+			"Vue.js",
+			"JavaScript",
+			"CSS",
+			"HTML"
+		],
+		"bigtag": [
+			"웹"
+		]
+	},
+	{
+		"title": "데이터 애널리스트 (AI 개발자)",
+		"dday": "2022. 07. 04",
+		"link": "https://programmers.co.kr/job_positions/12100",
+		"기업": "웰리시스",
+		"태그": [
+			"인공지능(AI)",
+			"데이터 엔지니어",
+			"DSP(Digital Signal Processing)",
+			"MXNET",
+			"Tensorflow",
+			"Pandas",
+			"Numpy",
+			"SQL",
+			"R",
+			"Python"
+		],
+		"bigtag": [
+			"데이터",
+			"인공지능"
 		]
 	},
 	{
@@ -2854,9 +2738,9 @@
 			"웹기획·PM"
 		],
 		"bigtag": [
-			"웹",
 			"데이터",
-			"인공지능"
+			"인공지능",
+			"웹"
 		]
 	},
 	{
@@ -2876,8 +2760,8 @@
 			"flutter"
 		],
 		"bigtag": [
-			"시스템",
-			"응용"
+			"응용",
+			"시스템"
 		]
 	},
 	{
@@ -2896,20 +2780,8 @@
 			"flutter"
 		],
 		"bigtag": [
-			"시스템",
-			"응용"
-		]
-	},
-	{
-		"title": "QA 엔지니어",
-		"dday": "2022. 07. 15",
-		"link": "https://programmers.co.kr/job_positions/12192",
-		"기업": "모토브",
-		"태그": [
-			"QA"
-		],
-		"bigtag": [
-			"기타"
+			"응용",
+			"시스템"
 		]
 	},
 	{
@@ -2944,6 +2816,31 @@
 		]
 	},
 	{
+		"title": "QA 엔지니어",
+		"dday": "2022. 07. 15",
+		"link": "https://programmers.co.kr/job_positions/12192",
+		"기업": "모토브",
+		"태그": [
+			"QA"
+		],
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
+		"title": "백엔드 개발자 ",
+		"dday": "2022. 07. 22",
+		"link": "https://programmers.co.kr/job_positions/11850",
+		"기업": "링거스튜디오",
+		"태그": [
+			"서버/백엔드"
+		],
+		"bigtag": [
+			"웹",
+			"서버"
+		]
+	},
+	{
 		"title": "프론트엔드 개발자 (디파이너리)",
 		"dday": "2022. 07. 22",
 		"link": "https://programmers.co.kr/job_positions/12165",
@@ -2960,14 +2857,58 @@
 		]
 	},
 	{
-		"title": "백엔드 개발자 ",
-		"dday": "2022. 07. 22",
-		"link": "https://programmers.co.kr/job_positions/11850",
-		"기업": "링거스튜디오",
+		"title": "WEB/Application Front End 개발자 경력 모집",
+		"dday": "2022. 07. 27",
+		"link": "https://programmers.co.kr/job_positions/12208",
+		"기업": "더조인",
 		"태그": [
-			"서버/백엔드"
+			"프론트엔드",
+			"웹 풀스택",
+			"HTML",
+			"ReactJS",
+			"Vue.js",
+			"JavaScript",
+			"flutter"
 		],
 		"bigtag": [
+			"웹"
+		]
+	},
+	{
+		"title": "[(주)피죤] IT팀 신입/경력사원 모집",
+		"dday": "2022. 07. 31",
+		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38572310?Oem_Code=C1&PageGbn=ST",
+		"기업": "㈜피죤",
+		"태그": [
+			"네트워크·서버·보안",
+			"경리·회계·결산"
+		],
+		"bigtag": [
+			"서버"
+		]
+	},
+	{
+		"title": "어퍼 ERP 웹 서비스 개발자(NodeJs/React)",
+		"dday": "2022. 07. 31",
+		"link": "https://programmers.co.kr/job_positions/1954",
+		"기업": "어퍼코리아",
+		"태그": [
+			"서버/백엔드",
+			"웹 풀스택",
+			"시스템/네트워크",
+			"Kubernetes",
+			"Redis",
+			"Ruby on Rails",
+			"MySQL",
+			"JavaScript",
+			"Git",
+			"Docker",
+			"Apollo Client",
+			"GraphQL",
+			"Node.js"
+		],
+		"bigtag": [
+			"시스템",
 			"웹",
 			"서버"
 		]
@@ -3021,6 +2962,57 @@
 		]
 	},
 	{
+		"title": "Tech Lead (개발리더)",
+		"dday": "2022. 07. 31",
+		"link": "https://programmers.co.kr/job_positions/12209",
+		"기업": "하이어엑스",
+		"태그": [
+			"서버/백엔드",
+			"프론트엔드",
+			"웹 풀스택",
+			"ReactJS",
+			"Java"
+		],
+		"bigtag": [
+			"웹",
+			"서버"
+		]
+	},
+	{
+		"title": "서비스 백엔드 Jr. 개발자",
+		"dday": "2022. 07. 31",
+		"link": "https://programmers.co.kr/job_positions/9547",
+		"기업": "가우디오랩",
+		"태그": [
+			"서버/백엔드",
+			"Linux",
+			"Unix",
+			"NoSQL",
+			"REST API"
+		],
+		"bigtag": [
+			"시스템",
+			"웹",
+			"서버"
+		]
+	},
+	{
+		"title": "플랫폼 백엔드 개발자",
+		"dday": "2022. 07. 31",
+		"link": "https://programmers.co.kr/job_positions/9541",
+		"기업": "가우디오랩",
+		"태그": [
+			"서버/백엔드",
+			"NoSQL",
+			"Python",
+			"Java"
+		],
+		"bigtag": [
+			"웹",
+			"서버"
+		]
+	},
+	{
 		"title": "웹 개발자",
 		"dday": "2022. 07. 31",
 		"link": "https://programmers.co.kr/job_positions/12167",
@@ -3042,21 +3034,20 @@
 		]
 	},
 	{
-		"title": "서비스 백엔드 Jr. 개발자",
+		"title": "프론트엔드 개발자(React)",
 		"dday": "2022. 07. 31",
-		"link": "https://programmers.co.kr/job_positions/9547",
-		"기업": "가우디오랩",
+		"link": "https://programmers.co.kr/job_positions/7092",
+		"기업": "스토어링크",
 		"태그": [
-			"서버/백엔드",
-			"Linux",
-			"Unix",
-			"NoSQL",
-			"REST API"
+			"프론트엔드",
+			"ReactJS",
+			"ES6",
+			"CSS",
+			"HTML",
+			"JavaScript"
 		],
 		"bigtag": [
-			"웹",
-			"시스템",
-			"서버"
+			"웹"
 		]
 	},
 	{
@@ -3077,89 +3068,31 @@
 		]
 	},
 	{
-		"title": "2022 한국투자저축은행 IT경력직 채용공고",
-		"dday": "2022. 07. 31",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38561396?Oem_Code=C1&PageGbn=ST",
-		"기업": "㈜한국투자저축은행",
-		"태그": [
-			"사무·총무·법무",
-			"경리·회계·결산",
-			"응용프로그래머 외"
-		],
-		"bigtag": [
-			"응용"
-		]
-	},
-	{
-		"title": "프론트엔드 개발자(React)",
-		"dday": "2022. 07. 31",
-		"link": "https://programmers.co.kr/job_positions/7092",
-		"기업": "스토어링크",
-		"태그": [
-			"프론트엔드",
-			"ReactJS",
-			"ES6",
-			"CSS",
-			"HTML",
-			"JavaScript"
-		],
-		"bigtag": [
-			"웹"
-		]
-	},
-	{
-		"title": "플랫폼 백엔드 개발자",
-		"dday": "2022. 07. 31",
-		"link": "https://programmers.co.kr/job_positions/9541",
-		"기업": "가우디오랩",
-		"태그": [
-			"서버/백엔드",
-			"NoSQL",
-			"Python",
-			"Java"
-		],
-		"bigtag": [
-			"웹",
-			"서버"
-		]
-	},
-	{
-		"title": "어퍼 ERP 웹 서비스 개발자(NodeJs/React)",
-		"dday": "2022. 07. 31",
-		"link": "https://programmers.co.kr/job_positions/1954",
-		"기업": "어퍼코리아",
-		"태그": [
-			"서버/백엔드",
-			"웹 풀스택",
-			"시스템/네트워크",
-			"Kubernetes",
-			"Redis",
-			"Ruby on Rails",
-			"MySQL",
-			"JavaScript",
-			"Git",
-			"Docker",
-			"Apollo Client",
-			"GraphQL",
-			"Node.js"
-		],
-		"bigtag": [
-			"웹",
-			"시스템",
-			"서버"
-		]
-	},
-	{
-		"title": "AJ전시몰 신입/경력사원 수시채용",
+		"title": "DB FIS (DB생명) 시스템 개발/운영 담당자 경력채용",
 		"dday": "2022. 08. 25",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38352356?Oem_Code=C1&PageGbn=ST",
-		"기업": "에이제이전시몰㈜",
+		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/37965303?Oem_Code=C1&PageGbn=ST",
+		"기업": "디비에프아이에스㈜",
 		"태그": [
-			"웹디자인",
-			"상품기획·MD"
+			"웹프로그래머",
+			"응용프로그래머"
 		],
 		"bigtag": [
+			"응용",
 			"웹"
+		]
+	},
+	{
+		"title": "현대자동차 그룹사 (주)지아이티 상반기 대규모 공채/수시 채용 (경력/신입)",
+		"dday": "2022. 08. 31",
+		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38579508?Oem_Code=C1&PageGbn=ST",
+		"기업": "㈜지아이티",
+		"태그": [
+			"기획·전략·경영",
+			"사무·총무·법무",
+			"인사·노무·교육 외"
+		],
+		"bigtag": [
+			"기타"
 		]
 	},
 	{
@@ -3179,50 +3112,27 @@
 		]
 	},
 	{
-		"title": "[인천/당진] MES/인프라부문 신입 채용",
-		"dday": "2022. 08. 31",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38600798?Oem_Code=C1&PageGbn=ST",
-		"기업": "현대오토에버㈜",
+		"title": "[펜타브리드] UI/UX 디자이너(웹디자이너) 경력 채용",
+		"dday": "2022. 09. 01",
+		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38577446?Oem_Code=C1&PageGbn=ST",
+		"기업": "㈜펜타브리드",
 		"태그": [
-			"웹프로그래머",
-			"응용프로그래머",
-			"빅데이터·AI(인공지능)"
+			"웹디자인"
 		],
 		"bigtag": [
-			"웹",
-			"데이터",
-			"응용",
-			"인공지능"
+			"웹"
 		]
 	},
 	{
-		"title": "[잡코리아] Data Engineer 인재 채용",
+		"title": "2022년 UX/UI 채용연계형 인턴",
 		"dday": "2022. 09. 01",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38603759?Oem_Code=C1&PageGbn=ST",
-		"기업": "잡코리아(유)",
+		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38601334?Oem_Code=C1&PageGbn=ST",
+		"기업": "코오롱베니트㈜",
 		"태그": [
-			"빅데이터·AI(인공지능)",
-			"웹프로그래머",
-			"DBA·데이터베이스"
+			"웹디자인"
 		],
 		"bigtag": [
-			"웹",
-			"데이터",
-			"인공지능"
-		]
-	},
-	{
-		"title": "현대자동차 그룹사 (주)지아이티 상반기 대규모 공채/수시 채용 (경력/신입)",
-		"dday": "2022. 09. 01",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38579508?Oem_Code=C1&PageGbn=ST",
-		"기업": "㈜지아이티",
-		"태그": [
-			"기획·전략·경영",
-			"사무·총무·법무",
-			"인사·노무·교육 외"
-		],
-		"bigtag": [
-			"기타"
+			"웹"
 		]
 	},
 	{
@@ -3238,33 +3148,6 @@
 		"bigtag": [
 			"데이터",
 			"인공지능"
-		]
-	},
-	{
-		"title": "React JS 프론트엔드 개발자",
-		"dday": "2022. 09. 12",
-		"link": "https://programmers.co.kr/job_positions/12181",
-		"기업": "조아라",
-		"태그": [
-			"서버/백엔드",
-			"프론트엔드",
-			"응용 프로그램",
-			"REST API",
-			"GCP(Google Cloud Platform)",
-			"Java",
-			"Node.js",
-			"Git",
-			"CSS",
-			"Redux.js",
-			"ES6",
-			"HTML5",
-			"React Hooks API",
-			"ReactJS"
-		],
-		"bigtag": [
-			"웹",
-			"응용",
-			"서버"
 		]
 	},
 	{
@@ -3286,9 +3169,9 @@
 			"Java"
 		],
 		"bigtag": [
-			"웹",
 			"데이터",
 			"응용",
+			"웹",
 			"서버"
 		]
 	},
@@ -3337,8 +3220,35 @@
 			"HTML5"
 		],
 		"bigtag": [
+			"응용",
+			"웹"
+		]
+	},
+	{
+		"title": "React JS 프론트엔드 개발자",
+		"dday": "2022. 09. 12",
+		"link": "https://programmers.co.kr/job_positions/12181",
+		"기업": "조아라",
+		"태그": [
+			"서버/백엔드",
+			"프론트엔드",
+			"응용 프로그램",
+			"REST API",
+			"GCP(Google Cloud Platform)",
+			"Java",
+			"Node.js",
+			"Git",
+			"CSS",
+			"Redux.js",
+			"ES6",
+			"HTML5",
+			"React Hooks API",
+			"ReactJS"
+		],
+		"bigtag": [
+			"응용",
 			"웹",
-			"응용"
+			"서버"
 		]
 	},
 	{
@@ -3356,171 +3266,83 @@
 		]
 	},
 	{
-		"title": "[신사업] 백엔드 엔지니어 (Python,AWS)",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/9552",
-		"기업": "버즈니",
+		"title": "[경력] 미디어 서버(WebRTC/MediaServer) 개발 인력 모집",
+		"dday": "내일마감",
+		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38048208?Oem_Code=C1&PageGbn=ST",
+		"기업": "㈜누리플렉스",
 		"태그": [
-			"서버/백엔드",
-			"웹 풀스택",
-			"머신러닝",
-			"mSQL",
-			"AWS Backup",
-			"AWS ElastiCache",
-			"AWS Alexa",
-			"Apache Kafka",
-			"PyTorch",
-			"Python",
-			"Kubernetes",
-			"Docker"
+			"응용프로그래머",
+			"네트워크·서버·보안"
 		],
 		"bigtag": [
-			"웹",
-			"인공지능",
+			"응용",
 			"서버"
 		]
 	},
 	{
-		"title": "의료인 정보 포털 프론트 개발자",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/12112",
-		"기업": "유비케어",
+		"title": "[현대자동차] 이노베이션담당 오픈이노베이션기술전략팀 경력 상시채용",
+		"dday": "내일마감",
+		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38056877?Oem_Code=C1&PageGbn=ST",
+		"기업": "현대자동차㈜",
 		"태그": [
-			"프론트엔드",
-			"시스템 소프트웨어",
-			"TypeScript",
-			"C#",
-			"JavaScript"
+			"HTML·퍼블리싱·UI개발",
+			"네트워크·서버·보안"
 		],
 		"bigtag": [
 			"웹",
-			"시스템",
-			"응용"
+			"서버"
 		]
 	},
 	{
-		"title": "Back-end 개발자",
+		"title": "마케팅 솔루션 개발(주니어)",
 		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/1685",
-		"기업": "iPortfolio",
+		"link": "https://programmers.co.kr/job_positions/12128",
+		"기업": "플래티어",
 		"태그": [
 			"서버/백엔드",
-			"웹 풀스택",
-			"Spring Boot",
-			"JavaScript",
+			"인공지능(AI)",
+			"Apache Spark",
+			"Apache Hadoop",
 			"Git",
-			"Node.js",
-			"Spring",
-			"MySQL",
+			"jQuery",
+			"Java",
+			"JavaScript",
+			"Spring Boot",
+			"NoSQL",
+			"AWS Alexa"
+		],
+		"bigtag": [
+			"인공지능",
+			"웹",
+			"서버"
+		]
+	},
+	{
+		"title": "Software Engineer, Backend, Ads",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/10683",
+		"기업": "버킷플레이스(오늘의집)",
+		"태그": [
+			"서버/백엔드"
+		],
+		"bigtag": [
+			"웹",
+			"서버"
+		]
+	},
+	{
+		"title": "Full Stack Developer (Biz Dev)",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/12092",
+		"기업": "오케스트로",
+		"태그": [
+			"웹 풀스택",
+			"Vue.js",
+			"JavaScript",
 			"Java"
 		],
 		"bigtag": [
-			"웹",
-			"서버"
-		]
-	},
-	{
-		"title": "Backend Software Engineer",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/5252",
-		"기업": "레몬베이스",
-		"태그": [
-			"서버/백엔드",
-			"GitLab",
-			"AWS WAF & Shield",
-			"AWS Lambda",
-			"Redis",
-			"MariaDB",
-			"AWS Elastic Beanstalk",
-			"AWS ECS",
-			"Docker",
-			"DRF(Django REST framework)",
-			"Django",
-			"Python"
-		],
-		"bigtag": [
-			"웹",
-			"데이터",
-			"서버"
-		]
-	},
-	{
-		"title": "Frontend Software Engineer",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/5253",
-		"기업": "레몬베이스",
-		"태그": [
-			"프론트엔드",
-			"GitLab",
-			"Jest",
-			"Babel",
-			"Webpack",
-			"Storybook",
-			"TypeScript",
-			"ES6",
-			"Redux.js",
-			"React Native"
-		],
-		"bigtag": [
 			"웹"
-		]
-	},
-	{
-		"title": "Front-end 개발자",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/1441",
-		"기업": "iPortfolio",
-		"태그": [
-			"프론트엔드",
-			"웹 풀스택",
-			"TypeScript",
-			"Redux.js",
-			"Next.js",
-			"Node.js",
-			"Java",
-			"ES6",
-			"ReactJS",
-			"CSS",
-			"HTML",
-			"JavaScript"
-		],
-		"bigtag": [
-			"웹"
-		]
-	},
-	{
-		"title": "[데이터 플랫폼] 데이터 엔지니어 (Python,Docker)",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/5928",
-		"기업": "버즈니",
-		"태그": [
-			"서버/백엔드",
-			"웹 풀스택",
-			"데이터 엔지니어",
-			"Database",
-			"AWS Data Pipeline",
-			"Data visualization",
-			"Data Binding",
-			"Data mining",
-			"Spring Data",
-			"Data Analysys",
-			"Big Data",
-			"PostgreSQL",
-			"AWS EC2",
-			"AWS DynamoDB",
-			"AWS CloudWatch",
-			"AWS CloudFront",
-			"AWS Alexa",
-			"PyTorch",
-			"MongoDB",
-			"Elasticsearch",
-			"Docker",
-			"Python"
-		],
-		"bigtag": [
-			"웹",
-			"데이터",
-			"서버"
 		]
 	},
 	{
@@ -3536,61 +3358,107 @@
 		]
 	},
 	{
-		"title": "[서비스 플랫폼] 프론트엔드 엔지니어 (전문연구요원 가능)",
+		"title": "Front-end Engineer(Game Stats)",
 		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/5927",
-		"기업": "버즈니",
+		"link": "https://programmers.co.kr/job_positions/12091",
+		"기업": "오피지지(OP.GG)",
 		"태그": [
 			"프론트엔드",
-			"웹 풀스택",
-			"시스템 소프트웨어",
-			"HTML",
-			"ReactJS",
-			"CSS3",
+			"Vanilla JS",
+			"React Native",
 			"HTML5",
-			"JavaScript",
-			"REST API",
-			"TypeScript"
-		],
-		"bigtag": [
-			"웹",
-			"시스템",
-			"응용"
-		]
-	},
-	{
-		"title": "[커머스 플랫폼] 프론트엔드 엔지니어 (React,Typescript)",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/9464",
-		"기업": "버즈니",
-		"태그": [
-			"프론트엔드",
-			"웹 풀스택"
+			"HTML",
+			"CSS",
+			"Next.js",
+			"ReactJS"
 		],
 		"bigtag": [
 			"웹"
 		]
 	},
 	{
-		"title": "[신규 커머스] 프론트엔드 엔지니어 (React / NextJS /  Gatsby)",
+		"title": "Back-end Developer (MLOps)",
 		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/3946",
-		"기업": "버즈니",
+		"link": "https://programmers.co.kr/job_positions/9307",
+		"기업": "오케스트로",
+		"태그": [
+			"서버/백엔드",
+			"GitHub",
+			"Git",
+			"REST API",
+			"Spring Boot",
+			"Spring"
+		],
+		"bigtag": [
+			"웹",
+			"서버"
+		]
+	},
+	{
+		"title": "Front-end Developer (MLOps)",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/9305",
+		"기업": "오케스트로",
 		"태그": [
 			"프론트엔드",
-			"웹 풀스택",
-			"GatsbyJS",
-			"Next.js",
-			"React Native Router",
-			"React Hooks API",
-			"React Native",
+			"REST API",
+			"GitHub",
+			"Git",
+			"Vue.js",
 			"ReactJS",
-			"CSS3",
-			"HTML5",
 			"JavaScript"
 		],
 		"bigtag": [
 			"웹"
+		]
+	},
+	{
+		"title": "Full Stack Developer (Cloud Management Platform)",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/9303",
+		"기업": "오케스트로",
+		"태그": [
+			"서버/백엔드",
+			"프론트엔드",
+			"웹 풀스택",
+			"Kubernetes",
+			"OpenStack",
+			"Azure",
+			"Vue.js",
+			"GitHub",
+			"Git",
+			"Spring",
+			"JavaScript",
+			"Java"
+		],
+		"bigtag": [
+			"웹",
+			"서버"
+		]
+	},
+	{
+		"title": "Software Engineer, Frontend",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/10695",
+		"기업": "버킷플레이스(오늘의집)",
+		"태그": [
+			"프론트엔드"
+		],
+		"bigtag": [
+			"웹"
+		]
+	},
+	{
+		"title": "Senior Software Engineer, Backend",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/10697",
+		"기업": "버킷플레이스(오늘의집)",
+		"태그": [
+			"서버/백엔드"
+		],
+		"bigtag": [
+			"웹",
+			"서버"
 		]
 	},
 	{
@@ -3604,6 +3472,21 @@
 		],
 		"bigtag": [
 			"응용"
+		]
+	},
+	{
+		"title": "DevOps Engineer",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/10681",
+		"기업": "버킷플레이스(오늘의집)",
+		"태그": [
+			"데브옵스",
+			"Go",
+			"JavaScript",
+			"Python"
+		],
+		"bigtag": [
+			"기타"
 		]
 	},
 	{
@@ -3629,241 +3512,6 @@
 		]
 	},
 	{
-		"title": "Software Engineer, Frontend",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/10695",
-		"기업": "버킷플레이스(오늘의집)",
-		"태그": [
-			"프론트엔드"
-		],
-		"bigtag": [
-			"웹"
-		]
-	},
-	{
-		"title": "[서비스개발부문] 백엔드 엔지니어(Python)",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/10245",
-		"기업": "자이냅스",
-		"태그": [
-			"서버/백엔드",
-			"Django",
-			"Python",
-			"Amazon Web Services(AWS)"
-		],
-		"bigtag": [
-			"웹",
-			"서버"
-		]
-	},
-	{
-		"title": "Backend Software Engineer",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/12124",
-		"기업": "디사일로",
-		"태그": [
-			"서버/백엔드",
-			"Python",
-			"C++"
-		],
-		"bigtag": [
-			"웹",
-			"서버"
-		]
-	},
-	{
-		"title": "Senior Software Engineer, Backend",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/10697",
-		"기업": "버킷플레이스(오늘의집)",
-		"태그": [
-			"서버/백엔드"
-		],
-		"bigtag": [
-			"웹",
-			"서버"
-		]
-	},
-	{
-		"title": "DevOps Engineer",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/10681",
-		"기업": "버킷플레이스(오늘의집)",
-		"태그": [
-			"데브옵스",
-			"Go",
-			"JavaScript",
-			"Python"
-		],
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "iOS 엔지니어",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/2410",
-		"기업": "에이블리코퍼레이션",
-		"태그": [
-			"아이폰 앱",
-			"Reactor",
-			"RxSwift",
-			"Swift",
-			"iOS"
-		],
-		"bigtag": [
-			"응용"
-		]
-	},
-	{
-		"title": "Software Engineer, Backend, Ads",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/10683",
-		"기업": "버킷플레이스(오늘의집)",
-		"태그": [
-			"서버/백엔드"
-		],
-		"bigtag": [
-			"웹",
-			"서버"
-		]
-	},
-	{
-		"title": "AI/Lab 추천 시스템 리서치 엔지니어 / 전문연구요원 지원 가능",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/5659",
-		"기업": "버즈니",
-		"태그": [
-			"머신러닝",
-			"인공지능(AI)",
-			"데이터 엔지니어",
-			"Pandas",
-			"Node.js",
-			"MySQL",
-			"MongoDB",
-			"GCP(Google Cloud Platform)",
-			"PyTorch",
-			"Docker",
-			"Python"
-		],
-		"bigtag": [
-			"데이터",
-			"인공지능"
-		]
-	},
-	{
-		"title": "Android 개발자",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/11190",
-		"기업": "iPortfolio",
-		"태그": [
-			"안드로이드 앱",
-			"SQLite",
-			"Java",
-			"Kotlin"
-		],
-		"bigtag": [
-			"응용"
-		]
-	},
-	{
-		"title": "Back-end Developer (MLOps)",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/9307",
-		"기업": "오케스트로",
-		"태그": [
-			"서버/백엔드",
-			"GitHub",
-			"Git",
-			"REST API",
-			"Spring Boot",
-			"Spring"
-		],
-		"bigtag": [
-			"웹",
-			"서버"
-		]
-	},
-	{
-		"title": "QA 엔지니어",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/10780",
-		"기업": "iPortfolio",
-		"태그": [
-			"QA"
-		],
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "핀트(Fint) 서버 개발자",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/7880",
-		"기업": "디셈버앤컴퍼니자산운용",
-		"태그": [
-			"서버/백엔드",
-			"시스템 소프트웨어",
-			"Node.js",
-			"ReactJS",
-			"Docker",
-			"Ansible",
-			"Apache Kafka",
-			"RabbitMQ",
-			"Redis",
-			"PostgreSQL",
-			"Celery",
-			"Flask",
-			"Django",
-			"Go",
-			"Python"
-		],
-		"bigtag": [
-			"웹",
-			"시스템",
-			"응용",
-			"서버"
-		]
-	},
-	{
-		"title": "의료인 포털 모바일 앱 개발자",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/12113",
-		"기업": "유비케어",
-		"태그": [
-			"안드로이드 앱",
-			"아이폰 앱",
-			"시스템 소프트웨어",
-			"flutter",
-			"Java",
-			"Kotlin"
-		],
-		"bigtag": [
-			"시스템",
-			"응용"
-		]
-	},
-	{
-		"title": "PHP 웹 개발자",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/9909",
-		"기업": "타라티피에스",
-		"태그": [
-			"서버/백엔드",
-			"프론트엔드",
-			"웹 풀스택",
-			"MySQL",
-			"Git",
-			"jQuery",
-			"JavaScript",
-			"PHP"
-		],
-		"bigtag": [
-			"웹",
-			"서버"
-		]
-	},
-	{
 		"title": "백엔드 서버 개발자(Back-end)",
 		"dday": "상시 채용",
 		"link": "https://programmers.co.kr/job_positions/3093",
@@ -3878,204 +3526,6 @@
 			"Ruby on Rails",
 			"Python",
 			"PHP"
-		],
-		"bigtag": [
-			"웹",
-			"서버"
-		]
-	},
-	{
-		"title": "의료인 정보 포털 프론트 개발자",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/12114",
-		"기업": "유비케어",
-		"태그": [
-			"프론트엔드",
-			"시스템 소프트웨어",
-			"응용 프로그램",
-			"TypeScript",
-			"C#",
-			"JavaScript"
-		],
-		"bigtag": [
-			"웹",
-			"시스템",
-			"응용"
-		]
-	},
-	{
-		"title": "의료인 정보 포털 백엔드 개발자",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/12115",
-		"기업": "유비케어",
-		"태그": [
-			"서버/백엔드",
-			"시스템 소프트웨어",
-			"C#",
-			"TypeScript",
-			"JavaScript"
-		],
-		"bigtag": [
-			"웹",
-			"시스템",
-			"응용",
-			"서버"
-		]
-	},
-	{
-		"title": "웹 서비스 개발자",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/11919",
-		"기업": "에듀윌",
-		"태그": [
-			"서버/백엔드",
-			"C#",
-			"NLP",
-			"GitLab",
-			"GitHub",
-			"Java",
-			"Swift",
-			"MVVM(Model-View-ViewModel)",
-			"CodeIgniter",
-			"Elasticsearch",
-			"Apache Spark",
-			"Python",
-			"jQuery",
-			"JavaScript",
-			"ASP.NET",
-			".NET",
-			"MSSQL(Microsoft SQL Server)",
-			"SQL"
-		],
-		"bigtag": [
-			"웹",
-			"서버"
-		]
-	},
-	{
-		"title": "의료인 전용 플랫폼 풀스택 개발자",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/12117",
-		"기업": "유비케어",
-		"태그": [
-			"서버/백엔드",
-			"프론트엔드",
-			"웹 풀스택",
-			"MVC",
-			"ASP.NET",
-			"C#"
-		],
-		"bigtag": [
-			"웹",
-			"서버"
-		]
-	},
-	{
-		"title": "제약 CRM 솔루션 풀스택 개발자",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/12118",
-		"기업": "유비케어",
-		"태그": [
-			"서버/백엔드",
-			"프론트엔드",
-			"웹 풀스택",
-			"Vue.js",
-			"jQuery",
-			"JavaScript"
-		],
-		"bigtag": [
-			"웹",
-			"서버"
-		]
-	},
-	{
-		"title": "병의원 솔루션 윈도우 개발자",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/12119",
-		"기업": "유비케어",
-		"태그": [
-			"시스템 소프트웨어",
-			"응용 프로그램",
-			"SQL",
-			"Delphi",
-			"C#"
-		],
-		"bigtag": [
-			"시스템",
-			"응용"
-		]
-	},
-	{
-		"title": "약국 관리 시스템 윈도우 개발자",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/12120",
-		"기업": "유비케어",
-		"태그": [
-			"시스템 소프트웨어",
-			"응용 프로그램",
-			"MSSQL(Microsoft SQL Server)",
-			"OOP",
-			"C#"
-		],
-		"bigtag": [
-			"시스템",
-			"응용"
-		]
-	},
-	{
-		"title": "Database 마이그레이션 및 윈도우 개발자",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/12121",
-		"기업": "유비케어",
-		"태그": [
-			"DBA",
-			"시스템 소프트웨어",
-			"응용 프로그램",
-			"Delphi",
-			"C#",
-			"C++"
-		],
-		"bigtag": [
-			"데이터",
-			"시스템",
-			"응용"
-		]
-	},
-	{
-		"title": "프론트엔드 개발자 - 검색",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/11250",
-		"기업": "당근마켓",
-		"태그": [
-			"프론트엔드",
-			"HTML",
-			"CSS",
-			"JavaScript",
-			"ReactJS",
-			"TypeScript",
-			"Redux.js",
-			"Relay",
-			"GraphQL",
-			"Webpack",
-			"Next.js"
-		],
-		"bigtag": [
-			"웹"
-		]
-	},
-	{
-		"title": "서버 개발자 - 당근페이 빌링 (Java / Kotlin)",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/12086",
-		"기업": "당근마켓",
-		"태그": [
-			"서버/백엔드",
-			"Vue.js",
-			"REST API",
-			"MySQL",
-			"Spring",
-			"Kotlin",
-			"Java"
 		],
 		"bigtag": [
 			"웹",
@@ -4206,80 +3656,6 @@
 		]
 	},
 	{
-		"title": "Full Stack Developer (Cloud Management Platform)",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/9303",
-		"기업": "오케스트로",
-		"태그": [
-			"서버/백엔드",
-			"프론트엔드",
-			"웹 풀스택",
-			"Kubernetes",
-			"OpenStack",
-			"Azure",
-			"Vue.js",
-			"GitHub",
-			"Git",
-			"Spring",
-			"JavaScript",
-			"Java"
-		],
-		"bigtag": [
-			"웹",
-			"서버"
-		]
-	},
-	{
-		"title": "Full Stack Developer (Biz Dev)",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/12092",
-		"기업": "오케스트로",
-		"태그": [
-			"웹 풀스택",
-			"Vue.js",
-			"JavaScript",
-			"Java"
-		],
-		"bigtag": [
-			"웹"
-		]
-	},
-	{
-		"title": "Front-end Developer (MLOps)",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/9305",
-		"기업": "오케스트로",
-		"태그": [
-			"프론트엔드",
-			"REST API",
-			"GitHub",
-			"Git",
-			"Vue.js",
-			"ReactJS",
-			"JavaScript"
-		],
-		"bigtag": [
-			"웹"
-		]
-	},
-	{
-		"title": "병의원 솔루션 윈도우 개발자",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/12111",
-		"기업": "유비케어",
-		"태그": [
-			"시스템 소프트웨어",
-			"응용 프로그램",
-			"SQL",
-			"C#",
-			"Delphi"
-		],
-		"bigtag": [
-			"시스템",
-			"응용"
-		]
-	},
-	{
 		"title": "서버 개발자 - 커뮤니티 (Kotlin)",
 		"dday": "상시 채용",
 		"link": "https://programmers.co.kr/job_positions/7518",
@@ -4297,19 +3673,187 @@
 		]
 	},
 	{
-		"title": "Front-end Engineer(Game Stats)",
+		"title": "프론트엔드 개발자 - 검색",
 		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/12091",
-		"기업": "오피지지(OP.GG)",
+		"link": "https://programmers.co.kr/job_positions/11250",
+		"기업": "당근마켓",
 		"태그": [
 			"프론트엔드",
-			"Vanilla JS",
-			"React Native",
-			"HTML5",
 			"HTML",
 			"CSS",
-			"Next.js",
-			"ReactJS"
+			"JavaScript",
+			"ReactJS",
+			"TypeScript",
+			"Redux.js",
+			"Relay",
+			"GraphQL",
+			"Webpack",
+			"Next.js"
+		],
+		"bigtag": [
+			"웹"
+		]
+	},
+	{
+		"title": "[커머스 플랫폼] 프론트엔드 엔지니어 (React,Typescript)",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/9464",
+		"기업": "버즈니",
+		"태그": [
+			"프론트엔드",
+			"웹 풀스택"
+		],
+		"bigtag": [
+			"웹"
+		]
+	},
+	{
+		"title": "[서비스 플랫폼] 프론트엔드 엔지니어 (전문연구요원 가능)",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/5927",
+		"기업": "버즈니",
+		"태그": [
+			"프론트엔드",
+			"웹 풀스택",
+			"시스템 소프트웨어",
+			"HTML",
+			"ReactJS",
+			"CSS3",
+			"HTML5",
+			"JavaScript",
+			"REST API",
+			"TypeScript"
+		],
+		"bigtag": [
+			"응용",
+			"웹",
+			"시스템"
+		]
+	},
+	{
+		"title": "AI/Lab 추천 시스템 리서치 엔지니어 / 전문연구요원 지원 가능",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/5659",
+		"기업": "버즈니",
+		"태그": [
+			"머신러닝",
+			"인공지능(AI)",
+			"데이터 엔지니어",
+			"Pandas",
+			"Node.js",
+			"MySQL",
+			"MongoDB",
+			"GCP(Google Cloud Platform)",
+			"PyTorch",
+			"Docker",
+			"Python"
+		],
+		"bigtag": [
+			"데이터",
+			"인공지능"
+		]
+	},
+	{
+		"title": "[데이터 플랫폼] 데이터 엔지니어 (Python,Docker)",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/5928",
+		"기업": "버즈니",
+		"태그": [
+			"서버/백엔드",
+			"웹 풀스택",
+			"데이터 엔지니어",
+			"Database",
+			"AWS Data Pipeline",
+			"Data visualization",
+			"Data Binding",
+			"Data mining",
+			"Spring Data",
+			"Data Analysys",
+			"Big Data",
+			"PostgreSQL",
+			"AWS EC2",
+			"AWS DynamoDB",
+			"AWS CloudWatch",
+			"AWS CloudFront",
+			"AWS Alexa",
+			"PyTorch",
+			"MongoDB",
+			"Elasticsearch",
+			"Docker",
+			"Python"
+		],
+		"bigtag": [
+			"데이터",
+			"웹",
+			"서버"
+		]
+	},
+	{
+		"title": "[신사업] 백엔드 엔지니어 (Python,AWS)",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/9552",
+		"기업": "버즈니",
+		"태그": [
+			"서버/백엔드",
+			"웹 풀스택",
+			"머신러닝",
+			"mSQL",
+			"AWS Backup",
+			"AWS ElastiCache",
+			"AWS Alexa",
+			"Apache Kafka",
+			"PyTorch",
+			"Python",
+			"Kubernetes",
+			"Docker"
+		],
+		"bigtag": [
+			"인공지능",
+			"웹",
+			"서버"
+		]
+	},
+	{
+		"title": "Backend Software Engineer",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/5252",
+		"기업": "레몬베이스",
+		"태그": [
+			"서버/백엔드",
+			"GitLab",
+			"AWS WAF & Shield",
+			"AWS Lambda",
+			"Redis",
+			"MariaDB",
+			"AWS Elastic Beanstalk",
+			"AWS ECS",
+			"Docker",
+			"DRF(Django REST framework)",
+			"Django",
+			"Python"
+		],
+		"bigtag": [
+			"데이터",
+			"웹",
+			"서버"
+		]
+	},
+	{
+		"title": "Frontend Software Engineer",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/5253",
+		"기업": "레몬베이스",
+		"태그": [
+			"프론트엔드",
+			"GitLab",
+			"Jest",
+			"Babel",
+			"Webpack",
+			"Storybook",
+			"TypeScript",
+			"ES6",
+			"Redux.js",
+			"React Native"
 		],
 		"bigtag": [
 			"웹"
@@ -4327,6 +3871,198 @@
 			"REST API",
 			"Kotlin",
 			"Java"
+		],
+		"bigtag": [
+			"웹",
+			"서버"
+		]
+	},
+	{
+		"title": "iOS 엔지니어",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/2410",
+		"기업": "에이블리코퍼레이션",
+		"태그": [
+			"아이폰 앱",
+			"Reactor",
+			"RxSwift",
+			"Swift",
+			"iOS"
+		],
+		"bigtag": [
+			"응용"
+		]
+	},
+	{
+		"title": "서버 개발자 - 당근페이 빌링 (Java / Kotlin)",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/12086",
+		"기업": "당근마켓",
+		"태그": [
+			"서버/백엔드",
+			"Vue.js",
+			"REST API",
+			"MySQL",
+			"Spring",
+			"Kotlin",
+			"Java"
+		],
+		"bigtag": [
+			"웹",
+			"서버"
+		]
+	},
+	{
+		"title": "Software Engineer, Backend",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/10698",
+		"기업": "버킷플레이스(오늘의집)",
+		"태그": [
+			"서버/백엔드"
+		],
+		"bigtag": [
+			"웹",
+			"서버"
+		]
+	},
+	{
+		"title": "PHP 웹 개발자",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/9909",
+		"기업": "타라티피에스",
+		"태그": [
+			"서버/백엔드",
+			"프론트엔드",
+			"웹 풀스택",
+			"MySQL",
+			"Git",
+			"jQuery",
+			"JavaScript",
+			"PHP"
+		],
+		"bigtag": [
+			"웹",
+			"서버"
+		]
+	},
+	{
+		"title": "핀트(Fint) iOS 개발자",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/7882",
+		"기업": "디셈버앤컴퍼니자산운용",
+		"태그": [
+			"아이폰 앱",
+			"Git",
+			"Zeplin",
+			"MVVM(Model-View-ViewModel)",
+			"iOS",
+			"Reactor",
+			"CocoaPods",
+			"RxSwift",
+			"Swift"
+		],
+		"bigtag": [
+			"응용"
+		]
+	},
+	{
+		"title": "의료인 정보 포털 프론트 개발자",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/12112",
+		"기업": "유비케어",
+		"태그": [
+			"프론트엔드",
+			"시스템 소프트웨어",
+			"TypeScript",
+			"C#",
+			"JavaScript"
+		],
+		"bigtag": [
+			"응용",
+			"웹",
+			"시스템"
+		]
+	},
+	{
+		"title": "의료인 포털 모바일 앱 개발자",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/12113",
+		"기업": "유비케어",
+		"태그": [
+			"안드로이드 앱",
+			"아이폰 앱",
+			"시스템 소프트웨어",
+			"flutter",
+			"Java",
+			"Kotlin"
+		],
+		"bigtag": [
+			"응용",
+			"시스템"
+		]
+	},
+	{
+		"title": "의료인 정보 포털 프론트 개발자",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/12114",
+		"기업": "유비케어",
+		"태그": [
+			"프론트엔드",
+			"시스템 소프트웨어",
+			"응용 프로그램",
+			"TypeScript",
+			"C#",
+			"JavaScript"
+		],
+		"bigtag": [
+			"응용",
+			"웹",
+			"시스템"
+		]
+	},
+	{
+		"title": "의료인 정보 포털 백엔드 개발자",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/12115",
+		"기업": "유비케어",
+		"태그": [
+			"서버/백엔드",
+			"시스템 소프트웨어",
+			"C#",
+			"TypeScript",
+			"JavaScript"
+		],
+		"bigtag": [
+			"응용",
+			"시스템",
+			"웹",
+			"서버"
+		]
+	},
+	{
+		"title": "웹 서비스 개발자",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/11919",
+		"기업": "에듀윌",
+		"태그": [
+			"서버/백엔드",
+			"C#",
+			"NLP",
+			"GitLab",
+			"GitHub",
+			"Java",
+			"Swift",
+			"MVVM(Model-View-ViewModel)",
+			"CodeIgniter",
+			"Elasticsearch",
+			"Apache Spark",
+			"Python",
+			"jQuery",
+			"JavaScript",
+			"ASP.NET",
+			".NET",
+			"MSSQL(Microsoft SQL Server)",
+			"SQL"
 		],
 		"bigtag": [
 			"웹",
@@ -4352,36 +4088,252 @@
 		]
 	},
 	{
-		"title": "Applied Machine Learning Engineer",
+		"title": "Backend Software Engineer",
 		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/11312",
-		"기업": "카카오브레인",
+		"link": "https://programmers.co.kr/job_positions/12124",
+		"기업": "디사일로",
 		"태그": [
-			"추가필요"
-		],
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "하이브리드 모바일 서비스 개발",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/12090",
-		"기업": "유핏",
-		"태그": [
-			"프론트엔드",
-			"안드로이드 앱",
-			"아이폰 앱",
-			"Firebase",
-			"Vue.js",
-			"React Native",
-			"iOS",
-			"Android",
-			"REST API"
+			"서버/백엔드",
+			"Python",
+			"C++"
 		],
 		"bigtag": [
 			"웹",
-			"응용"
+			"서버"
+		]
+	},
+	{
+		"title": "[서비스개발부문] 백엔드 엔지니어(Python)",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/10245",
+		"기업": "자이냅스",
+		"태그": [
+			"서버/백엔드",
+			"Django",
+			"Python",
+			"Amazon Web Services(AWS)"
+		],
+		"bigtag": [
+			"웹",
+			"서버"
+		]
+	},
+	{
+		"title": "[신규 커머스] 프론트엔드 엔지니어 (React / NextJS /  Gatsby)",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/3946",
+		"기업": "버즈니",
+		"태그": [
+			"프론트엔드",
+			"웹 풀스택",
+			"GatsbyJS",
+			"Next.js",
+			"React Native Router",
+			"React Hooks API",
+			"React Native",
+			"ReactJS",
+			"CSS3",
+			"HTML5",
+			"JavaScript"
+		],
+		"bigtag": [
+			"웹"
+		]
+	},
+	{
+		"title": "의료인 전용 플랫폼 풀스택 개발자",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/12117",
+		"기업": "유비케어",
+		"태그": [
+			"서버/백엔드",
+			"프론트엔드",
+			"웹 풀스택",
+			"MVC",
+			"ASP.NET",
+			"C#"
+		],
+		"bigtag": [
+			"웹",
+			"서버"
+		]
+	},
+	{
+		"title": "제약 CRM 솔루션 풀스택 개발자",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/12118",
+		"기업": "유비케어",
+		"태그": [
+			"서버/백엔드",
+			"프론트엔드",
+			"웹 풀스택",
+			"Vue.js",
+			"jQuery",
+			"JavaScript"
+		],
+		"bigtag": [
+			"웹",
+			"서버"
+		]
+	},
+	{
+		"title": "병의원 솔루션 윈도우 개발자",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/12119",
+		"기업": "유비케어",
+		"태그": [
+			"시스템 소프트웨어",
+			"응용 프로그램",
+			"SQL",
+			"Delphi",
+			"C#"
+		],
+		"bigtag": [
+			"응용",
+			"시스템"
+		]
+	},
+	{
+		"title": "약국 관리 시스템 윈도우 개발자",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/12120",
+		"기업": "유비케어",
+		"태그": [
+			"시스템 소프트웨어",
+			"응용 프로그램",
+			"MSSQL(Microsoft SQL Server)",
+			"OOP",
+			"C#"
+		],
+		"bigtag": [
+			"응용",
+			"시스템"
+		]
+	},
+	{
+		"title": "Database 마이그레이션 및 윈도우 개발자",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/12121",
+		"기업": "유비케어",
+		"태그": [
+			"DBA",
+			"시스템 소프트웨어",
+			"응용 프로그램",
+			"Delphi",
+			"C#",
+			"C++"
+		],
+		"bigtag": [
+			"데이터",
+			"응용",
+			"시스템"
+		]
+	},
+	{
+		"title": "병의원 솔루션 윈도우 개발자",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/12111",
+		"기업": "유비케어",
+		"태그": [
+			"시스템 소프트웨어",
+			"응용 프로그램",
+			"SQL",
+			"C#",
+			"Delphi"
+		],
+		"bigtag": [
+			"응용",
+			"시스템"
+		]
+	},
+	{
+		"title": "백엔드 엔지니어",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/9982",
+		"기업": "옴니어스",
+		"태그": [
+			"서버/백엔드",
+			"웹 풀스택",
+			"Kubernetes",
+			"Docker",
+			"Elastic Stack",
+			"NoSQL",
+			"Python"
+		],
+		"bigtag": [
+			"웹",
+			"서버"
+		]
+	},
+	{
+		"title": "[YG엔터테인먼트] DevOps",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/8582",
+		"기업": "YG엔터테인먼트",
+		"태그": [
+			"시스템 소프트웨어",
+			"RabbitMQ",
+			"Redis",
+			"MongoDB"
+		],
+		"bigtag": [
+			"데이터",
+			"응용",
+			"시스템"
+		]
+	},
+	{
+		"title": "데이터 엔지니어",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/12033",
+		"기업": "메쉬코리아",
+		"태그": [
+			"데이터 엔지니어",
+			"Python",
+			"Java",
+			"AWS S3",
+			"Apache Kafka",
+			"AWS DynamoDB",
+			"Apache Spark",
+			"Apache Airflow",
+			"Pandas",
+			"AWS EMR",
+			"Jupyter",
+			"PyTorch",
+			"AWS Kinesis",
+			"AWS SageMaker",
+			"GitHub",
+			"Bamboo"
+		],
+		"bigtag": [
+			"데이터"
+		]
+	},
+	{
+		"title": "Sr. 데이터 엔지니어",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/12034",
+		"기업": "메쉬코리아",
+		"태그": [
+			"데이터 엔지니어",
+			"Bamboo",
+			"GitHub",
+			"AWS SageMaker",
+			"AWS Kinesis",
+			"PyTorch",
+			"Jupyter",
+			"AWS EMR",
+			"Pandas",
+			"Apache Airflow",
+			"Apache Spark",
+			"AWS DynamoDB",
+			"Apache Kafka",
+			"AWS S3",
+			"Java",
+			"Python"
+		],
+		"bigtag": [
+			"데이터"
 		]
 	},
 	{
@@ -4398,8 +4350,8 @@
 			"Java"
 		],
 		"bigtag": [
-			"웹",
 			"시스템",
+			"웹",
 			"서버"
 		]
 	},
@@ -4446,8 +4398,8 @@
 			"GitHub"
 		],
 		"bigtag": [
-			"웹",
 			"응용",
+			"웹",
 			"서버"
 		]
 	},
@@ -4469,8 +4421,8 @@
 			"CodePush"
 		],
 		"bigtag": [
-			"웹",
-			"응용"
+			"응용",
+			"웹"
 		]
 	},
 	{
@@ -4522,8 +4474,8 @@
 			"Python"
 		],
 		"bigtag": [
-			"웹",
 			"인공지능",
+			"웹",
 			"서버"
 		]
 	},
@@ -4556,52 +4508,19 @@
 			"시스템 소프트웨어"
 		],
 		"bigtag": [
+			"응용",
 			"웹",
-			"시스템",
-			"응용"
+			"시스템"
 		]
 	},
 	{
-		"title": "시니어 Android 엔지니어",
+		"title": "AI/ML Engineer",
 		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/5140",
-		"기업": "에이블리코퍼레이션",
-		"태그": [
-			"안드로이드 앱",
-			"Kotlin"
-		],
-		"bigtag": [
-			"응용"
-		]
-	},
-	{
-		"title": "Java Spring",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/11117",
-		"기업": "스마트스코어",
-		"태그": [
-			"서버/백엔드",
-			"MySQL",
-			"JavaScript",
-			"Vue.js",
-			"Spring Data JPA",
-			"Querydsl",
-			"MyBatis",
-			"Spring Boot",
-			"Java"
-		],
-		"bigtag": [
-			"웹",
-			"데이터",
-			"서버"
-		]
-	},
-	{
-		"title": "Sr. 데이터 엔지니어",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/12034",
+		"link": "https://programmers.co.kr/job_positions/12032",
 		"기업": "메쉬코리아",
 		"태그": [
+			"머신러닝",
+			"인공지능(AI)",
 			"데이터 엔지니어",
 			"Bamboo",
 			"GitHub",
@@ -4620,7 +4539,21 @@
 			"Python"
 		],
 		"bigtag": [
-			"데이터"
+			"데이터",
+			"인공지능"
+		]
+	},
+	{
+		"title": "시니어 Android 엔지니어",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/5140",
+		"기업": "에이블리코퍼레이션",
+		"태그": [
+			"안드로이드 앱",
+			"Kotlin"
+		],
+		"bigtag": [
+			"응용"
 		]
 	},
 	{
@@ -4637,6 +4570,23 @@
 		],
 		"bigtag": [
 			"웹"
+		]
+	},
+	{
+		"title": "[Coupang] Senior, Backend engineer (SCM)",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/4023",
+		"기업": "Coupang",
+		"태그": [
+			"서버/백엔드",
+			"웹 풀스택",
+			"Python",
+			"Spring",
+			"Java"
+		],
+		"bigtag": [
+			"웹",
+			"서버"
 		]
 	},
 	{
@@ -4776,6 +4726,28 @@
 		]
 	},
 	{
+		"title": "Java Spring",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/11117",
+		"기업": "스마트스코어",
+		"태그": [
+			"서버/백엔드",
+			"MySQL",
+			"JavaScript",
+			"Vue.js",
+			"Spring Data JPA",
+			"Querydsl",
+			"MyBatis",
+			"Spring Boot",
+			"Java"
+		],
+		"bigtag": [
+			"데이터",
+			"웹",
+			"서버"
+		]
+	},
+	{
 		"title": "[모바일] IOS 개발자",
 		"dday": "상시 채용",
 		"link": "https://programmers.co.kr/job_positions/8786",
@@ -4788,95 +4760,6 @@
 		],
 		"bigtag": [
 			"응용"
-		]
-	},
-	{
-		"title": "[IT 프로덕트본부] WMS&OMS_백엔드개발자",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/10003",
-		"기업": "핏펫(FitPet)",
-		"태그": [
-			"서버/백엔드",
-			"PostgreSQL",
-			"Node.js"
-		],
-		"bigtag": [
-			"웹",
-			"서버"
-		]
-	},
-	{
-		"title": "[Coupang] Senior, Backend engineer (SCM)",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/4023",
-		"기업": "Coupang",
-		"태그": [
-			"서버/백엔드",
-			"웹 풀스택",
-			"Python",
-			"Spring",
-			"Java"
-		],
-		"bigtag": [
-			"웹",
-			"서버"
-		]
-	},
-	{
-		"title": "데이터 엔지니어",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/12033",
-		"기업": "메쉬코리아",
-		"태그": [
-			"데이터 엔지니어",
-			"Python",
-			"Java",
-			"AWS S3",
-			"Apache Kafka",
-			"AWS DynamoDB",
-			"Apache Spark",
-			"Apache Airflow",
-			"Pandas",
-			"AWS EMR",
-			"Jupyter",
-			"PyTorch",
-			"AWS Kinesis",
-			"AWS SageMaker",
-			"GitHub",
-			"Bamboo"
-		],
-		"bigtag": [
-			"데이터"
-		]
-	},
-	{
-		"title": "AI/ML Engineer",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/12032",
-		"기업": "메쉬코리아",
-		"태그": [
-			"머신러닝",
-			"인공지능(AI)",
-			"데이터 엔지니어",
-			"Bamboo",
-			"GitHub",
-			"AWS SageMaker",
-			"AWS Kinesis",
-			"PyTorch",
-			"Jupyter",
-			"AWS EMR",
-			"Pandas",
-			"Apache Airflow",
-			"Apache Spark",
-			"AWS DynamoDB",
-			"Apache Kafka",
-			"AWS S3",
-			"Java",
-			"Python"
-		],
-		"bigtag": [
-			"데이터",
-			"인공지능"
 		]
 	},
 	{
@@ -4901,6 +4784,113 @@
 		]
 	},
 	{
+		"title": "백엔드(Java) 엔지니어 Team Lead",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/12012",
+		"기업": "메쉬코리아",
+		"태그": [
+			"서버/백엔드",
+			"시스템/네트워크",
+			"Spring",
+			"Java"
+		],
+		"bigtag": [
+			"시스템",
+			"웹",
+			"서버"
+		]
+	},
+	{
+		"title": "[그리팅] 프론트엔드 엔지니어",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/7856",
+		"기업": "두들린",
+		"태그": [
+			"프론트엔드",
+			"웹 풀스택",
+			"CircleCI",
+			"Git",
+			"Apollo Client",
+			"REST API",
+			"Sass(SCSS)",
+			"styled-components",
+			"Storybook",
+			"TypeScript",
+			"ReactJS"
+		],
+		"bigtag": [
+			"웹"
+		]
+	},
+	{
+		"title": "[컬리페이] 데브옵스 엔지니어",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/12019",
+		"기업": "컬리",
+		"태그": [
+			"데브옵스",
+			"CI/CD",
+			"Kubernetes",
+			"Docker",
+			"Spring Cloud"
+		],
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
+		"title": "Speech Recognition 개발자 / Cloud 개발자",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/4952",
+		"기업": "웨인힐스벤처스",
+		"태그": [
+			"머신러닝",
+			"인공지능(AI)",
+			"NLP",
+			"Python"
+		],
+		"bigtag": [
+			"인공지능"
+		]
+	},
+	{
+		"title": "서버/백엔드 개발자",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/8574",
+		"기업": "디리아",
+		"태그": [
+			"서버/백엔드",
+			"시스템 소프트웨어",
+			"응용 프로그램",
+			"REST API",
+			"Spring",
+			"Linux",
+			"MySQL",
+			"Java"
+		],
+		"bigtag": [
+			"응용",
+			"시스템",
+			"웹",
+			"서버"
+		]
+	},
+	{
+		"title": "웹 개발",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/6389",
+		"기업": "만나플래닛",
+		"태그": [
+			"웹 풀스택",
+			"Vue.js",
+			"PHP",
+			"JavaScript"
+		],
+		"bigtag": [
+			"웹"
+		]
+	},
+	{
 		"title": "안드로이드 APP 개발",
 		"dday": "상시 채용",
 		"link": "https://programmers.co.kr/job_positions/6388",
@@ -4913,6 +4903,30 @@
 		],
 		"bigtag": [
 			"응용"
+		]
+	},
+	{
+		"title": "Computer Graphics Engineer",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/11314",
+		"기업": "카카오브레인",
+		"태그": [
+			"인공지능(AI)"
+		],
+		"bigtag": [
+			"인공지능"
+		]
+	},
+	{
+		"title": "Applied Machine Learning Engineer",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/11312",
+		"기업": "카카오브레인",
+		"태그": [
+			"추가필요"
+		],
+		"bigtag": [
+			"기타"
 		]
 	},
 	{
@@ -4942,58 +4956,6 @@
 		]
 	},
 	{
-		"title": "웹 개발",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/6389",
-		"기업": "만나플래닛",
-		"태그": [
-			"웹 풀스택",
-			"Vue.js",
-			"PHP",
-			"JavaScript"
-		],
-		"bigtag": [
-			"웹"
-		]
-	},
-	{
-		"title": "서버/백엔드 개발자",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/8574",
-		"기업": "디리아",
-		"태그": [
-			"서버/백엔드",
-			"시스템 소프트웨어",
-			"응용 프로그램",
-			"REST API",
-			"Spring",
-			"Linux",
-			"MySQL",
-			"Java"
-		],
-		"bigtag": [
-			"웹",
-			"시스템",
-			"응용",
-			"서버"
-		]
-	},
-	{
-		"title": "Speech Recognition 개발자 / Cloud 개발자",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/4952",
-		"기업": "웨인힐스벤처스",
-		"태그": [
-			"머신러닝",
-			"인공지능(AI)",
-			"NLP",
-			"Python"
-		],
-		"bigtag": [
-			"인공지능"
-		]
-	},
-	{
 		"title": "Mobile SDK Engineer",
 		"dday": "상시 채용",
 		"link": "https://programmers.co.kr/job_positions/11316",
@@ -5006,21 +4968,31 @@
 		]
 	},
 	{
-		"title": "NLP Engineer(English Education)",
+		"title": "데이터베이스 관리자(DBA)",
 		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/11317",
-		"기업": "카카오브레인",
+		"link": "https://programmers.co.kr/job_positions/12030",
+		"기업": "메쉬코리아",
 		"태그": [
-			"추가필요"
+			"DBA",
+			"Spinnaker",
+			"Bamboo",
+			"Packer",
+			"Terraform",
+			"Kubernetes",
+			"Jenkins",
+			"Docker",
+			"GitHub",
+			"Apache HTTP Server",
+			"Python"
 		],
 		"bigtag": [
-			"기타"
+			"데이터"
 		]
 	},
 	{
-		"title": "Android&Flutter Developer",
+		"title": "NLP Engineer(English Education)",
 		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/11311",
+		"link": "https://programmers.co.kr/job_positions/11317",
 		"기업": "카카오브레인",
 		"태그": [
 			"추가필요"
@@ -5069,44 +5041,6 @@
 		]
 	},
 	{
-		"title": "[컬리페이] 데브옵스 엔지니어",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/12019",
-		"기업": "컬리",
-		"태그": [
-			"데브옵스",
-			"CI/CD",
-			"Kubernetes",
-			"Docker",
-			"Spring Cloud"
-		],
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "[그리팅] 프론트엔드 엔지니어",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/7856",
-		"기업": "두들린",
-		"태그": [
-			"프론트엔드",
-			"웹 풀스택",
-			"CircleCI",
-			"Git",
-			"Apollo Client",
-			"REST API",
-			"Sass(SCSS)",
-			"styled-components",
-			"Storybook",
-			"TypeScript",
-			"ReactJS"
-		],
-		"bigtag": [
-			"웹"
-		]
-	},
-	{
 		"title": "프론트엔드/백엔드 개발자",
 		"dday": "상시 채용",
 		"link": "https://programmers.co.kr/job_positions/12028",
@@ -5121,25 +5055,6 @@
 			"GCP(Google Cloud Platform)",
 			"AWS CloudFront",
 			"Java"
-		],
-		"bigtag": [
-			"웹",
-			"서버"
-		]
-	},
-	{
-		"title": "백엔드 엔지니어",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/9982",
-		"기업": "옴니어스",
-		"태그": [
-			"서버/백엔드",
-			"웹 풀스택",
-			"Kubernetes",
-			"Docker",
-			"Elastic Stack",
-			"NoSQL",
-			"Python"
 		],
 		"bigtag": [
 			"웹",
@@ -5229,9 +5144,9 @@
 			"Java"
 		],
 		"bigtag": [
-			"웹",
 			"데이터",
 			"시스템",
+			"웹",
 			"서버"
 		]
 	},
@@ -5254,9 +5169,9 @@
 			"PHP"
 		],
 		"bigtag": [
-			"웹",
 			"데이터",
 			"시스템",
+			"웹",
 			"서버"
 		]
 	},
@@ -5276,8 +5191,8 @@
 			"Java"
 		],
 		"bigtag": [
-			"웹",
-			"응용"
+			"응용",
+			"웹"
 		]
 	},
 	{
@@ -5317,68 +5232,57 @@
 			"Java"
 		],
 		"bigtag": [
-			"웹",
 			"시스템",
+			"웹",
 			"서버"
 		]
 	},
 	{
-		"title": "백엔드(Java) 엔지니어 Team Lead",
+		"title": "Android&Flutter Developer",
 		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/12012",
-		"기업": "메쉬코리아",
+		"link": "https://programmers.co.kr/job_positions/11311",
+		"기업": "카카오브레인",
 		"태그": [
-			"서버/백엔드",
-			"시스템/네트워크",
-			"Spring",
-			"Java"
+			"추가필요"
 		],
 		"bigtag": [
-			"웹",
-			"시스템",
-			"서버"
+			"기타"
 		]
 	},
 	{
-		"title": "데이터베이스 관리자(DBA)",
+		"title": "하이브리드 모바일 서비스 개발",
 		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/12030",
-		"기업": "메쉬코리아",
-		"태그": [
-			"DBA",
-			"Spinnaker",
-			"Bamboo",
-			"Packer",
-			"Terraform",
-			"Kubernetes",
-			"Jenkins",
-			"Docker",
-			"GitHub",
-			"Apache HTTP Server",
-			"Python"
-		],
-		"bigtag": [
-			"데이터"
-		]
-	},
-	{
-		"title": "[IT 프로덕트본부] WMS&OMS_프론트엔드 개발자",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/10002",
-		"기업": "핏펫(FitPet)",
+		"link": "https://programmers.co.kr/job_positions/12090",
+		"기업": "유핏",
 		"태그": [
 			"프론트엔드",
-			"REST API",
-			"Node.js",
-			"CSS",
-			"JavaScript",
-			"HTML",
-			"TypeScript",
-			"Vuex",
-			"Vue.js"
+			"안드로이드 앱",
+			"아이폰 앱",
+			"Firebase",
+			"Vue.js",
+			"React Native",
+			"iOS",
+			"Android",
+			"REST API"
 		],
 		"bigtag": [
+			"응용",
 			"웹"
+		]
+	},
+	{
+		"title": "[IT 프로덕트본부] WMS&OMS_백엔드개발자",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/10003",
+		"기업": "핏펫(FitPet)",
+		"태그": [
+			"서버/백엔드",
+			"PostgreSQL",
+			"Node.js"
+		],
+		"bigtag": [
+			"웹",
+			"서버"
 		]
 	},
 	{
@@ -5404,53 +5308,53 @@
 		]
 	},
 	{
-		"title": "[IT 프로덕트본부] React 프론트엔드 개발자",
+		"title": "데이터분석가(팀원)",
 		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/9919",
-		"기업": "핏펫(FitPet)",
+		"link": "https://programmers.co.kr/job_positions/11825",
+		"기업": "스포카",
 		"태그": [
-			"프론트엔드",
-			"TypeScript",
-			"Redux.js",
-			"Next.js",
-			"React Hooks API",
-			"GraphQL"
+			"데이터 엔지니어",
+			"MySQL",
+			"Python",
+			"SQL",
+			"Tableau",
+			"R"
 		],
 		"bigtag": [
-			"웹"
+			"데이터"
 		]
 	},
 	{
-		"title": "[IT 프로덕트본부] 머신러닝 엔지니어",
+		"title": "AI food model 개발자",
 		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/9163",
-		"기업": "핏펫(FitPet)",
+		"link": "https://programmers.co.kr/job_positions/12058",
+		"기업": "누비랩",
+		"태그": [
+			"인공지능(AI)",
+			"Docker",
+			"PyTorch"
+		],
+		"bigtag": [
+			"인공지능"
+		]
+	},
+	{
+		"title": "포인트 클라우드 엔지니어",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/12059",
+		"기업": "누비랩",
 		"태그": [
 			"머신러닝",
 			"인공지능(AI)",
-			"Text Mining",
-			"Scikit-Learn",
-			"Keras",
+			"응용 프로그램",
 			"PyTorch",
-			"Tensorflow Lite",
-			"TensorFlow.js",
-			"Machine Learning",
-			"Deep Learning"
+			"OpenCV",
+			"Numpy",
+			"Python"
 		],
 		"bigtag": [
-			"인공지능"
-		]
-	},
-	{
-		"title": "Computer Graphics Engineer",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/11314",
-		"기업": "카카오브레인",
-		"태그": [
-			"인공지능(AI)"
-		],
-		"bigtag": [
-			"인공지능"
+			"인공지능",
+			"응용"
 		]
 	},
 	{
@@ -5483,9 +5387,9 @@
 			"C"
 		],
 		"bigtag": [
-			"서버",
 			"인공지능",
-			"응용"
+			"응용",
+			"서버"
 		]
 	},
 	{
@@ -5552,9 +5456,9 @@
 			"ExpressJS"
 		],
 		"bigtag": [
-			"웹",
 			"데이터",
 			"응용",
+			"웹",
 			"서버"
 		]
 	},
@@ -5574,8 +5478,8 @@
 			"Elastic Stack"
 		],
 		"bigtag": [
-			"웹",
 			"시스템",
+			"웹",
 			"서버"
 		]
 	},
@@ -5599,9 +5503,26 @@
 			"REST API"
 		],
 		"bigtag": [
-			"서버",
 			"데이터",
+			"서버",
 			"시스템"
+		]
+	},
+	{
+		"title": "데이터분석가(팀장)",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/4438",
+		"기업": "스포카",
+		"태그": [
+			"데이터 엔지니어",
+			"R",
+			"Tableau",
+			"SQL",
+			"Python",
+			"MySQL"
+		],
+		"bigtag": [
+			"데이터"
 		]
 	},
 	{
@@ -5627,42 +5548,6 @@
 		]
 	},
 	{
-		"title": "핀트(Fint) iOS 개발자",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/7882",
-		"기업": "디셈버앤컴퍼니자산운용",
-		"태그": [
-			"아이폰 앱",
-			"Git",
-			"Zeplin",
-			"MVVM(Model-View-ViewModel)",
-			"iOS",
-			"Reactor",
-			"CocoaPods",
-			"RxSwift",
-			"Swift"
-		],
-		"bigtag": [
-			"응용"
-		]
-	},
-	{
-		"title": "품질 엔지니어 팀장",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/12080",
-		"기업": "스마트스코어",
-		"태그": [
-			"QA",
-			"JIRA",
-			"Slack API",
-			"Selenium",
-			"Apache JMeter"
-		],
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
 		"title": "Senior Cloud Engineer",
 		"dday": "상시 채용",
 		"link": "https://programmers.co.kr/job_positions/12082",
@@ -5673,8 +5558,8 @@
 			"시스템 소프트웨어"
 		],
 		"bigtag": [
-			"시스템",
-			"응용"
+			"응용",
+			"시스템"
 		]
 	},
 	{
@@ -5688,28 +5573,8 @@
 			"시스템 소프트웨어"
 		],
 		"bigtag": [
-			"시스템",
-			"응용"
-		]
-	},
-	{
-		"title": "핀트(Fint) Android 개발자",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/7881",
-		"기업": "디셈버앤컴퍼니자산운용",
-		"태그": [
-			"안드로이드 앱",
-			"Data Binding",
-			"Clean Architecture",
-			"MVP",
-			"MVVM(Model-View-ViewModel)",
-			"Firebase",
-			"RxKotlin",
-			"Kotlin"
-		],
-		"bigtag": [
-			"데이터",
-			"응용"
+			"응용",
+			"시스템"
 		]
 	},
 	{
@@ -5750,8 +5615,8 @@
 			"JavaScript"
 		],
 		"bigtag": [
-			"웹",
-			"데이터"
+			"데이터",
+			"웹"
 		]
 	},
 	{
@@ -5792,8 +5657,8 @@
 			"JIRA"
 		],
 		"bigtag": [
-			"웹",
 			"데이터",
+			"웹",
 			"서버"
 		]
 	},
@@ -5836,8 +5701,8 @@
 			"JIRA"
 		],
 		"bigtag": [
-			"웹",
 			"데이터",
+			"웹",
 			"서버"
 		]
 	},
@@ -5880,9 +5745,9 @@
 			"JavaScript"
 		],
 		"bigtag": [
-			"웹",
 			"데이터",
 			"인공지능",
+			"웹",
 			"서버"
 		]
 	},
@@ -5972,83 +5837,129 @@
 		]
 	},
 	{
-		"title": "[YG엔터테인먼트] DevOps",
+		"title": "품질 엔지니어 팀장",
 		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/8582",
-		"기업": "YG엔터테인먼트",
+		"link": "https://programmers.co.kr/job_positions/12080",
+		"기업": "스마트스코어",
 		"태그": [
-			"시스템 소프트웨어",
-			"RabbitMQ",
+			"QA",
+			"JIRA",
+			"Slack API",
+			"Selenium",
+			"Apache JMeter"
+		],
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
+		"title": "[IT 프로덕트본부] WMS&OMS_프론트엔드 개발자",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/10002",
+		"기업": "핏펫(FitPet)",
+		"태그": [
+			"프론트엔드",
+			"REST API",
+			"Node.js",
+			"CSS",
+			"JavaScript",
+			"HTML",
+			"TypeScript",
+			"Vuex",
+			"Vue.js"
+		],
+		"bigtag": [
+			"웹"
+		]
+	},
+	{
+		"title": "[넥스트유니콘] 백앤드 개발자",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/11828",
+		"기업": "넥스트유니콘",
+		"태그": [
+			"서버/백엔드",
+			"Java",
+			"Kotlin",
+			"Spring Boot",
+			"Spring Data JPA",
+			"MySQL",
 			"Redis",
-			"MongoDB"
+			"Elasticsearch"
 		],
 		"bigtag": [
 			"데이터",
-			"시스템",
-			"응용"
-		]
-	},
-	{
-		"title": "포인트 클라우드 엔지니어",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/12059",
-		"기업": "누비랩",
-		"태그": [
-			"머신러닝",
-			"인공지능(AI)",
-			"응용 프로그램",
-			"PyTorch",
-			"OpenCV",
-			"Numpy",
-			"Python"
-		],
-		"bigtag": [
-			"인공지능",
-			"응용"
-		]
-	},
-	{
-		"title": "Software Engineer, Backend",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/10698",
-		"기업": "버킷플레이스(오늘의집)",
-		"태그": [
-			"서버/백엔드"
-		],
-		"bigtag": [
 			"웹",
 			"서버"
 		]
 	},
 	{
-		"title": "AI food model 개발자",
+		"title": "서버개발자",
 		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/12058",
-		"기업": "누비랩",
+		"link": "https://programmers.co.kr/job_positions/12051",
+		"기업": "딜리버리랩",
 		"태그": [
-			"인공지능(AI)",
+			"서버/백엔드",
+			"웹 풀스택",
+			"데브옵스",
+			"Vue.js",
+			"Spring",
+			"Redis",
+			"PHP",
+			"Node.js",
+			"JavaScript",
+			"Git",
+			"Java",
 			"Docker",
-			"PyTorch"
+			"Apache Kafka",
+			"Elasticsearch",
+			"MariaDB",
+			"MySQL",
+			"PostgreSQL",
+			"Apache"
 		],
 		"bigtag": [
-			"인공지능"
+			"데이터",
+			"웹",
+			"서버"
 		]
 	},
 	{
-		"title": "데이터분석가(팀장)",
+		"title": "[IT 프로덕트본부] React 프론트엔드 개발자",
 		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/4438",
-		"기업": "스포카",
+		"link": "https://programmers.co.kr/job_positions/9919",
+		"기업": "핏펫(FitPet)",
 		"태그": [
-			"데이터 엔지니어",
-			"R",
-			"Tableau",
-			"SQL",
-			"Python",
-			"MySQL"
+			"프론트엔드",
+			"TypeScript",
+			"Redux.js",
+			"Next.js",
+			"React Hooks API",
+			"GraphQL"
 		],
 		"bigtag": [
-			"데이터"
+			"웹"
+		]
+	},
+	{
+		"title": "[IT 프로덕트본부] 머신러닝 엔지니어",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/9163",
+		"기업": "핏펫(FitPet)",
+		"태그": [
+			"머신러닝",
+			"인공지능(AI)",
+			"Text Mining",
+			"Scikit-Learn",
+			"Keras",
+			"PyTorch",
+			"Tensorflow Lite",
+			"TensorFlow.js",
+			"Machine Learning",
+			"Deep Learning"
+		],
+		"bigtag": [
+			"인공지능"
 		]
 	},
 	{
@@ -6201,6 +6112,29 @@
 		]
 	},
 	{
+		"title": "풀스택/백엔드개발자",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/12054",
+		"기업": "딜리버리랩",
+		"태그": [
+			"서버/백엔드",
+			"웹 풀스택",
+			"데브옵스",
+			"Vue.js",
+			"Redis",
+			"JavaScript",
+			"Git",
+			"Docker",
+			"Spring Boot",
+			"Java",
+			"PHP"
+		],
+		"bigtag": [
+			"웹",
+			"서버"
+		]
+	},
+	{
 		"title": "Data Engineer",
 		"dday": "상시 채용",
 		"link": "https://programmers.co.kr/job_positions/11897",
@@ -6220,19 +6154,6 @@
 		],
 		"bigtag": [
 			"데이터"
-		]
-	},
-	{
-		"title": "비교대출 백엔드 엔지니어(주니어)",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/11776",
-		"기업": "핀다(FINDA)",
-		"태그": [
-			"서버/백엔드"
-		],
-		"bigtag": [
-			"웹",
-			"서버"
 		]
 	},
 	{
@@ -6367,8 +6288,8 @@
 			"ReactJS"
 		],
 		"bigtag": [
-			"웹",
-			"응용"
+			"응용",
+			"웹"
 		]
 	},
 	{
@@ -6391,100 +6312,21 @@
 			"HTML"
 		],
 		"bigtag": [
-			"웹",
-			"응용"
+			"응용",
+			"웹"
 		]
 	},
 	{
-		"title": "서버개발자",
+		"title": "비교대출 백엔드 엔지니어(주니어)",
 		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/12051",
-		"기업": "딜리버리랩",
+		"link": "https://programmers.co.kr/job_positions/11776",
+		"기업": "핀다(FINDA)",
 		"태그": [
-			"서버/백엔드",
-			"웹 풀스택",
-			"데브옵스",
-			"Vue.js",
-			"Spring",
-			"Redis",
-			"PHP",
-			"Node.js",
-			"JavaScript",
-			"Git",
-			"Java",
-			"Docker",
-			"Apache Kafka",
-			"Elasticsearch",
-			"MariaDB",
-			"MySQL",
-			"PostgreSQL",
-			"Apache"
-		],
-		"bigtag": [
-			"웹",
-			"데이터",
-			"서버"
-		]
-	},
-	{
-		"title": "풀스택/백엔드개발자",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/12054",
-		"기업": "딜리버리랩",
-		"태그": [
-			"서버/백엔드",
-			"웹 풀스택",
-			"데브옵스",
-			"Vue.js",
-			"Redis",
-			"JavaScript",
-			"Git",
-			"Docker",
-			"Spring Boot",
-			"Java",
-			"PHP"
+			"서버/백엔드"
 		],
 		"bigtag": [
 			"웹",
 			"서버"
-		]
-	},
-	{
-		"title": "[넥스트유니콘] 백앤드 개발자",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/11828",
-		"기업": "넥스트유니콘",
-		"태그": [
-			"서버/백엔드",
-			"Java",
-			"Kotlin",
-			"Spring Boot",
-			"Spring Data JPA",
-			"MySQL",
-			"Redis",
-			"Elasticsearch"
-		],
-		"bigtag": [
-			"웹",
-			"데이터",
-			"서버"
-		]
-	},
-	{
-		"title": "데이터분석가(팀원)",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/11825",
-		"기업": "스포카",
-		"태그": [
-			"데이터 엔지니어",
-			"MySQL",
-			"Python",
-			"SQL",
-			"Tableau",
-			"R"
-		],
-		"bigtag": [
-			"데이터"
 		]
 	},
 	{
@@ -6500,105 +6342,52 @@
 			"Kotlin"
 		],
 		"bigtag": [
-			"웹",
-			"응용"
-		]
-	},
-	{
-		"title": "Software Engineer",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/11606",
-		"기업": "슈페릭스",
-		"태그": [
-			"머신러닝",
-			"데이터 엔지니어",
-			"시스템 소프트웨어",
-			"NoSQL",
-			"C",
-			"C++",
-			"MySQL",
-			"Python"
-		],
-		"bigtag": [
-			"데이터",
-			"시스템",
-			"인공지능",
-			"응용"
-		]
-	},
-	{
-		"title": "[옐로우버스]풀스택 개발자",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/12129",
-		"기업": "리버스랩",
-		"태그": [
-			"웹 풀스택",
-			"REST API",
-			"Java",
-			"Spring Boot"
-		],
-		"bigtag": [
+			"응용",
 			"웹"
 		]
 	},
 	{
-		"title": "[AR] 이미지 프로세싱 개발자",
+		"title": "마케팅 솔루션 개발(시니어)",
 		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/8508",
-		"기업": "머지리티",
+		"link": "https://programmers.co.kr/job_positions/12141",
+		"기업": "플래티어",
 		"태그": [
-			"머신러닝",
+			"서버/백엔드",
 			"인공지능(AI)",
-			"시스템 소프트웨어",
-			"Image Processing",
-			"Machine Learning"
-		],
-		"bigtag": [
-			"시스템",
-			"인공지능",
-			"응용"
-		]
-	},
-	{
-		"title": "[Mergerity] Client 개발자",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/3751",
-		"기업": "머지리티",
-		"태그": [
-			"프론트엔드",
-			"안드로이드 앱",
-			"아이폰 앱",
-			"Android",
-			"AR",
-			"iOS",
+			"AWS Alexa",
+			"NoSQL",
+			"Spring Boot",
+			"JavaScript",
 			"Java",
-			"Python",
-			"C#"
+			"jQuery",
+			"Git",
+			"Apache Hadoop",
+			"Apache Spark"
 		],
 		"bigtag": [
+			"인공지능",
 			"웹",
-			"응용"
+			"서버"
 		]
 	},
 	{
-		"title": "[AI] 머신러닝 MLops 개발자 모집",
+		"title": "게임 서버 개발자",
 		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/12187",
-		"기업": "머지리티",
+		"link": "https://programmers.co.kr/job_positions/6146",
+		"기업": "111퍼센트",
 		"태그": [
-			"머신러닝",
-			"인공지능(AI)",
-			"블록체인",
-			"Python",
-			"Docker",
-			"SQL",
-			"PyTorch",
-			"Deep Learning",
-			"Machine Learning"
+			"서버/백엔드",
+			"게임 서버",
+			"시스템/네트워크",
+			"NoSQL",
+			"REST API",
+			"Redis"
 		],
 		"bigtag": [
-			"서버",
-			"인공지능"
+			"응용",
+			"시스템",
+			"웹",
+			"서버"
 		]
 	},
 	{
@@ -6657,9 +6446,9 @@
 			"사물인터넷(IoT)"
 		],
 		"bigtag": [
-			"시스템",
+			"인공지능",
 			"응용",
-			"인공지능"
+			"시스템"
 		]
 	},
 	{
@@ -6738,26 +6527,6 @@
 		]
 	},
 	{
-		"title": "주니어 백엔드 엔지니어",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/6384",
-		"기업": "크라우드웍스",
-		"태그": [
-			"서버/백엔드",
-			"Spring",
-			"MySQL",
-			"MyBatis",
-			"Hibernate",
-			"JPA(Java Persistent API)",
-			"Spring Boot",
-			"Java"
-		],
-		"bigtag": [
-			"웹",
-			"서버"
-		]
-	},
-	{
 		"title": "솔루션운영 엔지니어",
 		"dday": "상시 채용",
 		"link": "https://programmers.co.kr/job_positions/11127",
@@ -6776,10 +6545,32 @@
 			"JavaScript"
 		],
 		"bigtag": [
-			"웹",
-			"시스템",
 			"인공지능",
+			"시스템",
+			"웹",
 			"서버"
+		]
+	},
+	{
+		"title": "AI 솔루션 자연어처리 엔지니어",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/11130",
+		"기업": "로민",
+		"태그": [
+			"웹 풀스택",
+			"머신러닝",
+			"인공지능(AI)",
+			"Linux",
+			"Git",
+			"Docker",
+			"Python",
+			"PyTorch",
+			"Tensorflow"
+		],
+		"bigtag": [
+			"인공지능",
+			"웹",
+			"시스템"
 		]
 	},
 	{
@@ -6799,8 +6590,29 @@
 			"C++"
 		],
 		"bigtag": [
-			"웹",
+			"인공지능",
 			"시스템",
+			"웹",
+			"서버"
+		]
+	},
+	{
+		"title": "[AI] 머신러닝 MLops 개발자 모집",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/12187",
+		"기업": "머지리티",
+		"태그": [
+			"머신러닝",
+			"인공지능(AI)",
+			"블록체인",
+			"Python",
+			"Docker",
+			"SQL",
+			"PyTorch",
+			"Deep Learning",
+			"Machine Learning"
+		],
+		"bigtag": [
 			"인공지능",
 			"서버"
 		]
@@ -6823,32 +6635,8 @@
 			"JavaScript"
 		],
 		"bigtag": [
-			"웹",
 			"시스템",
-			"서버"
-		]
-	},
-	{
-		"title": "AI 풀스택 엔지니어",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/11133",
-		"기업": "로민",
-		"태그": [
-			"서버/백엔드",
-			"프론트엔드",
-			"웹 풀스택",
-			"Linux",
-			"Git",
-			"Docker",
-			"Python",
-			"C",
-			"C++",
-			"Java",
-			"JavaScript"
-		],
-		"bigtag": [
 			"웹",
-			"시스템",
 			"서버"
 		]
 	},
@@ -6871,9 +6659,9 @@
 			"JavaScript"
 		],
 		"bigtag": [
-			"웹",
-			"시스템",
 			"인공지능",
+			"시스템",
+			"웹",
 			"서버"
 		]
 	},
@@ -6898,9 +6686,9 @@
 			"CSS"
 		],
 		"bigtag": [
+			"인공지능",
 			"웹",
-			"시스템",
-			"인공지능"
+			"시스템"
 		]
 	},
 	{
@@ -6930,8 +6718,8 @@
 			"시스템 소프트웨어"
 		],
 		"bigtag": [
-			"시스템",
-			"응용"
+			"응용",
+			"시스템"
 		]
 	},
 	{
@@ -6969,8 +6757,8 @@
 			"Ansible"
 		],
 		"bigtag": [
-			"시스템",
-			"응용"
+			"응용",
+			"시스템"
 		]
 	},
 	{
@@ -6983,28 +6771,6 @@
 		],
 		"bigtag": [
 			"기타"
-		]
-	},
-	{
-		"title": "AI 솔루션 자연어처리 엔지니어",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/11130",
-		"기업": "로민",
-		"태그": [
-			"웹 풀스택",
-			"머신러닝",
-			"인공지능(AI)",
-			"Linux",
-			"Git",
-			"Docker",
-			"Python",
-			"PyTorch",
-			"Tensorflow"
-		],
-		"bigtag": [
-			"웹",
-			"시스템",
-			"인공지능"
 		]
 	},
 	{
@@ -7026,65 +6792,111 @@
 		]
 	},
 	{
-		"title": "시니어 백엔드 엔지니어",
+		"title": "DBA(Database Admin)",
 		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/9167",
+		"link": "https://programmers.co.kr/job_positions/895",
+		"기업": "와디즈",
+		"태그": [
+			"데이터 엔지니어"
+		],
+		"bigtag": [
+			"데이터"
+		]
+	},
+	{
+		"title": "모바일 앱 개발자 (신입/경력)",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/1049",
+		"기업": "와디즈",
+		"태그": [
+			"안드로이드 앱",
+			"아이폰 앱",
+			"iOS",
+			"RxJava",
+			"Kotlin",
+			"Android"
+		],
+		"bigtag": [
+			"응용"
+		]
+	},
+	{
+		"title": "AI 풀스택 엔지니어",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/11133",
+		"기업": "로민",
+		"태그": [
+			"서버/백엔드",
+			"프론트엔드",
+			"웹 풀스택",
+			"Linux",
+			"Git",
+			"Docker",
+			"Python",
+			"C",
+			"C++",
+			"Java",
+			"JavaScript"
+		],
+		"bigtag": [
+			"시스템",
+			"웹",
+			"서버"
+		]
+	},
+	{
+		"title": "[Mergerity] Client 개발자",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/3751",
+		"기업": "머지리티",
+		"태그": [
+			"프론트엔드",
+			"안드로이드 앱",
+			"아이폰 앱",
+			"Android",
+			"AR",
+			"iOS",
+			"Java",
+			"Python",
+			"C#"
+		],
+		"bigtag": [
+			"응용",
+			"웹"
+		]
+	},
+	{
+		"title": "[AR] 이미지 프로세싱 개발자",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/8508",
+		"기업": "머지리티",
+		"태그": [
+			"머신러닝",
+			"인공지능(AI)",
+			"시스템 소프트웨어",
+			"Image Processing",
+			"Machine Learning"
+		],
+		"bigtag": [
+			"인공지능",
+			"응용",
+			"시스템"
+		]
+	},
+	{
+		"title": "주니어 백엔드 엔지니어",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/6384",
 		"기업": "크라우드웍스",
 		"태그": [
 			"서버/백엔드",
-			"Spring Boot",
+			"Spring",
+			"MySQL",
 			"MyBatis",
 			"Hibernate",
 			"JPA(Java Persistent API)",
-			"Spring",
-			"MySQL",
+			"Spring Boot",
 			"Java"
-		],
-		"bigtag": [
-			"웹",
-			"서버"
-		]
-	},
-	{
-		"title": "서버 개발자 - 광고플랫폼",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/7513",
-		"기업": "당근마켓",
-		"태그": [
-			"서버/백엔드",
-			"Spring Batch",
-			"Spring",
-			"Kotlin",
-			"Java"
-		],
-		"bigtag": [
-			"웹",
-			"서버"
-		]
-	},
-	{
-		"title": "[Manta] 백엔드 엔지니어",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/5849",
-		"기업": "리디",
-		"태그": [
-			"서버/백엔드",
-			"TypeScript",
-			"Python",
-			"PHP"
-		],
-		"bigtag": [
-			"웹",
-			"서버"
-		]
-	},
-	{
-		"title": "시니어 백엔드 엔지니어",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/6787",
-		"기업": "리디",
-		"태그": [
-			"서버/백엔드"
 		],
 		"bigtag": [
 			"웹",
@@ -7114,9 +6926,9 @@
 			"데이터 엔지니어"
 		],
 		"bigtag": [
-			"웹",
 			"데이터",
 			"인공지능",
+			"웹",
 			"서버"
 		]
 	},
@@ -7165,9 +6977,9 @@
 			"데이터 엔지니어"
 		],
 		"bigtag": [
-			"웹",
 			"데이터",
 			"인공지능",
+			"웹",
 			"서버"
 		]
 	},
@@ -7215,19 +7027,6 @@
 		]
 	},
 	{
-		"title": "IoT Back-end 서버 개발자",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/12180",
-		"기업": "야놀자클라우드",
-		"태그": [
-			"서버/백엔드"
-		],
-		"bigtag": [
-			"웹",
-			"서버"
-		]
-	},
-	{
 		"title": "백엔드 개발자 (Back-end, Python/Django)",
 		"dday": "상시 채용",
 		"link": "https://programmers.co.kr/job_positions/10121",
@@ -7250,6 +7049,23 @@
 		]
 	},
 	{
+		"title": "Cloud  Platform Engineer(신입/경력)",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/9311",
+		"기업": "오케스트로",
+		"태그": [
+			"시스템 소프트웨어",
+			"응용 프로그램",
+			"Python",
+			"Ansible",
+			"OpenStack"
+		],
+		"bigtag": [
+			"응용",
+			"시스템"
+		]
+	},
+	{
 		"title": "[맘시터] 백엔드 엔지니어 (Backend Engineer)",
 		"dday": "상시 채용",
 		"link": "https://programmers.co.kr/job_positions/10093",
@@ -7263,39 +7079,36 @@
 		]
 	},
 	{
-		"title": "Back-end Node.js 개발자",
+		"title": "[옐로우버스]풀스택 개발자",
 		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/11520",
-		"기업": "야놀자클라우드",
+		"link": "https://programmers.co.kr/job_positions/12129",
+		"기업": "리버스랩",
 		"태그": [
-			"서버/백엔드"
+			"웹 풀스택",
+			"REST API",
+			"Java",
+			"Spring Boot"
 		],
 		"bigtag": [
-			"웹",
-			"서버"
+			"웹"
 		]
 	},
 	{
-		"title": "마케팅 솔루션 개발(주니어)",
+		"title": "백엔드 개발자",
 		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/12128",
-		"기업": "플래티어",
+		"link": "https://programmers.co.kr/job_positions/11095",
+		"기업": "벤디트",
 		"태그": [
 			"서버/백엔드",
-			"인공지능(AI)",
-			"Apache Spark",
-			"Apache Hadoop",
-			"Git",
-			"jQuery",
-			"Java",
-			"JavaScript",
-			"Spring Boot",
-			"NoSQL",
-			"AWS Alexa"
+			"Apollo Server",
+			"Redis",
+			"Sequelize.js",
+			"GraphQL",
+			"TypeScript",
+			"Node.js"
 		],
 		"bigtag": [
 			"웹",
-			"인공지능",
 			"서버"
 		]
 	},
@@ -7371,9 +7184,9 @@
 			"Java"
 		],
 		"bigtag": [
-			"웹",
 			"데이터",
 			"시스템",
+			"웹",
 			"서버"
 		]
 	},
@@ -7388,8 +7201,8 @@
 			"QA"
 		],
 		"bigtag": [
-			"시스템",
-			"응용"
+			"응용",
+			"시스템"
 		]
 	},
 	{
@@ -7407,9 +7220,9 @@
 			"JavaScript"
 		],
 		"bigtag": [
-			"웹",
 			"데이터",
 			"시스템",
+			"웹",
 			"서버"
 		]
 	},
@@ -7426,55 +7239,59 @@
 			"C"
 		],
 		"bigtag": [
-			"웹",
 			"시스템",
+			"웹",
 			"서버"
 		]
 	},
 	{
-		"title": "Cloud  Platform Engineer(신입/경력)",
+		"title": "서버 개발자 - 광고플랫폼",
 		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/9311",
-		"기업": "오케스트로",
+		"link": "https://programmers.co.kr/job_positions/7513",
+		"기업": "당근마켓",
 		"태그": [
-			"시스템 소프트웨어",
-			"응용 프로그램",
-			"Python",
-			"Ansible",
-			"OpenStack"
-		],
-		"bigtag": [
-			"시스템",
-			"응용"
-		]
-	},
-	{
-		"title": "DBA(Database Admin)",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/895",
-		"기업": "와디즈",
-		"태그": [
-			"데이터 엔지니어"
-		],
-		"bigtag": [
-			"데이터"
-		]
-	},
-	{
-		"title": "모바일 앱 개발자 (신입/경력)",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/1049",
-		"기업": "와디즈",
-		"태그": [
-			"안드로이드 앱",
-			"아이폰 앱",
-			"iOS",
-			"RxJava",
+			"서버/백엔드",
+			"Spring Batch",
+			"Spring",
 			"Kotlin",
-			"Android"
+			"Java"
 		],
 		"bigtag": [
-			"응용"
+			"웹",
+			"서버"
+		]
+	},
+	{
+		"title": "IoT Back-end 서버 개발자",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/12180",
+		"기업": "야놀자클라우드",
+		"태그": [
+			"서버/백엔드"
+		],
+		"bigtag": [
+			"웹",
+			"서버"
+		]
+	},
+	{
+		"title": "시니어 백엔드 엔지니어",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/9167",
+		"기업": "크라우드웍스",
+		"태그": [
+			"서버/백엔드",
+			"Spring Boot",
+			"MyBatis",
+			"Hibernate",
+			"JPA(Java Persistent API)",
+			"Spring",
+			"MySQL",
+			"Java"
+		],
+		"bigtag": [
+			"웹",
+			"서버"
 		]
 	},
 	{
@@ -7497,58 +7314,58 @@
 		]
 	},
 	{
-		"title": "DevOps Engineer (데브옵스 엔지니어)",
+		"title": "AI 개발자",
 		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/6681",
-		"기업": "매스프레소(콴다)",
+		"link": "https://programmers.co.kr/job_positions/4397",
+		"기업": "와디즈",
 		"태그": [
-			"서버/백엔드",
-			"시스템/네트워크",
-			"데브옵스",
-			"MySQL",
-			"Redis",
-			"PostgreSQL",
-			"Kubernetes"
+			"머신러닝",
+			"인공지능(AI)",
+			"데이터 엔지니어",
+			"PyTorch",
+			"Tensorflow",
+			"Scikit-Learn",
+			"Python",
+			"SQL"
 		],
 		"bigtag": [
-			"웹",
-			"시스템",
-			"서버"
+			"데이터",
+			"인공지능"
 		]
 	},
 	{
-		"title": "[쿠팡물류데이터] Senior~Staff, Backend Engineer (Data Platform)",
+		"title": "자바 백엔드 개발자",
 		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/12202",
-		"기업": "Coupang",
+		"link": "https://programmers.co.kr/job_positions/893",
+		"기업": "와디즈",
 		"태그": [
 			"서버/백엔드",
-			"웹 풀스택",
-			"데이터 엔지니어",
-			"Apache Kafka",
-			"Apache Spark",
-			"Apache Hive",
-			"Python",
+			"MVC",
+			"Spring",
+			"MySQL",
 			"Java"
 		],
 		"bigtag": [
 			"웹",
-			"데이터",
 			"서버"
 		]
 	},
 	{
-		"title": "[쿠팡] Senior, Android Engineer (Seller Platform)",
+		"title": "[윙잇] React.js 웹 프론트엔드 개발자(1년 이상)",
 		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/12204",
-		"기업": "Coupang",
+		"link": "https://programmers.co.kr/job_positions/12105",
+		"기업": "윙잇",
 		"태그": [
-			"안드로이드 앱",
-			"App Inventor",
-			"Android"
+			"서버/백엔드",
+			"프론트엔드",
+			"웹 풀스택",
+			"JavaScript",
+			"Java",
+			"ReactJS"
 		],
 		"bigtag": [
-			"응용"
+			"웹",
+			"서버"
 		]
 	},
 	{
@@ -7565,8 +7382,8 @@
 			"Android"
 		],
 		"bigtag": [
-			"웹",
-			"응용"
+			"응용",
+			"웹"
 		]
 	},
 	{
@@ -7606,9 +7423,9 @@
 			"REST API"
 		],
 		"bigtag": [
+			"응용",
 			"웹",
-			"시스템",
-			"응용"
+			"시스템"
 		]
 	},
 	{
@@ -7636,8 +7453,8 @@
 			"Python"
 		],
 		"bigtag": [
-			"웹",
 			"데이터",
+			"웹",
 			"서버"
 		]
 	},
@@ -7690,18 +7507,6 @@
 		]
 	},
 	{
-		"title": "QA Manager (QA 매니저)",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/4246",
-		"기업": "매스프레소(콴다)",
-		"태그": [
-			"QA"
-		],
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
 		"title": "Front-End Engineering Manager / Tech Lead",
 		"dday": "상시 채용",
 		"link": "https://programmers.co.kr/job_positions/11946",
@@ -7712,6 +7517,24 @@
 			"Android",
 			"flutter",
 			"Vue.js"
+		],
+		"bigtag": [
+			"웹"
+		]
+	},
+	{
+		"title": "[CATCHFASHION] 프론트엔드 개발자",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/12205",
+		"기업": "스마일벤처스",
+		"태그": [
+			"프론트엔드",
+			"AngularJS",
+			"Vue.js",
+			"HTML",
+			"ReactJS",
+			"CSS",
+			"JavaScript"
 		],
 		"bigtag": [
 			"웹"
@@ -7762,8 +7585,8 @@
 			"Linux"
 		],
 		"bigtag": [
-			"웹",
 			"시스템",
+			"웹",
 			"서버"
 		]
 	},
@@ -7790,9 +7613,80 @@
 			"Java"
 		],
 		"bigtag": [
-			"웹",
 			"응용",
+			"웹",
 			"서버"
+		]
+	},
+	{
+		"title": "Back-end 개발자",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/1685",
+		"기업": "iPortfolio",
+		"태그": [
+			"서버/백엔드",
+			"웹 풀스택",
+			"Spring Boot",
+			"JavaScript",
+			"Git",
+			"Node.js",
+			"Spring",
+			"MySQL",
+			"Java"
+		],
+		"bigtag": [
+			"웹",
+			"서버"
+		]
+	},
+	{
+		"title": "Front-end 개발자",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/1441",
+		"기업": "iPortfolio",
+		"태그": [
+			"프론트엔드",
+			"웹 풀스택",
+			"TypeScript",
+			"Redux.js",
+			"Next.js",
+			"Node.js",
+			"Java",
+			"ES6",
+			"ReactJS",
+			"CSS",
+			"HTML",
+			"JavaScript"
+		],
+		"bigtag": [
+			"웹"
+		]
+	},
+	{
+		"title": "Android 개발자",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/11190",
+		"기업": "iPortfolio",
+		"태그": [
+			"안드로이드 앱",
+			"SQLite",
+			"Java",
+			"Kotlin"
+		],
+		"bigtag": [
+			"응용"
+		]
+	},
+	{
+		"title": "QA 엔지니어",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/10780",
+		"기업": "iPortfolio",
+		"태그": [
+			"QA"
+		],
+		"bigtag": [
+			"기타"
 		]
 	},
 	{
@@ -7896,141 +7790,63 @@
 		]
 	},
 	{
-		"title": "[CATCHFASHION] 프론트엔드 개발자",
+		"title": "[쿠팡] Senior, Android Engineer (Seller Platform)",
 		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/12205",
-		"기업": "스마일벤처스",
+		"link": "https://programmers.co.kr/job_positions/12204",
+		"기업": "Coupang",
 		"태그": [
-			"프론트엔드",
-			"AngularJS",
-			"Vue.js",
-			"HTML",
-			"ReactJS",
-			"CSS",
-			"JavaScript"
+			"안드로이드 앱",
+			"App Inventor",
+			"Android"
 		],
 		"bigtag": [
-			"웹"
+			"응용"
 		]
 	},
 	{
-		"title": "[쿠팡Pricing] Senior~Staff, Data Engineer (Pricing Competitor Intelligence)",
+		"title": "시니어 백엔드 엔지니어",
 		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/12203",
+		"link": "https://programmers.co.kr/job_positions/6787",
+		"기업": "리디",
+		"태그": [
+			"서버/백엔드"
+		],
+		"bigtag": [
+			"웹",
+			"서버"
+		]
+	},
+	{
+		"title": "[쿠팡물류데이터] Senior~Staff, Backend Engineer (Data Platform)",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/12202",
 		"기업": "Coupang",
 		"태그": [
 			"서버/백엔드",
 			"웹 풀스택",
 			"데이터 엔지니어",
-			"MySQL",
-			"SQL",
-			"Shell",
-			"Unix",
-			"Node.js",
-			"Python"
-		],
-		"bigtag": [
-			"웹",
-			"데이터",
-			"시스템",
-			"서버"
-		]
-	},
-	{
-		"title": "Data Analyst (데이터 분석가)",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/4241",
-		"기업": "매스프레소(콴다)",
-		"태그": [
-			"데이터 엔지니어",
+			"Apache Kafka",
 			"Apache Spark",
-			"Google Analytics",
-			"Firebase",
-			"R",
-			"Pandas",
+			"Apache Hive",
 			"Python",
-			"Google BigQuery",
-			"AWS Redshift",
-			"MySQL",
-			"SQL"
-		],
-		"bigtag": [
-			"데이터"
-		]
-	},
-	{
-		"title": "DBA (MySQL)",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/11270",
-		"기업": "매스프레소(콴다)",
-		"태그": [
-			"DBA",
-			"Go",
-			"Java",
-			"Linux",
-			"C++",
-			"C",
-			"MySQL",
-			"Database"
-		],
-		"bigtag": [
-			"데이터",
-			"시스템"
-		]
-	},
-	{
-		"title": "AI 개발자",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/4397",
-		"기업": "와디즈",
-		"태그": [
-			"머신러닝",
-			"인공지능(AI)",
-			"데이터 엔지니어",
-			"PyTorch",
-			"Tensorflow",
-			"Scikit-Learn",
-			"Python",
-			"SQL"
-		],
-		"bigtag": [
-			"데이터",
-			"인공지능"
-		]
-	},
-	{
-		"title": "자바 백엔드 개발자",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/893",
-		"기업": "와디즈",
-		"태그": [
-			"서버/백엔드",
-			"MVC",
-			"Spring",
-			"MySQL",
 			"Java"
 		],
 		"bigtag": [
+			"데이터",
 			"웹",
 			"서버"
 		]
 	},
 	{
-		"title": "[윙잇] React.js 웹 프론트엔드 개발자(1년 이상)",
+		"title": "QA Manager (QA 매니저)",
 		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/12105",
-		"기업": "윙잇",
+		"link": "https://programmers.co.kr/job_positions/4246",
+		"기업": "매스프레소(콴다)",
 		"태그": [
-			"서버/백엔드",
-			"프론트엔드",
-			"웹 풀스택",
-			"JavaScript",
-			"Java",
-			"ReactJS"
+			"QA"
 		],
 		"bigtag": [
-			"웹",
-			"서버"
+			"기타"
 		]
 	},
 	{
@@ -8047,9 +7863,9 @@
 			"Node.js"
 		],
 		"bigtag": [
-			"웹",
-			"시스템",
 			"응용",
+			"시스템",
+			"웹",
 			"서버"
 		]
 	},
@@ -8202,8 +8018,8 @@
 			"Python"
 		],
 		"bigtag": [
-			"웹",
 			"데이터",
+			"웹",
 			"서버"
 		]
 	},
@@ -8239,9 +8055,9 @@
 			"Python"
 		],
 		"bigtag": [
-			"웹",
 			"데이터",
 			"시스템",
+			"웹",
 			"서버"
 		]
 	},
@@ -8396,16 +8212,117 @@
 		]
 	},
 	{
-		"title": "React Native 엔지니어",
+		"title": "DBA (MySQL)",
 		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/10355",
-		"기업": "리디",
+		"link": "https://programmers.co.kr/job_positions/11270",
+		"기업": "매스프레소(콴다)",
 		"태그": [
-			"안드로이드 앱",
-			"아이폰 앱"
+			"DBA",
+			"Go",
+			"Java",
+			"Linux",
+			"C++",
+			"C",
+			"MySQL",
+			"Database"
 		],
 		"bigtag": [
-			"응용"
+			"데이터",
+			"시스템"
+		]
+	},
+	{
+		"title": "Data Analyst (데이터 분석가)",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/4241",
+		"기업": "매스프레소(콴다)",
+		"태그": [
+			"데이터 엔지니어",
+			"Apache Spark",
+			"Google Analytics",
+			"Firebase",
+			"R",
+			"Pandas",
+			"Python",
+			"Google BigQuery",
+			"AWS Redshift",
+			"MySQL",
+			"SQL"
+		],
+		"bigtag": [
+			"데이터"
+		]
+	},
+	{
+		"title": "[쿠팡Pricing] Senior~Staff, Data Engineer (Pricing Competitor Intelligence)",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/12203",
+		"기업": "Coupang",
+		"태그": [
+			"서버/백엔드",
+			"웹 풀스택",
+			"데이터 엔지니어",
+			"MySQL",
+			"SQL",
+			"Shell",
+			"Unix",
+			"Node.js",
+			"Python"
+		],
+		"bigtag": [
+			"데이터",
+			"시스템",
+			"웹",
+			"서버"
+		]
+	},
+	{
+		"title": "DevOps Engineer (데브옵스 엔지니어)",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/6681",
+		"기업": "매스프레소(콴다)",
+		"태그": [
+			"서버/백엔드",
+			"시스템/네트워크",
+			"데브옵스",
+			"MySQL",
+			"Redis",
+			"PostgreSQL",
+			"Kubernetes"
+		],
+		"bigtag": [
+			"시스템",
+			"웹",
+			"서버"
+		]
+	},
+	{
+		"title": "[Manta] 백엔드 엔지니어",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/5849",
+		"기업": "리디",
+		"태그": [
+			"서버/백엔드",
+			"TypeScript",
+			"Python",
+			"PHP"
+		],
+		"bigtag": [
+			"웹",
+			"서버"
+		]
+	},
+	{
+		"title": "Back-end Node.js 개발자",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/11520",
+		"기업": "야놀자클라우드",
+		"태그": [
+			"서버/백엔드"
+		],
+		"bigtag": [
+			"웹",
+			"서버"
 		]
 	},
 	{
@@ -8418,59 +8335,6 @@
 		],
 		"bigtag": [
 			"기타"
-		]
-	},
-	{
-		"title": "백엔드 개발자",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/11095",
-		"기업": "벤디트",
-		"태그": [
-			"서버/백엔드",
-			"Apollo Server",
-			"Redis",
-			"Sequelize.js",
-			"GraphQL",
-			"TypeScript",
-			"Node.js"
-		],
-		"bigtag": [
-			"웹",
-			"서버"
-		]
-	},
-	{
-		"title": "데이터 엔지니어",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/2619",
-		"기업": "리디",
-		"태그": [
-			"서버/백엔드",
-			"머신러닝",
-			"데이터 엔지니어",
-			"SQL"
-		],
-		"bigtag": [
-			"웹",
-			"데이터",
-			"인공지능",
-			"서버"
-		]
-	},
-	{
-		"title": "AI/백엔드 엔지니어 - [병역특례 전문연구요원/신입가능]",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/8326",
-		"기업": "버즈니",
-		"태그": [
-			"서버/백엔드",
-			"머신러닝",
-			"인공지능(AI)"
-		],
-		"bigtag": [
-			"웹",
-			"인공지능",
-			"서버"
 		]
 	},
 	{
@@ -8498,8 +8362,8 @@
 			"Node.js"
 		],
 		"bigtag": [
-			"웹",
 			"데이터",
+			"웹",
 			"서버"
 		]
 	},
@@ -8514,9 +8378,31 @@
 			"데이터 엔지니어"
 		],
 		"bigtag": [
-			"웹",
 			"데이터",
-			"인공지능"
+			"인공지능",
+			"웹"
+		]
+	},
+	{
+		"title": "Software Engineer",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/11606",
+		"기업": "슈페릭스",
+		"태그": [
+			"머신러닝",
+			"데이터 엔지니어",
+			"시스템 소프트웨어",
+			"NoSQL",
+			"C",
+			"C++",
+			"MySQL",
+			"Python"
+		],
+		"bigtag": [
+			"데이터",
+			"인공지능",
+			"응용",
+			"시스템"
 		]
 	},
 	{
@@ -8532,46 +8418,43 @@
 			"Node.js"
 		],
 		"bigtag": [
-			"웹",
 			"인공지능",
+			"웹",
 			"서버"
 		]
 	},
 	{
-		"title": "마케팅 솔루션 개발(시니어)",
+		"title": "핀트(Fint) Android 개발자",
 		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/12141",
-		"기업": "플래티어",
+		"link": "https://programmers.co.kr/job_positions/7881",
+		"기업": "디셈버앤컴퍼니자산운용",
 		"태그": [
-			"서버/백엔드",
-			"인공지능(AI)",
-			"AWS Alexa",
-			"NoSQL",
-			"Spring Boot",
-			"JavaScript",
-			"Java",
-			"jQuery",
-			"Git",
-			"Apache Hadoop",
-			"Apache Spark"
+			"안드로이드 앱",
+			"Data Binding",
+			"Clean Architecture",
+			"MVP",
+			"MVVM(Model-View-ViewModel)",
+			"Firebase",
+			"RxKotlin",
+			"Kotlin"
 		],
 		"bigtag": [
-			"웹",
-			"인공지능",
-			"서버"
+			"데이터",
+			"응용"
 		]
 	},
 	{
-		"title": "[Manta] 모바일 앱 엔지니어",
+		"title": "Flutter 모바일앱 개발자",
 		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/6848",
-		"기업": "리디",
+		"link": "https://programmers.co.kr/job_positions/10787",
+		"기업": "라인쓰리",
 		"태그": [
 			"안드로이드 앱",
 			"아이폰 앱",
-			"Firebase",
-			"TypeScript",
-			"React Native"
+			"Dart",
+			"iOS",
+			"Android",
+			"flutter"
 		],
 		"bigtag": [
 			"응용"
@@ -8629,25 +8512,6 @@
 		]
 	},
 	{
-		"title": "[클래스유] Android 개발자",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/11685",
-		"기업": "모두의클래스",
-		"태그": [
-			"안드로이드 앱",
-			"Clean Architecture",
-			"MVVM(Model-View-ViewModel)",
-			"MVP",
-			"Kotlin",
-			"Git",
-			"Java",
-			"Android"
-		],
-		"bigtag": [
-			"응용"
-		]
-	},
-	{
 		"title": "[챌린저스] 백엔드(서버) 개발자",
 		"dday": "상시 채용",
 		"link": "https://programmers.co.kr/job_positions/7567",
@@ -8664,6 +8528,19 @@
 		"bigtag": [
 			"웹",
 			"서버"
+		]
+	},
+	{
+		"title": "React Native 엔지니어",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/10355",
+		"기업": "리디",
+		"태그": [
+			"안드로이드 앱",
+			"아이폰 앱"
+		],
+		"bigtag": [
+			"응용"
 		]
 	},
 	{
@@ -8755,8 +8632,8 @@
 			"Django"
 		],
 		"bigtag": [
-			"웹",
 			"데이터",
+			"웹",
 			"서버"
 		]
 	},
@@ -8863,29 +8740,25 @@
 		]
 	},
 	{
-		"title": "정보보안매니저 ",
+		"title": "Senior Web SDK Engineer(시니어 웹 SDK 엔지니어)",
 		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/12036",
-		"기업": "두들린",
+		"link": "https://programmers.co.kr/job_positions/9433",
+		"기업": "AB180",
 		"태그": [
-			"시스템/네트워크",
-			"시스템 소프트웨어",
-			"인터넷 보안",
-			"Python",
-			"ASP",
-			"PHP",
-			"Java"
+			"프론트엔드",
+			"웹 풀스택",
+			"REST API",
+			"TypeScript",
+			"JavaScript"
 		],
 		"bigtag": [
-			"서버",
-			"시스템",
-			"응용"
+			"웹"
 		]
 	},
 	{
-		"title": "[AI Lab] 백엔드 엔지니어 / 전문연구요원 가능",
+		"title": "AI/백엔드 엔지니어 - [병역특례 전문연구요원/신입가능]",
 		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/1826",
+		"link": "https://programmers.co.kr/job_positions/8326",
 		"기업": "버즈니",
 		"태그": [
 			"서버/백엔드",
@@ -8893,9 +8766,52 @@
 			"인공지능(AI)"
 		],
 		"bigtag": [
-			"웹",
 			"인공지능",
+			"웹",
 			"서버"
+		]
+	},
+	{
+		"title": "Data Engineer(데이터 엔지니어)",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/6194",
+		"기업": "AB180",
+		"태그": [
+			"서버/백엔드",
+			"데이터 엔지니어",
+			"Apache Kafka",
+			"AWS EMR",
+			"AWS DynamoDB",
+			"AWS S3",
+			"Apache Druid",
+			"Apache Airflow",
+			"SQL",
+			"Python",
+			"MySQL"
+		],
+		"bigtag": [
+			"데이터",
+			"웹",
+			"서버"
+		]
+	},
+	{
+		"title": "[클래스유] Android 개발자",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/11685",
+		"기업": "모두의클래스",
+		"태그": [
+			"안드로이드 앱",
+			"Clean Architecture",
+			"MVVM(Model-View-ViewModel)",
+			"MVP",
+			"Kotlin",
+			"Git",
+			"Java",
+			"Android"
+		],
+		"bigtag": [
+			"응용"
 		]
 	},
 	{
@@ -8914,47 +8830,6 @@
 		],
 		"bigtag": [
 			"응용"
-		]
-	},
-	{
-		"title": "[클래스유] 프론트엔드 개발자",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/11684",
-		"기업": "모두의클래스",
-		"태그": [
-			"프론트엔드",
-			"Node.js",
-			"SEO",
-			"GitHub",
-			"Git",
-			"REST API",
-			"ReactJS",
-			"JavaScript",
-			"CSS",
-			"HTML"
-		],
-		"bigtag": [
-			"웹"
-		]
-	},
-	{
-		"title": "게임 서버 개발자",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/6146",
-		"기업": "111퍼센트",
-		"태그": [
-			"서버/백엔드",
-			"게임 서버",
-			"시스템/네트워크",
-			"NoSQL",
-			"REST API",
-			"Redis"
-		],
-		"bigtag": [
-			"웹",
-			"시스템",
-			"응용",
-			"서버"
 		]
 	},
 	{
@@ -9010,8 +8885,8 @@
 			"Objective-C"
 		],
 		"bigtag": [
-			"웹",
-			"응용"
+			"응용",
+			"웹"
 		]
 	},
 	{
@@ -9071,8 +8946,8 @@
 			"MariaDB"
 		],
 		"bigtag": [
-			"웹",
 			"데이터",
+			"웹",
 			"서버"
 		]
 	},
@@ -9143,9 +9018,9 @@
 			"REST API"
 		],
 		"bigtag": [
-			"웹",
 			"데이터",
-			"응용"
+			"응용",
+			"웹"
 		]
 	},
 	{
@@ -9165,8 +9040,8 @@
 			"Docker"
 		],
 		"bigtag": [
-			"웹",
 			"데이터",
+			"웹",
 			"서버"
 		]
 	},
@@ -9213,8 +9088,8 @@
 			"Linux"
 		],
 		"bigtag": [
-			"웹",
 			"시스템",
+			"웹",
 			"서버"
 		]
 	},
@@ -9242,8 +9117,8 @@
 			"Flask"
 		],
 		"bigtag": [
-			"웹",
 			"데이터",
+			"웹",
 			"서버"
 		]
 	},
@@ -9310,8 +9185,8 @@
 			"C"
 		],
 		"bigtag": [
-			"시스템",
-			"응용"
+			"응용",
+			"시스템"
 		]
 	},
 	{
@@ -9332,102 +9207,100 @@
 			"Laravel"
 		],
 		"bigtag": [
-			"웹",
 			"데이터",
+			"웹",
 			"서버"
 		]
 	},
 	{
-		"title": "Senior Web SDK Engineer(시니어 웹 SDK 엔지니어)",
+		"title": "[클래스유] 프론트엔드 개발자",
 		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/9433",
-		"기업": "AB180",
+		"link": "https://programmers.co.kr/job_positions/11684",
+		"기업": "모두의클래스",
 		"태그": [
 			"프론트엔드",
-			"웹 풀스택",
+			"Node.js",
+			"SEO",
+			"GitHub",
+			"Git",
 			"REST API",
-			"TypeScript",
-			"JavaScript"
+			"ReactJS",
+			"JavaScript",
+			"CSS",
+			"HTML"
 		],
 		"bigtag": [
 			"웹"
 		]
 	},
 	{
-		"title": "Data Engineer(데이터 엔지니어)",
+		"title": "[AI Lab] 백엔드 엔지니어 / 전문연구요원 가능",
 		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/6194",
-		"기업": "AB180",
+		"link": "https://programmers.co.kr/job_positions/1826",
+		"기업": "버즈니",
 		"태그": [
 			"서버/백엔드",
-			"데이터 엔지니어",
-			"Apache Kafka",
-			"AWS EMR",
-			"AWS DynamoDB",
-			"AWS S3",
-			"Apache Druid",
-			"Apache Airflow",
-			"SQL",
-			"Python",
-			"MySQL"
+			"머신러닝",
+			"인공지능(AI)"
 		],
 		"bigtag": [
+			"인공지능",
 			"웹",
-			"데이터",
 			"서버"
 		]
 	},
 	{
-		"title": "Flutter 모바일앱 개발자",
+		"title": "Senior iOS SDK Engineer(시니어 iOS SDK 엔지니어)",
 		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/10787",
-		"기업": "라인쓰리",
+		"link": "https://programmers.co.kr/job_positions/9429",
+		"기업": "AB180",
 		"태그": [
-			"안드로이드 앱",
 			"아이폰 앱",
-			"Dart",
 			"iOS",
-			"Android",
-			"flutter"
+			"Objective-C",
+			"Swift"
 		],
 		"bigtag": [
 			"응용"
 		]
 	},
 	{
-		"title": "Backend Engineer(백엔드 엔지니어) - Data Serving API",
+		"title": "정보보안매니저 ",
 		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/10096",
-		"기업": "AB180",
+		"link": "https://programmers.co.kr/job_positions/12036",
+		"기업": "두들린",
 		"태그": [
-			"서버/백엔드",
-			"AWS Simple Queue Service(AWS SQS)",
-			"AWS RDS",
-			"AWS Lambda",
-			"FastAPI",
-			"Flask",
-			"Python"
+			"시스템/네트워크",
+			"시스템 소프트웨어",
+			"인터넷 보안",
+			"Python",
+			"ASP",
+			"PHP",
+			"Java"
 		],
 		"bigtag": [
-			"웹",
-			"서버"
+			"서버",
+			"응용",
+			"시스템"
 		]
 	},
 	{
-		"title": "주니어 백엔드 엔지니어",
+		"title": "넷킬러 기술지원 담당자",
 		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/3884",
-		"기업": "모두싸인",
+		"link": "https://programmers.co.kr/job_positions/12006",
+		"기업": "넷킬러",
 		"태그": [
-			"서버/백엔드",
-			"Git",
-			"Docker",
-			"MySQL",
-			"Node.js"
+			"시스템/네트워크",
+			"시스템 소프트웨어",
+			"인터넷 보안",
+			"Linux",
+			"JavaScript",
+			"GCP(Google Cloud Platform)"
 		],
 		"bigtag": [
-			"웹",
-			"서버"
+			"서버",
+			"응용",
+			"시스템"
 		]
 	},
 	{
@@ -9555,8 +9428,8 @@
 			"MySQL"
 		],
 		"bigtag": [
-			"웹",
 			"데이터",
+			"웹",
 			"서버"
 		]
 	},
@@ -9577,8 +9450,8 @@
 			"Java"
 		],
 		"bigtag": [
-			"웹",
 			"데이터",
+			"웹",
 			"서버"
 		]
 	},
@@ -9601,28 +9474,6 @@
 		]
 	},
 	{
-		"title": "AI 솔루션 컴퓨터비전 엔지니어",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/11129",
-		"기업": "로민",
-		"태그": [
-			"웹 풀스택",
-			"머신러닝",
-			"인공지능(AI)",
-			"Linux",
-			"Git",
-			"Docker",
-			"Python",
-			"PyTorch",
-			"Tensorflow"
-		],
-		"bigtag": [
-			"웹",
-			"시스템",
-			"인공지능"
-		]
-	},
-	{
 		"title": "DevOps Engineer(시니어)",
 		"dday": "상시 채용",
 		"link": "https://programmers.co.kr/job_positions/11102",
@@ -9638,21 +9489,41 @@
 		]
 	},
 	{
-		"title": "Senior Data Engineer",
+		"title": "[Game Studio] P2E 게임 웹서버 개발자",
 		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/6534",
-		"기업": "올룰로",
+		"link": "https://programmers.co.kr/job_positions/11081",
+		"기업": "샌드박스네트워크",
 		"태그": [
-			"머신러닝",
-			"데이터 엔지니어",
-			"Python",
-			"Machine Learning",
-			"SQL",
-			"Tensorflow"
+			"게임 서버",
+			"PHP",
+			"MySQL",
+			"Linux",
+			"Java",
+			"C#"
 		],
 		"bigtag": [
-			"데이터",
-			"인공지능"
+			"응용",
+			"시스템",
+			"서버"
+		]
+	},
+	{
+		"title": "Backend Engineer(백엔드 엔지니어) - Data Serving API",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/10096",
+		"기업": "AB180",
+		"태그": [
+			"서버/백엔드",
+			"AWS Simple Queue Service(AWS SQS)",
+			"AWS RDS",
+			"AWS Lambda",
+			"FastAPI",
+			"Flask",
+			"Python"
+		],
+		"bigtag": [
+			"웹",
+			"서버"
 		]
 	},
 	{
@@ -9671,24 +9542,30 @@
 			"PHP"
 		],
 		"bigtag": [
-			"웹",
 			"데이터",
+			"웹",
 			"서버"
 		]
 	},
 	{
-		"title": "Senior iOS SDK Engineer(시니어 iOS SDK 엔지니어)",
+		"title": "서버 개발자(Java/Spring)",
 		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/9429",
-		"기업": "AB180",
+		"link": "https://programmers.co.kr/job_positions/6546",
+		"기업": "올룰로",
 		"태그": [
-			"아이폰 앱",
-			"iOS",
-			"Objective-C",
-			"Swift"
+			"서버/백엔드",
+			"Spring",
+			"Java",
+			"MariaDB",
+			"AWS EC2",
+			"AWS RDS",
+			"AWS ElasticBeanstalk",
+			"AWS DynamoDB"
 		],
 		"bigtag": [
-			"응용"
+			"데이터",
+			"웹",
+			"서버"
 		]
 	},
 	{
@@ -9709,8 +9586,8 @@
 			"React Native"
 		],
 		"bigtag": [
-			"웹",
-			"응용"
+			"응용",
+			"웹"
 		]
 	},
 	{
@@ -9731,9 +9608,9 @@
 			"GCP(Google Cloud Platform)"
 		],
 		"bigtag": [
-			"웹",
 			"데이터",
 			"시스템",
+			"웹",
 			"서버"
 		]
 	},
@@ -9818,77 +9695,94 @@
 		]
 	},
 	{
-		"title": "[Game Studio] P2E 게임 웹서버 개발자",
+		"title": "데이터 엔지니어",
 		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/11081",
-		"기업": "샌드박스네트워크",
-		"태그": [
-			"게임 서버",
-			"PHP",
-			"MySQL",
-			"Linux",
-			"Java",
-			"C#"
-		],
-		"bigtag": [
-			"서버",
-			"시스템",
-			"응용"
-		]
-	},
-	{
-		"title": "[Coupang] Back-end Engineer for FTS (Java, C++, Python, Javascript)",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/3761",
-		"기업": "Coupang",
+		"link": "https://programmers.co.kr/job_positions/2619",
+		"기업": "리디",
 		"태그": [
 			"서버/백엔드",
-			"웹 풀스택",
-			"JavaScript",
-			"C++",
-			"Python",
-			"Spring",
-			"Java"
+			"머신러닝",
+			"데이터 엔지니어",
+			"SQL"
 		],
 		"bigtag": [
-			"웹",
-			"서버"
-		]
-	},
-	{
-		"title": "서버 개발자(Java/Spring)",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/6546",
-		"기업": "올룰로",
-		"태그": [
-			"서버/백엔드",
-			"Spring",
-			"Java",
-			"MariaDB",
-			"AWS EC2",
-			"AWS RDS",
-			"AWS ElasticBeanstalk",
-			"AWS DynamoDB"
-		],
-		"bigtag": [
-			"웹",
 			"데이터",
+			"인공지능",
+			"웹",
 			"서버"
 		]
 	},
 	{
-		"title": "Android Engineer",
+		"title": "[Manta] 모바일 앱 엔지니어",
 		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/12166",
-		"기업": "뮤즈라이브",
+		"link": "https://programmers.co.kr/job_positions/6848",
+		"기업": "리디",
 		"태그": [
 			"안드로이드 앱",
-			"Kotlin",
-			"Java",
-			"Android"
+			"아이폰 앱",
+			"Firebase",
+			"TypeScript",
+			"React Native"
 		],
 		"bigtag": [
 			"응용"
+		]
+	},
+	{
+		"title": "주니어 백엔드 엔지니어",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/3884",
+		"기업": "모두싸인",
+		"태그": [
+			"서버/백엔드",
+			"Git",
+			"Docker",
+			"MySQL",
+			"Node.js"
+		],
+		"bigtag": [
+			"웹",
+			"서버"
+		]
+	},
+	{
+		"title": "AI 솔루션 컴퓨터비전 엔지니어",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/11129",
+		"기업": "로민",
+		"태그": [
+			"웹 풀스택",
+			"머신러닝",
+			"인공지능(AI)",
+			"Linux",
+			"Git",
+			"Docker",
+			"Python",
+			"PyTorch",
+			"Tensorflow"
+		],
+		"bigtag": [
+			"인공지능",
+			"웹",
+			"시스템"
+		]
+	},
+	{
+		"title": "Senior Data Engineer",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/6534",
+		"기업": "올룰로",
+		"태그": [
+			"머신러닝",
+			"데이터 엔지니어",
+			"Python",
+			"Machine Learning",
+			"SQL",
+			"Tensorflow"
+		],
+		"bigtag": [
+			"데이터",
+			"인공지능"
 		]
 	},
 	{
@@ -9909,22 +9803,22 @@
 		]
 	},
 	{
-		"title": "넷킬러 기술지원 담당자",
+		"title": "[Coupang] Back-end Engineer for FTS (Java, C++, Python, Javascript)",
 		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/12006",
-		"기업": "넷킬러",
+		"link": "https://programmers.co.kr/job_positions/3761",
+		"기업": "Coupang",
 		"태그": [
-			"시스템/네트워크",
-			"시스템 소프트웨어",
-			"인터넷 보안",
-			"Linux",
+			"서버/백엔드",
+			"웹 풀스택",
 			"JavaScript",
-			"GCP(Google Cloud Platform)"
+			"C++",
+			"Python",
+			"Spring",
+			"Java"
 		],
 		"bigtag": [
-			"서버",
-			"시스템",
-			"응용"
+			"웹",
+			"서버"
 		]
 	},
 	{
@@ -9984,8 +9878,8 @@
 			"MySQL"
 		],
 		"bigtag": [
-			"웹",
-			"데이터"
+			"데이터",
+			"웹"
 		]
 	},
 	{
@@ -10025,8 +9919,8 @@
 			"Jenkins"
 		],
 		"bigtag": [
-			"웹",
 			"데이터",
+			"웹",
 			"서버"
 		]
 	},
@@ -10096,69 +9990,6 @@
 		]
 	},
 	{
-		"title": "백엔드 개발자",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/4985",
-		"기업": "에이치디정션",
-		"태그": [
-			"서버/백엔드",
-			"Git",
-			"MongoDB",
-			"Java",
-			"Naver Cloud Platform",
-			"Redis",
-			"Elasticsearch",
-			"MySQL",
-			"Spring",
-			"Kotlin"
-		],
-		"bigtag": [
-			"웹",
-			"데이터",
-			"서버"
-		]
-	},
-	{
-		"title": "Senior Back-end Developer(AIOps)",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/12159",
-		"기업": "오케스트로",
-		"태그": [
-			"서버/백엔드",
-			"인공지능(AI)",
-			"Datadog",
-			"Spring",
-			"Java"
-		],
-		"bigtag": [
-			"웹",
-			"데이터",
-			"인공지능",
-			"서버"
-		]
-	},
-	{
-		"title": "Senior Backend Engineer(시니어 백엔드 엔지니어)",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/3864",
-		"기업": "AB180",
-		"태그": [
-			"서버/백엔드",
-			"Docker",
-			"Git",
-			"MySQL",
-			"AWS ECS",
-			"AWS EC2",
-			"AWS Lambda",
-			"Flask",
-			"Django"
-		],
-		"bigtag": [
-			"웹",
-			"서버"
-		]
-	},
-	{
 		"title": "Back-end Developer(AIOps)",
 		"dday": "상시 채용",
 		"link": "https://programmers.co.kr/job_positions/9312",
@@ -10172,9 +10003,206 @@
 			"Java"
 		],
 		"bigtag": [
-			"웹",
 			"데이터",
+			"웹",
 			"서버"
+		]
+	},
+	{
+		"title": "핀트(Fint) 서버 개발자",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/7880",
+		"기업": "디셈버앤컴퍼니자산운용",
+		"태그": [
+			"서버/백엔드",
+			"시스템 소프트웨어",
+			"Node.js",
+			"ReactJS",
+			"Docker",
+			"Ansible",
+			"Apache Kafka",
+			"RabbitMQ",
+			"Redis",
+			"PostgreSQL",
+			"Celery",
+			"Flask",
+			"Django",
+			"Go",
+			"Python"
+		],
+		"bigtag": [
+			"응용",
+			"시스템",
+			"웹",
+			"서버"
+		]
+	},
+	{
+		"title": "Software Engineer ",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/12134",
+		"기업": "오케스트로",
+		"태그": [
+			"데이터 엔지니어",
+			"Linux"
+		],
+		"bigtag": [
+			"데이터",
+			"시스템"
+		]
+	},
+	{
+		"title": "Front-end Developer(AIOps)",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/12160",
+		"기업": "오케스트로",
+		"태그": [
+			"프론트엔드",
+			"인공지능(AI)",
+			"Splunk",
+			"New Relic",
+			"Datadog",
+			"Vue.js"
+		],
+		"bigtag": [
+			"데이터",
+			"인공지능",
+			"웹"
+		]
+	},
+	{
+		"title": "Machine Learning Engineer (AIOps) ",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/9304",
+		"기업": "오케스트로",
+		"태그": [
+			"머신러닝",
+			"인공지능(AI)",
+			"데이터 엔지니어",
+			"PyTorch",
+			"Scikit-Learn",
+			"Apache Airflow"
+		],
+		"bigtag": [
+			"데이터",
+			"인공지능"
+		]
+	},
+	{
+		"title": "WEB 시스템 & Application  신입/경력 개발자",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/12162",
+		"기업": "더조인",
+		"태그": [
+			"서버/백엔드",
+			"웹 풀스택",
+			"데이터 엔지니어",
+			"Spring",
+			"Java",
+			"JavaScript",
+			"PostgreSQL"
+		],
+		"bigtag": [
+			"데이터",
+			"웹",
+			"서버"
+		]
+	},
+	{
+		"title": "이커머스 플랫폼 개발",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/12163",
+		"기업": "플래티어",
+		"태그": [
+			"서버/백엔드",
+			"프론트엔드",
+			"시스템 소프트웨어",
+			"AWS Alexa",
+			"NoSQL",
+			"Spring Boot",
+			"JavaScript",
+			"Java",
+			"jQuery",
+			"Git",
+			"Apache Hadoop",
+			"Apache Spark"
+		],
+		"bigtag": [
+			"응용",
+			"시스템",
+			"웹",
+			"서버"
+		]
+	},
+	{
+		"title": "Backend Engineer(백엔드 엔지니어) - Query Engine",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/3967",
+		"기업": "AB180",
+		"태그": [
+			"서버/백엔드",
+			"C++",
+			"Apache Spark",
+			"Apache Hadoop",
+			"AWS S3",
+			"Amazon Web Services(AWS)",
+			"Go"
+		],
+		"bigtag": [
+			"웹",
+			"서버"
+		]
+	},
+	{
+		"title": "IOS 어플리케이션 개발",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/11859",
+		"기업": "휙고",
+		"태그": [
+			"아이폰 앱",
+			"시스템 소프트웨어",
+			"응용 프로그램",
+			"GitHub",
+			"Jenkins",
+			"Shell",
+			"Shell Script",
+			"Go",
+			"Node.js",
+			"Python",
+			"Java",
+			"Swift",
+			"iOS"
+		],
+		"bigtag": [
+			"응용",
+			"시스템"
+		]
+	},
+	{
+		"title": "안드로이드 개발자",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/11861",
+		"기업": "휙고",
+		"태그": [
+			"안드로이드 앱",
+			"시스템 소프트웨어",
+			"응용 프로그램",
+			"C++",
+			"Swift",
+			"iOS",
+			"Android",
+			"GitHub",
+			"Jenkins",
+			"Shell Script",
+			"Shell",
+			"Go",
+			"Node.js",
+			"Python",
+			"Java"
+		],
+		"bigtag": [
+			"응용",
+			"시스템"
 		]
 	},
 	{
@@ -10205,49 +10233,26 @@
 			"iOS"
 		],
 		"bigtag": [
-			"웹",
 			"응용",
+			"웹",
 			"서버"
 		]
 	},
 	{
-		"title": "IOS 어플리케이션 개발",
+		"title": "Senior Backend Engineer(시니어 백엔드 엔지니어)",
 		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/11859",
-		"기업": "휙고",
-		"태그": [
-			"아이폰 앱",
-			"시스템 소프트웨어",
-			"응용 프로그램",
-			"GitHub",
-			"Jenkins",
-			"Shell",
-			"Shell Script",
-			"Go",
-			"Node.js",
-			"Python",
-			"Java",
-			"Swift",
-			"iOS"
-		],
-		"bigtag": [
-			"시스템",
-			"응용"
-		]
-	},
-	{
-		"title": "Backend Engineer(백엔드 엔지니어) - Query Engine",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/3967",
+		"link": "https://programmers.co.kr/job_positions/3864",
 		"기업": "AB180",
 		"태그": [
 			"서버/백엔드",
-			"C++",
-			"Apache Spark",
-			"Apache Hadoop",
-			"AWS S3",
-			"Amazon Web Services(AWS)",
-			"Go"
+			"Docker",
+			"Git",
+			"MySQL",
+			"AWS ECS",
+			"AWS EC2",
+			"AWS Lambda",
+			"Flask",
+			"Django"
 		],
 		"bigtag": [
 			"웹",
@@ -10255,278 +10260,58 @@
 		]
 	},
 	{
-		"title": "안드로이드 개발자",
+		"title": "Senior Back-end Developer(AIOps)",
 		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/11861",
-		"기업": "휙고",
+		"link": "https://programmers.co.kr/job_positions/12159",
+		"기업": "오케스트로",
 		"태그": [
-			"안드로이드 앱",
-			"시스템 소프트웨어",
-			"응용 프로그램",
-			"C++",
-			"Swift",
-			"iOS",
-			"Android",
-			"GitHub",
-			"Jenkins",
-			"Shell Script",
-			"Shell",
-			"Go",
-			"Node.js",
-			"Python",
+			"서버/백엔드",
+			"인공지능(AI)",
+			"Datadog",
+			"Spring",
 			"Java"
 		],
 		"bigtag": [
-			"시스템",
+			"데이터",
+			"인공지능",
+			"웹",
+			"서버"
+		]
+	},
+	{
+		"title": "Android Engineer",
+		"dday": "상시 채용",
+		"link": "https://programmers.co.kr/job_positions/12166",
+		"기업": "뮤즈라이브",
+		"태그": [
+			"안드로이드 앱",
+			"Kotlin",
+			"Java",
+			"Android"
+		],
+		"bigtag": [
 			"응용"
 		]
 	},
 	{
-		"title": "WEB 시스템 & Application  신입/경력 개발자",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/12162",
-		"기업": "더조인",
+		"title": "SW 개발인력 채용 (신입 및 경력)",
+		"dday": "오늘 18시 마감",
+		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/37928639?Oem_Code=C1&PageGbn=ST",
+		"기업": "㈜머큐리",
 		"태그": [
-			"서버/백엔드",
-			"웹 풀스택",
-			"데이터 엔지니어",
-			"Spring",
-			"Java",
-			"JavaScript",
-			"PostgreSQL"
-		],
-		"bigtag": [
-			"웹",
-			"데이터",
-			"서버"
-		]
-	},
-	{
-		"title": "Machine Learning Engineer (AIOps) ",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/9304",
-		"기업": "오케스트로",
-		"태그": [
-			"머신러닝",
-			"인공지능(AI)",
-			"데이터 엔지니어",
-			"PyTorch",
-			"Scikit-Learn",
-			"Apache Airflow"
-		],
-		"bigtag": [
-			"데이터",
-			"인공지능"
-		]
-	},
-	{
-		"title": "Front-end Developer(AIOps)",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/12160",
-		"기업": "오케스트로",
-		"태그": [
-			"프론트엔드",
-			"인공지능(AI)",
-			"Splunk",
-			"New Relic",
-			"Datadog",
-			"Vue.js"
-		],
-		"bigtag": [
-			"웹",
-			"데이터",
-			"인공지능"
-		]
-	},
-	{
-		"title": "Software Engineer ",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/12134",
-		"기업": "오케스트로",
-		"태그": [
-			"데이터 엔지니어",
-			"Linux"
-		],
-		"bigtag": [
-			"데이터",
-			"시스템"
-		]
-	},
-	{
-		"title": "이커머스 플랫폼 개발",
-		"dday": "상시 채용",
-		"link": "https://programmers.co.kr/job_positions/12163",
-		"기업": "플래티어",
-		"태그": [
-			"서버/백엔드",
-			"프론트엔드",
-			"시스템 소프트웨어",
-			"AWS Alexa",
-			"NoSQL",
-			"Spring Boot",
-			"JavaScript",
-			"Java",
-			"jQuery",
-			"Git",
-			"Apache Hadoop",
-			"Apache Spark"
-		],
-		"bigtag": [
-			"웹",
-			"시스템",
-			"응용",
-			"서버"
-		]
-	},
-	{
-		"title": "(주)오상헬스케어 신입 및 경력직 모집",
-		"dday": "오늘마감",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38498519?Oem_Code=C1&PageGbn=ST",
-		"기업": "㈜오상헬스케어",
-		"태그": [
-			"기획·전략·경영",
-			"마케팅·광고·분석",
+			"웹프로그래머",
+			"응용프로그래머",
 			"시스템프로그래머 외"
 		],
 		"bigtag": [
-			"시스템"
-		]
-	},
-	{
-		"title": "[이타스코리아] Marketing and communication manager 기간제 근로자 채용",
-		"dday": "오늘마감",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38575935?Oem_Code=C1&PageGbn=ST",
-		"기업": "이타스코리아㈜",
-		"태그": [
-			"기획·전략·경영",
-			"마케팅·광고·분석",
-			"홍보·PR 외"
-		],
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "클라우드서비스사업부 경력사원 채용",
-		"dday": "오늘마감",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38572684?Oem_Code=C1&PageGbn=ST",
-		"기업": "삼성에스디에스",
-		"태그": [
-			"응용프로그래머",
-			"빅데이터·AI(인공지능)",
-			"연구소·R&D 외"
-		],
-		"bigtag": [
-			"데이터",
 			"응용",
-			"인공지능"
-		]
-	},
-	{
-		"title": "[(주)피죤] IT팀 신입/경력사원 모집",
-		"dday": "오늘마감",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38572310?Oem_Code=C1&PageGbn=ST",
-		"기업": "㈜피죤",
-		"태그": [
-			"네트워크·서버·보안",
-			"경리·회계·결산"
-		],
-		"bigtag": [
-			"서버"
-		]
-	},
-	{
-		"title": "2022년 롯데정보통신 모빌리티 개발/인프라 직무 경력채용",
-		"dday": "오늘마감",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38568283?Oem_Code=C1&PageGbn=ST",
-		"기업": "롯데정보통신㈜",
-		"태그": [
-			"웹프로그래머",
-			"응용프로그래머",
-			"DBA·데이터베이스 외"
-		],
-		"bigtag": [
 			"웹",
-			"데이터",
-			"응용"
-		]
-	},
-	{
-		"title": "[이타스코리아] 2022년 하반기 인턴 채용",
-		"dday": "오늘마감",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38463582?Oem_Code=C1&PageGbn=ST",
-		"기업": "이타스코리아㈜",
-		"태그": [
-			"ERP·시스템분석·설계",
-			"소프트웨어·하드웨어",
-			"수출입·무역사무 외"
-		],
-		"bigtag": [
-			"시스템",
-			"응용"
-		]
-	},
-	{
-		"title": "(주)한진 경력직(IT/이커머스) 채용",
-		"dday": "오늘마감",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38199000?Oem_Code=C1&PageGbn=ST",
-		"기업": "㈜한진",
-		"태그": [
-			"웹프로그래머",
-			"네트워크·서버·보안"
-		],
-		"bigtag": [
-			"웹",
-			"서버"
-		]
-	},
-	{
-		"title": "[직방] 서비스 기획 분야별 채용 (경력)",
-		"dday": "오늘마감",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38278463?Oem_Code=C1&PageGbn=ST",
-		"기업": "㈜직방",
-		"태그": [
-			"웹기획·PM",
-			"컨텐츠·사이트운영",
-			"HTML·퍼블리싱·UI개발"
-		],
-		"bigtag": [
-			"웹"
-		]
-	},
-	{
-		"title": "콘티넨탈 오토모티브 코리아 22년 2분기 수시채용(신입/경력직)",
-		"dday": "오늘마감",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38010668?Oem_Code=C1&PageGbn=ST",
-		"기업": "콘티넨탈 코리아",
-		"태그": [
-			"웹기획·PM",
-			"ERP·시스템분석·설계",
-			"소프트웨어·하드웨어 외"
-		],
-		"bigtag": [
-			"웹",
-			"시스템",
-			"응용"
-		]
-	},
-	{
-		"title": "DB FIS (DB생명) 시스템 개발/운영 담당자 경력채용",
-		"dday": "오늘마감",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/37965303?Oem_Code=C1&PageGbn=ST",
-		"기업": "디비에프아이에스㈜",
-		"태그": [
-			"웹프로그래머",
-			"응용프로그래머"
-		],
-		"bigtag": [
-			"웹",
-			"응용"
+			"시스템"
 		]
 	},
 	{
 		"title": "[교육지대] 서비스기획/운영 담당 경력직 채용",
-		"dday": "오늘마감",
+		"dday": "오늘 18시 마감",
 		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/37904061?Oem_Code=C1&PageGbn=ST",
 		"기업": "교육지대㈜",
 		"태그": [
@@ -10536,6 +10321,50 @@
 		],
 		"bigtag": [
 			"웹"
+		]
+	},
+	{
+		"title": "2022년 하계 채용연계형 인턴",
+		"dday": "오늘마감",
+		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38504575?Oem_Code=C1&PageGbn=ST",
+		"기업": "코오롱베니트㈜",
+		"태그": [
+			"기획·전략·경영",
+			"응용프로그래머",
+			"빅데이터·AI(인공지능)"
+		],
+		"bigtag": [
+			"데이터",
+			"인공지능",
+			"응용"
+		]
+	},
+	{
+		"title": "[미래전략본부] 전략기획ㆍ서비스기획ㆍMD 신입 및 경력 채용",
+		"dday": "오늘마감",
+		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38436062?Oem_Code=C1&PageGbn=ST",
+		"기업": "㈜더에스엠씨그룹",
+		"태그": [
+			"기획·전략·경영",
+			"웹마케팅",
+			"컨텐츠·사이트운영 외"
+		],
+		"bigtag": [
+			"웹"
+		]
+	},
+	{
+		"title": "[쇼핑엔티] 홈쇼핑 IT운영 담당자 채용",
+		"dday": "오늘마감",
+		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38436610?Oem_Code=C1&PageGbn=ST",
+		"기업": "㈜티알엔",
+		"태그": [
+			"시스템프로그래머",
+			"응용프로그래머"
+		],
+		"bigtag": [
+			"응용",
+			"시스템"
 		]
 	},
 	{
@@ -10553,28 +10382,42 @@
 		]
 	},
 	{
-		"title": "[조인주식회사] IT팀 신입/경력사원 모집",
-		"dday": "채용시",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38667357?Oem_Code=C1&PageGbn=ST",
-		"기업": "조인㈜",
+		"title": "Tmax그룹 2022 공개채용",
+		"dday": "오늘마감",
+		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38513675?Oem_Code=C1&PageGbn=ST",
+		"기업": "티맥스그룹",
 		"태그": [
-			"웹프로그래머",
-			"응용프로그래머",
-			"ERP·시스템분석·설계"
+			"기획·전략·경영",
+			"사무·총무·법무",
+			"인사·노무·교육 외"
 		],
 		"bigtag": [
-			"웹",
-			"시스템",
-			"응용"
+			"기타"
 		]
 	},
 	{
-		"title": "2022년 UX/UI 채용연계형 인턴",
-		"dday": "채용시",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38601334?Oem_Code=C1&PageGbn=ST",
-		"기업": "코오롱베니트㈜",
+		"title": "[이타스코리아] Marketing and communication manager 기간제 근로자 채용",
+		"dday": "오늘마감",
+		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38575935?Oem_Code=C1&PageGbn=ST",
+		"기업": "이타스코리아㈜",
 		"태그": [
-			"웹디자인"
+			"기획·전략·경영",
+			"마케팅·광고·분석",
+			"홍보·PR 외"
+		],
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
+		"title": "기획실 온라인 MD, VMD 신입 경력 채용",
+		"dday": "오늘마감",
+		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38577062?Oem_Code=C1&PageGbn=ST",
+		"기업": "㈜이현어패럴",
+		"태그": [
+			"컨텐츠·사이트운영",
+			"HTML·퍼블리싱·UI개발",
+			"웹디자인 외"
 		],
 		"bigtag": [
 			"웹"
@@ -10593,6 +10436,36 @@
 		"bigtag": [
 			"데이터",
 			"인공지능"
+		]
+	},
+	{
+		"title": "롯데지알에스 신입사원 채용 인턴전형(채용연계형)",
+		"dday": "채용시",
+		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38677173?Oem_Code=C1&PageGbn=ST",
+		"기업": "롯데지알에스",
+		"태그": [
+			"네트워크·서버·보안",
+			"기획·전략·경영",
+			"경리·회계·결산"
+		],
+		"bigtag": [
+			"서버"
+		]
+	},
+	{
+		"title": "[조인주식회사] IT팀 신입/경력사원 모집",
+		"dday": "채용시",
+		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38667357?Oem_Code=C1&PageGbn=ST",
+		"기업": "조인㈜",
+		"태그": [
+			"웹프로그래머",
+			"응용프로그래머",
+			"ERP·시스템분석·설계"
+		],
+		"bigtag": [
+			"응용",
+			"웹",
+			"시스템"
 		]
 	},
 	{
@@ -10633,8 +10506,8 @@
 			"응용프로그래머 외"
 		],
 		"bigtag": [
-			"웹",
-			"응용"
+			"응용",
+			"웹"
 		]
 	},
 	{
@@ -10662,22 +10535,128 @@
 			"시스템프로그래머 외"
 		],
 		"bigtag": [
+			"응용",
 			"웹",
-			"시스템",
-			"응용"
+			"시스템"
 		]
 	},
 	{
-		"title": "롯데지알에스 신입사원 채용 인턴전형(채용연계형)",
+		"title": "(한진그룹) 한진정보통신 시스템엔지니어 모집",
 		"dday": "채용시",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38677173?Oem_Code=C1&PageGbn=ST",
-		"기업": "롯데지알에스",
+		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38109941?Oem_Code=C1&PageGbn=ST",
+		"기업": "한진정보통신㈜",
 		"태그": [
-			"네트워크·서버·보안",
-			"기획·전략·경영",
-			"경리·회계·결산"
+			"ERP·시스템분석·설계",
+			"응용프로그래머",
+			"네트워크·서버·보안"
 		],
 		"bigtag": [
+			"서버",
+			"응용",
+			"시스템"
+		]
+	},
+	{
+		"title": "[인천/당진] MES/인프라부문 신입 채용",
+		"dday": "채용시",
+		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38600798?Oem_Code=C1&PageGbn=ST",
+		"기업": "현대오토에버㈜",
+		"태그": [
+			"웹프로그래머",
+			"응용프로그래머",
+			"빅데이터·AI(인공지능)"
+		],
+		"bigtag": [
+			"데이터",
+			"인공지능",
+			"응용",
+			"웹"
+		]
+	},
+	{
+		"title": "[경력] Network Engineer(리더)",
+		"dday": "채용시",
+		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38577940?Oem_Code=C1&PageGbn=ST",
+		"기업": "㈜CJ올리브네트웍스",
+		"태그": [
+			"네트워크·서버·보안"
+		],
+		"bigtag": [
+			"서버"
+		]
+	},
+	{
+		"title": "2022년 KT 석/박사 연구인턴 채용",
+		"dday": "채용시",
+		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38538404?Oem_Code=C1&PageGbn=ST",
+		"기업": "㈜케이티",
+		"태그": [
+			"웹프로그래머",
+			"응용프로그래머",
+			"시스템프로그래머 외"
+		],
+		"bigtag": [
+			"응용",
+			"웹",
+			"시스템"
+		]
+	},
+	{
+		"title": "(주)한솥 IT 전공 정규직 신입사원 채용",
+		"dday": "채용시",
+		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38536378?Oem_Code=C1&PageGbn=ST",
+		"기업": "㈜한솥",
+		"태그": [
+			"네트워크·서버·보안",
+			"응용프로그래머",
+			"웹기획·PM"
+		],
+		"bigtag": [
+			"응용",
+			"웹",
+			"서버"
+		]
+	},
+	{
+		"title": "(주)한진 경력직(IT 기획 /Data 분석) 채용",
+		"dday": "채용시",
+		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38369841?Oem_Code=C1&PageGbn=ST",
+		"기업": "㈜한진",
+		"태그": [
+			"웹프로그래머",
+			"네트워크·서버·보안",
+			"기획·전략·경영"
+		],
+		"bigtag": [
+			"웹",
+			"서버"
+		]
+	},
+	{
+		"title": "(주)도화엔지니어링 IT개발 신입·경력직 채용",
+		"dday": "채용시",
+		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38359507?Oem_Code=C1&PageGbn=ST",
+		"기업": "㈜도화엔지니어링",
+		"태그": [
+			"웹프로그래머",
+			"응용프로그래머"
+		],
+		"bigtag": [
+			"응용",
+			"웹"
+		]
+	},
+	{
+		"title": "(주)한진 경력직(IT/이커머스) 채용",
+		"dday": "채용시",
+		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38199000?Oem_Code=C1&PageGbn=ST",
+		"기업": "㈜한진",
+		"태그": [
+			"웹프로그래머",
+			"네트워크·서버·보안"
+		],
+		"bigtag": [
+			"웹",
 			"서버"
 		]
 	},
@@ -10696,170 +10675,17 @@
 		]
 	},
 	{
-		"title": "[잡코리아] 자사 서비스 마케팅 기획 및 운영 담당자 채용",
+		"title": "[빅밸류] 데이터 분석가",
 		"dday": "채용시",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38502014?Oem_Code=C1&PageGbn=ST",
-		"기업": "잡코리아(유)",
+		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38577711?Oem_Code=C1&PageGbn=ST",
+		"기업": "㈜빅밸류",
 		"태그": [
-			"마케팅·광고·분석",
-			"웹기획·PM",
-			"상품기획·MD"
-		],
-		"bigtag": [
-			"웹"
-		]
-	},
-	{
-		"title": "2022년 코리아이플랫폼 상반기 신입 및 경력 사원 채용",
-		"dday": "채용시",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38579942?Oem_Code=C1&PageGbn=ST",
-		"기업": "코리아e플랫폼㈜",
-		"태그": [
-			"웹프로그래머",
-			"수출입·무역사무",
-			"구매·자재 외"
-		],
-		"bigtag": [
-			"웹"
-		]
-	},
-	{
-		"title": "[펜타브리드] 웹기획 경력직 모집",
-		"dday": "채용시",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38577416?Oem_Code=C1&PageGbn=ST",
-		"기업": "㈜펜타브리드",
-		"태그": [
-			"웹기획·PM"
-		],
-		"bigtag": [
-			"웹"
-		]
-	},
-	{
-		"title": "기획실 온라인 MD, VMD 신입 경력 채용",
-		"dday": "채용시",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38577062?Oem_Code=C1&PageGbn=ST",
-		"기업": "㈜이현어패럴",
-		"태그": [
-			"컨텐츠·사이트운영",
-			"HTML·퍼블리싱·UI개발",
-			"웹디자인 외"
-		],
-		"bigtag": [
-			"웹"
-		]
-	},
-	{
-		"title": "어보브반도체 부문별 신입/경력직 채용",
-		"dday": "채용시",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38532153?Oem_Code=C1&PageGbn=ST",
-		"기업": "어보브반도체㈜",
-		"태그": [
-			"기획·전략·경영",
-			"인사·노무·교육",
-			"경리·회계·결산 외"
-		],
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "우미그룹 2022년 상반기 대졸 신입사원 채용공고",
-		"dday": "채용시",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38530917?Oem_Code=C1&PageGbn=ST",
-		"기업": "우미건설",
-		"태그": [
-			"기획·전략·경영",
-			"웹기획·PM",
-			"전기·소방·통신·안전 외"
-		],
-		"bigtag": [
-			"웹"
-		]
-	},
-	{
-		"title": "[잡코리아] 퍼포먼스마케팅 담당자 채용",
-		"dday": "채용시",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38503832?Oem_Code=C1&PageGbn=ST",
-		"기업": "잡코리아(유)",
-		"태그": [
-			"마케팅·광고·분석",
 			"빅데이터·AI(인공지능)",
-			"웹마케팅"
+			"DBA·데이터베이스"
 		],
 		"bigtag": [
-			"웹",
 			"데이터",
 			"인공지능"
-		]
-	},
-	{
-		"title": "[미래전략본부] 전략기획ㆍ서비스기획ㆍMD 신입 및 경력 채용",
-		"dday": "채용시",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38436062?Oem_Code=C1&PageGbn=ST",
-		"기업": "㈜더에스엠씨그룹",
-		"태그": [
-			"기획·전략·경영",
-			"웹마케팅",
-			"컨텐츠·사이트운영 외"
-		],
-		"bigtag": [
-			"웹"
-		]
-	},
-	{
-		"title": "[잡코리아/알바몬] 플랫폼 서비스기획자/PM 모집 (경력)",
-		"dday": "채용시",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38424076?Oem_Code=C1&PageGbn=ST",
-		"기업": "잡코리아(유)",
-		"태그": [
-			"웹기획·PM"
-		],
-		"bigtag": [
-			"웹"
-		]
-	},
-	{
-		"title": "[경력] 미디어 서버(WebRTC/MediaServer) 개발 인력 모집",
-		"dday": "채용시",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38048208?Oem_Code=C1&PageGbn=ST",
-		"기업": "㈜누리플렉스",
-		"태그": [
-			"응용프로그래머",
-			"네트워크·서버·보안"
-		],
-		"bigtag": [
-			"서버",
-			"응용"
-		]
-	},
-	{
-		"title": "미디어로그(LG그룹) 신입사원 채용 - ICT 개발/기술지원",
-		"dday": "채용시",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38593508?Oem_Code=C1&PageGbn=ST",
-		"기업": "㈜미디어로그",
-		"태그": [
-			"웹프로그래머",
-			"응용프로그래머",
-			"소프트웨어·하드웨어 외"
-		],
-		"bigtag": [
-			"웹",
-			"응용"
-		]
-	},
-	{
-		"title": "[현대자동차] 이노베이션담당 오픈이노베이션기술전략팀 경력 상시채용",
-		"dday": "채용시",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38056877?Oem_Code=C1&PageGbn=ST",
-		"기업": "현대자동차㈜",
-		"태그": [
-			"HTML·퍼블리싱·UI개발",
-			"네트워크·서버·보안"
-		],
-		"bigtag": [
-			"웹",
-			"서버"
 		]
 	}
 ]
