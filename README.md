@@ -14,10 +14,6 @@
 # 메인페이지
 ![배포](https://user-images.githubusercontent.com/91311610/173172914-1c8d3719-4373-4989-81b5-e7e6369d541c.png)
 
-# 기능
-1. 크롤링
-2. 크롤링 자동화
-3. 체크박스 분류기능
 
 # 실행 및 배포환경
 <p align='center'>
@@ -44,7 +40,7 @@
 ### 파이썬 설치
 ```c
 $ sudo apt-get update
-$ sudo apte install python3
+$ sudo apt install python3
 $ sudo apt install python3-pip
 ```
 * 파이썬 버전 확인
@@ -204,6 +200,75 @@ for i in range(len(titles)):
 
 with open('../json 결과/인턴십.json', 'w', encoding='UTF-8') as file:
      file.write(json.dumps(intern, ensure_ascii=False, indent="\t"))
+```
+
+- 크롤링 자동화
+```c
+- name: Run Crawler
+      run: |
+        python "공모전, 대외활동 - 인크루트, 씽콘, 콘테스트_코리아, 씽유, 스펙토리.py"
+        python "스터디, 프로젝트 모집 - okky, 인프런.py"
+        python "인턴십 - 사람인, 잡코리아, 인크루트.py"
+        python "장학금, 지원금 - 드림스폰.py"
+        python "취업 - 잡코리아, 프로그래머스.py"
+      working-directory: ${{ env.working-directory }}
+
+    - name: commits
+      run: |
+        git config --global user.email "kdgk9620@gmail.com"
+        git config --global user.name "kimdonggeun111"
+        git add -A
+        git commit -m "update Crawling files"
+      working-directory: ${{ env.working-directory }}
+
+    - name: Push
+      uses: ad-m/github-push-action@master
+      with:
+        branch: 'main'
+        github_token: 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
+```
+
+- 선택 버튼 이벤트
+```c
+function gettag(){ 
+    check = ""; // 체크 초기화
+    var storage = document.getElementsByName("tag"); // 태그 값이라는 이름을 가진 구성요소에 접근해서 태그가 붙어있는 문서의 내용만 storage에 저장
+    for (i =0;i < storage.length;i++){ // storage수만큼 루프
+       if(storage[i].checked == true){ // 만약 체크되어 있으면
+         check += storage[i].value; // 아이프레임에 전달할 변수의 값(check)을 체크박스의 값으로 문자열에 추가
+         check += "," // 구분자 추가
+         //check = storage[i].value; // 아이프레임에 전달할 변수의 값(check)
+       }
+     }
+     document.getElementById("if1").src += ''; // 웹페이지 갱신
+     document.getElementById("if2").src += '';
+     document.getElementById("if3").src += '';
+     document.getElementById("if4").src += '';
+     document.getElementById("if5").src += '';
+}
+```
+
+- 체크박스 1개 이상 체크시 출력
+```c
+for(i in storage) { 
+    let tr = document.createElement('tr'); 
+    for(j=0;j<(lenCheckList-1);j++){ // 마지막은 공백이라 길이에서 1을 뺌
+        if(storage[i].bigtag == checkList[j]){// 태그에 충족되면 출력
+            let td = document.createElement('td'); 
+            td.innerHTML = storage[i].title; 
+            td.setAttribute("title", storage[i].bigtag); // 마우스 오버 시 대분류 출력
+            Link = storage[i].link; 
+            (function(m){  // 제목 클릭 시 링크로 이동
+                td.addEventListener("click", function() {window.open(storage[m].link)});
+            })(i);
+            tr.appendChild(td); 
+            let td2 = document.createElement('td');
+            td2.innerHTML = storage[i].dday; 
+            tr.appendChild(td2);
+        }
+    document.querySelector("tbody").appendChild(tr); 
+    }        
+}
 ```
 ## 실제 적용 사례
 [웹페이지 시연 영상](https://drive.google.com/file/d/1eB0O31y0sKb1N7OpAEPFrC5HR1VcgTAm/view?usp=sharing)
