@@ -58,6 +58,9 @@ $ pip install beautifulsoup4
 $ sudo apt-get update
 $ pip install pandas 
 ```
+* requests 설치
+$ sudo apt-get update
+$ pip install requests
 
 ### AWS EC2 인스턴스 연결
 
