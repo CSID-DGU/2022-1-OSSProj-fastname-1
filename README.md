@@ -243,23 +243,27 @@ function gettag(){
 - 체크박스 1개 이상 체크시 출력
 ```c
 for(i in storage) { 
-    let tr = document.createElement('tr'); 
-    for(j=0;j<(lenCheckList-1);j++){ // 마지막은 공백이라 길이에서 1을 뺌
-        if(storage[i].bigtag == checkList[j]){// 태그에 충족되면 출력
-            let td = document.createElement('td'); 
-            td.innerHTML = storage[i].title; 
-            td.setAttribute("title", storage[i].bigtag); // 마우스 오버 시 대분류 출력
-            Link = storage[i].link; 
-            (function(m){  // 제목 클릭 시 링크로 이동
-                td.addEventListener("click", function() {window.open(storage[m].link)});
-            })(i);
-            tr.appendChild(td); 
-            let td2 = document.createElement('td');
-            td2.innerHTML = storage[i].dday; 
-            tr.appendChild(td2);
-        }
-    document.querySelector("tbody").appendChild(tr); 
-    }        
+  selectx[i] = false; // 방문 배열을 초기화
+  let tr = document.createElement('tr'); 
+  for(j=0;j<(lenCheckList-1);j++){ // 마지막은 공백이라 길이에서 1을 뺌
+      if((storage[i].bigtag).includes(checkList[j])){// 태그에 충족되면 출력
+          if(selectx[i] == false){ // 이전에 선택되지 않았다면
+              let td = document.createElement('td'); 
+              td.innerHTML = storage[i].title; 
+              td.setAttribute("title", storage[i].bigtag); // 마우스 오버 시 분류 출력
+              Link = storage[i].link; 
+              (function(m){  // 제목 클릭 시 링크로 이동(클로저 사용)
+                  td.addEventListener("click", function() {location.href = storage[m].link;});
+              })(i);
+              tr.appendChild(td); 
+              let td2 = document.createElement('td');
+              td2.innerHTML = storage[i].dday; 
+              tr.appendChild(td2);
+              selectx[i] = true; // 방문배열을 방문함으로 변경 
+          }    
+      }
+  document.querySelector("tbody").appendChild(tr);   
+  }      
 }
 ```
 ## 실제 적용 사례
