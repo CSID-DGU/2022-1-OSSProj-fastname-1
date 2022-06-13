@@ -49,7 +49,7 @@
                 for(i in storage) { 
                     let tr = document.createElement('tr'); 
                     for(j=0;j<(lenCheckList-1);j++){ // 마지막은 공백이라 길이에서 1을 뺌
-                        if(storage[i].bigtag == checkList[j]){// 태그에 충족되면 출력
+                        if((storage[i].bigtag).includes(checkList[j])){// 태그에 충족되면 출력
                             let td = document.createElement('td'); 
                             td.innerHTML = storage[i].title; 
                             td.setAttribute("title", storage[i].bigtag); // 마우스 오버 시 분류 출력
