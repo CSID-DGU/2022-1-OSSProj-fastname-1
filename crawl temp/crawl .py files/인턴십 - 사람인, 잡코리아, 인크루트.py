@@ -169,17 +169,19 @@ for i in range (1, page_num+1):
             tag = soup.select('.cl_btm')[j*3 + 1].text.replace('\n', '')
             tag = tag.split(', ')
             dday = soup.select('.cl_btm')[j*3 + 2].text
-            if '채용시' in dday or '마감' in dday or '상시' in dday:
+            if '채용시' in dday or '마감' in dday:
                 dday = dday.split('(')[0]
+            if '상시' in dday:
+                dday = '상시채용'
             else:
                 dday = dday.replace('~', '').split(' ')[0]
                 month, day = dday.split('.')
                 month = int(month)
                 day = int(day)
                 if month < today_month:
-                    dday = '2023. '+ str(month) +'. '+str(day)
+                    dday = '2023. '+ '0'+ str(month) +'. '+str(day)
                 else:
-                    dday = '2022. '+ str(month)+'. '+str(day)
+                    dday = '2022. '+ '0'+ str(month) +'. '+str(day)
 
         except:
             break
