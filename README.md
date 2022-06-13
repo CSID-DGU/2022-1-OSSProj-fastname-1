@@ -221,7 +221,7 @@ function gettag(){
     check = ""; // 체크 초기화
     var storage = document.getElementsByName("tag"); // 태그 값이라는 이름을 가진 구성요소에 접근해서 태그가 붙어있는 문서의 내용만 storage에 저장
     for (i =0;i < storage.length;i++){ // storage수만큼 루프
-       if(storage[i].checked == true){ // 만약 체크되어 있으면
+       if((storage[i].bigtag).includes(checkList[j])){ // 만약 체크되어 있으면
          check += storage[i].value; // 아이프레임에 전달할 변수의 값(check)을 체크박스의 값으로 문자열에 추가
          check += "," // 구분자 추가
          //check = storage[i].value; // 아이프레임에 전달할 변수의 값(check)
