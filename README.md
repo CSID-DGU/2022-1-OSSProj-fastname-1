@@ -59,8 +59,10 @@ $ sudo apt-get update
 $ pip install pandas 
 ```
 * requests 설치
+```c
 $ sudo apt-get update
 $ pip install requests
+```
 
 ### AWS EC2 인스턴스 연결
 
