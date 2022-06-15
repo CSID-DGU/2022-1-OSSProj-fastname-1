@@ -8,16 +8,8 @@
 		]
 	},
 	{
-		"title": "코딩 테스트 스터디 모집합니다. (2-3 추가 모집) - 파이썬, 자바",
-		"uploaded": "2022. 06. 15",
-		"link": "https://www.inflearn.com/studies/564934",
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
 		"title": "[빠져봐요 코딩의늪] 스터디원 모집",
-		"uploaded": "2022. 06. 15",
+		"uploaded": "2022. 06. 14",
 		"link": "https://www.inflearn.com/studies/564853",
 		"bigtag": [
 			"기타"
@@ -113,7 +105,7 @@
 	},
 	{
 		"title": "왕초보 온라인 스터디원 모집합니다!(js)",
-		"uploaded": "2022. 06. 09",
+		"uploaded": "2022. 06. 08",
 		"link": "https://www.inflearn.com/studies/560141",
 		"bigtag": [
 			"기타"
@@ -217,7 +209,7 @@
 	},
 	{
 		"title": "[온라인] 혼자 읽기 힘들었던 개발 도서를 모여서 같이 읽을 개발자 구해요!!",
-		"uploaded": "2022. 05. 31",
+		"uploaded": "2022. 05. 30",
 		"link": "https://www.inflearn.com/studies/551329",
 		"bigtag": [
 			"기타"
@@ -225,7 +217,7 @@
 	},
 	{
 		"title": "저희 스터디 모임에서 스터디원을 모집합니다. ~",
-		"uploaded": "2022. 05. 31",
+		"uploaded": "2022. 05. 30",
 		"link": "https://www.inflearn.com/studies/551310",
 		"bigtag": [
 			"기타"
@@ -297,7 +289,7 @@
 	},
 	{
 		"title": "웹프로젝트 개발 함께 하실 프론트 개발자분 모집합니다!",
-		"uploaded": "2022. 05. 21",
+		"uploaded": "2022. 05. 20",
 		"link": "https://www.inflearn.com/studies/542392",
 		"bigtag": [
 			"웹"
@@ -313,10 +305,18 @@
 	},
 	{
 		"title": "개발자 스터디그룹 모집합니다.",
-		"uploaded": "2022. 05. 20",
+		"uploaded": "2022. 05. 19",
 		"link": "https://www.inflearn.com/studies/541628",
 		"bigtag": [
 			"기타"
+		]
+	},
+	{
+		"title": "순수 예술인을 위한 커뮤니티 웹 프로젝트 제작에 함께 하실 프론트엔드 개발자분 모집합니다.",
+		"uploaded": "2022. 05. 19",
+		"link": "https://www.inflearn.com/studies/541606",
+		"bigtag": [
+			"웹"
 		]
 	},
 	{
