@@ -1,23 +1,5 @@
 [
 	{
-		"title": "제3회 AI·블록체인 아이디어 경진대회",
-		"dday": "2022. 06. 14",
-		"link": "https://gongmo.incruit.com/info/gongmolistinfo.asp?contestno=202205110008",
-		"분류": "공모전",
-		"bigtag": [
-			"인공지능"
-		]
-	},
-	{
-		"title": "(경진대회) 제3회 AI·블록체인 아이디어 경진대회",
-		"dday": "2022. 06. 14",
-		"link": "https://www.thinkcontest.com//Contest/ContestDetail.html?id=46219",
-		"분류": "공모전",
-		"bigtag": [
-			"인공지능"
-		]
-	},
-	{
 		"title": "제4회 대구 빅데이터 분석 경진대회",
 		"dday": "2022. 06. 15",
 		"link": "https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.str_aedate&Txt_sortword=asc&Txt_host=&Txt_actcode=&page=1&Txt_bcode=030510001&str_no=202205300042",
@@ -78,6 +60,15 @@
 		"분류": "공모전",
 		"bigtag": [
 			"기타"
+		]
+	},
+	{
+		"title": "2022 식의약 데이터 활용 경진대회",
+		"dday": "2022. 06. 19",
+		"link": "https://gongmo.incruit.com/info/gongmolistinfo.asp?contestno=202204200004",
+		"분류": "공모전",
+		"bigtag": [
+			"데이터"
 		]
 	},
 	{
@@ -189,6 +180,15 @@
 		]
 	},
 	{
+		"title": "제20회 임베디드 소프트웨어 경진대회",
+		"dday": "2022. 06. 27",
+		"link": "https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.str_aedate&Txt_sortword=asc&Txt_host=&Txt_actcode=&page=1&Txt_bcode=030510001&str_no=202206090006",
+		"분류": "공모전",
+		"bigtag": [
+			"응용"
+		]
+	},
+	{
 		"title": "(경진대회) 제20회 임베디드 소프트웨어 경진대회",
 		"dday": "2022. 06. 27",
 		"link": "https://www.thinkcontest.com//Contest/ContestDetail.html?id=47780",
@@ -209,7 +209,7 @@
 	{
 		"title": "국토교통 데이터 활용 경진대회",
 		"dday": "2022. 06. 28",
-		"link": "https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.str_aedate&Txt_sortword=asc&Txt_host=&Txt_actcode=&page=2&Txt_bcode=030510001&str_no=202204270017",
+		"link": "https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.str_aedate&Txt_sortword=asc&Txt_host=&Txt_actcode=&page=1&Txt_bcode=030510001&str_no=202204270017",
 		"분류": "공모전",
 		"bigtag": [
 			"데이터"
@@ -461,7 +461,7 @@
 	{
 		"title": "2022년 산림공공·빅데이터 활용 창업경진대회",
 		"dday": "2022. 07. 10",
-		"link": "https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.str_aedate&Txt_sortword=asc&Txt_host=&Txt_actcode=&page=3&Txt_bcode=030510001&str_no=202205240054",
+		"link": "https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.str_aedate&Txt_sortword=asc&Txt_host=&Txt_actcode=&page=2&Txt_bcode=030510001&str_no=202205240054",
 		"분류": "공모전",
 		"bigtag": [
 			"데이터"
@@ -657,15 +657,6 @@
 		]
 	},
 	{
-		"title": "제3회 AI.블록체인 아이디어 경진대회",
-		"dday": "2022. 06. 14",
-		"link": "https://thinkyou.co.kr//contest/24883/?page=1&pagesize=35&serstatus=0&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
-		"분류": "대외활동",
-		"bigtag": [
-			"인공지능"
-		]
-	},
-	{
 		"title": "영등포 문화도시와 함께 할 청년 모집",
 		"dday": "2022. 06. 15",
 		"link": "https://thinkyou.co.kr//contest/25434/?page=1&pagesize=35&serstatus=0&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
@@ -695,7 +686,7 @@
 	{
 		"title": "위저드 베이커리 리뷰대회",
 		"dday": "2022. 06. 20",
-		"link": "https://thinkyou.co.kr//contest/25548/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
+		"link": "https://thinkyou.co.kr//contest/25548/?page=1&pagesize=35&serstatus=0&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
 		"분류": "대외활동",
 		"bigtag": [
 			"기타"
@@ -717,15 +708,6 @@
 		"분류": "대외활동",
 		"bigtag": [
 			"기타"
-		]
-	},
-	{
-		"title": "제20회 임베디드 소프트웨어 경진대회",
-		"dday": "2022. 06. 27",
-		"link": "https://thinkyou.co.kr//contest/25507/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
-		"분류": "대외활동",
-		"bigtag": [
-			"응용"
 		]
 	},
 	{
@@ -960,6 +942,15 @@
 		"분류": "대외활동",
 		"bigtag": [
 			"데이터"
+		]
+	},
+	{
+		"title": "제4회 예천내성천문예현상 공모전",
+		"dday": "2022. 07. 31",
+		"link": "https://thinkyou.co.kr//contest/24205/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
+		"분류": "대외활동",
+		"bigtag": [
+			"기타"
 		]
 	},
 	{
