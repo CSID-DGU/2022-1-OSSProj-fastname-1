@@ -1,25 +1,5 @@
 [
 	{
-		"title": "LS・한국무역협회 전북 우수인재 장학",
-		"dday": "2022. 06. 15",
-		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5251",
-		"tag": [
-			"장학금",
-			"대학생",
-			"전문대"
-		]
-	},
-	{
-		"title": "일자리 안정자금 지원사업",
-		"dday": "2022. 06. 15",
-		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5290",
-		"tag": [
-			"기타지원",
-			"일반인",
-			"소상공인"
-		]
-	},
-	{
 		"title": "마포구 살기좋은 마을만들기 공모사업",
 		"dday": "2022. 06. 17",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5335",
@@ -743,6 +723,26 @@
 			"기타지원",
 			"일반인",
 			"근로자"
+		]
+	},
+	{
+		"title": "재난장학금",
+		"dday": "2022. 12. 30",
+		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5263",
+		"tag": [
+			"장학금",
+			"대학생",
+			"전문대"
+		]
+	},
+	{
+		"title": "세종시 긴급복지지원 장학",
+		"dday": "예산 소진 시",
+		"link": "https://www.dreamspon.com/scholarship/view.html?idx=4711",
+		"tag": [
+			"장학금",
+			"대학생",
+			"세종시"
 		]
 	}
 ]
