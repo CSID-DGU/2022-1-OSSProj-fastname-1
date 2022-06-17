@@ -90,15 +90,6 @@
 		]
 	},
 	{
-		"title": "통계청 2022년 통계데이터 분석 활용 대회",
-		"dday": "2022. 06. 21",
-		"link": "https://www.thinkcontest.com//Contest/ContestDetail.html?id=47180",
-		"분류": "공모전",
-		"bigtag": [
-			"데이터"
-		]
-	},
-	{
 		"title": "IT개발자 취업교육",
 		"dday": "2022. 06. 22",
 		"link": "https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.str_aedate&Txt_sortword=asc&Txt_host=&Txt_actcode=&page=1&Txt_bcode=030510001&str_no=202205270013",
@@ -324,6 +315,15 @@
 		]
 	},
 	{
+		"title": "2022년 부산광역시 공공·빅데이터 활용 창업경진대회",
+		"dday": "2022. 07. 01",
+		"link": "https://www.thinkcontest.com//Contest/ContestDetail.html?id=48376",
+		"분류": "공모전",
+		"bigtag": [
+			"데이터"
+		]
+	},
+	{
 		"title": "제10회 산업통상자원부 공공데이터 활용 비즈니스 아이디어 공모전",
 		"dday": "2022. 07. 03",
 		"link": "https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.str_aedate&Txt_sortword=asc&Txt_host=&Txt_actcode=&page=2&Txt_bcode=030510001&str_no=202205030020",
@@ -477,6 +477,15 @@
 		]
 	},
 	{
+		"title": "통계청 2022년 통계데이터 분석 활용 대회",
+		"dday": "2022. 07. 10",
+		"link": "https://www.thinkcontest.com//Contest/ContestDetail.html?id=47180",
+		"분류": "공모전",
+		"bigtag": [
+			"데이터"
+		]
+	},
+	{
 		"title": "(경진대회) 제7회 세계청소년올림피아드 KIYO4i 2022",
 		"dday": "2022. 07. 10",
 		"link": "https://www.thinkcontest.com//Contest/ContestDetail.html?id=43628",
@@ -579,6 +588,15 @@
 		"title": "2022 디스플레이 챌린지 공모전 (~7/24)",
 		"dday": "2022. 07. 24",
 		"link": "https://gongmo.incruit.com/info/gongmolistinfo.asp?contestno=202206100007",
+		"분류": "공모전",
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
+		"title": "디지털 헬스케어 『MEDICAL HACK 2022』",
+		"dday": "2022. 07. 24",
+		"link": "https://www.thinkcontest.com//Contest/ContestDetail.html?id=48408",
 		"분류": "공모전",
 		"bigtag": [
 			"기타"
@@ -846,15 +864,6 @@
 		]
 	},
 	{
-		"title": "FSI Data Challenge 2022",
-		"dday": "2022. 06. 30",
-		"link": "https://thinkyou.co.kr//contest/25219/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
-		"분류": "대외활동",
-		"bigtag": [
-			"데이터"
-		]
-	},
-	{
 		"title": "",
 		"dday": "2022. 06. 30 ",
 		"link": "http://www.spectory.net/activities/detail?pid=28928&cat=%EB%8C%80%ED%95%99%EC%83%9D&prefix=info-target&searchDate=latest",
@@ -966,6 +975,15 @@
 		"title": "2022년 천원의 아침밥 서포터즈 모집",
 		"dday": "2022. 07. 10 ",
 		"link": "http://www.spectory.net/activities/detail?pid=28873&cat=%EB%8C%80%ED%95%99%EC%83%9D&prefix=info-target&searchDate=latest",
+		"분류": "대외활동",
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
+		"title": "제 1회 한국경제신문 경제논술대회",
+		"dday": "2022. 07. 15",
+		"link": "https://thinkyou.co.kr//contest/25838/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
 		"분류": "대외활동",
 		"bigtag": [
 			"기타"
