@@ -9,15 +9,6 @@
 		]
 	},
 	{
-		"title": "2022 식의약 데이터 활용 경진대회",
-		"dday": "2022. 06. 19",
-		"link": "https://gongmo.incruit.com/info/gongmolistinfo.asp?contestno=202204200004",
-		"분류": "공모전",
-		"bigtag": [
-			"데이터"
-		]
-	},
-	{
 		"title": "2022년 식의약 데이터 활용경진대회",
 		"dday": "2022. 06. 19",
 		"link": "https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.str_aedate&Txt_sortword=asc&Txt_host=&Txt_actcode=&page=1&Txt_bcode=030510001&str_no=202204210011",
@@ -168,6 +159,15 @@
 		"분류": "공모전",
 		"bigtag": [
 			"데이터"
+		]
+	},
+	{
+		"title": "",
+		"dday": "2022. 06. 30",
+		"link": "https://gongmo.incruit.com/info/gongmolistinfo.asp?contestno=202206180002",
+		"분류": "공모전",
+		"bigtag": [
+			"기타"
 		]
 	},
 	{
@@ -804,15 +804,6 @@
 		"title": "K-이노스 캠퍼스타운 창업스쿨",
 		"dday": "2022. 06. 30",
 		"link": "https://thinkyou.co.kr//contest/25460/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
-		"분류": "대외활동",
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "",
-		"dday": "2022. 06. 30 ",
-		"link": "http://www.spectory.net/activities/detail?pid=28928&cat=%EB%8C%80%ED%95%99%EC%83%9D&prefix=info-target&searchDate=latest",
 		"분류": "대외활동",
 		"bigtag": [
 			"기타"
