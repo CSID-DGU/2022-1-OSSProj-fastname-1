@@ -1,23 +1,5 @@
 [
 	{
-		"title": "크리에이터가 만드는 디지털서울 NFT 챌린지",
-		"dday": "2022. 06. 20",
-		"link": "https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.str_aedate&Txt_sortword=asc&Txt_host=&Txt_actcode=&page=1&Txt_bcode=030510001&str_no=202205020066",
-		"분류": "공모전",
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "2022년 상반기 통계데이터센터 이용 · 활용수기 공모전",
-		"dday": "2022. 06. 20",
-		"link": "https://www.thinkcontest.com//Contest/ContestDetail.html?id=46530",
-		"분류": "공모전",
-		"bigtag": [
-			"데이터"
-		]
-	},
-	{
 		"title": "IT개발자 취업교육",
 		"dday": "2022. 06. 22",
 		"link": "https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.str_aedate&Txt_sortword=asc&Txt_host=&Txt_actcode=&page=1&Txt_bcode=030510001&str_no=202205270013",
@@ -299,7 +281,7 @@
 	{
 		"title": "제10회 산업통상자원부 공공데이터 활용 비즈니스 아이디어 공모전",
 		"dday": "2022. 07. 03",
-		"link": "https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.str_aedate&Txt_sortword=asc&Txt_host=&Txt_actcode=&page=2&Txt_bcode=030510001&str_no=202205030020",
+		"link": "https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.str_aedate&Txt_sortword=asc&Txt_host=&Txt_actcode=&page=1&Txt_bcode=030510001&str_no=202205030020",
 		"분류": "공모전",
 		"bigtag": [
 			"데이터"
@@ -381,6 +363,15 @@
 		"title": "2022 자율협력주행 및 C-ITS 기술·서비스 공모전",
 		"dday": "2022. 07. 06",
 		"link": "https://www.thinkcontest.com//Contest/ContestDetail.html?id=48458",
+		"분류": "공모전",
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
+		"title": "(교육/강연) 제8회 UST Fun사이언스포럼 한여름의 오지여행",
+		"dday": "2022. 07. 06",
+		"link": "https://www.thinkcontest.com//Contest/ContestDetail.html?id=48519",
 		"분류": "공모전",
 		"bigtag": [
 			"기타"
@@ -560,7 +551,7 @@
 	{
 		"title": "ICT융합산업보안 인력양성사업 메타버스 분야 교육생 모집",
 		"dday": "2022. 07. 20",
-		"link": "https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.str_aedate&Txt_sortword=asc&Txt_host=&Txt_actcode=&page=3&Txt_bcode=030510001&str_no=202205030050",
+		"link": "https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.str_aedate&Txt_sortword=asc&Txt_host=&Txt_actcode=&page=2&Txt_bcode=030510001&str_no=202205030050",
 		"분류": "공모전",
 		"bigtag": [
 			"서버"
@@ -756,15 +747,6 @@
 		]
 	},
 	{
-		"title": "위저드 베이커리 리뷰대회",
-		"dday": "2022. 06. 20",
-		"link": "https://thinkyou.co.kr//contest/25548/?page=1&pagesize=35&serstatus=0&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
-		"분류": "대외활동",
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
 		"title": "2022 현대자동차 연구개발본부 AI 경진대회",
 		"dday": "2022. 06. 22",
 		"link": "https://thinkyou.co.kr//contest/25738/?page=1&pagesize=35&serstatus=0&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
@@ -828,33 +810,6 @@
 		]
 	},
 	{
-		"title": "청년마음건강 <마인드링크> 서포터즈 2기 모집",
-		"dday": "2022. 07. 01 ",
-		"link": "http://www.spectory.net/activities/detail?pid=28990&cat=%EB%8C%80%ED%95%99%EC%83%9D&prefix=info-target&searchDate=latest",
-		"분류": "대외활동",
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "2022 서울시립청소년문화교류센터 미지맵 콘텐츠 크리에이터 2기 모집",
-		"dday": "2022. 07. 01 ",
-		"link": "http://www.spectory.net/activities/detail?pid=28982&cat=%EB%8C%80%ED%95%99%EC%83%9D&prefix=info-target&searchDate=latest",
-		"분류": "대외활동",
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "에듀퓨어 공.취.가 서포터즈 27기 모집",
-		"dday": "2022. 07. 01 ",
-		"link": "http://www.spectory.net/activities/detail?pid=28971&cat=%EB%8C%80%ED%95%99%EC%83%9D&prefix=info-target&searchDate=latest",
-		"분류": "대외활동",
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
 		"title": "2022년 제42회 전국만해백일장",
 		"dday": "2022. 07. 03",
 		"link": "https://thinkyou.co.kr//contest/25735/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
@@ -900,6 +855,15 @@
 		]
 	},
 	{
+		"title": "\"공모전 수상률 69%\" 취업·스펙 클럽 1기 모집",
+		"dday": "2022. 07. 04 ",
+		"link": "http://www.spectory.net/activities/detail?pid=28905&cat=%EB%8C%80%ED%95%99%EC%83%9D&prefix=info-target&searchDate=latest",
+		"분류": "대외활동",
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
 		"title": "온/오프라인 통합 아트딜러 육성사업 1기 모집",
 		"dday": "2022. 07. 05",
 		"link": "https://thinkyou.co.kr//contest/25772/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
@@ -936,6 +900,15 @@
 		]
 	},
 	{
+		"title": "CLOCK :: 클라비 에듀 게임 메이커 양성과정 교육생 모집",
+		"dday": "2022. 07. 06 ",
+		"link": "http://www.spectory.net/activities/detail?pid=28943&cat=%EB%8C%80%ED%95%99%EC%83%9D&prefix=info-target&searchDate=latest",
+		"분류": "대외활동",
+		"bigtag": [
+			"응용"
+		]
+	},
+	{
 		"title": "300자 추천사 공모전",
 		"dday": "2022. 07. 10",
 		"link": "https://thinkyou.co.kr//contest/25513/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
@@ -957,6 +930,15 @@
 		"title": "2022 대학생 통일 체험교육",
 		"dday": "2022. 07. 10 ",
 		"link": "http://www.spectory.net/activities/detail?pid=28973&cat=%EB%8C%80%ED%95%99%EC%83%9D&prefix=info-target&searchDate=latest",
+		"분류": "대외활동",
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
+		"title": "2022년 천원의 아침밥 서포터즈 모집",
+		"dday": "2022. 07. 10 ",
+		"link": "http://www.spectory.net/activities/detail?pid=28873&cat=%EB%8C%80%ED%95%99%EC%83%9D&prefix=info-target&searchDate=latest",
 		"분류": "대외활동",
 		"bigtag": [
 			"기타"

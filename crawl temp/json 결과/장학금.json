@@ -1,35 +1,5 @@
 [
 	{
-		"title": "롯데장학재단 멘토링장학 (2022년)",
-		"dday": "2022. 06. 20",
-		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5341",
-		"tag": [
-			"장학금",
-			"대학생",
-			"성적기준"
-		]
-	},
-	{
-		"title": "성동구 청년 사회활동 프로젝트 공모",
-		"dday": "2022. 06. 20",
-		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5343",
-		"tag": [
-			"장학프로그램",
-			"기타지원",
-			"청년"
-		]
-	},
-	{
-		"title": "KB 국민카드 FUTURE9 스타트업 6기 모집",
-		"dday": "2022. 06. 20",
-		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5365",
-		"tag": [
-			"기술기반",
-			"스타트업",
-			"KB국민카드"
-		]
-	},
-	{
 		"title": "김제시 학자금대출 이자지원 (2022년 상반기)",
 		"dday": "2022. 06. 22",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5307",
@@ -264,6 +234,16 @@
 		"tag": [
 			"장학프로그램",
 			"기타지원",
+			"청년"
+		]
+	},
+	{
+		"title": "파주시 청년 전세자금 대출이자 지원 ***추가모집***",
+		"dday": "2022. 06. 30",
+		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5131",
+		"tag": [
+			"대출지원",
+			"일반인",
 			"청년"
 		]
 	},
@@ -744,6 +724,26 @@
 			"기타지원",
 			"일반인",
 			"지역기준"
+		]
+	},
+	{
+		"title": "위기가정 지원사업",
+		"dday": "예산 소진 시",
+		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5109",
+		"tag": [
+			"기타지원",
+			"일반인",
+			"푸른나눔"
+		]
+	},
+	{
+		"title": "주거취약계층 임차자금지원사업",
+		"dday": "예산 소진 시",
+		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5110",
+		"tag": [
+			"기타지원",
+			"일반인",
+			"특수계층"
 		]
 	}
 ]
