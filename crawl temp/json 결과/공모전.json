@@ -702,6 +702,15 @@
 		]
 	},
 	{
+		"title": "제10회 소방산업 우수 디자인 공모전",
+		"dday": "2022. 08. 19",
+		"link": "https://www.thinkcontest.com//Contest/ContestDetail.html?id=48433",
+		"분류": "공모전",
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
 		"title": "(경진대회) 2022년 경남 과학기술 아이디어 경진대회",
 		"dday": "2022. 08. 19",
 		"link": "https://www.thinkcontest.com//Contest/ContestDetail.html?id=48252",
@@ -810,6 +819,15 @@
 		]
 	},
 	{
+		"title": "제11회 글나라 백일장 대회 생각이 머무는 1박 2일",
+		"dday": "2022. 06. 25",
+		"link": "https://thinkyou.co.kr//contest/25033/?page=1&pagesize=35&serstatus=0&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
+		"분류": "대외활동",
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
 		"title": "2022 중랑청년네트워크 4기 위원 모집(추가모집)",
 		"dday": "2022. 06. 30",
 		"link": "https://thinkyou.co.kr//contest/25894/?page=1&pagesize=35&serstatus=0&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
@@ -875,7 +893,7 @@
 	{
 		"title": "제26회 LH 대학생 주택건축대전",
 		"dday": "2022. 07. 01",
-		"link": "https://thinkyou.co.kr//contest/25457/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
+		"link": "https://thinkyou.co.kr//contest/25457/?page=1&pagesize=35&serstatus=0&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
 		"분류": "대외활동",
 		"bigtag": [
 			"기타"
@@ -1209,6 +1227,15 @@
 		"title": "금융결제원 2022년도 금융결제서비스 발전 논문 공모전",
 		"dday": "2022. 08. 31",
 		"link": "https://thinkyou.co.kr//contest/25179/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
+		"분류": "대외활동",
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
+		"title": "제4회 코스미안상 공모전",
+		"dday": "2022. 08. 31",
+		"link": "https://thinkyou.co.kr//contest/24872/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
 		"분류": "대외활동",
 		"bigtag": [
 			"기타"
