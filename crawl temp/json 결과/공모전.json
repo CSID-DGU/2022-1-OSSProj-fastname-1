@@ -774,15 +774,6 @@
 		]
 	},
 	{
-		"title": "제11회 글나라 백일장 대회 생각이 머무는 1박 2일",
-		"dday": "2022. 06. 25",
-		"link": "https://thinkyou.co.kr//contest/25033/?page=1&pagesize=35&serstatus=0&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
-		"분류": "대외활동",
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
 		"title": "제 9회 스마트 NC 경진대회",
 		"dday": "2022. 06. 30",
 		"link": "https://thinkyou.co.kr//contest/26073/?page=1&pagesize=35&serstatus=0&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
@@ -866,7 +857,7 @@
 	{
 		"title": "2022년 제42회 전국만해백일장",
 		"dday": "2022. 07. 03",
-		"link": "https://thinkyou.co.kr//contest/25735/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
+		"link": "https://thinkyou.co.kr//contest/25735/?page=1&pagesize=35&serstatus=0&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
 		"분류": "대외활동",
 		"bigtag": [
 			"기타"
@@ -875,7 +866,7 @@
 	{
 		"title": "제7회 롯데멤버스 빅데이터 경진대회",
 		"dday": "2022. 07. 03",
-		"link": "https://thinkyou.co.kr//contest/25395/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
+		"link": "https://thinkyou.co.kr//contest/25395/?page=1&pagesize=35&serstatus=0&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
 		"분류": "대외활동",
 		"bigtag": [
 			"데이터"
@@ -918,45 +909,18 @@
 		]
 	},
 	{
-		"title": "프로모트 서포터즈 2기 모집",
-		"dday": "2022. 07. 06 ",
-		"link": "http://www.spectory.net/activities/detail?pid=29157&cat=%EB%8C%80%ED%95%99%EC%83%9D&prefix=info-target&searchDate=latest",
-		"분류": "대외활동",
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "2030부산세계박람회 유치해 서포터즈 모집",
-		"dday": "2022. 07. 06 ",
-		"link": "http://www.spectory.net/activities/detail?pid=29154&cat=%EB%8C%80%ED%95%99%EC%83%9D&prefix=info-target&searchDate=latest",
-		"분류": "대외활동",
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "중소기업청년직무체험 프로그램 제조·유통·물류 2일 단기 스펙UP 프로그램",
-		"dday": "2022. 07. 06 ",
-		"link": "http://www.spectory.net/activities/detail?pid=29144&cat=%EB%8C%80%ED%95%99%EC%83%9D&prefix=info-target&searchDate=latest",
-		"분류": "대외활동",
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "마케팅 전문 뉴스레터 ‘위픽레터’ 활성화를 위한  아이디어 제안하고 2주만에 실무 역량으로 콘텐츠 마케터 취업하자! (~7/6)",
-		"dday": "2022. 07. 06 ",
-		"link": "http://www.spectory.net/activities/detail?pid=29118&cat=%EB%8C%80%ED%95%99%EC%83%9D&prefix=info-target&searchDate=latest",
-		"분류": "대외활동",
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
 		"title": "2022 살롱핸즈 서포터즈 찰랑이 2기 모집",
 		"dday": "2022. 07. 07 ",
 		"link": "http://www.spectory.net/activities/detail?pid=29158&cat=%EB%8C%80%ED%95%99%EC%83%9D&prefix=info-target&searchDate=latest",
+		"분류": "대외활동",
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
+		"title": "2022 정보보호제품 CC평가자 양성과정 교육생 모집",
+		"dday": "2022. 07. 08 ",
+		"link": "http://www.spectory.net/activities/detail?pid=29062&cat=%EB%8C%80%ED%95%99%EC%83%9D&prefix=info-target&searchDate=latest",
 		"분류": "대외활동",
 		"bigtag": [
 			"기타"
@@ -1026,6 +990,15 @@
 		]
 	},
 	{
+		"title": "7기 S-지니어 서대문대학생서포터즈 모집",
+		"dday": "2022. 07. 14 ",
+		"link": "http://www.spectory.net/activities/detail?pid=29081&cat=%EB%8C%80%ED%95%99%EC%83%9D&prefix=info-target&searchDate=latest",
+		"분류": "대외활동",
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
 		"title": "ASML코리아 2022 캠퍼스 프로모터 모집",
 		"dday": "2022. 07. 15",
 		"link": "https://thinkyou.co.kr//contest/25966/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
@@ -1053,6 +1026,15 @@
 		]
 	},
 	{
+		"title": "마케터 실무 준비하자! (~7/19까지 모집)",
+		"dday": "2022. 07. 19 ",
+		"link": "http://www.spectory.net/activities/detail?pid=29063&cat=%EB%8C%80%ED%95%99%EC%83%9D&prefix=info-target&searchDate=latest",
+		"분류": "대외활동",
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
 		"title": "제11회 원주생명문학상 공모전",
 		"dday": "2022. 07. 20",
 		"link": "https://thinkyou.co.kr//contest/25571/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
@@ -1074,6 +1056,15 @@
 		"title": "2022 디스플레이 챌린지 공모전",
 		"dday": "2022. 07. 24",
 		"link": "https://thinkyou.co.kr//contest/25570/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
+		"분류": "대외활동",
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
+		"title": "2022 종로한복홍보단 누비라(Nubi-ra) 4기 2차 모집",
+		"dday": "2022. 07. 24 ",
+		"link": "http://www.spectory.net/activities/detail?pid=29094&cat=%EB%8C%80%ED%95%99%EC%83%9D&prefix=info-target&searchDate=latest",
 		"분류": "대외활동",
 		"bigtag": [
 			"기타"
@@ -1122,6 +1113,15 @@
 		"분류": "대외활동",
 		"bigtag": [
 			"데이터"
+		]
+	},
+	{
+		"title": "제4회 예천내성천문예현상 공모전",
+		"dday": "2022. 07. 31",
+		"link": "https://thinkyou.co.kr//contest/24205/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
+		"분류": "대외활동",
+		"bigtag": [
+			"기타"
 		]
 	},
 	{
@@ -1230,6 +1230,15 @@
 		"분류": "대외활동",
 		"bigtag": [
 			"응용"
+		]
+	},
+	{
+		"title": "'2022 김해시 올해의 책' 독후감 전국 공모전",
+		"dday": "2022. 09. 16",
+		"link": "https://thinkyou.co.kr//contest/23959/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
+		"분류": "대외활동",
+		"bigtag": [
+			"기타"
 		]
 	},
 	{
