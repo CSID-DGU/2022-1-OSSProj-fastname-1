@@ -513,6 +513,15 @@
 		]
 	},
 	{
+		"title": "대국민 미래과학기술 아이디어 오디션",
+		"dday": "2022. 07. 18",
+		"link": "https://www.thinkcontest.com//Contest/ContestDetail.html?id=48887",
+		"분류": "공모전",
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
 		"title": "(교육/강연)  2022년 하반기 기업멤버십 채용확정형 교육생 모집(총 10개과정)",
 		"dday": "2022. 07. 18",
 		"link": "https://www.thinkcontest.com//Contest/ContestDetail.html?id=48190",
@@ -927,18 +936,9 @@
 		]
 	},
 	{
-		"title": "제임스 다이슨 어워드 2022",
-		"dday": "2022. 07. 07",
-		"link": "https://thinkyou.co.kr//contest/23452/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
-		"분류": "대외활동",
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "2022 정보보호제품 CC평가자 양성과정 교육생 모집",
-		"dday": "2022. 07. 08 ",
-		"link": "http://www.spectory.net/activities/detail?pid=29062&cat=%EB%8C%80%ED%95%99%EC%83%9D&prefix=info-target&searchDate=latest",
+		"title": "대구광역시 스마트시티 시민홍보단 4기 모집",
+		"dday": "2022. 07. 08",
+		"link": "https://thinkyou.co.kr//contest/26116/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
 		"분류": "대외활동",
 		"bigtag": [
 			"기타"
@@ -960,6 +960,15 @@
 		"분류": "대외활동",
 		"bigtag": [
 			"인공지능"
+		]
+	},
+	{
+		"title": "마케터 9주 체험! 디지털 마케팅 마스터즈 1기 모집",
+		"dday": "2022. 07. 10 ",
+		"link": "http://www.spectory.net/activities/detail?pid=29183&cat=%EB%8C%80%ED%95%99%EC%83%9D&prefix=info-target&searchDate=latest",
+		"분류": "대외활동",
+		"bigtag": [
+			"기타"
 		]
 	},
 	{
@@ -1029,15 +1038,6 @@
 		"title": "제 1회 한국경제신문 경제논술대회",
 		"dday": "2022. 07. 15",
 		"link": "https://thinkyou.co.kr//contest/25838/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
-		"분류": "대외활동",
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "2022 ASML KOREA 캠퍼스 프로모터 모집",
-		"dday": "2022. 07. 15 ",
-		"link": "http://www.spectory.net/activities/detail?pid=29056&cat=%EB%8C%80%ED%95%99%EC%83%9D&prefix=info-target&searchDate=latest",
 		"분류": "대외활동",
 		"bigtag": [
 			"기타"
@@ -1245,6 +1245,15 @@
 		"title": "제4회 코스미안상 공모전",
 		"dday": "2022. 08. 31",
 		"link": "https://thinkyou.co.kr//contest/24872/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
+		"분류": "대외활동",
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
+		"title": "제2기 키친 서포터즈(쿡꾹) 모집",
+		"dday": "2022. 08. 31 ",
+		"link": "http://www.spectory.net/activities/detail?pid=29178&cat=%EB%8C%80%ED%95%99%EC%83%9D&prefix=info-target&searchDate=latest",
 		"분류": "대외활동",
 		"bigtag": [
 			"기타"
