@@ -1,41 +1,5 @@
 [
 	{
-		"title": "제20회 임베디드 소프트웨어 경진대회",
-		"dday": "2022. 06. 27",
-		"link": "https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.str_aedate&Txt_sortword=asc&Txt_host=&Txt_actcode=&page=1&Txt_bcode=030510001&str_no=202206090006",
-		"분류": "공모전",
-		"bigtag": [
-			"응용"
-		]
-	},
-	{
-		"title": "(교육/강연) 오스템임플란트 채용확정형 2기 교육생 모집",
-		"dday": "2022. 06. 27",
-		"link": "https://www.thinkcontest.com//Contest/ContestDetail.html?id=48192",
-		"분류": "공모전",
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "(경진대회) 제20회 임베디드 소프트웨어 경진대회",
-		"dday": "2022. 06. 27",
-		"link": "https://www.thinkcontest.com//Contest/ContestDetail.html?id=47780",
-		"분류": "공모전",
-		"bigtag": [
-			"응용"
-		]
-	},
-	{
-		"title": "CJ대한통운 미래기술 챌린지 2022",
-		"dday": "2022. 06. 27",
-		"link": "https://www.thinkcontest.com//Contest/ContestDetail.html?id=47675",
-		"분류": "공모전",
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
 		"title": "국토교통 데이터 활용 경진대회",
 		"dday": "2022. 06. 28",
 		"link": "https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.str_aedate&Txt_sortword=asc&Txt_host=&Txt_actcode=&page=1&Txt_bcode=030510001&str_no=202204270017",
@@ -174,15 +138,6 @@
 		"title": "2022 도자 3D 프린팅 공모전",
 		"dday": "2022. 06. 30",
 		"link": "https://www.thinkcontest.com//Contest/ContestDetail.html?id=43802",
-		"분류": "공모전",
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "제3회 기상청 기후변화과학 통합 공모전",
-		"dday": "2022. 07. 01",
-		"link": "https://gongmo.incruit.com/info/gongmolistinfo.asp?contestno=202204220005",
 		"분류": "공모전",
 		"bigtag": [
 			"기타"
@@ -504,9 +459,18 @@
 		]
 	},
 	{
+		"title": "대국민 미래과학기술 아이디어 오디션 “#나는미래다” 1차 오디션",
+		"dday": "2022. 07. 18",
+		"link": "https://gongmo.incruit.com/info/gongmolistinfo.asp?contestno=202206280000",
+		"분류": "공모전",
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
 		"title": "제13회 전국 창의문제 해결능력 경진대회",
 		"dday": "2022. 07. 18",
-		"link": "https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.str_aedate&Txt_sortword=asc&Txt_host=&Txt_actcode=&page=3&Txt_bcode=030510001&str_no=202206130004",
+		"link": "https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.str_aedate&Txt_sortword=asc&Txt_host=&Txt_actcode=&page=2&Txt_bcode=030510001&str_no=202206130004",
 		"분류": "공모전",
 		"bigtag": [
 			"기타"
@@ -920,7 +884,7 @@
 	{
 		"title": "온/오프라인 통합 아트딜러 육성사업 1기 모집",
 		"dday": "2022. 07. 05",
-		"link": "https://thinkyou.co.kr//contest/25772/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
+		"link": "https://thinkyou.co.kr//contest/25772/?page=1&pagesize=35&serstatus=0&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
 		"분류": "대외활동",
 		"bigtag": [
 			"기타"
@@ -930,6 +894,15 @@
 		"title": "석유화학 올림피아드",
 		"dday": "2022. 07. 06",
 		"link": "https://thinkyou.co.kr//contest/25495/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
+		"분류": "대외활동",
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
+		"title": "제임스 다이슨 어워드 2022",
+		"dday": "2022. 07. 07",
+		"link": "https://thinkyou.co.kr//contest/23452/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
 		"분류": "대외활동",
 		"bigtag": [
 			"기타"

@@ -1,23 +1,5 @@
 [
 	{
-		"title": "6월 4주차 212억",
-		"dday": "2022. 06. 27",
-		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5101",
-		"tag": [
-			""
-		]
-	},
-	{
-		"title": "해외수학 장학 (2022년 2학기)",
-		"dday": "2022. 06. 27",
-		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5349",
-		"tag": [
-			"장학금",
-			"대학생",
-			"소득기준"
-		]
-	},
-	{
 		"title": "2022년 우정사회봉사단 : POCU´S 溫 (포커스온) 3기 모집",
 		"dday": "2022. 06. 28",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5310",
@@ -364,6 +346,16 @@
 			"장학프로그램",
 			"기타지원",
 			"일반인"
+		]
+	},
+	{
+		"title": "서울시 청년월세지원 (2022년)",
+		"dday": "2022. 07. 07",
+		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5386",
+		"tag": [
+			"주거지원",
+			"일반인",
+			"청년"
 		]
 	},
 	{
@@ -744,6 +736,16 @@
 			"전라북도",
 			"예술인",
 			"민생안정지원금"
+		]
+	},
+	{
+		"title": "청년 중소기업 취업자 소득세 감면",
+		"dday": "예산 소진 시",
+		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5299",
+		"tag": [
+			"기타지원",
+			"청년",
+			"근로기준"
 		]
 	}
 ]
