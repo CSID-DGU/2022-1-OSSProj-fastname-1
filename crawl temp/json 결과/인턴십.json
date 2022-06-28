@@ -278,8 +278,8 @@
 			"AI(인공지능)"
 		],
 		"bigtag": [
-			"인공지능",
-			"데이터"
+			"데이터",
+			"인공지능"
 		]
 	},
 	{
@@ -493,8 +493,8 @@
 			"AI(인공지능)"
 		],
 		"bigtag": [
-			"데이터",
 			"인공지능",
+			"데이터",
 			"웹"
 		]
 	},
@@ -710,8 +710,8 @@
 			"Android"
 		],
 		"bigtag": [
-			"시스템",
-			"데이터"
+			"데이터",
+			"시스템"
 		]
 	},
 	{
@@ -764,26 +764,34 @@
 		]
 	},
 	{
-		"title": "게임바이럴마케팅 및 게임운영 관련 사원 모집(사전인터뷰 필히 제출)",
+		"title": "[인젠트-채용연계형] 2022년 JAVA개발자 신입사원 모집",
 		"dday": "2022. 07. 03",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38615468?rPageCode=SL",
-		"company": "㈜클라우드인마블",
+		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43361213&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
+		"company": "(주)인젠트",
 		"tag": [
-			"게임마케팅",
-			"게임운영관리",
-			"프로게이머",
-			"GM·CS",
-			"RPG",
-			"바이럴마케팅",
-			"소셜미디어",
-			"게임마케팅",
-			"게임운영",
-			"테스터",
-			"게임방송",
-			"MMORPG"
+			"DBMS",
+			"Java",
+			"Javascript",
+			"JSP",
+			"Linux"
 		],
 		"bigtag": [
-			"응용"
+			"데이터",
+			"시스템"
+		]
+	},
+	{
+		"title": "[프리윌린]영업팀 영업직 인턴(정규직 전환형)",
+		"dday": "2022. 07. 03",
+		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43317221&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
+		"company": "프리윌린",
+		"tag": [
+			"B2B",
+			"영업",
+			"영업직"
+		],
+		"bigtag": [
+			"기타"
 		]
 	},
 	{
@@ -804,54 +812,26 @@
 		]
 	},
 	{
-		"title": "[인젠트-채용연계형] 2022년 JAVA개발자 신입사원 모집",
+		"title": "게임바이럴마케팅 및 게임운영 관련 사원 모집(사전인터뷰 필히 제출)",
 		"dday": "2022. 07. 03",
-		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43361213&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
-		"company": "(주)인젠트",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38615468?rPageCode=SL",
+		"company": "㈜클라우드인마블",
 		"tag": [
-			"DBMS",
-			"Java",
-			"Javascript",
-			"JSP",
-			"Linux"
+			"게임마케팅",
+			"게임운영관리",
+			"프로게이머",
+			"GM·CS",
+			"RPG",
+			"바이럴마케팅",
+			"소셜미디어",
+			"게임마케팅",
+			"게임운영",
+			"테스터",
+			"게임방송",
+			"MMORPG"
 		],
 		"bigtag": [
-			"시스템",
-			"데이터"
-		]
-	},
-	{
-		"title": "[프리윌린]영업팀 영업직 인턴(정규직 전환형)",
-		"dday": "2022. 07. 03",
-		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43317221&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
-		"company": "프리윌린",
-		"tag": [
-			"B2B",
-			"영업",
-			"영업직"
-		],
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "헬스케어스타트업에서 함께 성공할 분야별 창립멤버 모집합니다",
-		"dday": "2022. 07. 04",
-		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=42975559&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
-		"company": "디지털뉴트리션",
-		"tag": [
-			"데이터분석가",
-			"데이터엔지니어",
-			"백엔드/서버개발",
-			"앱개발",
-			"딥러닝"
-		],
-		"bigtag": [
-			"응용",
-			"서버",
-			"웹",
-			"데이터",
-			"인공지능"
+			"응용"
 		]
 	},
 	{
@@ -921,6 +901,26 @@
 		]
 	},
 	{
+		"title": "헬스케어스타트업에서 함께 성공할 분야별 창립멤버 모집합니다",
+		"dday": "2022. 07. 04",
+		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=42975559&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
+		"company": "디지털뉴트리션",
+		"tag": [
+			"데이터분석가",
+			"데이터엔지니어",
+			"백엔드/서버개발",
+			"앱개발",
+			"딥러닝"
+		],
+		"bigtag": [
+			"웹",
+			"데이터",
+			"인공지능",
+			"서버",
+			"응용"
+		]
+	},
+	{
 		"title": "[ WAUG ] 와그 제휴영업분야 공개채용",
 		"dday": "2022. 07. 04",
 		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43392817&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
@@ -934,23 +934,6 @@
 		],
 		"bigtag": [
 			"기타"
-		]
-	},
-	{
-		"title": "[아도바주식회사] 각 부문 인턴/신입/경력사원 모집",
-		"dday": "2022. 07. 04",
-		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43370100&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
-		"company": "아도바(주)",
-		"tag": [
-			"데이터분석가",
-			"데이터엔지니어",
-			"데이터마이닝",
-			"딥러닝",
-			"머신러닝"
-		],
-		"bigtag": [
-			"인공지능",
-			"데이터"
 		]
 	},
 	{
@@ -1008,6 +991,23 @@
 		]
 	},
 	{
+		"title": "[아도바주식회사] 각 부문 인턴/신입/경력사원 모집",
+		"dday": "2022. 07. 04",
+		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43370100&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
+		"company": "아도바(주)",
+		"tag": [
+			"데이터분석가",
+			"데이터엔지니어",
+			"데이터마이닝",
+			"딥러닝",
+			"머신러닝"
+		],
+		"bigtag": [
+			"데이터",
+			"인공지능"
+		]
+	},
+	{
 		"title": "[NAVER Cloud] 서비스/상품 기획 (SaaS) 체험형 인턴 모집",
 		"dday": "2022. 07. 05",
 		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43382733&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
@@ -1036,8 +1036,8 @@
 			"ICT컨설팅"
 		],
 		"bigtag": [
-			"웹",
-			"데이터"
+			"데이터",
+			"웹"
 		]
 	},
 	{
@@ -1081,7 +1081,7 @@
 			"세일즈프로모션",
 			"아웃바운드",
 			"마케팅",
-			"체험단"
+			"영업"
 		],
 		"bigtag": [
 			"기타"
@@ -1292,8 +1292,8 @@
 			"머신러닝"
 		],
 		"bigtag": [
-			"인공지능",
-			"데이터"
+			"데이터",
+			"인공지능"
 		]
 	},
 	{
@@ -1488,8 +1488,8 @@
 			"AI(인공지능)"
 		],
 		"bigtag": [
-			"인공지능",
-			"데이터"
+			"데이터",
+			"인공지능"
 		]
 	},
 	{
@@ -1733,9 +1733,9 @@
 			"Linux"
 		],
 		"bigtag": [
+			"데이터",
 			"서버",
-			"시스템",
-			"데이터"
+			"시스템"
 		]
 	},
 	{
@@ -2079,8 +2079,8 @@
 			"웹마스터"
 		],
 		"bigtag": [
-			"서버",
 			"웹",
+			"서버",
 			"응용"
 		]
 	},
@@ -2868,6 +2868,22 @@
 		]
 	},
 	{
+		"title": "디자이너, 마케팅, 경영지원     각 0명 채용",
+		"dday": "2022. 07. 17",
+		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43317959&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
+		"company": "블루레이커스(주)",
+		"tag": [
+			"앱개발",
+			"경영지원",
+			"SNS마케팅",
+			"R",
+			"마케팅"
+		],
+		"bigtag": [
+			"응용"
+		]
+	},
+	{
 		"title": "[로완] 2022년 인턴사원 채용",
 		"dday": "2022. 07. 17",
 		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43316321&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
@@ -2945,22 +2961,6 @@
 		]
 	},
 	{
-		"title": "디자이너, 마케팅, 경영지원     각 0명 채용",
-		"dday": "2022. 07. 17",
-		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43317959&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
-		"company": "블루레이커스(주)",
-		"tag": [
-			"앱개발",
-			"경영지원",
-			"SNS마케팅",
-			"R",
-			"마케팅"
-		],
-		"bigtag": [
-			"응용"
-		]
-	},
-	{
 		"title": "서비스(컨텐츠) 기획, 운영 및 마케팅을 담당할 분을 모십니다",
 		"dday": "2022. 07. 17",
 		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43375939&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
@@ -2992,6 +2992,22 @@
 		]
 	},
 	{
+		"title": "[리콘랩스] 오피스매니저(총무) 및 B2B Sales Manager 모집",
+		"dday": "2022. 07. 19",
+		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43099929&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
+		"company": "(주)리콘랩스",
+		"tag": [
+			"총무",
+			"비품관리",
+			"사내행사",
+			"서류관리",
+			"시설관리"
+		],
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
 		"title": "[리콘랩스] Product Owner, 전략기획 인턴 및 경력 모집",
 		"dday": "2022. 07. 19",
 		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43100146&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
@@ -3008,16 +3024,53 @@
 		]
 	},
 	{
-		"title": "[리콘랩스] 오피스매니저(총무) 및 B2B Sales Manager 모집",
-		"dday": "2022. 07. 19",
-		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43099929&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
-		"company": "(주)리콘랩스",
+		"title": "정보보안컨설팅 및 보안 솔루션 분야 모집 공고",
+		"dday": "2022. 07. 20",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38788727?rPageCode=SL",
+		"company": "나우시큐리티",
 		"tag": [
-			"총무",
-			"비품관리",
-			"사내행사",
-			"서류관리",
-			"시설관리"
+			"네트워크보안",
+			"보안소프트웨어",
+			"보안컨설팅",
+			"정보보안",
+			"기술영업",
+			"기술지원",
+			"네트워크엔지니어",
+			"방화벽",
+			"보안관리",
+			"보안기술",
+			"정보보안",
+			"유지보수",
+			"소프트웨어"
+		],
+		"bigtag": [
+			"서버",
+			"응용"
+		]
+	},
+	{
+		"title": "마케팅, 경영지원   채용",
+		"dday": "2022. 07. 20",
+		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43327875&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
+		"company": "블루레이커스(주)",
+		"tag": [
+			"앱개발",
+			"경영지원",
+			"SNS마케팅",
+			"R",
+			"마케팅"
+		],
+		"bigtag": [
+			"응용"
+		]
+	},
+	{
+		"title": "(주)머니엔에프티 마케팅팀 신입 모집",
+		"dday": "2022. 07. 20",
+		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43325151&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
+		"company": "주식회사 머니엔에프티",
+		"tag": [
+			"마케팅"
 		],
 		"bigtag": [
 			"기타"
@@ -3037,20 +3090,6 @@
 		],
 		"bigtag": [
 			"서버"
-		]
-	},
-	{
-		"title": "더스타 기자/광고팀 정규직, 계약직, 인턴직 채용 공고",
-		"dday": "2022. 07. 20",
-		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43327301&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
-		"company": "(주)더스타미디어",
-		"tag": [
-			"기자",
-			"에디터",
-			"촬영"
-		],
-		"bigtag": [
-			"기타"
 		]
 	},
 	{
@@ -3084,71 +3123,17 @@
 		]
 	},
 	{
-		"title": "마케팅, 경영지원   채용",
+		"title": "더스타 기자/광고팀 정규직, 계약직, 인턴직 채용 공고",
 		"dday": "2022. 07. 20",
-		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43327875&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
-		"company": "블루레이커스(주)",
+		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43327301&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
+		"company": "(주)더스타미디어",
 		"tag": [
-			"앱개발",
-			"경영지원",
-			"SNS마케팅",
-			"R",
-			"마케팅"
-		],
-		"bigtag": [
-			"응용"
-		]
-	},
-	{
-		"title": "(주)머니엔에프티 마케팅팀 신입 모집",
-		"dday": "2022. 07. 20",
-		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43325151&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
-		"company": "주식회사 머니엔에프티",
-		"tag": [
-			"마케팅"
+			"기자",
+			"에디터",
+			"촬영"
 		],
 		"bigtag": [
 			"기타"
-		]
-	},
-	{
-		"title": "정보보안컨설팅 및 보안 솔루션 분야 모집 공고",
-		"dday": "2022. 07. 20",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38788727?rPageCode=SL",
-		"company": "나우시큐리티",
-		"tag": [
-			"네트워크보안",
-			"보안소프트웨어",
-			"보안컨설팅",
-			"정보보안",
-			"기술영업",
-			"기술지원",
-			"네트워크엔지니어",
-			"방화벽",
-			"보안관리",
-			"보안기술",
-			"정보보안",
-			"유지보수",
-			"소프트웨어"
-		],
-		"bigtag": [
-			"서버",
-			"응용"
-		]
-	},
-	{
-		"title": "쇼핑몰 웹디자이너 / 경력.신입",
-		"dday": "2022. 07. 21",
-		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43340848&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
-		"company": "(주)십이지",
-		"tag": [
-			"웹디자인",
-			"PhotoShop",
-			"상세페이지",
-			"썸네일"
-		],
-		"bigtag": [
-			"웹"
 		]
 	},
 	{
@@ -3165,36 +3150,6 @@
 		],
 		"bigtag": [
 			"인공지능"
-		]
-	},
-	{
-		"title": "[글로우픽] 플랫폼운영 인턴",
-		"dday": "2022. 07. 21",
-		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43336736&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
-		"company": "글로우데이즈",
-		"tag": [
-			"SNS마케팅",
-			"게시판관리",
-			"고객관리",
-			"마케팅",
-			"CS"
-		],
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "[놀이의발견] 스토어MD 인턴 채용",
-		"dday": "2022. 07. 21",
-		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43336104&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
-		"company": "(주)놀이의발견",
-		"tag": [
-			"온라인MD",
-			"AMD",
-			"이커머스"
-		],
-		"bigtag": [
-			"기타"
 		]
 	},
 	{
@@ -3244,84 +3199,48 @@
 		]
 	},
 	{
-		"title": "전략팀 인턴 채용 (리서치 업무)",
-		"dday": "2022. 07. 22",
-		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43350269&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
-		"company": "피에스엑스(주)",
-		"tag": [
-			"전략기획",
-			"리서치",
-			"시장조사",
-			"마케팅"
-		],
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "마케팅 신입/경력 채용(정규직&계약직)",
-		"dday": "2022. 07. 22",
-		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43350877&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
-		"company": "(주)메디치소프트",
-		"tag": [
-			"마케팅기획",
-			"마케팅전략",
-			"광고마케팅",
-			"기업홍보",
-			"브랜드마케팅"
-		],
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "[웹에이전시] 웹 기획자·PM 신입.경력 채용",
-		"dday": "2022. 07. 22",
-		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43351204&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
+		"title": "쇼핑몰 웹디자이너 / 경력.신입",
+		"dday": "2022. 07. 21",
+		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43340848&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
 		"company": "(주)십이지",
 		"tag": [
-			"서비스기획",
-			"웹기획",
-			"컨설턴트",
-			"PM(프로젝트매니저)",
-			"스토리보드"
+			"웹디자인",
+			"PhotoShop",
+			"상세페이지",
+			"썸네일"
 		],
 		"bigtag": [
 			"웹"
 		]
 	},
 	{
-		"title": "[Cellebrite] 디지털 인텔리전스 사업 지원 담당 정규직 모집",
-		"dday": "2022. 07. 22",
-		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43347656&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
-		"company": "골든엑세스(주)",
+		"title": "[글로우픽] 플랫폼운영 인턴",
+		"dday": "2022. 07. 21",
+		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43336736&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
+		"company": "글로우데이즈",
 		"tag": [
-			"보안컨설팅",
-			"정보보안",
-			"솔루션",
-			"네트워크",
-			"인프라"
+			"SNS마케팅",
+			"게시판관리",
+			"고객관리",
+			"마케팅",
+			"CS"
 		],
 		"bigtag": [
-			"서버"
+			"기타"
 		]
 	},
 	{
-		"title": "2022 보안솔루션 엔지니어 인턴사원 모집",
-		"dday": "2022. 07. 22",
-		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43118578&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
-		"company": "펜타린크(주)",
+		"title": "[놀이의발견] 스토어MD 인턴 채용",
+		"dday": "2022. 07. 21",
+		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43336104&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
+		"company": "(주)놀이의발견",
 		"tag": [
-			"기술지원",
-			"데이터엔지니어",
-			"웹개발",
-			"유지보수",
-			"정보보안"
+			"온라인MD",
+			"AMD",
+			"이커머스"
 		],
 		"bigtag": [
-			"서버",
-			"웹",
-			"데이터"
+			"기타"
 		]
 	},
 	{
@@ -3354,6 +3273,103 @@
 		]
 	},
 	{
+		"title": "2022 보안솔루션 엔지니어 인턴사원 모집",
+		"dday": "2022. 07. 22",
+		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43118578&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
+		"company": "펜타린크(주)",
+		"tag": [
+			"기술지원",
+			"데이터엔지니어",
+			"웹개발",
+			"유지보수",
+			"정보보안"
+		],
+		"bigtag": [
+			"데이터",
+			"서버",
+			"웹"
+		]
+	},
+	{
+		"title": "전략팀 인턴 채용 (리서치 업무)",
+		"dday": "2022. 07. 22",
+		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43350269&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
+		"company": "피에스엑스(주)",
+		"tag": [
+			"전략기획",
+			"리서치",
+			"시장조사",
+			"마케팅"
+		],
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
+		"title": "[웹에이전시] 웹 기획자·PM 신입.경력 채용",
+		"dday": "2022. 07. 22",
+		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43351204&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
+		"company": "(주)십이지",
+		"tag": [
+			"서비스기획",
+			"웹기획",
+			"컨설턴트",
+			"PM(프로젝트매니저)",
+			"스토리보드"
+		],
+		"bigtag": [
+			"웹"
+		]
+	},
+	{
+		"title": "마케팅 신입/경력 채용(정규직&계약직)",
+		"dday": "2022. 07. 22",
+		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43350877&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
+		"company": "(주)메디치소프트",
+		"tag": [
+			"마케팅기획",
+			"마케팅전략",
+			"광고마케팅",
+			"기업홍보",
+			"브랜드마케팅"
+		],
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
+		"title": "마케팅·홍보·조사外 1개 부문 담당자 채용",
+		"dday": "2022. 07. 22",
+		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43349323&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
+		"company": "메타플레이어 주식회사",
+		"tag": [
+			"SNS마케팅",
+			"콘텐츠기획",
+			"기획",
+			"홍보",
+			"마케팅"
+		],
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
+		"title": "[Cellebrite] 디지털 인텔리전스 사업 지원 담당 정규직 모집",
+		"dday": "2022. 07. 22",
+		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43347656&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
+		"company": "골든엑세스(주)",
+		"tag": [
+			"보안컨설팅",
+			"정보보안",
+			"솔루션",
+			"네트워크",
+			"인프라"
+		],
+		"bigtag": [
+			"서버"
+		]
+	},
+	{
 		"title": "[프람트테크놀로지] 소프트웨어 개발분야 정규직 신입사원 채용",
 		"dday": "2022. 07. 22",
 		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43347263&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
@@ -3373,16 +3389,14 @@
 		]
 	},
 	{
-		"title": "마케팅·홍보·조사外 1개 부문 담당자 채용",
+		"title": "(신입/경력) UI/UX 디자이너 채용 공고",
 		"dday": "2022. 07. 22",
-		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43349323&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
-		"company": "메타플레이어 주식회사",
+		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43116163&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
+		"company": "오픈포맷 주식회사",
 		"tag": [
-			"SNS마케팅",
-			"콘텐츠기획",
-			"기획",
-			"홍보",
-			"마케팅"
+			"UI/UX디자인",
+			"UI/UX",
+			"기획"
 		],
 		"bigtag": [
 			"기타"
@@ -3405,17 +3419,16 @@
 		]
 	},
 	{
-		"title": "(신입/경력) UI/UX 디자이너 채용 공고",
-		"dday": "2022. 07. 22",
-		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43116163&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
-		"company": "오픈포맷 주식회사",
+		"title": "인공지능 기반 디지털 트윈 스타트업 개발자 모집",
+		"dday": "2022. 07. 23",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38824681?rPageCode=SL",
+		"company": "니어브레인㈜",
 		"tag": [
-			"UI/UX디자인",
-			"UI/UX",
-			"기획"
+			"소프트웨어개발",
+			"솔루션"
 		],
 		"bigtag": [
-			"기타"
+			"응용"
 		]
 	},
 	{
@@ -3435,16 +3448,20 @@
 		]
 	},
 	{
-		"title": "인공지능 기반 디지털 트윈 스타트업 개발자 모집",
+		"title": "[캐시워크] 데이터그로스팀 채용전환형 인턴",
 		"dday": "2022. 07. 23",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38824681?rPageCode=SL",
-		"company": "니어브레인㈜",
+		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43127591&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
+		"company": "넛지헬스케어(주)",
 		"tag": [
-			"소프트웨어개발",
-			"솔루션"
+			"데이터마이닝",
+			"데이터시각화",
+			"머신러닝",
+			"마케팅기획",
+			"마케팅전략"
 		],
 		"bigtag": [
-			"응용"
+			"데이터",
+			"인공지능"
 		]
 	},
 	{
@@ -3465,23 +3482,6 @@
 		]
 	},
 	{
-		"title": "[캐시워크] 데이터그로스팀 채용전환형 인턴",
-		"dday": "2022. 07. 23",
-		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43127591&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
-		"company": "넛지헬스케어(주)",
-		"tag": [
-			"데이터마이닝",
-			"데이터시각화",
-			"머신러닝",
-			"마케팅기획",
-			"마케팅전략"
-		],
-		"bigtag": [
-			"인공지능",
-			"데이터"
-		]
-	},
-	{
 		"title": "웹/앱 기획자 모집 모집",
 		"dday": "2022. 07. 23",
 		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43357383&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
@@ -3496,6 +3496,54 @@
 		"bigtag": [
 			"웹",
 			"응용"
+		]
+	},
+	{
+		"title": "태국 마케팅 인턴 모집 (태국인/태국 유학생 우대)",
+		"dday": "2022. 07. 24",
+		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43138488&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
+		"company": "(주)프리딕션",
+		"tag": [
+			"SNS",
+			"온라인마케팅",
+			"마케팅",
+			"기획",
+			"홍보"
+		],
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
+		"title": "[신입/경력] ZWCAD KOREA 각 부문 정규직 모집",
+		"dday": "2022. 07. 24",
+		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43133786&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
+		"company": "(주)지더블유캐드코리아",
+		"tag": [
+			"기술지원",
+			"총무",
+			"급여(Payroll)",
+			"기술영업",
+			"영업지원"
+		],
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
+		"title": "스타트업을 운영하는데 필요한 회계,세 업무지원파트 채용",
+		"dday": "2022. 07. 24",
+		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43372740&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
+		"company": "(주)이어드림",
+		"tag": [
+			"경리",
+			"자금관리",
+			"재무회계",
+			"총무",
+			"사무보조"
+		],
+		"bigtag": [
+			"기타"
 		]
 	},
 	{
@@ -3531,71 +3579,6 @@
 		]
 	},
 	{
-		"title": "스타트업을 운영하는데 필요한 회계,세 업무지원파트 채용",
-		"dday": "2022. 07. 24",
-		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43372740&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
-		"company": "(주)이어드림",
-		"tag": [
-			"경리",
-			"자금관리",
-			"재무회계",
-			"총무",
-			"사무보조"
-		],
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "[신입/경력] ZWCAD KOREA 각 부문 정규직 모집",
-		"dday": "2022. 07. 24",
-		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43133786&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
-		"company": "(주)지더블유캐드코리아",
-		"tag": [
-			"기술지원",
-			"총무",
-			"급여(Payroll)",
-			"기술영업",
-			"영업지원"
-		],
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "태국 마케팅 인턴 모집 (태국인/태국 유학생 우대)",
-		"dday": "2022. 07. 24",
-		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43138488&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
-		"company": "(주)프리딕션",
-		"tag": [
-			"SNS",
-			"온라인마케팅",
-			"마케팅",
-			"기획",
-			"홍보"
-		],
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "JAVA 신입 개발자  (SI/SM 1팀)",
-		"dday": "2022. 07. 25",
-		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43145578&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
-		"company": "(주)누리앱",
-		"tag": [
-			"앱개발",
-			"웹개발",
-			"프론트엔드",
-			"Android",
-			"Java"
-		],
-		"bigtag": [
-			"웹",
-			"응용"
-		]
-	},
-	{
 		"title": "인공지능(AI)·빅데이터 컨설팅 팀원 추가 모집",
 		"dday": "2022. 07. 25",
 		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43141268&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
@@ -3609,36 +3592,6 @@
 		],
 		"bigtag": [
 			"데이터"
-		]
-	},
-	{
-		"title": "인공지능 데이터 분야 인재 양성 및 채용",
-		"dday": "2022. 07. 25",
-		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43143279&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
-		"company": "(주)다이얼로그디자인에이전시",
-		"tag": [
-			"PM(프로젝트매니저)",
-			"기획",
-			"리서치"
-		],
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "(강남지역) 그래픽 디자이너 모집(경력무관)",
-		"dday": "2022. 07. 25",
-		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43149063&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
-		"company": "(주)스칼라데이터",
-		"tag": [
-			"일러스트레이터",
-			"타이포그래피",
-			"일러스트",
-			"Figma",
-			"디자인"
-		],
-		"bigtag": [
-			"기타"
 		]
 	},
 	{
@@ -3684,8 +3637,39 @@
 		"bigtag": [
 			"데이터",
 			"인공지능",
+			"응용",
+			"웹"
+		]
+	},
+	{
+		"title": "JAVA 신입 개발자  (SI/SM 1팀)",
+		"dday": "2022. 07. 25",
+		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43145578&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
+		"company": "(주)누리앱",
+		"tag": [
+			"앱개발",
+			"웹개발",
+			"프론트엔드",
+			"Android",
+			"Java"
+		],
+		"bigtag": [
 			"웹",
 			"응용"
+		]
+	},
+	{
+		"title": "인공지능 데이터 분야 인재 양성 및 채용",
+		"dday": "2022. 07. 25",
+		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43143279&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
+		"company": "(주)다이얼로그디자인에이전시",
+		"tag": [
+			"PM(프로젝트매니저)",
+			"기획",
+			"리서치"
+		],
+		"bigtag": [
+			"기타"
 		]
 	},
 	{
@@ -3696,6 +3680,22 @@
 		"tag": [
 			"이벤트프로모션",
 			"마케팅"
+		],
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
+		"title": "(강남지역) 그래픽 디자이너 모집(경력무관)",
+		"dday": "2022. 07. 25",
+		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43149063&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
+		"company": "(주)스칼라데이터",
+		"tag": [
+			"일러스트레이터",
+			"타이포그래피",
+			"일러스트",
+			"Figma",
+			"디자인"
 		],
 		"bigtag": [
 			"기타"
@@ -3726,11 +3726,11 @@
 			"MySQL"
 		],
 		"bigtag": [
-			"응용",
+			"웹",
+			"데이터",
 			"서버",
 			"시스템",
-			"데이터",
-			"웹"
+			"응용"
 		]
 	},
 	{
@@ -3751,20 +3751,6 @@
 		]
 	},
 	{
-		"title": "[미소정보기술] 데이터 라벨링  담당자 모집[계약직/기간제]",
-		"dday": "2022. 07. 27",
-		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43382797&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
-		"company": "(주)미소정보기술",
-		"tag": [
-			"R&D",
-			"R&D기획",
-			"기술연구"
-		],
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
 		"title": "영어 사업팀 인턴",
 		"dday": "2022. 07. 27",
 		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43393445&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
@@ -3774,20 +3760,6 @@
 			"교재개발",
 			"영어",
 			"중국어"
-		],
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "2022년 하반기 RPA개발자 & P/PM 채용공고",
-		"dday": "2022. 07. 27",
-		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43384117&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
-		"company": "(주)앤타스",
-		"tag": [
-			"RPA",
-			"PL(프로젝트리더)",
-			"PM(프로젝트매니저)"
 		],
 		"bigtag": [
 			"기타"
@@ -3810,6 +3782,20 @@
 		]
 	},
 	{
+		"title": "2022년 하반기 RPA개발자 & P/PM 채용공고",
+		"dday": "2022. 07. 27",
+		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43384117&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
+		"company": "(주)앤타스",
+		"tag": [
+			"RPA",
+			"PL(프로젝트리더)",
+			"PM(프로젝트매니저)"
+		],
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
 		"title": "중국어 사업팀 인턴",
 		"dday": "2022. 07. 27",
 		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43393435&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
@@ -3818,6 +3804,20 @@
 			"교육컨텐츠개발",
 			"교재개발",
 			"중국어"
+		],
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
+		"title": "[미소정보기술] 데이터 라벨링  담당자 모집[계약직/기간제]",
+		"dday": "2022. 07. 27",
+		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43382797&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
+		"company": "(주)미소정보기술",
+		"tag": [
+			"R&D",
+			"R&D기획",
+			"기술연구"
 		],
 		"bigtag": [
 			"기타"
@@ -3844,19 +3844,131 @@
 		]
 	},
 	{
-		"title": "심리상담 인턴모집",
+		"title": "C++ 윈도우 프로그래밍, 시스템 프로그래머, 리눅스 프로그래머",
 		"dday": "2022. 07. 28",
-		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43400649&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
-		"company": "(주)플레이웰글로벌",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38238733?rPageCode=SL",
+		"company": "㈜이노테스트",
 		"tag": [
-			"놀이치료사",
-			"미술치료사",
-			"심리치료사",
-			"상담센터",
-			"심리치료사"
+			"VisualC++",
+			"Windows",
+			"시스템프로그래머",
+			"임베디드",
+			"펌웨어"
+		],
+		"bigtag": [
+			"시스템"
+		]
+	},
+	{
+		"title": "[MetaBuzz] 유니티 개발자 신입/경력 채용",
+		"dday": "2022. 07. 28",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38872665?rPageCode=SL",
+		"company": "㈜메타버즈",
+		"tag": [
+			"광고기획",
+			"광고대행",
+			"광고제작",
+			"온라인광고",
+			"홍보대행",
+			"게임개발",
+			"모바일게임",
+			"응용프로그래머",
+			"C#",
+			"Windows",
+			"가상현실"
+		],
+		"bigtag": [
+			"응용"
+		]
+	},
+	{
+		"title": "[글로우픽] 영업지원 인턴",
+		"dday": "2022. 07. 28",
+		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43396564&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
+		"company": "글로우데이즈",
+		"tag": [
+			"영업관리",
+			"영업지원",
+			"거래처관리",
+			"영업"
 		],
 		"bigtag": [
 			"기타"
+		]
+	},
+	{
+		"title": "[뇌영상AI선두기업] 데이터 라벨링(Labeling) 계약직",
+		"dday": "2022. 07. 28",
+		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43396367&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
+		"company": "뉴로핏(주)",
+		"tag": [
+			"데이터라벨링",
+			"데이터시각화",
+			"빅데이터",
+			"AI(인공지능)",
+			"의약사무"
+		],
+		"bigtag": [
+			"데이터",
+			"인공지능"
+		]
+	},
+	{
+		"title": "[VNTG] 내부회계관리제도 ITGC 운영 (채용전제형 인턴)",
+		"dday": "2022. 07. 28",
+		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43401546&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
+		"company": "(주)브이엔티지",
+		"tag": [
+			"감사",
+			"내부감사",
+			"품질분석",
+			"ESG",
+			"품질관리"
+		],
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
+		"title": "솔루션 사업부 백엔드/서버개발 & Android & iOS 개발자 모집 공고",
+		"dday": "2022. 07. 28",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38870596?rPageCode=SL",
+		"company": "㈜피피티웨어",
+		"tag": [
+			"솔루션",
+			"백엔드",
+			"서버개발",
+			"restapi",
+			"SWIFT",
+			"소프트웨어개발",
+			"Java",
+			"아이폰",
+			"안드로이드",
+			"API",
+			"Java"
+		],
+		"bigtag": [
+			"서버",
+			"응용",
+			"웹"
+		]
+	},
+	{
+		"title": "[레드테이블] 각 분야별 빅데이터 인턴직 채용",
+		"dday": "2022. 07. 28",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38869612?rPageCode=SL",
+		"company": "㈜레드테이블",
+		"tag": [
+			"영어",
+			"소프트웨어개발",
+			"SQL",
+			"Python",
+			"빅데이터",
+			"R"
+		],
+		"bigtag": [
+			"데이터",
+			"응용"
 		]
 	},
 	{
@@ -3898,16 +4010,32 @@
 		]
 	},
 	{
-		"title": "[Smartdoctor] 병원용 솔루션 총무파트 채용전환형 인턴",
+		"title": "젊고 트렌디한 IT회사에서 IT기획자를 채용합니다.",
 		"dday": "2022. 07. 28",
-		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43401453&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
-		"company": "전능아이티(주)",
+		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43397618&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
+		"company": "코드크레인(유)",
 		"tag": [
-			"경리",
-			"더존",
-			"법인결산",
-			"부가세신고",
-			"자금관리"
+			"마케팅기획",
+			"마케팅전략",
+			"블로그마케팅",
+			"스포츠마케팅",
+			"인플루언서마케팅"
+		],
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
+		"title": "심리상담 인턴모집",
+		"dday": "2022. 07. 28",
+		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43400649&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
+		"company": "(주)플레이웰글로벌",
+		"tag": [
+			"놀이치료사",
+			"미술치료사",
+			"심리치료사",
+			"상담센터",
+			"심리치료사"
 		],
 		"bigtag": [
 			"기타"
@@ -3930,160 +4058,16 @@
 		]
 	},
 	{
-		"title": "[레드테이블] 각 분야별 빅데이터 인턴직 채용",
+		"title": "[Smartdoctor] 병원용 솔루션 총무파트 채용전환형 인턴",
 		"dday": "2022. 07. 28",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38869612?rPageCode=SL",
-		"company": "㈜레드테이블",
+		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43401453&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
+		"company": "전능아이티(주)",
 		"tag": [
-			"영어",
-			"소프트웨어개발",
-			"SQL",
-			"Python",
-			"빅데이터",
-			"R"
-		],
-		"bigtag": [
-			"데이터",
-			"응용"
-		]
-	},
-	{
-		"title": "솔루션 사업부 백엔드/서버개발 & Android & iOS 개발자 모집 공고",
-		"dday": "2022. 07. 28",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38870596?rPageCode=SL",
-		"company": "㈜피피티웨어",
-		"tag": [
-			"솔루션",
-			"백엔드",
-			"서버개발",
-			"restapi",
-			"SWIFT",
-			"소프트웨어개발",
-			"Java",
-			"아이폰",
-			"안드로이드",
-			"API",
-			"Java"
-		],
-		"bigtag": [
-			"서버",
-			"응용",
-			"웹"
-		]
-	},
-	{
-		"title": "[뇌영상AI선두기업] 데이터 라벨링(Labeling) 계약직",
-		"dday": "2022. 07. 28",
-		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43396367&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
-		"company": "뉴로핏(주)",
-		"tag": [
-			"데이터라벨링",
-			"데이터시각화",
-			"빅데이터",
-			"AI(인공지능)",
-			"의약사무"
-		],
-		"bigtag": [
-			"인공지능",
-			"데이터"
-		]
-	},
-	{
-		"title": "[글로우픽] 영업지원 인턴",
-		"dday": "2022. 07. 28",
-		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43396564&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
-		"company": "글로우데이즈",
-		"tag": [
-			"영업관리",
-			"영업지원",
-			"거래처관리",
-			"영업"
-		],
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "젊고 트렌디한 IT회사에서 IT기획자를 채용합니다.",
-		"dday": "2022. 07. 28",
-		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43397618&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
-		"company": "코드크레인(유)",
-		"tag": [
-			"마케팅기획",
-			"마케팅전략",
-			"블로그마케팅",
-			"스포츠마케팅",
-			"인플루언서마케팅"
-		],
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "C++ 윈도우 프로그래밍, 시스템 프로그래머, 리눅스 프로그래머",
-		"dday": "2022. 07. 28",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38238733?rPageCode=SL",
-		"company": "㈜이노테스트",
-		"tag": [
-			"VisualC++",
-			"Windows",
-			"시스템프로그래머",
-			"임베디드",
-			"펌웨어"
-		],
-		"bigtag": [
-			"시스템"
-		]
-	},
-	{
-		"title": "[VNTG] 내부회계관리제도 ITGC 운영 (채용전제형 인턴)",
-		"dday": "2022. 07. 28",
-		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43401546&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
-		"company": "(주)브이엔티지",
-		"tag": [
-			"감사",
-			"내부감사",
-			"품질분석",
-			"ESG",
-			"품질관리"
-		],
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "[MetaBuzz] 유니티 개발자 신입/경력 채용",
-		"dday": "2022. 07. 28",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38872665?rPageCode=SL",
-		"company": "㈜메타버즈",
-		"tag": [
-			"광고기획",
-			"광고대행",
-			"광고제작",
-			"온라인광고",
-			"홍보대행",
-			"게임개발",
-			"모바일게임",
-			"응용프로그래머",
-			"C#",
-			"Windows",
-			"가상현실"
-		],
-		"bigtag": [
-			"응용"
-		]
-	},
-	{
-		"title": "나우앤나우/굿모임 플랫폼 사업운영 정규직 직원채용",
-		"dday": "2022. 07. 29",
-		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43173474&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
-		"company": "(주)엘림넷",
-		"tag": [
-			"사이트관리",
-			"콘텐츠관리",
-			"영상제작",
-			"영상편집",
-			"서비스기획"
+			"경리",
+			"더존",
+			"법인결산",
+			"부가세신고",
+			"자금관리"
 		],
 		"bigtag": [
 			"기타"
@@ -4106,6 +4090,37 @@
 		]
 	},
 	{
+		"title": "나우앤나우/굿모임 플랫폼 사업운영 정규직 직원채용",
+		"dday": "2022. 07. 29",
+		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43173474&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
+		"company": "(주)엘림넷",
+		"tag": [
+			"사이트관리",
+			"콘텐츠관리",
+			"영상제작",
+			"영상편집",
+			"서비스기획"
+		],
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
+		"title": "DT 인턴사원 모집",
+		"dday": "2022. 07. 3",
+		"link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2206230000287",
+		"company": "에스케이머티리얼즈",
+		"tag": [
+			"빅데이터·AI(인공지능)",
+			"ERP·시스템분석·설계"
+		],
+		"bigtag": [
+			"데이터",
+			"시스템",
+			"인공지능"
+		]
+	},
+	{
 		"title": "웹개발자 채용공고",
 		"dday": "2022. 07. 31",
 		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38512822?rPageCode=SL",
@@ -4115,6 +4130,90 @@
 		],
 		"bigtag": [
 			"응용"
+		]
+	},
+	{
+		"title": "[KSTEC] Prescriptive Analytics 컨설턴트 신입 채용",
+		"dday": "2022. 07. 31",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38841004?rPageCode=SL",
+		"company": "지식시스템㈜ KSTEC",
+		"tag": [
+			"ERP",
+			"SCM",
+			"시스템분석설계",
+			"APS",
+			"DB",
+			"데이터베이스",
+			"DBA",
+			"응용프로그래머",
+			"C++",
+			"Python"
+		],
+		"bigtag": [
+			"데이터",
+			"시스템",
+			"응용"
+		]
+	},
+	{
+		"title": "평범하지만, 특별한 인피니텀의 사람들과 함께할 개발자를 찾습니다.",
+		"dday": "2022. 07. 31",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38258692?rPageCode=SL",
+		"company": "인피니텀㈜",
+		"tag": [
+			"모바일앱개발",
+			"소프트웨어개발",
+			"솔루션",
+			"웹프로그래머",
+			"Java",
+			"jsp",
+			"MS-SQL",
+			"php",
+			"아이폰",
+			"안드로이드",
+			"응용프로그래머",
+			"전산전공",
+			"Python",
+			"인공지능(AI)",
+			"빅데이터",
+			"사물인터넷(IoT)",
+			"tensorflow",
+			"챗봇(Chatbot)"
+		],
+		"bigtag": [
+			"웹",
+			"데이터",
+			"응용",
+			"인공지능"
+		]
+	},
+	{
+		"title": "[브이알애드] VR 컨텐츠 개발자 구인",
+		"dday": "2022. 07. 31",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38466632?rPageCode=SL",
+		"company": "㈜브이알애드",
+		"tag": [
+			"솔루션",
+			"가상현실"
+		],
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
+		"title": "IT해외영업 RA인턴 (3개월) 모집",
+		"dday": "2022. 07. 31",
+		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43308308&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
+		"company": "한국전자인증㈜",
+		"tag": [
+			"해외시장개척",
+			"해외영업",
+			"해외영업관리",
+			"해외영업지원",
+			"리서치"
+		],
+		"bigtag": [
+			"기타"
 		]
 	},
 	{
@@ -4154,92 +4253,8 @@
 			"소프트웨어"
 		],
 		"bigtag": [
-			"시스템",
 			"웹",
-			"응용"
-		]
-	},
-	{
-		"title": "[브이알애드] VR 컨텐츠 개발자 구인",
-		"dday": "2022. 07. 31",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38466632?rPageCode=SL",
-		"company": "㈜브이알애드",
-		"tag": [
-			"솔루션",
-			"가상현실"
-		],
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "[KSTEC] Prescriptive Analytics 컨설턴트 신입 채용",
-		"dday": "2022. 07. 31",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38841004?rPageCode=SL",
-		"company": "지식시스템㈜ KSTEC",
-		"tag": [
-			"ERP",
-			"SCM",
-			"시스템분석설계",
-			"APS",
-			"DB",
-			"데이터베이스",
-			"DBA",
-			"응용프로그래머",
-			"C++",
-			"Python"
-		],
-		"bigtag": [
 			"시스템",
-			"응용",
-			"데이터"
-		]
-	},
-	{
-		"title": "IT해외영업 RA인턴 (3개월) 모집",
-		"dday": "2022. 07. 31",
-		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43308308&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
-		"company": "한국전자인증㈜",
-		"tag": [
-			"해외시장개척",
-			"해외영업",
-			"해외영업관리",
-			"해외영업지원",
-			"리서치"
-		],
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "평범하지만, 특별한 인피니텀의 사람들과 함께할 개발자를 찾습니다.",
-		"dday": "2022. 07. 31",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38258692?rPageCode=SL",
-		"company": "인피니텀㈜",
-		"tag": [
-			"모바일앱개발",
-			"소프트웨어개발",
-			"솔루션",
-			"웹프로그래머",
-			"Java",
-			"jsp",
-			"MS-SQL",
-			"php",
-			"아이폰",
-			"안드로이드",
-			"응용프로그래머",
-			"전산전공",
-			"Python",
-			"인공지능(AI)",
-			"빅데이터",
-			"사물인터넷(IoT)",
-			"tensorflow",
-			"챗봇(Chatbot)"
-		],
-		"bigtag": [
-			"데이터",
-			"인공지능",
-			"웹",
 			"응용"
 		]
 	},
@@ -4311,10 +4326,10 @@
 			"운송·물류"
 		],
 		"bigtag": [
+			"데이터",
 			"시스템",
 			"인공지능",
-			"웹",
-			"데이터"
+			"웹"
 		]
 	},
 	{
@@ -4380,20 +4395,6 @@
 		]
 	},
 	{
-		"title": "현대백화점아울렛 전산운영인력 모집",
-		"dday": "2022. 08. 01",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38273219?rPageCode=SL",
-		"company": "㈜포이텍",
-		"tag": [
-			"네트워크관리",
-			"시스템운영",
-			"POS"
-		],
-		"bigtag": [
-			"시스템"
-		]
-	},
-	{
 		"title": "몽골 JavaScript 개발 및 몽골 개발팀 매니저  모집 [신입/경력]",
 		"dday": "2022. 08. 01",
 		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43199575&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
@@ -4410,6 +4411,20 @@
 		]
 	},
 	{
+		"title": "현대백화점아울렛 전산운영인력 모집",
+		"dday": "2022. 08. 01",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38273219?rPageCode=SL",
+		"company": "㈜포이텍",
+		"tag": [
+			"네트워크관리",
+			"시스템운영",
+			"POS"
+		],
+		"bigtag": [
+			"시스템"
+		]
+	},
+	{
 		"title": "개발자 모집 中 주4.5 ( C#, JAVA, 스마트공장, 빅데이터)",
 		"dday": "2022. 08. 02",
 		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43207810&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
@@ -4422,9 +4437,9 @@
 			"IT컨설팅"
 		],
 		"bigtag": [
+			"데이터",
 			"응용",
-			"웹",
-			"데이터"
+			"웹"
 		]
 	},
 	{
@@ -4491,6 +4506,18 @@
 		]
 	},
 	{
+		"title": "블록체인 개발자",
+		"dday": "2022. 08. 09",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38362688?rPageCode=SL",
+		"company": "㈜ 로그엔코딩",
+		"tag": [
+			"IT학원"
+		],
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
 		"title": "데이터분석가 및 경영컨설턴트 육성 대상 직원 채용 공고",
 		"dday": "2022. 08. 09",
 		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38361475?rPageCode=SL",
@@ -4505,20 +4532,8 @@
 			"컨설턴트"
 		],
 		"bigtag": [
-			"인공지능",
-			"데이터"
-		]
-	},
-	{
-		"title": "블록체인 개발자",
-		"dday": "2022. 08. 09",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38362688?rPageCode=SL",
-		"company": "㈜ 로그엔코딩",
-		"tag": [
-			"IT학원"
-		],
-		"bigtag": [
-			"기타"
+			"데이터",
+			"인공지능"
 		]
 	},
 	{
@@ -4548,9 +4563,9 @@
 			"빅데이터"
 		],
 		"bigtag": [
+			"데이터",
 			"시스템",
-			"인공지능",
-			"데이터"
+			"인공지능"
 		]
 	},
 	{
@@ -4572,20 +4587,6 @@
 		]
 	},
 	{
-		"title": "보안솔루션엔지니어 / 보안솔루션 기술지원 / 유지보수",
-		"dday": "2022. 08. 12",
-		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43269536&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
-		"company": "타우시큐리티(주)",
-		"tag": [
-			"기술지원",
-			"보안컨설팅",
-			"유지보수"
-		],
-		"bigtag": [
-			"서버"
-		]
-	},
-	{
 		"title": "Windows/Linux C/C++ 개발자 모집 (신입/경력)",
 		"dday": "2022. 08. 12",
 		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43276476&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
@@ -4602,23 +4603,6 @@
 		]
 	},
 	{
-		"title": "2022년 하반기 데이터 엔지니어 채용",
-		"dday": "2022. 08. 12",
-		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43267032&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
-		"company": "(주)나인티나인",
-		"tag": [
-			"데이터분석가",
-			"데이터마이닝",
-			"머신러닝",
-			"Hadoop",
-			"MSSQL"
-		],
-		"bigtag": [
-			"인공지능",
-			"데이터"
-		]
-	},
-	{
 		"title": "[신입/경력] 웹·앱 UI/UX 기획자 및 디자이너 공개채용",
 		"dday": "2022. 08. 12",
 		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43326678&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
@@ -4632,6 +4616,37 @@
 		],
 		"bigtag": [
 			"웹"
+		]
+	},
+	{
+		"title": "보안솔루션엔지니어 / 보안솔루션 기술지원 / 유지보수",
+		"dday": "2022. 08. 12",
+		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43269536&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
+		"company": "타우시큐리티(주)",
+		"tag": [
+			"기술지원",
+			"보안컨설팅",
+			"유지보수"
+		],
+		"bigtag": [
+			"서버"
+		]
+	},
+	{
+		"title": "2022년 하반기 데이터 엔지니어 채용",
+		"dday": "2022. 08. 12",
+		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43267032&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
+		"company": "(주)나인티나인",
+		"tag": [
+			"데이터분석가",
+			"데이터마이닝",
+			"머신러닝",
+			"Hadoop",
+			"MSSQL"
+		],
+		"bigtag": [
+			"데이터",
+			"인공지능"
 		]
 	},
 	{
@@ -4652,29 +4667,19 @@
 		]
 	},
 	{
-		"title": "연구소 AI 및 DeepLearning 개발자 모집",
+		"title": "Java·JSP 정규직/계약직 채용(경력무관)",
 		"dday": "2022. 08. 14",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38410842?rPageCode=SL",
-		"company": "㈜누리콘",
+		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43295891&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
+		"company": "(주)어픽",
 		"tag": [
-			"소프트웨어개발",
-			"소프트웨어"
+			"웹개발",
+			"Ajax",
+			"Java",
+			"Python",
+			"JSP"
 		],
 		"bigtag": [
-			"응용"
-		]
-	},
-	{
-		"title": "AI 응용 서비스 FullStack (Frontend/Backend) 개발자 모집",
-		"dday": "2022. 08. 14",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38410792?rPageCode=SL",
-		"company": "㈜누리콘",
-		"tag": [
-			"소프트웨어개발",
-			"소프트웨어"
-		],
-		"bigtag": [
-			"응용"
+			"웹"
 		]
 	},
 	{
@@ -4703,48 +4708,29 @@
 		]
 	},
 	{
-		"title": "Java·JSP 정규직/계약직 채용(경력무관)",
+		"title": "연구소 AI 및 DeepLearning 개발자 모집",
 		"dday": "2022. 08. 14",
-		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43295891&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
-		"company": "(주)어픽",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38410842?rPageCode=SL",
+		"company": "㈜누리콘",
 		"tag": [
-			"웹개발",
-			"Ajax",
-			"Java",
-			"Python",
-			"JSP"
+			"소프트웨어개발",
+			"소프트웨어"
 		],
 		"bigtag": [
-			"웹"
+			"응용"
 		]
 	},
 	{
-		"title": "서버(Back-end) 개발자  신입&경력 채용",
-		"dday": "2022. 08. 16",
-		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43309129&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
-		"company": "(주)아웃라이어",
+		"title": "AI 응용 서비스 FullStack (Frontend/Backend) 개발자 모집",
+		"dday": "2022. 08. 14",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38410792?rPageCode=SL",
+		"company": "㈜누리콘",
 		"tag": [
-			"백엔드/서버개발",
-			"API",
-			"DevOps",
-			"Docker",
-			"Java"
+			"소프트웨어개발",
+			"소프트웨어"
 		],
 		"bigtag": [
-			"서버",
-			"웹"
-		]
-	},
-	{
-		"title": "개발 인턴 채용",
-		"dday": "2022. 08. 16",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38442453?rPageCode=SL",
-		"company": "원더베리",
-		"tag": [
-			"웹프로그래머"
-		],
-		"bigtag": [
-			"웹"
+			"응용"
 		]
 	},
 	{
@@ -4780,6 +4766,35 @@
 		"bigtag": [
 			"웹",
 			"응용"
+		]
+	},
+	{
+		"title": "서버(Back-end) 개발자  신입&경력 채용",
+		"dday": "2022. 08. 16",
+		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43309129&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
+		"company": "(주)아웃라이어",
+		"tag": [
+			"백엔드/서버개발",
+			"API",
+			"DevOps",
+			"Docker",
+			"Java"
+		],
+		"bigtag": [
+			"서버",
+			"웹"
+		]
+	},
+	{
+		"title": "개발 인턴 채용",
+		"dday": "2022. 08. 16",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38442453?rPageCode=SL",
+		"company": "원더베리",
+		"tag": [
+			"웹프로그래머"
+		],
+		"bigtag": [
+			"웹"
 		]
 	},
 	{
@@ -4859,28 +4874,19 @@
 		]
 	},
 	{
-		"title": "[인턴] 같이 공부하실수 있는 웹 개발자를 찾습니다.",
+		"title": "유니티 개발 경험자 우대",
 		"dday": "2022. 08. 21",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38489446?rPageCode=SL",
-		"company": "팀레피소드㈜",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38490607?rPageCode=SL",
+		"company": "진성소프트넷",
 		"tag": [
-			"모바일앱개발",
 			"소프트웨어개발",
-			"솔루션",
-			"CRM",
-			"웹프로그래머",
-			"Java",
-			"MySQL",
 			"안드로이드",
-			"Application",
-			"Linux",
-			"자바스크립트",
-			"CSS",
-			"HTML5"
+			"응용프로그래머",
+			"증강현실",
+			"C++",
+			"가상현실"
 		],
 		"bigtag": [
-			"시스템",
-			"웹",
 			"응용"
 		]
 	},
@@ -4912,23 +4918,6 @@
 		]
 	},
 	{
-		"title": "유니티 개발 경험자 우대",
-		"dday": "2022. 08. 21",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38490607?rPageCode=SL",
-		"company": "진성소프트넷",
-		"tag": [
-			"소프트웨어개발",
-			"안드로이드",
-			"응용프로그래머",
-			"증강현실",
-			"C++",
-			"가상현실"
-		],
-		"bigtag": [
-			"응용"
-		]
-	},
-	{
 		"title": "[MILVUS] 데이터분석 및 시각화 담당자(Tableau Engineer)",
 		"dday": "2022. 08. 21",
 		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38488452?rPageCode=SL",
@@ -4956,6 +4945,32 @@
 		]
 	},
 	{
+		"title": "[인턴] 같이 공부하실수 있는 웹 개발자를 찾습니다.",
+		"dday": "2022. 08. 21",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38489446?rPageCode=SL",
+		"company": "팀레피소드㈜",
+		"tag": [
+			"모바일앱개발",
+			"소프트웨어개발",
+			"솔루션",
+			"CRM",
+			"웹프로그래머",
+			"Java",
+			"MySQL",
+			"안드로이드",
+			"Application",
+			"Linux",
+			"자바스크립트",
+			"CSS",
+			"HTML5"
+		],
+		"bigtag": [
+			"웹",
+			"시스템",
+			"응용"
+		]
+	},
+	{
 		"title": "[지니어트] 커머스 운영 채용전환형 인턴 (마케팅/물류)",
 		"dday": "2022. 08. 22",
 		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43363137&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
@@ -4966,22 +4981,6 @@
 			"인플루언서마케팅",
 			"체험마케팅",
 			"SNS마케팅"
-		],
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "[링커리어] 매체팀 채용전환형 인턴",
-		"dday": "2022. 08. 22",
-		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43358200&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
-		"company": "(주)링커리어",
-		"tag": [
-			"문서작성",
-			"사무보조",
-			"SNS",
-			"마케팅기획",
-			"마케팅전략"
 		],
 		"bigtag": [
 			"기타"
@@ -5001,8 +5000,24 @@
 		],
 		"bigtag": [
 			"시스템",
-			"응용",
-			"웹"
+			"웹",
+			"응용"
+		]
+	},
+	{
+		"title": "[링커리어] 매체팀 채용전환형 인턴",
+		"dday": "2022. 08. 22",
+		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43358200&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
+		"company": "(주)링커리어",
+		"tag": [
+			"문서작성",
+			"사무보조",
+			"SNS",
+			"마케팅기획",
+			"마케팅전략"
+		],
+		"bigtag": [
+			"기타"
 		]
 	},
 	{
@@ -5025,18 +5040,6 @@
 			"서버",
 			"시스템",
 			"응용"
-		]
-	},
-	{
-		"title": "공공 Sector IT전략 컨설턴트(신입, 경력) 모집",
-		"dday": "2022. 08. 22",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38496576?rPageCode=SL",
-		"company": "㈜에스티비컨설팅그룹",
-		"tag": [
-			"IT컨설팅"
-		],
-		"bigtag": [
-			"기타"
 		]
 	},
 	{
@@ -5128,22 +5131,18 @@
 			"UI·UX디자인"
 		],
 		"bigtag": [
-			"서버",
 			"웹",
+			"서버",
 			"응용"
 		]
 	},
 	{
-		"title": "2022년 (주)더스윙 디자이너 채용연계형 인턴 채용",
-		"dday": "2022. 08. 23",
-		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43372850&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
-		"company": "(주)더스윙",
+		"title": "공공 Sector IT전략 컨설턴트(신입, 경력) 모집",
+		"dday": "2022. 08. 22",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38496576?rPageCode=SL",
+		"company": "㈜에스티비컨설팅그룹",
 		"tag": [
-			"그래픽디자인",
-			"디지털디자인",
-			"로고디자인",
-			"모바일디자인",
-			"문구디자인"
+			"IT컨설팅"
 		],
 		"bigtag": [
 			"기타"
@@ -5168,6 +5167,22 @@
 		]
 	},
 	{
+		"title": "2022년 (주)더스윙 디자이너 채용연계형 인턴 채용",
+		"dday": "2022. 08. 23",
+		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43372850&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
+		"company": "(주)더스윙",
+		"tag": [
+			"그래픽디자인",
+			"디지털디자인",
+			"로고디자인",
+			"모바일디자인",
+			"문구디자인"
+		],
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
 		"title": "(주)롤로랜드 증강현실 앱(메타버스) 쥬니어 개발자",
 		"dday": "2022. 08. 23",
 		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38518929?rPageCode=SL",
@@ -5188,8 +5203,8 @@
 		],
 		"bigtag": [
 			"데이터",
-			"인공지능",
-			"응용"
+			"응용",
+			"인공지능"
 		]
 	},
 	{
@@ -5206,25 +5221,6 @@
 			"소프트웨어"
 		],
 		"bigtag": [
-			"응용"
-		]
-	},
-	{
-		"title": "[(주)인터엑스] 제조 AI 프로젝트 PM/PL, Data Engineer 부문채용 (신입/경력)",
-		"dday": "2022. 08. 24",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38529579?rPageCode=SL",
-		"company": "㈜인터엑스",
-		"tag": [
-			"소프트웨어개발",
-			"솔루션",
-			"BigData",
-			"인공지능(AI)",
-			"빅데이터",
-			"데이터분석"
-		],
-		"bigtag": [
-			"데이터",
-			"인공지능",
 			"응용"
 		]
 	},
@@ -5247,6 +5243,25 @@
 		]
 	},
 	{
+		"title": "[(주)인터엑스] 제조 AI 프로젝트 PM/PL, Data Engineer 부문채용 (신입/경력)",
+		"dday": "2022. 08. 24",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38529579?rPageCode=SL",
+		"company": "㈜인터엑스",
+		"tag": [
+			"소프트웨어개발",
+			"솔루션",
+			"BigData",
+			"인공지능(AI)",
+			"빅데이터",
+			"데이터분석"
+		],
+		"bigtag": [
+			"데이터",
+			"응용",
+			"인공지능"
+		]
+	},
+	{
 		"title": "꿀 인턴(주4일 출근 / 1일 6시간)",
 		"dday": "2022. 08. 25",
 		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38547815?rPageCode=SL",
@@ -5261,35 +5276,19 @@
 		]
 	},
 	{
-		"title": "캐릭터 및 시각디자이너 모집",
+		"title": "[캐시워크] 정보보호팀 채용전환형 인턴",
 		"dday": "2022. 08. 26",
-		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43387600&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
-		"company": "㈜큐피플",
-		"tag": [
-			"그래픽디자인",
-			"문구디자인",
-			"배너디자인",
-			"산업디자인",
-			"시각디자인"
-		],
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "[캐시워크] 디지털 광고 운영 담당 채용전환형 인턴",
-		"dday": "2022. 08. 26",
-		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43384384&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
+		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43384876&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
 		"company": "넛지헬스케어(주)",
 		"tag": [
-			"AE(광고기획자)",
-			"광고마케팅",
-			"광고PD",
-			"AE(광고기획자)",
-			"검색광고"
+			"보안컨설팅",
+			"정보보안",
+			"악성코드",
+			"취약점진단",
+			"ISMS"
 		],
 		"bigtag": [
-			"기타"
+			"서버"
 		]
 	},
 	{
@@ -5306,6 +5305,22 @@
 		],
 		"bigtag": [
 			"응용"
+		]
+	},
+	{
+		"title": "[캐시워크] 디지털 광고 운영 담당 채용전환형 인턴",
+		"dday": "2022. 08. 26",
+		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43384384&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
+		"company": "넛지헬스케어(주)",
+		"tag": [
+			"AE(광고기획자)",
+			"광고마케팅",
+			"광고PD",
+			"AE(광고기획자)",
+			"검색광고"
+		],
+		"bigtag": [
+			"기타"
 		]
 	},
 	{
@@ -5326,19 +5341,19 @@
 		]
 	},
 	{
-		"title": "[캐시워크] 정보보호팀 채용전환형 인턴",
+		"title": "캐릭터 및 시각디자이너 모집",
 		"dday": "2022. 08. 26",
-		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43384876&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
-		"company": "넛지헬스케어(주)",
+		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43387600&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
+		"company": "㈜큐피플",
 		"tag": [
-			"보안컨설팅",
-			"정보보안",
-			"악성코드",
-			"취약점진단",
-			"ISMS"
+			"그래픽디자인",
+			"문구디자인",
+			"배너디자인",
+			"산업디자인",
+			"시각디자인"
 		],
 		"bigtag": [
-			"서버"
+			"기타"
 		]
 	},
 	{
@@ -5377,24 +5392,6 @@
 		]
 	},
 	{
-		"title": "Unity 유니티 개발자",
-		"dday": "2022. 09. 04",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38628557?rPageCode=SL",
-		"company": "㈜심바이오트에이아이",
-		"tag": [
-			"컨텐츠",
-			"게임개발",
-			"모바일게임",
-			"캐릭터",
-			"서버",
-			"C#"
-		],
-		"bigtag": [
-			"서버",
-			"응용"
-		]
-	},
-	{
 		"title": "Flutter / React Native 개발자",
 		"dday": "2022. 09. 04",
 		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38628536?rPageCode=SL",
@@ -5409,108 +5406,20 @@
 		]
 	},
 	{
-		"title": "일본/국내마케팅및커뮤니케이션부사원(경력,신입)모집",
-		"dday": "2022. 09. 05",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38638536?rPageCode=SL",
-		"company": "㈜에스티게임즈",
+		"title": "Unity 유니티 개발자",
+		"dday": "2022. 09. 04",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38628557?rPageCode=SL",
+		"company": "㈜심바이오트에이아이",
 		"tag": [
-			"게임마케팅",
-			"게임운영관리",
-			"모바일앱게임",
-			"게임마케팅",
-			"게임운영",
+			"컨텐츠",
+			"게임개발",
 			"모바일게임",
-			"게임CS"
+			"캐릭터",
+			"서버",
+			"C#"
 		],
 		"bigtag": [
-			"응용"
-		]
-	},
-	{
-		"title": "[주식회사 아크릴] 인공지능 서비스 기획자 모집",
-		"dday": "2022. 09. 05",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38637785?rPageCode=SL",
-		"company": "㈜아크릴",
-		"tag": [
-			"인공지능 서비스 기획자",
-			"소프트웨어개발",
-			"웹서비스기획"
-		],
-		"bigtag": [
-			"인공지능",
-			"웹",
-			"응용"
-		]
-	},
-	{
-		"title": "BE(Java,Spring) / FE Web Developer 채용",
-		"dday": "2022. 09. 05",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38633621?rPageCode=SL",
-		"company": "사우스포",
-		"tag": [
-			"모바일앱개발",
-			"소프트웨어개발",
-			"솔루션",
-			"웹프로그래머",
-			"AJAX",
-			"Java",
-			"jsp",
-			"SQL"
-		],
-		"bigtag": [
-			"웹",
-			"응용"
-		]
-	},
-	{
-		"title": "AI챗봇 선두기업, JAVA웹개발자 채용",
-		"dday": "2022. 09. 05",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38631993?rPageCode=SL",
-		"company": "주식회사 메이크봇",
-		"tag": [
-			"모바일App",
-			"스마트폰",
-			"아이폰",
-			"안드로이드",
-			"데이터베이스",
-			"DBA",
-			"MS-SQL",
-			"MySQL",
-			"웹프로그래머",
-			"APM",
-			"Java",
-			"php",
-			"Servlet",
-			"Java",
-			"Linux",
-			"Oracle",
-			"Unix"
-		],
-		"bigtag": [
-			"데이터",
-			"시스템",
-			"웹",
-			"응용"
-		]
-	},
-	{
-		"title": "응용시스템 개발 프로그래머 모집",
-		"dday": "2022. 09. 05",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38641767?rPageCode=SL",
-		"company": "지시스템즈",
-		"tag": [
-			"소프트웨어개발",
-			"ERP",
-			"MS-SQL",
-			"Oracle",
-			"SQL",
-			"Java",
-			"php",
-			"Java",
-			"SQL",
-			"VisualBasic"
-		],
-		"bigtag": [
+			"서버",
 			"응용"
 		]
 	},
@@ -5541,7 +5450,113 @@
 		"bigtag": [
 			"데이터",
 			"시스템",
+			"응용",
+			"웹"
+		]
+	},
+	{
+		"title": "AI챗봇 선두기업, JAVA웹개발자 채용",
+		"dday": "2022. 09. 05",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38631993?rPageCode=SL",
+		"company": "주식회사 메이크봇",
+		"tag": [
+			"모바일App",
+			"스마트폰",
+			"아이폰",
+			"안드로이드",
+			"데이터베이스",
+			"DBA",
+			"MS-SQL",
+			"MySQL",
+			"웹프로그래머",
+			"APM",
+			"Java",
+			"php",
+			"Servlet",
+			"Java",
+			"Linux",
+			"Oracle",
+			"Unix"
+		],
+		"bigtag": [
+			"데이터",
+			"시스템",
+			"응용",
+			"웹"
+		]
+	},
+	{
+		"title": "BE(Java,Spring) / FE Web Developer 채용",
+		"dday": "2022. 09. 05",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38633621?rPageCode=SL",
+		"company": "사우스포",
+		"tag": [
+			"모바일앱개발",
+			"소프트웨어개발",
+			"솔루션",
+			"웹프로그래머",
+			"AJAX",
+			"Java",
+			"jsp",
+			"SQL"
+		],
+		"bigtag": [
 			"웹",
+			"응용"
+		]
+	},
+	{
+		"title": "[주식회사 아크릴] 인공지능 서비스 기획자 모집",
+		"dday": "2022. 09. 05",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38637785?rPageCode=SL",
+		"company": "㈜아크릴",
+		"tag": [
+			"인공지능 서비스 기획자",
+			"소프트웨어개발",
+			"웹서비스기획"
+		],
+		"bigtag": [
+			"웹",
+			"응용",
+			"인공지능"
+		]
+	},
+	{
+		"title": "일본/국내마케팅및커뮤니케이션부사원(경력,신입)모집",
+		"dday": "2022. 09. 05",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38638536?rPageCode=SL",
+		"company": "㈜에스티게임즈",
+		"tag": [
+			"게임마케팅",
+			"게임운영관리",
+			"모바일앱게임",
+			"게임마케팅",
+			"게임운영",
+			"모바일게임",
+			"게임CS"
+		],
+		"bigtag": [
+			"응용"
+		]
+	},
+	{
+		"title": "응용시스템 개발 프로그래머 모집",
+		"dday": "2022. 09. 05",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38641767?rPageCode=SL",
+		"company": "지시스템즈",
+		"tag": [
+			"소프트웨어개발",
+			"ERP",
+			"MS-SQL",
+			"Oracle",
+			"SQL",
+			"Java",
+			"php",
+			"Java",
+			"SQL",
+			"VisualBasic"
+		],
+		"bigtag": [
 			"응용"
 		]
 	},
@@ -5639,32 +5654,15 @@
 		]
 	},
 	{
-		"title": "인공지능( AI ) 연구소 챗봇 / NLP(자연어처리) 개발자 / 연구원 채용",
+		"title": "연구소 영상 표출 및 스트리밍 소프트웨어 개발자 모집",
 		"dday": "2022. 09. 19",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38802330?rPageCode=SL",
-		"company": "㈜퍼니웍",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38798870?rPageCode=SL",
+		"company": "㈜누리콘",
 		"tag": [
 			"소프트웨어개발",
-			"솔루션",
-			"BigData",
-			"SM",
-			"웹프로그래머",
-			"Java",
-			"jsp",
-			"응용프로그래머",
-			"Java",
-			"Oracle",
-			"SQL",
-			"Python",
-			"인공지능(AI)",
-			"딥러닝",
-			"챗봇(Chatbot)",
-			"자연어처리(NLP)"
+			"소프트웨어"
 		],
 		"bigtag": [
-			"데이터",
-			"인공지능",
-			"웹",
 			"응용"
 		]
 	},
@@ -5702,15 +5700,22 @@
 		]
 	},
 	{
-		"title": "연구소 영상 표출 및 스트리밍 소프트웨어 개발자 모집",
+		"title": "이크레모스 DBA(데이터베이스) 채용 공고",
 		"dday": "2022. 09. 19",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38798870?rPageCode=SL",
-		"company": "㈜누리콘",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38801087?rPageCode=SL",
+		"company": "㈜이크레모스",
 		"tag": [
 			"소프트웨어개발",
-			"소프트웨어"
+			"솔루션",
+			"데이터베이스",
+			"DBA",
+			"MySQL",
+			"OCP",
+			"빅데이터",
+			"데이터분석"
 		],
 		"bigtag": [
+			"데이터",
 			"응용"
 		]
 	},
@@ -5743,23 +5748,33 @@
 		]
 	},
 	{
-		"title": "이크레모스 DBA(데이터베이스) 채용 공고",
+		"title": "인공지능( AI ) 연구소 챗봇 / NLP(자연어처리) 개발자 / 연구원 채용",
 		"dday": "2022. 09. 19",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38801087?rPageCode=SL",
-		"company": "㈜이크레모스",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38802330?rPageCode=SL",
+		"company": "㈜퍼니웍",
 		"tag": [
 			"소프트웨어개발",
 			"솔루션",
-			"데이터베이스",
-			"DBA",
-			"MySQL",
-			"OCP",
-			"빅데이터",
-			"데이터분석"
+			"BigData",
+			"SM",
+			"웹프로그래머",
+			"Java",
+			"jsp",
+			"응용프로그래머",
+			"Java",
+			"Oracle",
+			"SQL",
+			"Python",
+			"인공지능(AI)",
+			"딥러닝",
+			"챗봇(Chatbot)",
+			"자연어처리(NLP)"
 		],
 		"bigtag": [
 			"데이터",
-			"응용"
+			"인공지능",
+			"응용",
+			"웹"
 		]
 	},
 	{
@@ -5776,23 +5791,6 @@
 		],
 		"bigtag": [
 			"웹"
-		]
-	},
-	{
-		"title": "대신증권 증권업무 개발.운영sm 직원모집",
-		"dday": "2022. 09. 21",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38825090?rPageCode=SL",
-		"company": "㈜휴먼센스",
-		"tag": [
-			"SI",
-			"SM",
-			"응용프로그래머",
-			"C",
-			"Java",
-			"Oracle"
-		],
-		"bigtag": [
-			"응용"
 		]
 	},
 	{
@@ -5817,22 +5815,40 @@
 			"HTML코딩"
 		],
 		"bigtag": [
-			"웹",
-			"데이터"
+			"데이터",
+			"웹"
 		]
 	},
 	{
-		"title": "통계 데이타 품질관리 채용",
-		"dday": "2022. 09. 22",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38836543?rPageCode=SL",
-		"company": "㈜디비존",
+		"title": "대신증권 증권업무 개발.운영sm 직원모집",
+		"dday": "2022. 09. 21",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38825090?rPageCode=SL",
+		"company": "㈜휴먼센스",
 		"tag": [
-			"Oracle",
-			"데이터베이스",
-			"SQL"
+			"SI",
+			"SM",
+			"응용프로그래머",
+			"C",
+			"Java",
+			"Oracle"
 		],
 		"bigtag": [
-			"데이터"
+			"응용"
+		]
+	},
+	{
+		"title": "[서초연구소] 자연어 처리 개발자",
+		"dday": "2022. 09. 22",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38831850?rPageCode=SL",
+		"company": "㈜보인정보기술",
+		"tag": [
+			"PyTorch",
+			"KMS",
+			"Python",
+			"자연어처리(NLP)"
+		],
+		"bigtag": [
+			"기타"
 		]
 	},
 	{
@@ -5849,24 +5865,23 @@
 			"웹컨설팅"
 		],
 		"bigtag": [
+			"데이터",
 			"응용",
-			"웹",
-			"데이터"
+			"웹"
 		]
 	},
 	{
-		"title": "[서초연구소] 자연어 처리 개발자",
+		"title": "통계 데이타 품질관리 채용",
 		"dday": "2022. 09. 22",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38831850?rPageCode=SL",
-		"company": "㈜보인정보기술",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38836543?rPageCode=SL",
+		"company": "㈜디비존",
 		"tag": [
-			"PyTorch",
-			"KMS",
-			"Python",
-			"자연어처리(NLP)"
+			"Oracle",
+			"데이터베이스",
+			"SQL"
 		],
 		"bigtag": [
-			"기타"
+			"데이터"
 		]
 	},
 	{
@@ -5894,6 +5909,30 @@
 		"bigtag": [
 			"서버",
 			"시스템",
+			"웹"
+		]
+	},
+	{
+		"title": "애크미랩에서 활발한 데이터 엔지니어&분석가를 찾습니다.",
+		"dday": "2022. 09. 25",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38864871?rPageCode=SL",
+		"company": "애크미랩(ACME Lab C",
+		"tag": [
+			"상품기획",
+			"소셜커머스",
+			"전자상거래",
+			"HTML",
+			"Java",
+			"MySQL",
+			"CSS",
+			"HTML5",
+			"인공지능(AI)",
+			"빅데이터",
+			"데이터분석"
+		],
+		"bigtag": [
+			"인공지능",
+			"데이터",
 			"웹"
 		]
 	},
@@ -5926,27 +5965,24 @@
 		]
 	},
 	{
-		"title": "애크미랩에서 활발한 데이터 엔지니어&분석가를 찾습니다.",
-		"dday": "2022. 09. 25",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38864871?rPageCode=SL",
-		"company": "애크미랩(ACME Lab C",
+		"title": "[뇌 영상분석 AI 선두 기업] 데이터 라벨링(Labeling) 계약직",
+		"dday": "2022. 09. 26",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38869009?rPageCode=SL",
+		"company": "뉴로핏㈜",
 		"tag": [
-			"상품기획",
-			"소셜커머스",
-			"전자상거래",
-			"HTML",
-			"Java",
-			"MySQL",
-			"CSS",
-			"HTML5",
+			"소프트웨어개발",
+			"문서작성",
+			"사무보조",
+			"Excel",
+			"OA",
 			"인공지능(AI)",
 			"빅데이터",
 			"데이터분석"
 		],
 		"bigtag": [
-			"데이터",
 			"인공지능",
-			"웹"
+			"데이터",
+			"응용"
 		]
 	},
 	{
@@ -5963,29 +5999,8 @@
 			"데이터분석"
 		],
 		"bigtag": [
-			"인공지능",
-			"데이터"
-		]
-	},
-	{
-		"title": "[뇌 영상분석 AI 선두 기업] 데이터 라벨링(Labeling) 계약직",
-		"dday": "2022. 09. 26",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38869009?rPageCode=SL",
-		"company": "뉴로핏㈜",
-		"tag": [
-			"소프트웨어개발",
-			"문서작성",
-			"사무보조",
-			"Excel",
-			"OA",
-			"인공지능(AI)",
-			"빅데이터",
-			"데이터분석"
-		],
-		"bigtag": [
 			"데이터",
-			"인공지능",
-			"응용"
+			"인공지능"
 		]
 	},
 	{
@@ -6022,22 +6037,6 @@
 		]
 	},
 	{
-		"title": "산업기능요원 정보처리 채용 [보충역] 개발 PHP, JAVA, SQL",
-		"dday": "내일마감",
-		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43173477&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
-		"company": "(주)스마트동스쿨",
-		"tag": [
-			"웹개발",
-			"프론트엔드",
-			"Java",
-			"PHP",
-			"모바일디자인"
-		],
-		"bigtag": [
-			"웹"
-		]
-	},
-	{
 		"title": "[벤처기업] IOS개발자 모집(광진구)",
 		"dday": "내일마감",
 		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43232775&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
@@ -6054,6 +6053,21 @@
 		]
 	},
 	{
+		"title": "캠핑 플랫폼  '캠핏'  영업관리 및 지원 사무직 팀원 모집",
+		"dday": "내일마감",
+		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43175313&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
+		"company": "(주)넥스트에디션",
+		"tag": [
+			"영업관리",
+			"영업지원",
+			"영업기획",
+			"영업직"
+		],
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
 		"title": "[AI/데이터] 벤처인증 스타트업 데이터팀 팀원 채용",
 		"dday": "내일마감",
 		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43232205&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
@@ -6066,20 +6080,47 @@
 			"알고리즘"
 		],
 		"bigtag": [
-			"인공지능",
-			"데이터"
+			"데이터",
+			"인공지능"
 		]
 	},
 	{
-		"title": "캠핑 플랫폼  '캠핏'  영업관리 및 지원 사무직 팀원 모집",
+		"title": "산업기능요원 정보처리 채용 [보충역] 개발 PHP, JAVA, SQL",
 		"dday": "내일마감",
-		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43175313&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
-		"company": "(주)넥스트에디션",
+		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43173477&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
+		"company": "(주)스마트동스쿨",
 		"tag": [
-			"영업관리",
-			"영업지원",
-			"영업기획",
-			"영업직"
+			"웹개발",
+			"프론트엔드",
+			"Java",
+			"PHP",
+			"모바일디자인"
+		],
+		"bigtag": [
+			"웹"
+		]
+	},
+	{
+		"title": "[Sibel Health] 안드로이드 개발자 인턴/신입/경력 채용",
+		"dday": "상시채용",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38477162?rPageCode=SL",
+		"company": "사이벨인터내셔널",
+		"tag": [
+			"의료기기",
+			"안드로이드"
+		],
+		"bigtag": [
+			"응용"
+		]
+	},
+	{
+		"title": "[Sibel Health] Xamarin Forms 개발자 인턴/신입/경력 채용",
+		"dday": "상시채용",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38477163?rPageCode=SL",
+		"company": "사이벨인터내셔널",
+		"tag": [
+			"Xamarin",
+			"바이오"
 		],
 		"bigtag": [
 			"기타"
@@ -6107,6 +6148,120 @@
 		]
 	},
 	{
+		"title": "제이앤피메디 개발운영본부 웹(web)서비스 개발자(신입/인턴) 수시채용",
+		"dday": "상시채용",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38522117?rPageCode=SL",
+		"company": "㈜제이앤피메디",
+		"tag": [
+			"바이오",
+			"생명공학",
+			"의약",
+			"제약"
+		],
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
+		"title": "모바일 게임 운영&커뮤니케이션 담당자 모집",
+		"dday": "상시채용",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38279819?rPageCode=SL",
+		"company": "㈜핸디커뮤니케이션즈",
+		"tag": [
+			"모바일게임",
+			"스마트폰게임",
+			"카페운영",
+			"GM",
+			"게임운영관리",
+			"모바일앱게임",
+			"GM·CS",
+			"게임운영",
+			"모바일게임",
+			"게임방송",
+			"카페·블로그관리",
+			"컨텐츠관리"
+		],
+		"bigtag": [
+			"응용"
+		]
+	},
+	{
+		"title": "[Sibel Health] Flutter 개발자 인턴/신입/경력 채용",
+		"dday": "상시채용",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38477165?rPageCode=SL",
+		"company": "사이벨인터내셔널",
+		"tag": [
+			"모바일",
+			"의료기기",
+			"아이폰",
+			"안드로이드"
+		],
+		"bigtag": [
+			"응용"
+		]
+	},
+	{
+		"title": "[Sibel Health] 직군별 개발자 인턴/신입/경력 채용",
+		"dday": "상시채용",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38477166?rPageCode=SL",
+		"company": "사이벨인터내셔널",
+		"tag": [
+			"의료기기"
+		],
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
+		"title": "[코그넥스] 딥러닝연구원채용 (인턴)",
+		"dday": "상시채용",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38477192?rPageCode=SL",
+		"company": "㈜코그넥스코리아",
+		"tag": [
+			"소프트웨어개발",
+			"인공지능(AI)",
+			"딥러닝",
+			"tensorflow"
+		],
+		"bigtag": [
+			"인공지능",
+			"응용"
+		]
+	},
+	{
+		"title": "정보보호 담당자 채용",
+		"dday": "상시채용",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38435451?rPageCode=SL",
+		"company": "주식회사 팡스카이",
+		"tag": [
+			"퍼블리싱",
+			"정보보안"
+		],
+		"bigtag": [
+			"서버"
+		]
+	},
+	{
+		"title": "코드스페이스 웹개발자 채용 [Full-Stack, F/E, B/E]",
+		"dday": "상시채용",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38522009?rPageCode=SL",
+		"company": "코드스페이스",
+		"tag": [
+			"웹에이전시",
+			"웹프로그래머",
+			"AJAX",
+			"HTML",
+			"아이폰",
+			"안드로이드",
+			"API",
+			"SQL"
+		],
+		"bigtag": [
+			"응용",
+			"웹"
+		]
+	},
+	{
 		"title": "산업용컴퓨터 마케팅팀 Product Manager/ Technical Sales 채용 공고",
 		"dday": "상시채용",
 		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38443981?rPageCode=SL",
@@ -6118,6 +6273,277 @@
 		],
 		"bigtag": [
 			"기타"
+		]
+	},
+	{
+		"title": "프론트 및 백앤드 개발자를 모집합니다.",
+		"dday": "상시채용",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38425188?rPageCode=SL",
+		"company": "웹플러스",
+		"tag": [
+			"웹에이전시",
+			"웹퍼블리셔"
+		],
+		"bigtag": [
+			"웹"
+		]
+	},
+	{
+		"title": "산업용컴퓨터 PC 시스템 엔지니어 채용공고",
+		"dday": "상시채용",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38443980?rPageCode=SL",
+		"company": "젝스컴퍼니㈜",
+		"tag": [
+			"컴퓨터",
+			"하드웨어",
+			"테스터",
+			"QA",
+			"Windows",
+			"하드웨어",
+			"소프트웨어",
+			"기술지원"
+		],
+		"bigtag": [
+			"응용"
+		]
+	},
+	{
+		"title": "[Sibel Health] 프론트 엔지니어 인턴/신입/경력 채용",
+		"dday": "상시채용",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38477161?rPageCode=SL",
+		"company": "사이벨인터내셔널",
+		"tag": [
+			"의료기기",
+			"웹프로그래머",
+			"HTML",
+			"Python"
+		],
+		"bigtag": [
+			"웹"
+		]
+	},
+	{
+		"title": "[신입/경력] python을 활용한 Ai개발 및 프론트 백앤드개발자 모집",
+		"dday": "상시채용",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38414482?rPageCode=SL",
+		"company": "㈜폼즈",
+		"tag": [
+			"소프트웨어개발",
+			"Python"
+		],
+		"bigtag": [
+			"응용"
+		]
+	},
+	{
+		"title": "[2022 하반기 정규직 인력채용] DA/DBA/AA/TA/BA/화면개발자(JAVA/JSP)/업무분석설계자/영업 및 인사담당자",
+		"dday": "상시채용",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38504110?rPageCode=SL",
+		"company": "루이컨설팅",
+		"tag": [
+			"은행",
+			"인사",
+			"DB2",
+			"DBA",
+			"MS-SQL",
+			"MySQL",
+			"Java",
+			"PowerBuilder"
+		],
+		"bigtag": [
+			"데이터"
+		]
+	},
+	{
+		"title": "[힐링사운드] 앱개발(안드로이드) 담당자 채용",
+		"dday": "상시채용",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38476937?rPageCode=SL",
+		"company": "힐링사운드",
+		"tag": [
+			"개발자",
+			"앱 개발자",
+			"Kotlin",
+			"안드로이드",
+			"안드로이드",
+			"Java"
+		],
+		"bigtag": [
+			"응용"
+		]
+	},
+	{
+		"title": "Java개발자 신입 구인공고",
+		"dday": "상시채용",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38493943?rPageCode=SL",
+		"company": "한국데이타시스템",
+		"tag": [
+			"DataMining",
+			"DataWarehouse",
+			"DW",
+			"Java"
+		],
+		"bigtag": [
+			"데이터"
+		]
+	},
+	{
+		"title": "응용프로그램개발 인턴직 채용(경력무관)",
+		"dday": "상시채용",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38477085?rPageCode=SL",
+		"company": "엔아이스퀘어",
+		"tag": [
+			"자동제어",
+			"전기",
+			"전기제어",
+			"전자",
+			"제어",
+			"Python",
+			"VB.NET",
+			"VisualBasic",
+			"VisualC",
+			"VisualC++",
+			"시스템프로그래머",
+			"하드웨어",
+			"소프트웨어"
+		],
+		"bigtag": [
+			"시스템",
+			"응용"
+		]
+	},
+	{
+		"title": "응용프로그램 개발자 채용",
+		"dday": "상시채용",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38363483?rPageCode=SL",
+		"company": "아미스테크놀로지㈜",
+		"tag": [
+			"소프트웨어개발",
+			"솔루션",
+			"SI",
+			"SM",
+			"C#",
+			"VisualBasic"
+		],
+		"bigtag": [
+			"응용"
+		]
+	},
+	{
+		"title": "[Sibel Health] iOS 개발자 인턴/신입/경력 채용",
+		"dday": "상시채용",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38477164?rPageCode=SL",
+		"company": "사이벨인터내셔널",
+		"tag": [
+			"의료기기",
+			"아이폰"
+		],
+		"bigtag": [
+			"응용"
+		]
+	},
+	{
+		"title": "프론트엔드, 백엔드개발 경력자 모집(QA/Test/마켓 등록)",
+		"dday": "상시채용",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38412661?rPageCode=SL",
+		"company": "㈜와리가리",
+		"tag": [
+			"모바일App",
+			"웹마스터",
+			"테스터",
+			"QA",
+			"자바스크립트",
+			"CSS",
+			"HTML5",
+			"HTML코딩"
+		],
+		"bigtag": [
+			"웹"
+		]
+	},
+	{
+		"title": "소프트웨어개발 업무 담당자 모집",
+		"dday": "상시채용",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38535862?rPageCode=SL",
+		"company": "㈜인삼육오",
+		"tag": [
+			"소프트웨어개발",
+			"API",
+			"C#",
+			"C++",
+			"Java",
+			"Python",
+			"시스템프로그래머",
+			"Python",
+			"빅데이터",
+			"머신러닝(ML)"
+		],
+		"bigtag": [
+			"데이터",
+			"시스템",
+			"응용",
+			"인공지능"
+		]
+	},
+	{
+		"title": "개발자 모집 유니티 개발 경험자 우대",
+		"dday": "상시채용",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38535497?rPageCode=SL",
+		"company": "진성소프트넷",
+		"tag": [
+			"소프트웨어개발",
+			"안드로이드",
+			"응용프로그래머",
+			"증강현실",
+			"C++",
+			"가상현실"
+		],
+		"bigtag": [
+			"응용"
+		]
+	},
+	{
+		"title": "소프트웨어 개발자 채용",
+		"dday": "상시채용",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38377519?rPageCode=SL",
+		"company": "㈜여니",
+		"tag": [
+			"소프트웨어개발",
+			"SI",
+			"SM",
+			"웹프로그래머",
+			"Java",
+			"응용프로그래머",
+			"API",
+			"C#",
+			"C++",
+			"Python"
+		],
+		"bigtag": [
+			"웹",
+			"응용"
+		]
+	},
+	{
+		"title": "[Sibel Health] 클라우드 엔지니어 인턴/신입/경력 채용",
+		"dday": "상시채용",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38477160?rPageCode=SL",
+		"company": "사이벨인터내셔널",
+		"tag": [
+			"의료기기",
+			"서버구축",
+			"시스템운영",
+			"웹프로그래머",
+			"HTML",
+			"Python",
+			"자바스크립트",
+			"CSS",
+			"HTML5",
+			"UI·UX"
+		],
+		"bigtag": [
+			"서버",
+			"시스템",
+			"웹"
 		]
 	},
 	{
@@ -6147,151 +6573,6 @@
 		]
 	},
 	{
-		"title": "[2022 하반기 정규직 인력채용] DA/DBA/AA/TA/BA/화면개발자(JAVA/JSP)/업무분석설계자/영업 및 인사담당자",
-		"dday": "상시채용",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38504110?rPageCode=SL",
-		"company": "루이컨설팅",
-		"tag": [
-			"은행",
-			"인사",
-			"DB2",
-			"DBA",
-			"MS-SQL",
-			"MySQL",
-			"Java",
-			"PowerBuilder"
-		],
-		"bigtag": [
-			"데이터"
-		]
-	},
-	{
-		"title": "모바일 게임 운영&커뮤니케이션 담당자 모집",
-		"dday": "상시채용",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38279819?rPageCode=SL",
-		"company": "㈜핸디커뮤니케이션즈",
-		"tag": [
-			"모바일게임",
-			"스마트폰게임",
-			"카페운영",
-			"GM",
-			"게임운영관리",
-			"모바일앱게임",
-			"GM·CS",
-			"게임운영",
-			"모바일게임",
-			"게임방송",
-			"카페·블로그관리",
-			"컨텐츠관리"
-		],
-		"bigtag": [
-			"응용"
-		]
-	},
-	{
-		"title": "산업용컴퓨터 PC 시스템 엔지니어 채용공고",
-		"dday": "상시채용",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38443980?rPageCode=SL",
-		"company": "젝스컴퍼니㈜",
-		"tag": [
-			"컴퓨터",
-			"하드웨어",
-			"테스터",
-			"QA",
-			"Windows",
-			"하드웨어",
-			"소프트웨어",
-			"기술지원"
-		],
-		"bigtag": [
-			"응용"
-		]
-	},
-	{
-		"title": "정보보호 담당자 채용",
-		"dday": "상시채용",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38435451?rPageCode=SL",
-		"company": "주식회사 팡스카이",
-		"tag": [
-			"퍼블리싱",
-			"정보보안"
-		],
-		"bigtag": [
-			"서버"
-		]
-	},
-	{
-		"title": "프론트 및 백앤드 개발자를 모집합니다.",
-		"dday": "상시채용",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38425188?rPageCode=SL",
-		"company": "웹플러스",
-		"tag": [
-			"웹에이전시",
-			"웹퍼블리셔"
-		],
-		"bigtag": [
-			"웹"
-		]
-	},
-	{
-		"title": "[코그넥스] 딥러닝연구원채용 (인턴)",
-		"dday": "상시채용",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38477192?rPageCode=SL",
-		"company": "㈜코그넥스코리아",
-		"tag": [
-			"소프트웨어개발",
-			"인공지능(AI)",
-			"딥러닝",
-			"tensorflow"
-		],
-		"bigtag": [
-			"인공지능",
-			"응용"
-		]
-	},
-	{
-		"title": "Java개발자 신입 구인공고",
-		"dday": "상시채용",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38493943?rPageCode=SL",
-		"company": "한국데이타시스템",
-		"tag": [
-			"DataMining",
-			"DataWarehouse",
-			"DW",
-			"Java"
-		],
-		"bigtag": [
-			"데이터"
-		]
-	},
-	{
-		"title": "[Sibel Health] 직군별 개발자 인턴/신입/경력 채용",
-		"dday": "상시채용",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38477166?rPageCode=SL",
-		"company": "사이벨인터내셔널",
-		"tag": [
-			"의료기기"
-		],
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "[Sibel Health] Flutter 개발자 인턴/신입/경력 채용",
-		"dday": "상시채용",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38477165?rPageCode=SL",
-		"company": "사이벨인터내셔널",
-		"tag": [
-			"모바일",
-			"의료기기",
-			"아이폰",
-			"안드로이드"
-		],
-		"bigtag": [
-			"응용"
-		]
-	},
-	{
 		"title": "모바일 캐주얼 게임 디자이너 구합니다.   3D캐릭터 모델링, UI, 원화",
 		"dday": "상시채용",
 		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38522203?rPageCode=SL",
@@ -6304,272 +6585,6 @@
 		],
 		"bigtag": [
 			"응용"
-		]
-	},
-	{
-		"title": "코드스페이스 웹개발자 채용 [Full-Stack, F/E, B/E]",
-		"dday": "상시채용",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38522009?rPageCode=SL",
-		"company": "코드스페이스",
-		"tag": [
-			"웹에이전시",
-			"웹프로그래머",
-			"AJAX",
-			"HTML",
-			"아이폰",
-			"안드로이드",
-			"API",
-			"SQL"
-		],
-		"bigtag": [
-			"응용",
-			"웹"
-		]
-	},
-	{
-		"title": "[Sibel Health] Xamarin Forms 개발자 인턴/신입/경력 채용",
-		"dday": "상시채용",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38477163?rPageCode=SL",
-		"company": "사이벨인터내셔널",
-		"tag": [
-			"Xamarin",
-			"바이오"
-		],
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "[힐링사운드] 앱개발(안드로이드) 담당자 채용",
-		"dday": "상시채용",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38476937?rPageCode=SL",
-		"company": "힐링사운드",
-		"tag": [
-			"개발자",
-			"앱 개발자",
-			"Kotlin",
-			"안드로이드",
-			"안드로이드",
-			"Java"
-		],
-		"bigtag": [
-			"응용"
-		]
-	},
-	{
-		"title": "[Sibel Health] iOS 개발자 인턴/신입/경력 채용",
-		"dday": "상시채용",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38477164?rPageCode=SL",
-		"company": "사이벨인터내셔널",
-		"tag": [
-			"의료기기",
-			"아이폰"
-		],
-		"bigtag": [
-			"응용"
-		]
-	},
-	{
-		"title": "[신입/경력] python을 활용한 Ai개발 및 프론트 백앤드개발자 모집",
-		"dday": "상시채용",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38414482?rPageCode=SL",
-		"company": "㈜폼즈",
-		"tag": [
-			"소프트웨어개발",
-			"Python"
-		],
-		"bigtag": [
-			"응용"
-		]
-	},
-	{
-		"title": "응용프로그램 개발자 채용",
-		"dday": "상시채용",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38363483?rPageCode=SL",
-		"company": "아미스테크놀로지㈜",
-		"tag": [
-			"소프트웨어개발",
-			"솔루션",
-			"SI",
-			"SM",
-			"C#",
-			"VisualBasic"
-		],
-		"bigtag": [
-			"응용"
-		]
-	},
-	{
-		"title": "소프트웨어 개발자 채용",
-		"dday": "상시채용",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38377519?rPageCode=SL",
-		"company": "㈜여니",
-		"tag": [
-			"소프트웨어개발",
-			"SI",
-			"SM",
-			"웹프로그래머",
-			"Java",
-			"응용프로그래머",
-			"API",
-			"C#",
-			"C++",
-			"Python"
-		],
-		"bigtag": [
-			"웹",
-			"응용"
-		]
-	},
-	{
-		"title": "개발자 모집 유니티 개발 경험자 우대",
-		"dday": "상시채용",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38535497?rPageCode=SL",
-		"company": "진성소프트넷",
-		"tag": [
-			"소프트웨어개발",
-			"안드로이드",
-			"응용프로그래머",
-			"증강현실",
-			"C++",
-			"가상현실"
-		],
-		"bigtag": [
-			"응용"
-		]
-	},
-	{
-		"title": "[Sibel Health] 프론트 엔지니어 인턴/신입/경력 채용",
-		"dday": "상시채용",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38477161?rPageCode=SL",
-		"company": "사이벨인터내셔널",
-		"tag": [
-			"의료기기",
-			"웹프로그래머",
-			"HTML",
-			"Python"
-		],
-		"bigtag": [
-			"웹"
-		]
-	},
-	{
-		"title": "[Sibel Health] 안드로이드 개발자 인턴/신입/경력 채용",
-		"dday": "상시채용",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38477162?rPageCode=SL",
-		"company": "사이벨인터내셔널",
-		"tag": [
-			"의료기기",
-			"안드로이드"
-		],
-		"bigtag": [
-			"응용"
-		]
-	},
-	{
-		"title": "제이앤피메디 개발운영본부 웹(web)서비스 개발자(신입/인턴) 수시채용",
-		"dday": "상시채용",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38522117?rPageCode=SL",
-		"company": "㈜제이앤피메디",
-		"tag": [
-			"바이오",
-			"생명공학",
-			"의약",
-			"제약"
-		],
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "프론트엔드, 백엔드개발 경력자 모집(QA/Test/마켓 등록)",
-		"dday": "상시채용",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38412661?rPageCode=SL",
-		"company": "㈜와리가리",
-		"tag": [
-			"모바일App",
-			"웹마스터",
-			"테스터",
-			"QA",
-			"자바스크립트",
-			"CSS",
-			"HTML5",
-			"HTML코딩"
-		],
-		"bigtag": [
-			"웹"
-		]
-	},
-	{
-		"title": "응용프로그램개발 인턴직 채용(경력무관)",
-		"dday": "상시채용",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38477085?rPageCode=SL",
-		"company": "엔아이스퀘어",
-		"tag": [
-			"자동제어",
-			"전기",
-			"전기제어",
-			"전자",
-			"제어",
-			"Python",
-			"VB.NET",
-			"VisualBasic",
-			"VisualC",
-			"VisualC++",
-			"시스템프로그래머",
-			"하드웨어",
-			"소프트웨어"
-		],
-		"bigtag": [
-			"시스템",
-			"응용"
-		]
-	},
-	{
-		"title": "소프트웨어개발 업무 담당자 모집",
-		"dday": "상시채용",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38535862?rPageCode=SL",
-		"company": "㈜인삼육오",
-		"tag": [
-			"소프트웨어개발",
-			"API",
-			"C#",
-			"C++",
-			"Java",
-			"Python",
-			"시스템프로그래머",
-			"Python",
-			"빅데이터",
-			"머신러닝(ML)"
-		],
-		"bigtag": [
-			"데이터",
-			"시스템",
-			"인공지능",
-			"응용"
-		]
-	},
-	{
-		"title": "[Sibel Health] 클라우드 엔지니어 인턴/신입/경력 채용",
-		"dday": "상시채용",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38477160?rPageCode=SL",
-		"company": "사이벨인터내셔널",
-		"tag": [
-			"의료기기",
-			"서버구축",
-			"시스템운영",
-			"웹프로그래머",
-			"HTML",
-			"Python",
-			"자바스크립트",
-			"CSS",
-			"HTML5",
-			"UI·UX"
-		],
-		"bigtag": [
-			"서버",
-			"시스템",
-			"웹"
 		]
 	},
 	{
@@ -6716,8 +6731,8 @@
 			"Python"
 		],
 		"bigtag": [
-			"인공지능",
-			"데이터"
+			"데이터",
+			"인공지능"
 		]
 	},
 	{
@@ -6733,8 +6748,8 @@
 			"Flask"
 		],
 		"bigtag": [
-			"인공지능",
-			"데이터"
+			"데이터",
+			"인공지능"
 		]
 	},
 	{
@@ -6763,8 +6778,8 @@
 			"Tensorflow"
 		],
 		"bigtag": [
-			"인공지능",
-			"데이터"
+			"데이터",
+			"인공지능"
 		]
 	},
 	{
@@ -6780,9 +6795,9 @@
 			"딥러닝"
 		],
 		"bigtag": [
+			"인공지능",
 			"서버",
 			"응용",
-			"인공지능",
 			"웹"
 		]
 	},
@@ -6871,22 +6886,30 @@
 		]
 	},
 	{
-		"title": "DBA/DA/AA/TA/BA/화면개발자(JAVA/JSP)/업무분석설계자/상시 인력채용 (프리랜서 및 정규직)",
+		"title": "안드로이드 개발자 모집 건",
 		"dday": "상시채용",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38804135?rPageCode=SL",
-		"company": "루이컨설팅",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38739295?rPageCode=SL",
+		"company": "㈜고스트패스",
 		"tag": [
-			"은행",
-			"인사",
-			"DB2",
-			"DBA",
-			"MS-SQL",
-			"MySQL",
-			"Java",
-			"PowerBuilder"
+			"모바일앱개발",
+			"소프트웨어개발",
+			"솔루션",
+			"안드로이드"
 		],
 		"bigtag": [
-			"데이터"
+			"응용"
+		]
+	},
+	{
+		"title": "디자이너 채용",
+		"dday": "상시채용",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38817524?rPageCode=SL",
+		"company": "아이리스브라이트",
+		"tag": [
+			"유통"
+		],
+		"bigtag": [
+			"기타"
 		]
 	},
 	{
@@ -6920,18 +6943,19 @@
 		]
 	},
 	{
-		"title": "안드로이드 개발자 모집 건",
+		"title": "교환기 상주 운영자 모집(IPT/IPCC)",
 		"dday": "상시채용",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38739295?rPageCode=SL",
-		"company": "㈜고스트패스",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38817527?rPageCode=SL",
+		"company": "㈜아이티에스컨버젼스",
 		"tag": [
-			"모바일앱개발",
-			"소프트웨어개발",
-			"솔루션",
-			"안드로이드"
+			"통신",
+			"IPT",
+			"VoIP",
+			"시스템운영",
+			"통신"
 		],
 		"bigtag": [
-			"응용"
+			"시스템"
 		]
 	},
 	{
@@ -6952,8 +6976,8 @@
 			"자연어처리(NLP)"
 		],
 		"bigtag": [
-			"데이터",
 			"인공지능",
+			"데이터",
 			"응용"
 		]
 	},
@@ -7006,57 +7030,45 @@
 		]
 	},
 	{
-		"title": "교환기 상주 운영자 모집(IPT/IPCC)",
+		"title": "(슈퍼 개발자로 성장하세요) 게임 플랫폼 개발, 게임 서버/운영툴 개발, DB 관리",
 		"dday": "상시채용",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38817527?rPageCode=SL",
-		"company": "㈜아이티에스컨버젼스",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38866001?rPageCode=SL",
+		"company": "(주)슈퍼플래닛",
 		"tag": [
-			"통신",
-			"IPT",
-			"VoIP",
-			"시스템운영",
-			"통신"
-		],
-		"bigtag": [
-			"시스템"
-		]
-	},
-	{
-		"title": "디자이너 채용",
-		"dday": "상시채용",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38817524?rPageCode=SL",
-		"company": "아이리스브라이트",
-		"tag": [
-			"유통"
-		],
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "공공데이터품질관리 채용연계형 인턴 선착순 모집",
-		"dday": "상시채용",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38873054?rPageCode=SL",
-		"company": "㈜위세아이텍",
-		"tag": [
-			"소프트웨어개발",
-			"솔루션",
-			"DB2",
-			"MS-SQL",
-			"Oracle",
-			"Java",
-			"Python",
+			"게임개발",
+			"모바일게임",
+			"서버",
+			"데이터베이스",
+			"MySQL",
 			"SQL",
-			"응용프로그래머",
-			"Java",
-			"Linux",
+			"웹프로그래머",
 			"Python",
-			"Windows"
+			"Servlet"
 		],
 		"bigtag": [
 			"데이터",
-			"시스템",
-			"응용"
+			"서버",
+			"응용",
+			"웹"
+		]
+	},
+	{
+		"title": "DBA/DA/AA/TA/BA/화면개발자(JAVA/JSP)/업무분석설계자/상시 인력채용 (프리랜서 및 정규직)",
+		"dday": "상시채용",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38804135?rPageCode=SL",
+		"company": "루이컨설팅",
+		"tag": [
+			"은행",
+			"인사",
+			"DB2",
+			"DBA",
+			"MS-SQL",
+			"MySQL",
+			"Java",
+			"PowerBuilder"
+		],
+		"bigtag": [
+			"데이터"
 		]
 	},
 	{
@@ -7068,6 +7080,21 @@
 			"컨텐츠·사이트운영",
 			"운송·물류",
 			"생산관리"
+		],
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
+		"title": "[SSG.COM] CM 사무전문직 상시모집 (2022)",
+		"dday": "상시채용",
+		"link": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2202150007728",
+		"company": "(주)에스에스지닷컴",
+		"tag": [
+			"컨텐츠·사이트운영",
+			"일반사무·사무지원",
+			"홍보·PR·전시·컨벤션",
+			"유통·상품기획·MD"
 		],
 		"bigtag": [
 			"기타"
@@ -7141,25 +7168,28 @@
 		]
 	},
 	{
-		"title": "(슈퍼 개발자로 성장하세요) 게임 플랫폼 개발, 게임 서버/운영툴 개발, DB 관리",
+		"title": "공공데이터품질관리 채용연계형 인턴 선착순 모집",
 		"dday": "상시채용",
-		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38866001?rPageCode=SL",
-		"company": "(주)슈퍼플래닛",
+		"link": "https://www.jobkorea.co.kr//Recruit/GI_Read/38873054?rPageCode=SL",
+		"company": "㈜위세아이텍",
 		"tag": [
-			"게임개발",
-			"모바일게임",
-			"서버",
-			"데이터베이스",
-			"MySQL",
-			"SQL",
-			"웹프로그래머",
+			"소프트웨어개발",
+			"솔루션",
+			"DB2",
+			"MS-SQL",
+			"Oracle",
+			"Java",
 			"Python",
-			"Servlet"
+			"SQL",
+			"응용프로그래머",
+			"Java",
+			"Linux",
+			"Python",
+			"Windows"
 		],
 		"bigtag": [
 			"데이터",
-			"서버",
-			"웹",
+			"시스템",
 			"응용"
 		]
 	},
@@ -7216,36 +7246,19 @@
 		]
 	},
 	{
-		"title": "[젊은기업] java/jsp/웹개발/웹프로그래머 신입(개발자) 채용",
+		"title": "[외국계] 어카운트 매니저 경력자 & 세일즈 어드민 인턴 채용 중",
 		"dday": "채용시",
-		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43318640&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
-		"company": "(주)인시퀀스",
+		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43342683&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
+		"company": "데이터워즈코리아 유한회사",
 		"tag": [
-			"웹개발",
-			"웹표준·웹접근성",
-			"Ajax",
-			"HTML",
-			"Java"
+			"사이트관리",
+			"콘텐츠관리",
+			"통/번역",
+			"인플루언서마케팅",
+			"SNS마케팅"
 		],
 		"bigtag": [
-			"웹"
-		]
-	},
-	{
-		"title": "컴페니온이 프로덕트 디자이너를 모십니다.",
-		"dday": "채용시",
-		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=42952101&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
-		"company": "주식회사 컴페니온",
-		"tag": [
-			"앱디자인",
-			"웹디자인",
-			"UI/UX디자인",
-			"일러스트",
-			"디자인"
-		],
-		"bigtag": [
-			"웹",
-			"응용"
+			"기타"
 		]
 	},
 	{
@@ -7265,19 +7278,36 @@
 		]
 	},
 	{
-		"title": "[외국계] 어카운트 매니저 경력자 & 세일즈 어드민 인턴 채용 중",
+		"title": "[젊은기업] java/jsp/웹개발/웹프로그래머 신입(개발자) 채용",
 		"dday": "채용시",
-		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43342683&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
-		"company": "데이터워즈코리아 유한회사",
+		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43318640&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
+		"company": "(주)인시퀀스",
 		"tag": [
-			"사이트관리",
-			"콘텐츠관리",
-			"통/번역",
-			"인플루언서마케팅",
-			"SNS마케팅"
+			"웹개발",
+			"웹표준·웹접근성",
+			"Ajax",
+			"HTML",
+			"Java"
 		],
 		"bigtag": [
-			"기타"
+			"웹"
+		]
+	},
+	{
+		"title": "[캐시워크] QA 담당 채용전환형 인턴",
+		"dday": "채용시",
+		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43032120&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
+		"company": "넛지헬스케어(주)",
+		"tag": [
+			"웹개발",
+			"QA/테스터",
+			"Android",
+			"iOS",
+			"Kotlin"
+		],
+		"bigtag": [
+			"응용",
+			"웹"
 		]
 	},
 	{
@@ -7311,23 +7341,6 @@
 		],
 		"bigtag": [
 			"기타"
-		]
-	},
-	{
-		"title": "[캐시워크] QA 담당 채용전환형 인턴",
-		"dday": "채용시",
-		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43032120&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
-		"company": "넛지헬스케어(주)",
-		"tag": [
-			"웹개발",
-			"QA/테스터",
-			"Android",
-			"iOS",
-			"Kotlin"
-		],
-		"bigtag": [
-			"응용",
-			"웹"
 		]
 	},
 	{
@@ -7409,6 +7422,23 @@
 		]
 	},
 	{
+		"title": "컴페니온이 프로덕트 디자이너를 모십니다.",
+		"dday": "채용시",
+		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=42952101&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
+		"company": "주식회사 컴페니온",
+		"tag": [
+			"앱디자인",
+			"웹디자인",
+			"UI/UX디자인",
+			"일러스트",
+			"디자인"
+		],
+		"bigtag": [
+			"웹",
+			"응용"
+		]
+	},
+	{
 		"title": "[캐시워크] 안드로이드 개발 채용전환형 인턴",
 		"dday": "채용시",
 		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43000875&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
@@ -7441,20 +7471,20 @@
 		]
 	},
 	{
-		"title": "(주)포시에스 SW테스트엔지니어 (신입/경력)",
+		"title": "[크리에이터 플랫폼] 서비스 기획자",
 		"dday": "채용시",
-		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43224712&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
-		"company": "(주)포시에스",
+		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43058967&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
+		"company": "(주)마끼아또컴퍼니",
 		"tag": [
-			"웹개발",
 			"QA/테스터",
-			"ASP",
-			"Java",
-			"블록체인"
+			"SEO",
+			"서비스기획",
+			"앱기획",
+			"웹기획"
 		],
 		"bigtag": [
-			"서버",
-			"웹"
+			"웹",
+			"응용"
 		]
 	},
 	{
@@ -7486,8 +7516,8 @@
 			"Unix"
 		],
 		"bigtag": [
-			"시스템",
-			"데이터"
+			"데이터",
+			"시스템"
 		]
 	},
 	{
@@ -7631,16 +7661,16 @@
 		]
 	},
 	{
-		"title": "(주)포시에스 솔루션 개발자 (신입/경력) 채용",
+		"title": "(주)포시에스 서비스기획자 (신입/경력)",
 		"dday": "채용시",
-		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43078583&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
+		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=42972584&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
 		"company": "(주)포시에스",
 		"tag": [
-			"앱개발",
-			"웹개발",
-			"솔루션",
-			"S/W",
-			"C#"
+			"서비스기획",
+			"앱기획",
+			"웹기획",
+			"스토리보드",
+			"UI/UX"
 		],
 		"bigtag": [
 			"웹",
@@ -7648,20 +7678,20 @@
 		]
 	},
 	{
-		"title": "[크리에이터 플랫폼] 서비스 기획자",
+		"title": "(주)포시에스 SW테스트엔지니어 (신입/경력)",
 		"dday": "채용시",
-		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43058967&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
-		"company": "(주)마끼아또컴퍼니",
+		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43224712&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
+		"company": "(주)포시에스",
 		"tag": [
+			"웹개발",
 			"QA/테스터",
-			"SEO",
-			"서비스기획",
-			"앱기획",
-			"웹기획"
+			"ASP",
+			"Java",
+			"블록체인"
 		],
 		"bigtag": [
-			"웹",
-			"응용"
+			"서버",
+			"웹"
 		]
 	},
 	{
@@ -7677,8 +7707,8 @@
 			"S/W"
 		],
 		"bigtag": [
-			"인공지능",
-			"데이터"
+			"데이터",
+			"인공지능"
 		]
 	},
 	{
@@ -7761,16 +7791,16 @@
 		]
 	},
 	{
-		"title": "(주)포시에스 서비스기획자 (신입/경력)",
+		"title": "(주)포시에스 솔루션 개발자 (신입/경력) 채용",
 		"dday": "채용시",
-		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=42972584&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
+		"link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43078583&recommend_ids=eJxNT7kVw1AImyY94qbOINl%2Fi%2BB8E1zq6Vah4CR8kusVbxUSFqWGuCCXRFWzwGGVxGzEnBbmOixXIFlXjCjhf5QnSnNYsoJXrFetruQbZjs5dlVm%2FIr8XmUG2yLvIfyAYdhVCe1Z25vC1QdBRxwuiueFw86FSf4CQ%2FlABQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0",
 		"company": "(주)포시에스",
 		"tag": [
-			"서비스기획",
-			"앱기획",
-			"웹기획",
-			"스토리보드",
-			"UI/UX"
+			"앱개발",
+			"웹개발",
+			"솔루션",
+			"S/W",
+			"C#"
 		],
 		"bigtag": [
 			"웹",
