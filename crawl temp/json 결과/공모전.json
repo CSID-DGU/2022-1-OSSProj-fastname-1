@@ -1,23 +1,5 @@
 [
 	{
-		"title": "국토교통 데이터 활용 경진대회",
-		"dday": "2022. 06. 28",
-		"link": "https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.str_aedate&Txt_sortword=asc&Txt_host=&Txt_actcode=&page=1&Txt_bcode=030510001&str_no=202204270017",
-		"분류": "공모전",
-		"bigtag": [
-			"데이터"
-		]
-	},
-	{
-		"title": "(교육/강연) KISA 인터넷거버넌스 집중교육 참여자 모집",
-		"dday": "2022. 06. 28",
-		"link": "https://www.thinkcontest.com//Contest/ContestDetail.html?id=48758",
-		"분류": "공모전",
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
 		"title": "",
 		"dday": "2022. 06. 30",
 		"link": "https://gongmo.incruit.com/info/gongmolistinfo.asp?contestno=202206180002",
@@ -429,6 +411,15 @@
 		"분류": "공모전",
 		"bigtag": [
 			"기타"
+		]
+	},
+	{
+		"title": "미래에셋증권페스터 빅데이터 페스티벌",
+		"dday": "2022. 07. 15",
+		"link": "https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.str_aedate&Txt_sortword=asc&Txt_host=&Txt_actcode=&page=2&Txt_bcode=030510001&str_no=202206290007",
+		"분류": "공모전",
+		"bigtag": [
+			"데이터"
 		]
 	},
 	{
@@ -920,7 +911,7 @@
 	{
 		"title": "석유화학 올림피아드",
 		"dday": "2022. 07. 06",
-		"link": "https://thinkyou.co.kr//contest/25495/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
+		"link": "https://thinkyou.co.kr//contest/25495/?page=1&pagesize=35&serstatus=0&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
 		"분류": "대외활동",
 		"bigtag": [
 			"기타"
