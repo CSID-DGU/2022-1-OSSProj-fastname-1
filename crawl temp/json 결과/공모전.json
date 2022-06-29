@@ -630,6 +630,15 @@
 		]
 	},
 	{
+		"title": "(경진대회) 입자 형태 분석 모델 개발 해커톤",
+		"dday": "2022. 08. 08",
+		"link": "https://www.thinkcontest.com//Contest/ContestDetail.html?id=49030",
+		"분류": "공모전",
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
 		"title": "2022 슈퍼센트 하이퍼 캐주얼 게임 챌린지",
 		"dday": "2022. 08. 12",
 		"link": "https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.str_aedate&Txt_sortword=asc&Txt_host=&Txt_actcode=&page=3&Txt_bcode=030510001&str_no=202205180002",
@@ -768,6 +777,15 @@
 		"title": "이루고월드 3D 메타버스 건축 공모전",
 		"dday": "2022. 09. 30",
 		"link": "https://gongmo.incruit.com/info/gongmolistinfo.asp?contestno=202206080013",
+		"분류": "공모전",
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
+		"title": "(지원사업) 2022년 디지털콘텐츠 테스트 실증 운영지원사업 대상 기업 모집",
+		"dday": "2022. 09. 30",
+		"link": "https://www.thinkcontest.com//Contest/ContestDetail.html?id=49005",
 		"분류": "공모전",
 		"bigtag": [
 			"기타"
@@ -954,27 +972,9 @@
 		]
 	},
 	{
-		"title": "마케터 9주 체험! 디지털 마케팅 마스터즈 1기 모집",
+		"title": "대구노동권익센터 서포터즈 1기",
 		"dday": "2022. 07. 10 ",
-		"link": "http://www.spectory.net/activities/detail?pid=29183&cat=%EB%8C%80%ED%95%99%EC%83%9D&prefix=info-target&searchDate=latest",
-		"분류": "대외활동",
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "마케터 9주 체험, 디지털 마케팅 마스터즈 1기(~7/10)",
-		"dday": "2022. 07. 10 ",
-		"link": "http://www.spectory.net/activities/detail?pid=29155&cat=%EB%8C%80%ED%95%99%EC%83%9D&prefix=info-target&searchDate=latest",
-		"분류": "대외활동",
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "청년 성장 프로그램 UNLOCK 온라인 토론회",
-		"dday": "2022. 07. 10 ",
-		"link": "http://www.spectory.net/activities/detail?pid=29116&cat=%EB%8C%80%ED%95%99%EC%83%9D&prefix=info-target&searchDate=latest",
+		"link": "http://www.spectory.net/activities/detail?pid=29259&cat=%EB%8C%80%ED%95%99%EC%83%9D&prefix=info-target&searchDate=latest",
 		"분류": "대외활동",
 		"bigtag": [
 			"기타"
@@ -990,27 +990,18 @@
 		]
 	},
 	{
-		"title": "해외조달시장 전문인력 양성과정 교육생 모집",
-		"dday": "2022. 07. 11 ",
-		"link": "http://www.spectory.net/activities/detail?pid=29135&cat=%EB%8C%80%ED%95%99%EC%83%9D&prefix=info-target&searchDate=latest",
-		"분류": "대외활동",
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "✨페이스북 디지털 마케팅 대학!✨(~7/12)",
-		"dday": "2022. 07. 12 ",
-		"link": "http://www.spectory.net/activities/detail?pid=29128&cat=%EB%8C%80%ED%95%99%EC%83%9D&prefix=info-target&searchDate=latest",
-		"분류": "대외활동",
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
 		"title": "중소기업청년직무체험 제조·유통·물류 전지적 직무시점 프로그램",
 		"dday": "2022. 07. 13 ",
 		"link": "http://www.spectory.net/activities/detail?pid=29233&cat=%EB%8C%80%ED%95%99%EC%83%9D&prefix=info-target&searchDate=latest",
+		"분류": "대외활동",
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
+		"title": "방학이라고 오늘도 늦잠..? 일찍 일어나는 습관 만들고 오늘부터 갓생 살 사람!? (~07/14)",
+		"dday": "2022. 07. 14 ",
+		"link": "http://www.spectory.net/activities/detail?pid=29295&cat=%EB%8C%80%ED%95%99%EC%83%9D&prefix=info-target&searchDate=latest",
 		"분류": "대외활동",
 		"bigtag": [
 			"기타"
@@ -1026,9 +1017,18 @@
 		]
 	},
 	{
-		"title": "서대문구자원봉사센터 청소년 봉사학습 멘토단 모집",
-		"dday": "2022. 07. 15 ",
-		"link": "http://www.spectory.net/activities/detail?pid=29232&cat=%EB%8C%80%ED%95%99%EC%83%9D&prefix=info-target&searchDate=latest",
+		"title": "아이지아 화장품 온라인 마케팅 서포터즈 3기 모집",
+		"dday": "2022. 07. 16 ",
+		"link": "http://www.spectory.net/activities/detail?pid=29255&cat=%EB%8C%80%ED%95%99%EC%83%9D&prefix=info-target&searchDate=latest",
+		"분류": "대외활동",
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
+		"title": "낙원상가 서포터즈  모집",
+		"dday": "2022. 07. 17 ",
+		"link": "http://www.spectory.net/activities/detail?pid=29250&cat=%EB%8C%80%ED%95%99%EC%83%9D&prefix=info-target&searchDate=latest",
 		"분류": "대외활동",
 		"bigtag": [
 			"기타"
@@ -1074,6 +1074,15 @@
 		"title": "2022 디스플레이 챌린지 공모전",
 		"dday": "2022. 07. 24",
 		"link": "https://thinkyou.co.kr//contest/25570/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
+		"분류": "대외활동",
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
+		"title": "안양산업진흥원 서포터즈 ABA 프렌즈",
+		"dday": "2022. 07. 27 ",
+		"link": "http://www.spectory.net/activities/detail?pid=29300&cat=%EB%8C%80%ED%95%99%EC%83%9D&prefix=info-target&searchDate=latest",
 		"분류": "대외활동",
 		"bigtag": [
 			"기타"
@@ -1161,6 +1170,15 @@
 		]
 	},
 	{
+		"title": "입자 형태 분석 모델 개발 해커톤",
+		"dday": "2022. 08. 08",
+		"link": "https://thinkyou.co.kr//contest/26242/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
+		"분류": "대외활동",
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
 		"title": "파주시 공공저작물 활용사례 수기 공모전",
 		"dday": "2022. 08. 19",
 		"link": "https://thinkyou.co.kr//contest/25788/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
@@ -1173,15 +1191,6 @@
 		"title": "제37회 새얼백일장",
 		"dday": "2022. 08. 19",
 		"link": "https://thinkyou.co.kr//contest/25615/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
-		"분류": "대외활동",
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
-		"title": "제17회 대학(원)생 지식재산 우수논문공모전",
-		"dday": "2022. 08. 19",
-		"link": "https://thinkyou.co.kr//contest/25429/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
 		"분류": "대외활동",
 		"bigtag": [
 			"기타"
@@ -1242,15 +1251,6 @@
 		]
 	},
 	{
-		"title": "제2기 키친 서포터즈(쿡꾹) 모집",
-		"dday": "2022. 08. 31 ",
-		"link": "http://www.spectory.net/activities/detail?pid=29178&cat=%EB%8C%80%ED%95%99%EC%83%9D&prefix=info-target&searchDate=latest",
-		"분류": "대외활동",
-		"bigtag": [
-			"기타"
-		]
-	},
-	{
 		"title": "제5회 KB국민은행 소프트웨어 경진대회 참가자 모집",
 		"dday": "2022. 09. 16",
 		"link": "https://thinkyou.co.kr//contest/25221/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
@@ -1281,6 +1281,24 @@
 		"title": "제18회 나라사랑 체험소감문 공모전",
 		"dday": "2022. 10. 31",
 		"link": "https://thinkyou.co.kr//contest/23955/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
+		"분류": "대외활동",
+		"bigtag": [
+			"기타"
+		]
+	},
+	{
+		"title": "클라우드 보안인증 교육(SaaS 간편교육/SaaS 표준교육)",
+		"dday": "2022. 11. 16 ",
+		"link": "http://www.spectory.net/activities/detail?pid=29296&cat=%EB%8C%80%ED%95%99%EC%83%9D&prefix=info-target&searchDate=latest",
+		"분류": "대외활동",
+		"bigtag": [
+			"서버"
+		]
+	},
+	{
+		"title": "아이지아 화장품 모델 서포터즈 2기",
+		"dday": "2022. 12. 31 ",
+		"link": "http://www.spectory.net/activities/detail?pid=29254&cat=%EB%8C%80%ED%95%99%EC%83%9D&prefix=info-target&searchDate=latest",
 		"분류": "대외활동",
 		"bigtag": [
 			"기타"
